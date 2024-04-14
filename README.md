@@ -5,7 +5,9 @@
 
 # Acknowledgements
 
-Atomic D20 takes its inspiration from too many sources and individuals to name, including, but not limited to: FATE Condensed, FUDGE 10th Anniversary Edition, EZD6, and Mini Six.
+Atomic D20 takes its inspiration from too many sources and individuals to name, including, but not limited to: FATE Condensed, FUDGE 10th Anniversary Edition, EZD6, Mini Six, and Deathbringer.
+
+# TODO Rules at a Glance
 
 # Why is this game called Atomic D20?
 
@@ -37,43 +39,33 @@ We will prefer rules that can handle a wide range of power levels and situations
 ```
 Name:           Tertius
 Concept:        Black Knight (Journeyman, 2)
-Lineage:        Elf
 Physical:       🫁 ♡ ♡ ♡
 Mental:         🧠 🧠 🧠
-
-Endure:  3
-React:     0
-Countenance: -1
-Perception: 1
-Stealth:    -3
-Armor:      3
 
 Aspects
 -------
 Necromancer (1)
 Magical Burn on Face
+Elven Lineage
 
 Practiced Maneuvers (3)
 -----------------------
-Shield and Axe Fighting Style
-Block
-Parry
-Dodge
-Riposte
-Shield Bash
+Trip Attack
 Summon Skeleton
+Bone Javelins
 
 Equipment
 ---------
-Plate and Mail +2
+Plate and Mail (Heavy)
 War Axe
-Kite Shield +1
+Kite Shield
 Component Pouch
 Rations
 Backpack
 Flint and Steel
 ```
-# Boons and Banes
+
+# Boons and Banes, and Skill Checks
 
 ### Boons
 
@@ -99,7 +91,7 @@ If Tertius had no more Boons to take away, he would roll D20 twice and take the 
 
 If he had multiple Boons of different sizes, his Boons would be removed in order of highest to lowest.
 
-# Aspects:
+# Aspects
 
 Aspects are things that a character has. As long as a character has an Aspect, it is true. If the Aspect ceases to be true, it is crossed out or removed from the character's sheet.
 
@@ -139,32 +131,47 @@ Tertius' equipment is something that he has, so it's another Aspect of his chara
 
 Equipment is special because it doesn't progress like other Aspects. When Tercius went from an Apprentice to Journeyman Black Knight, his Boon Dice went from D6 to D8 as his skills sharpened with experience. Despite that, his equipment stayed the same.
 
-He still fights with the axe that he trained with when he was an Apprentice. The weaponsmith was also an Apprentice, and so the axe adds a boon of D6 to the 2D8 that he gets from his Concept.
+He still fights with the axe that he trained with. The weaponsmith was an Apprentice, and so the axe adds a boon of D6 to the 2D8 that he gets from his Concept.
 
 In general, the Boon granted by weapons and equipment is dependent upon the Boon of the craftsman at the time they were created.
 
 # Practiced Maneuvers
-- not an Aspect. Do vs. Have disinction
+
+In Atomic D20, any character may attempt anything, but success is never guaranteed.
+
+By taking an hour to practice maneuvers at the beginning or end of the day, characters may improve their chances of success and receive a Boon.
+
+Practiced Maneuvers are distinct from Aspects because they're something that characters do, not something that they have. The other requirement of Practiced Maneuvers is that they have to be specific, rather than general.
+
+Characters have limited time to practice Maneuvers, but they can practice more as they become more efficient with experience.
+
+As a Journeyman, Tercius can practice and grant himself a Boon in three specific maneuvers per day. He practices trip attacks, summoning skeletons, and summoning bone javelins.
+
+Tercius can attempt to do anything, but he gains an extra boon in these three Maneuvers over and above those granted by his other Aspects.
 
 # TODO Character Progression
-# TODO Difficulty Scaling
-# Maneuvers
 
-As a general rule, any character may attempt to do anything.
 
-By default, a character rolls as Untrained (+0)
 
-A character's Concept, Lineage, and Expertise each grant bonuses if they are relevant to the maneuver that the character is attempting.
+# Difficulty Scaling
 
-## Practiced vs. Spontaneous Maneuvers
+|             |Boon Die:|Approximate # of Boons:|Easy: |Moderate:|Average:|Hard: |Nearly Impossible:|Maneuvers Practiced:|
+|-------------|---------|-----------------------|------|---------|--------|------|------------------|--------------------|
+|Success Rate:|         |                       |0.85  |0.66     |0.5     |0.33  |0.15              |                    |
+|Untrained    |d4       |0                      |4     |8        |10.5    |15    |18                |1                   |
+|Apprentice   |d6       |2                      |11    |15       |17.5    |21    |25                |2                   |
+|Journeyman   |d8       |3                      |17    |21       |24      |28    |32                |3                   |
+|Master       |d10      |4                      |24    |29       |33      |37    |42                |4                   |
+|Olympian     |d12      |5                      |33    |39       |43      |48    |53                |5                   |
+|*            |*        |*                      |*     |*        |*       |*     |*                 |*                   |
+|Lesser Deity |d12      |100                    |~200  |~400     |~650    |~800  |~1000             |100                 |
+|Deity        |d12      |1000                   |~2000 |~4000    |~6500   |~8000 |~10000            |1000                |
+|Elder Deity  |d12      |10000                  |~20000|~40000   |~65000  |~80000|~100000           |10000               |
 
-Once per day, characters may spend an hour during one of their rests practicing maneuvers. No more than five maneuvers may be practiced in this way.
-
-Maneuvers practiced this way may be rolled with a large boon (+2) in addition to any other bonuses that they would ordinarily receive.
-
-If characters wish to modify a maneuver and execute it with a slight difference from the way it was practiced, they receive a small boon (+1) instead of a large one.
+# TODO Adjusting story difficulty
 
 # TODO Spellcasting
+# TODO Spellburn Resistance?
 
 Spells are a particular kind of maneuver which involve bending the rules of the universe itself.
 
@@ -210,6 +217,7 @@ D6:     Description:
 * Willpower?
 
 # Health and Wounds
+# TODO Stamina that death spirals, like exhaustion
 
 Characters have three kinds of health on their sheet. Stamina is represented by a pair of lungs. The state of a character's body is represented by hearts, and their mental state is represented by brains.
 
@@ -242,25 +250,27 @@ Characters may choose to specify that they are attempting to deal nonlethal dama
 Wound Locations
 ---------------
 Physical wounds are localized to specific parts of a character's anatomy. If a character receives one as the result of an attack or failed maneuver, the DM may use the result of that roll in order to determine its location:
-```
-D20 result:     Wound Location:
-===============================
-20              Head
-19              Neck
-18              Upper Torso
-17              Lower Torso
-15-16           Groin
-13-14           Right Arm
-11-12           Left Arm
-10              Right Hand
-9               Left Hand
-8               Right Leg
-7               Left Leg
-6               Right Foot
-5               Left Foot
-3-4             Right Shoulder
-1-2             Left Shoulder
-```
+
+|D20 result:|Wound Location:|
+|-----------|---------------|
+|20         |Head           |
+|19         |Neck           |
+|18         |Upper Torso    |
+|17         |Lower Torso    |
+|15-16      |Groin          |
+|13-14      |Right Arm      |
+|11-12      |Left Arm       |
+|10         |Right Hand     |
+|9          |Left Hand      |
+|8          |Right Leg      |
+|7          |Left Leg       |
+|6          |Right Foot     |
+|5          |Left Foot      |
+|3-4        |Right Shoulder |
+|1-2        |Left Shoulder  |
+
+# TODO Mental Wounds
+
 # Healing
 
 A character's Stamina recovers after a half hour rest without strenuous activity.
@@ -367,3 +377,8 @@ Consider: Players are always going to find ways to stack bonuses and break the s
 Enchanting?
 # TODO Initiative
 # TODO Time
+# TODO Blank Character Sheet
+# TODO a typical combat turn
+# DM Screen?
+# TODO Wealth Levels
+
