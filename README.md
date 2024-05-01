@@ -37,49 +37,95 @@ Equipment:
 * Doublet
 * Trousers
 ```
-# Boons and Banes, and Skill Checks
-
-### Boons
-
-Boons represent advantages that characters have. As characters improve Aspects of themselves, their Boons get larger, and they roll progressively larger dice.
-
-For example, our Black Knight, Tertius is a Journeyman. The experiences and knowledge that he has acquired represent a significant advantage, and so he gets to roll at least D20 + 2D8 when he attacks with his axe, in contrast to an Unskilled character who would only roll D20.
-
-### Banes
-
-Conversely, a Bane is an Aspect of a character that disadvantages them in some way.
-
-Tertius is not exactly a people person. When he returns to town, his axe has become dull from use, and he seeks out a blacksmith to sharpen it.
-
-The Blacksmith attempts to charge Tertius five gold pieces. Tertius balks, and tries to convince him to do it for free.
-
-It could be argued that Tertius' past experiences as a Journeyman Black Knight might have involved dealing with this Blacksmith in the past, which would allow him to use that as a Boon in this situation, bringing his argument up to D20+2D8.
-
-Tertius was recently in a fight against his rival, the Wizard Ephora. He barely escaped with his life, with severe burns on his face to show for it.
-
-The wound that Tertius received granted his character an Aspect called "magical burns on face." His visage is repulsive, and this grants him a Bane to social interactions when trying to get people to like him. The Bane counteracts the Boon, bringing his roll down from D20+2D8 to D20+1D8!
-
-If Tertius had no more Boons to take away, he would roll D20 twice and take the lowest value.
-
-If he had multiple Boons of different sizes, his Boons would be removed in order of highest to lowest.
-
 # Aspects
 
-Aspects are things that a character has. As long as a character has an Aspect, it is true. If the Aspect ceases to be true, it is crossed out or removed from the character's sheet.
+**Aspects are things that a character has.** As long as a character has an Aspect, it is true. If the Aspect ceases to be true, or if the character no longer has it, it is removed from their sheet.
 
-### Aspects can be double-sided
+### Boons and Banes
 
-Tertius has burns on his face. It's something he has, so it's an Aspect.
+A Boon is a beneficial Aspect which grants characters an extra dice that they can add to their skill checks in certain situations. The size of the dice depends upon the [Skill Level](#difficulty-scaling) of the Character.
 
-He realizes that he's getting nowhere with the stubborn Blacksmith. He grabs the young man's throat in his gauntleted hand, turns the burned side of his face toward him, and says "Why don't you go ahead and grant me a discount as a longstanding customer?"
+Banes are the opposite of Boons. Banes are detrimental Aspects of a character that subtract dice from their roll, depending upon their situation.
 
-In this case, the DM rules that Tertius' burns grant him a Boon to intimidating the Blacksmith. The DM already ruled that Tertius could apply his 2D8 Boon as a Journeyman Black Knight in this social situation because they had a prior relationship. Together, the Boons bring Tertius' roll up to D20+3D8.
+Tertius is a Journeyman, which means his dice size is d8. If he receives a Boon, he rolls:
 
-Like the burns on Tertius' face, a character's Aspects can be double-sided. In certain situations, at the discretion of the DM, a Bane can become a Boon, or a Boon can be turned into a Bane, and there are also situations where they provide neither.
+    1d20+1d8
+
+In shorthand, we can express this as:
+
+    1B
+
+If Tertius receives a Bane and no Boons, he rolls:
+
+    1d20-1d8
+
+Which we shorten to simply:
+
+    -1B
+
+If Tertius is rolling a Skill Check in a situation where he has neither Boon nor Bane, he rolls:
+
+    1d20 + 0d8
+
+Which we may shorten to simply:
+
+    0B
+
+This shorthand will be used frequently in this guide.
+
+### Aspects can be either a Boon or a Bane, depending upon the situation
+
+Tertius has burns on his face, which are an Aspect of his character.
+
+Depending upon the situation, the DM might rule that Tertius' wound may grant him -1B to charm people, but +1B if he wishes to intimidate them.
+
+In some situations, based on the ruling of the DM, Aspects not relevant, or not significant enough to influence the outcome of a Skill Check. In that case, they are not added to the roll.
+
+### Aspects can be Passive or Active
+
+There are times when it is not appropriate for players to roll dice in a Skill Check. In those cases, we consider Boons to be equivalent to their average value, rounded down. We add the Boons together and add 10 (the average of d20 rounded down). The active party rolls their Skill Check against this passive score.
+
+    Passive Score = Average Boons rounded down + 10
+
+| Skill Level: | 1B (Passive) = |
+|--------------|----------------|
+| Untrained    | 2              |
+| Apprentice   | 3              |
+| Journeyman   | 4              |
+| Master       | 5              |
+| Olympian     | 6              |
+| Lesser Deity | 600            |
+| Deity        | 6000           |
+| Elder Deity  | 60000          |
+
+#### Armor and Equipment
+
+**The size of the Boon granted by Equipment is based upon the skill of the person who crafted it**, rather than that of the person who wields it.
+
+For example, Armor grants characters Passive Boons to defense:
+
+| Description: | Defense (B): | Dodge (B): | Spellcasting (B): |
+|--------------|--------------|------------|-------------------|
+| Unarmored    | 0            | 1          | 0                 |
+| Light        | 1            | 0          | -1                |
+| Heavy        | 2            | -1         | -2                |
+
+Tertius' Plate and Mail armor was crafted by an Apprentice Blacksmith with 2B in Smithing. It's also Heavy, which grants an additional 2B to defense:
+
+    Plate and Mail Passive Defense = 10 + (Craftsman's Smithing Skill, 2d4) + (Heavy Armor Bonus, 2d4)
+
+OR:
+
+    18 = 10 + 4 + 4
+
+#### Armor
+#### Equipment
+#### Perception / Stealth
+#### Ambushes
 
 ### Concept
 
-A character's Concept is a specific type of Aspect that encapsulates what they do. A Concept doesn' have to be about combat. It could be a profession, a vocation, or something else.
+***A character's Concept is a specific type of Aspect that encapsulates what they are.*** A Concept doesn' have to be about combat. It could be a profession, a vocation, or something else.
 
 When Tertius was a young man, he pledged fealty to the Order of the Ossuary to become a Black Knight. He chose it as his life path, and so it became his character's Concept.
 
@@ -107,6 +153,8 @@ He still fights with the axe that he trained with. The weaponsmith was an Appren
 
 In general, the Boon granted by weapons and equipment is dependent upon the Boon of the craftsman at the time they were created.
 
+### Situation
+
 # Practiced Maneuvers
 
 In Atomic D20, any character may attempt anything, but success is never guaranteed.
@@ -127,17 +175,17 @@ Dynamic Character Creation throws characters into the middle of the action. PCs 
 
 The PCs don't need to decide how many Expertise Boons they have in any skill until the moment they use that skill.
 
-When PCs use a skill, the DM prompts them to determine how many Expertise Boons (if any) they want to allocate into the Skill.
+When PCs use a skill, before they roll, the DM prompts them to determine how many Expertise Boons (if any) they want to allocate into it.
 
 Players may allocate two Expertise Boons in this way. They may take a third Expertise Boon in exchange for taking a Bane in something else.
 
 Over the course of the first session, players are also expected to decide their heritage and find weapons and equipment. The DM should work with the players to make sure they find the kind of weapons and equipment that they need. Heritage does not need to be decided until it affects the narrative.
 
-Once these Aspects are chosen, they're fixed, and they can't be changed again without DM permission.
+The first session usually ends with players having a much better idea regarding their Concept. At the end of the session, the DM can choose to allow the PCs to level up to Apprentice (D6) and at that time, they may pick a Concept that sums up the broad idea of what they want their character to be.
 
-The first session usually ends with players having a much better idea regarding their character Concept. At the end of the session, the DM can choose to allow the PCs to level up to Apprentice (D6) and at that time, they may pick a Concept that sums up the broad idea of what they want their character to be.
+At the time they pick their Concept, PCs may choose to clarify and refine their Expertise Boons to make sure they fit. After that, they're fixed, and they usually don't change again without DM permission.
 
-Players may choose to allocate any remaining Expertise Boons when they level up.
+Players should spend all their Expertise Boons if they have managed to level up to Apprentice without doing so already.
 
 # Quick Character Creation
 
@@ -149,9 +197,13 @@ Before the story starts, players work with the DM to choose:
 
 Players start the first session of the game as Apprentices.
 
-# TODO Character Progression
+# Character Progression
 
-explain experience points
+As the story progresses, the DM grants the players additional Expertise Boons which they may allocate as they see fit.
+
+When the players reach significant milestones in the story, the DM may decide that they have leveled up, at which point, the size of their Boon Dice increases.
+
+TODO - chart of expected boons per level and Boon Dice Size.
 
 # Difficulty Scaling
 
@@ -240,7 +292,7 @@ When a character takes 10 or more damage, they receive a Major Wound. Major woun
 
 Major Wounds may be permanent, or they may take as few as 7 days to heal. A particularly bad wound like an amputated limb might even render the affected body part completely nonfunctional.
 
-When all of a character's Hearts are consumed, they begin to [die](#Death).
+When all of a character's Hearts are consumed, they begin to [die](#death).
 
 Nonlethal Damage
 ----------------
@@ -277,9 +329,9 @@ Major Mental Wounds
 | 1    | Hoarding           | Hoarding           | Nightmares            | Nightmares             | Depression              | Depression            | Anxiety              | Anxiety              |
 | 2    | Guilt              | Guilt              | Sickness Delusion     | Sickness Delusion      | Apocalypse Delusion     | Apocalypse Delusion   | Codependency         | Codependency         |
 | 3    | Compulsive Honesty | Compulsive Honesty | Compulsive Lying      | Compulsive Lying       | Nervous Compulsion      | Nervous Compulsion    | Phobia               | Phobia               |
-| 4    | Imaginary Friend   | Imaginary Friend   | Masochism             | Masochism              | Savior Delusion         | Savior Delusion       | Involuntary Memories | Involuntary Memories |
-| 5    | Insomnia           | Insomnia           | Addiction             | Addiction              | Narcolepsy              | Narcolepsy            | Narcissism           | Narcissism           |
-| 6    | Narcolepsy         | Narcolepsy         | Paranoia              | Paranoia               | Body Dysphoria          | Persevoration         | Pyromania            | Sadism               |
+| 4    | Imaginary Friend   | Imaginary Friend   | Masochism             | Masochism              | Savior Delusion         | Involuntary Memories  | Involuntary Memories | Insomnia             |
+| 5    | Insomnia           | Addiction          | Addiction             | Narcolepsy             | Narcolepsy              | Narcissism            | Narcissism           | Narcolepsy           |
+| 6    | Narcolepsy         | Paranoia           | Paranoia              | Delusion (Misc.)       | Body Dysphoria          | Persevoration         | Pyromania            | Sadism               |
 | 7    | Splitting          | Stuttering         | Tremors               | Uncontrollable Anger   | Uncontrollable Laughter | Uncontrollable Crying | Tic                  | Hallucinations       |
 | 8    | Depersonalization  | Derealization      | Monomania (Obsession) | Multiple Personalities | Paranoid Delusions      | Eating Disorder       | Amnesia              | Catatonia (d4 hours) |
 
@@ -305,7 +357,7 @@ You are mortally wounded, but your death need not be in vain. You use your last 
 
 Adrenaline
 ----------
-You take your last breaths and adrenaline keeps you functioning and grants you a Boon to use however you want. In addition, you take an extra turn right at this moment. At the end of that turn, you die.
+You take your last breaths and adrenaline keeps you functioning and grants you a Boon to use however you want. In addition, you take an extra turn right at this moment. At the end of that turn, you die, regardless of any healing you receive.
 
 Miraculous Recovery
 -------------------
