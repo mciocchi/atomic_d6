@@ -7,7 +7,7 @@
 
 Atomic D6 takes its inspiration from too many sources and individuals to name, including, but not limited to: FATE Condensed, FUDGE 10th Anniversary Edition, EZD6, Mini Six, and Deathbringer.
 
-## Example Characer Sheet
+## Example Character Sheet
 
 ```
 Name:        Tertius
@@ -262,6 +262,7 @@ For larger battles, like a planetary invasion, the GM may run a series of Quick 
 * Attack and Defense Power Relativization
 * Item power levels
 * Crafting
+* Index for this document
 
 Q: Should armor be a skill?
 Q: If the GM decides how many dice the players roll, must they have a copy of everyone's sheet?
