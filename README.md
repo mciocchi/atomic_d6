@@ -28,29 +28,36 @@ Actions:
 Practiced Maneuvers:
 
 Traits:
-    A) Elven Heritage           = 1
-    B) Black Knight             = 1
-    C) Burns on Face            = 1
+    * Elven Heritage
+        + Necromancy
+        + Notice
+    B) Black Knight
+        + Armizare
+        + Athletics
+        + Necromancy
+    C) Burns on Face
+        + Social / Intimidate
+        - Social
 
 Skills:
-    D) Armizare / Shields       = 
-    E) Armizare / Axe           =
-    F) Athletics                =
-    G) Logic                    =
-    H) Necromancy               = A+B+H
-    I) Notice                   = A+I
-    J) Social / Intimidation    = C+J
-    K) Social                   = K-C
-    K) Stealth                  =
-    L) Wealth                   =
-    M) Will                     =
+    D) Armizare / Shields
+    E) Armizare / Axe
+    F) Athletics
+    G) Logic
+    H) Necromancy
+    I) Notice
+    J) Social / Intimidation
+    K) Social
+    K) Stealth
+    L) Wealth
+    M) Will
 
 Equipped:
-    N) Plate and Mail           =
-    O) Kite Shield              =
-    P) War Axe                  =
-    Q) Doublet                  =
-    R) Trousers                 =
+    N) Plate and Mail
+    O) Kite Shield
+    P) War Axe
+    Q) Doublet
+    R) Trousers
 
 Carrying:
     S) Rations, 5
@@ -73,7 +80,7 @@ Each character starts with **six core Aspects** that define them. The following 
 A character's Aspects grant them a bonus or a detriment to any skills that are relevant, and over the course of the game, they will gain new ones as their character changes over time.
 
 1. **Concept**: A broad statement about who your character is at their core. This could be as simple as "Wandering Scholar" or as specific as "Cursed Prince Seeking Redemption."
-   
+
 2. **Background**: Your character’s history and past experiences. Where are they from? What key events shaped them?
 
 3. **Heritage**: The culture, lineage, or people your character hails from. This includes racial traits, societal expectations, or inherited abilities.
@@ -104,7 +111,7 @@ GMs and players are encouraged to fill in the blanks and choose whatever skills 
 
 **Notice** Determines how likely a character is to spot things that are hidden. It is not limited to vision. Some characters may specialize in noticing particular kinds of things. For instance: a hunter specializing in "Notice / Wilderness" might receive a large bonus for spotting tracks in the wilderness and a small bonus for noticing things in general.
 
-**Social** has many different sub-disciplines, including Bluffing, Interrogation, Leadership, Haggling, and Intimidation.
+**Social** has many different sub-disciplines, including Bluffing, Interrogation, Leadership, Haggling, Intimidation, and Standing.
 
 **Stealth** is what characters roll in order to avoid being **Noticed**. It also covers the use of many different types of camoflage and decoys.
 
@@ -240,12 +247,14 @@ For larger battles, like a planetary invasion, the GM may run a series of Quick 
 
 ## TODO
 
-* Character Progression
+* 1) Character Progression
     * Diegetic (Narrative) advancement?
     * Milestones?
         * Characters pick a milestone for the skill they want to advance?
         * No points, only skill level descriptors? This would work for Narrative advancement with no Skill Points.
-* Character Creation
+* 2) Character Creation
+* 3) Power Levels
+* 4) Wealth Levels
 * Zone Movement
 * Time
     * How time fits into Combat Turns
