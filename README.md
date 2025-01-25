@@ -141,6 +141,29 @@ Example Rolls:
 - **Failure**: The player misses outright.
 - **Failure with Bane**: The player fails and suffers an additional setback (e.g., their weapon breaks**.
 
+## Contests
+
+A Contest is a roll that compares the skill of two or more characters that are trying to use their abilities to oppose one another.
+
+If a character is attempting to do something and they're being opposed by someone else, the GM is expected to adjust the relative difficulty of the roll. Only one party needs to roll.
+
+The fact that only one party needs to roll gives the GM some flexibility because rolls can be resolved by either party.
+
+The winner of a contest is usually able to do what they attempted, but there may be additional consequences for both the loser and the winner, especially if they rolled a Boon or a Bane.
+
+## Group Rolls
+
+Occasionally the GM and players may decide that a single roll is not enough to capture the nuance of a situation.
+
+In this case, the GM can call for a Group Roll. In that case, each member of the group rolls, and if the majority succeeds, the group is considered to have succeeded.
+
+Group rolls can also be used in Contests. If a group is opposing another group, the GM simply needs to adjust the difficulty of the roll.
+
+For the sake of speed and simplicity, only one Atomic D6 should be rolled during a Group Roll.
+
+Notice / Stealth is just a contest
+Reaction roles are just a contest
+
 ## Notice / Stealth Rolls
 
 **Single Observer Noticing a Single Target**
