@@ -157,9 +157,19 @@ Occasionally the GM and players may decide that a single roll is not enough to c
 
 In this case, the GM can call for a Group Roll, where each member of the group rolls, and if the majority succeeds, the group is considered to have succeeded.
 
-Group rolls can also be used in Contests. If two groups are opposing one another in a contest, the GM simply needs to adjust the difficulty of the roll accordingly.
-
 For the sake of speed and simplicity, only one Atomic D6 should be rolled during a Group Roll.
+
+**Contests between two groups**
+
+Group Rolls can also be used in Contests. If two groups are opposing one another in a contest, the GM simply needs to adjust the difficulty of the roll accordingly.
+
+**Contests between three or more parties**
+
+On rare occasion there are certain "battle royale" style contests where three or more individuals or groups are all competing against one another for the same goal.
+
+In the case of a "battle royale," the GM may call for repeated rounds of rolls. At each round, the GM is expected to make note of which parties succeeded. The rounds continue until a clear ranking has been established, and the GM may define different consequences for first place, second place, and so on.
+
+As is the case with other Group Contests, only one Atomic D6 should be rolled during a battle royale.
 
 ## Notice / Stealth Rolls
 
@@ -186,21 +196,19 @@ Incapacitated characters automatically fail Notice Rolls.
 
 ## Reaction Rolls
 
-The GM can call for a Reaction Roll after characters Notice a threat in order to determine whether they respond in time.
+The GM can call for a Reaction Roll in order to determine whether characters have time to respond to a threat.
 
-It is generally assumed that characters automatically fail to react to threats that they don't Notice.
+Characters that fail to Notice a threat automatically fail their Reaction Roll to it.
 
 Incapacitated characters also automatically fail Reaction Rolls.
 
 ## Turn-Based Play
 
-In certain situations where time is essential, the GM may decide that turn-based play is needed.
+In certain situations where many things are happening at once and time is essential, the GM may decide that turn-based play is needed. Turn-based play is not necessarily limited to combat, but it is frequently used that way.
 
-If two opposing parties make contact, the one that Notices the other first gets the first turn.
+It is recommended that GMs begin turn-based play with a Group Reaction Contest in order to determine which party acts first.
 
-If both parties Notice one another at the same time, the GM may call for a Reaction Roll to determine which acts first.
-
-By default, when it is the players turn to act, they take turns around the table clockwise. Players may also decide to use an alternate turn order to coordinate their actions.
+By default, when it is the players turn to act, they take turns around the table clockwise, but they may also decide to use an alternate turn order to coordinate their actions.
 
 2) Players take Action
 --------
