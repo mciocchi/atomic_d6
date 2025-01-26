@@ -182,20 +182,25 @@ If the object has been crafted to be hidden or camouflaged, the GM can take the 
 
 If an entire group of characters is attempting to Notice or Stealth, the rules for group contests apply.
 
+Incapacitated characters automatically fail Notice Rolls.
+
 ## Reaction Rolls
+
+The GM can call for a Reaction Roll after characters Notice a threat in order to determine whether they respond in time.
+
+It is generally assumed that characters automatically fail to react to threats that they don't Notice.
+
+Incapacitated characters also automatically fail Reaction Rolls.
 
 ## Turn-Based Play
 
 In certain situations where time is essential, the GM may decide that turn-based play is needed.
 
-1** Turn Order is decided:
---------
+If two opposing parties make contact, the one that Notices the other first gets the first turn.
 
-The party that spots the other first takes the offensive.
+If both parties Notice one another at the same time, the GM may call for a Reaction Roll to determine which acts first.
 
-Parties that succeed on their spot roll get to act first. If they fail, they act last.
-
-By default, when it is the party's turn to act, the players take their turns around the table clockwise. Players may also decide on an alternate turn order in cases when they want to coordinate their actions.
+By default, when it is the players turn to act, they take turns around the table clockwise. Players may also decide to use an alternate turn order to coordinate their actions.
 
 2) Players take Action
 --------
