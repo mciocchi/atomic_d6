@@ -145,7 +145,7 @@ Example Rolls:
 
 A Contest is a roll that compares the skill of two or more characters that are trying to use their abilities to oppose one another.
 
-If a character is attempting to do something and they're being opposed by someone else, the GM is expected to adjust the relative difficulty of the roll. Only one party needs to roll.
+In such a case, the GM is expected to adjust the relative difficulty of the roll to account for the skill of the opponent. Only one party needs to roll.
 
 The fact that only one party needs to roll gives the GM some flexibility because rolls can be resolved by either party.
 
@@ -153,24 +153,17 @@ The winner of a contest is usually able to do what they attempted, but there may
 
 ## Group Rolls
 
-Occasionally the GM and players may decide that a single roll is not enough to capture the nuance of a situation.
+Occasionally the GM and players may decide that a single roll is not enough to capture the nuance of a situation where the whole group is attempting to perform a single task.
 
-In this case, the GM can call for a Group Roll. In that case, each member of the group rolls, and if the majority succeeds, the group is considered to have succeeded.
+In this case, the GM can call for a Group Roll, where each member of the group rolls, and if the majority succeeds, the group is considered to have succeeded.
 
-Group rolls can also be used in Contests. If a group is opposing another group, the GM simply needs to adjust the difficulty of the roll.
+Group rolls can also be used in Contests. If two groups are opposing one another in a contest, the GM simply needs to adjust the difficulty of the roll accordingly.
 
 For the sake of speed and simplicity, only one Atomic D6 should be rolled during a Group Roll.
 
-Notice / Stealth is just a contest
-Reaction roles are just a contest
-
 ## Notice / Stealth Rolls
 
-**Single Observer Noticing a Single Target**
-
-Characters can make a Notice roll to determine whether they sense something. It is implied that characters that have been noticed against their will have failed at Stealth.
-
-The GM may also choose to roll for Stealth instead of having the players roll to Notice something. The GM may prefer this method in certain situations to avoid giving away information and preserve the element of surprise.
+Characters can make a Notice roll to determine whether they sense something. A character trying to Notice a target is initiating a contest against the target's Stealth.
 
 When determining the difficulty of a Notice or Stealth roll, the GM should consider the following factors:
 * Stealth of the target
@@ -179,20 +172,15 @@ When determining the difficulty of a Notice or Stealth roll, the GM should consi
 * Is the target actively trying to Stealthy?
 * How good are the senses of the observer?
 * Training and experience (for instance- Rangers receive Bonuses in wilderness environments)
-* How much time is the observer spending trying to Notice the target
+* How much time is the observer spending trying to Notice the target?
+
+**Noticing Inanimate Objects** works the same way, with some additional considerations that should be taken into account by the GM:
+
+If the object has been crafted to be hidden or camouflaged, the GM can take the craftsman's skill into account when determining the difficulty of the contest.
 
 **Group Stealth / Notice Rolls**
 
-In the case where an entire group of characters is attempting to Notice or Stealth, the GM has multiple options:
-
-* Let them make one roll for the entire group, adjusting the difficulty accordingly
-* Let each individual in the group roll. If more than half succeed, the whole group succeeds.
-
-When GMs are calculating difficulty, it's worth considering that in many cases, groups are only as stealthy as their noisiest member.
-
-**Noticing Inanimate Objects** works the exact same way, with some additional considerations that should be taken into account by the GM:
-
-If the object has been crafted to be hidden or camouflaged, the GM can take the craftsman's skill into account when determining the Stealth roll of the object.
+If an entire group of characters is attempting to Notice or Stealth, the rules for group contests apply.
 
 ## Reaction Rolls
 
