@@ -206,31 +206,29 @@ Incapacitated characters also automatically fail Reaction Rolls.
 
 In certain situations where many things are happening at once and time is essential, the GM may decide that turn-based play is needed. Turn-based play is not necessarily limited to combat, but it is frequently used that way.
 
-It is recommended that GMs begin turn-based play with a Group Reaction Contest in order to determine which party acts first.
+It is recommended that GMs begin turn-based play with a Reaction Contest in order to determine which party acts first.
 
 By default, when it is the players turn to act, they take turns around the table clockwise, but they may also decide to use an alternate turn order to coordinate their actions.
 
-2) Players take Action
---------
+### 1) Players take Action
 
 When a player announces their action, the GM assigns a difficulty to their roll, and they roll the appropriate number of dice.
 
-In combat, the difficulty of the roll should take into consideration the target's armor, their ability to parry, dodge, and resist, their level of alertness, and any other mitigating factors.
+When attacking, the difficulty of the roll should take into consideration the target's armor, their ability to parry, dodge, and resist, their level of alertness, and any other mitigating factors.
 
 If the player succeeds on their roll, their attack is successful. A failure means their attack missed or was negated by their opponent's actions. A failure with Bane might even grant the enemy an immediate counterattack.
 
-Players may move either before or after they attack. A typical mortal can move about one zone per combat turn without magical or technological augmentation.
+Players may move either before or after they attack. A typical mortal can move one zone per combat turn without magical or technological augmentation. If they do nothing except move, they may move two zones.
 
 Players may also speak in turn-based play, but they are limited to ten syllables per turn.
 
-2) Players Defend
---------
+### 2) Players Defend
 
 Notably, Atomic D6 is different from other popular TTRPG systems in that it is asymmetric. NPCs usually do not roll to defend or attack. The players roll. This is in accordance with the Atomic D6 philosophy of eliminating excess rolls wherever possible.
 
-On the NPCs turn, the GM may move them and declare their attacks.
+On the NPCs turn, the GM may move them and declare their actions.
 
-When NPCs attack, the players roll to defend. If the players fail, the attack succeeds.
+When NPCs attack, the players roll to defend. If the players fail, the attack succeeds. Whether players are attacking or defending, it bears repeating that there is only one roll. Either the attacker or the defender rolls, but usually not both.
 
 Players may decide what kind of defensive action to take, for instance, they may dodge, block, parry, hide, counterspell, or even Judo throw. They're encouraged to be creative when narrating their actions.
 
@@ -244,11 +242,24 @@ A Counterspell is bound by all of the same rules as any other magic spell. They 
 
 Counterspells do not simply cancel out enemy offensive actions: they are full fledged spells that defend by adding additional effects. For instance, an Aquamancer might summon a shield made of water to block an enemy fireball.
 
----
+#### Suggestions for Defensive Actions:
+* Dodge
+  Jump out of the way.
+* Block
+  Stop the attack with a shield.
+* Parry
+  Knock the enemy's attack away with your weapon. Usually doesn't work against projectiles.
+* Counterspell
+  Cast a spell to try to negate an enemy attack.
+* Judo Throw
+  Use the force of the enemy attack to try to throw them with Martial Arts.
+* Cover
+  Hide behind something or someone
+* Something else
 
 ## Quick Skirmishes
 
-If the story warrants that a combat should be resolved quickly, the GM determines the difficulty of the entire battle and lets one player roll.
+If the story warrants that a combat should be resolved quickly, the GM determines the difficulty of the entire battle and resolves it with a single roll.
 
 Alternatively, the GM may allow each player to roll individually in order to decide their fate during the battle and how much they had to exert themselves.
 
@@ -256,12 +267,7 @@ Alternatively, the GM may allow each player to roll individually in order to dec
 
 ## Large-Scale Battles
 
-For larger battles, like a planetary invasion, the GM may run a series of Quick Skirmishes, each requiring its own roll.
-
-- **Example Large-Scale Battle**:
-  - **Stage 1**: The player's fleet begins an orbital bombardment. The GM rules a "Fair" chance of success, allowing 2D6. They roll and get *Success with Bane*. The players destroy the planet's orbital defenses, but lose 30% of their troops, and their capital ship is damaged.
-  - **Stage 2**: Landing troops. The GM decides players have a "Good" chance to succeed, since they have already destroyed most of the planet's orbital defenses. They roll and succeed without Bane or Boon.
-  - **Stage 3**: Occupying the capitals. The players roll a *Failure with Boon*, meaning they capture only one capital but gain a potential ally that offers to help them seize power in exchange for acting as their planetary governor.
+For larger battles, the GM may run a series of Quick Skirmishes.
 
 ---
 
@@ -269,36 +275,8 @@ For larger battles, like a planetary invasion, the GM may run a series of Quick 
 
 - **Boon**: A positive narrative beat
 - **Bane**: A negative narrative beat
+- **Bonus**: A positive effect that increases someone's chance to succeed on a roll.
+- **Malus**: A negative effect that reduces a character's chance to succeed on a roll.
 - **GM**: Game Master, the game's storyteller and referee.
 - **1D**: One six-sided die.
 
-## TODO
-
-* 1) Character Progression
-    * Diegetic (Narrative) advancement?
-    * Milestones?
-        * Characters pick a milestone for the skill they want to advance?
-        * No points, only skill level descriptors? This would work for Narrative advancement with no Skill Points.
-* 2) Character Creation
-* 3) Power Levels
-* 4) Wealth Levels
-* Zone Movement
-* Time
-    * How time fits into Combat Turns
-* Wounds, Health, Scars
-* Magic
-* Power Scaling
-* Relative Wealth Levels
-* Example Character Sheet
-* What is a skill pip?
-* Skill levels?
-* Leveling Up
-* Practiced Maneuvers?
-* Stamina is relativized also
-* Attack and Defense Power Relativization
-* Item power levels
-* Crafting
-* Index for this document
-
-Q: Should armor be a skill?
-Q: If the GM decides how many dice the players roll, must they have a copy of everyone's sheet?
