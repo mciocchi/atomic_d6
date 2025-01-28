@@ -1,73 +1,57 @@
 # Atomic D6
 ## Licensing
 
-© 2024. Atomic D20 is openly licensed by Matt Ciocchi under CC BY-SA 4.0 (Creative Commons Attribution ShareAlike 4.0 International)
+© 2025. Atomic D6 is openly licensed by Matt Ciocchi under CC BY-SA 4.0 (Creative Commons Attribution ShareAlike 4.0 International)
 
 ## Acknowledgements
 
 Atomic D6 takes its inspiration from too many sources and individuals to name, including, but not limited to: FATE Condensed, FUDGE 10th Anniversary Edition, EZD6, Mini Six, and Deathbringer.
 
-## Example Character Sheet
+## Example Character Sheets
+### Kaelion Veynor (3)
+#### **Concept:** Cursed Prince Seeking Redemption
+Exiled heir to a once-prosperous kingdom, forced to wander after a betrayal by his closest ally.
 
-```
-Name:        Tertius
+#### **Heritage:** Half-Elf
+Agile and keen senses, but ostracized by both human and elven societies.
 
-Stamina:
-🫁 🫁 🫁
-Wounds:
-♡
-♡
-♡
+#### **Strength:** Master Swordsman
+Renowned for precise and deadly swordplay.
 
-Actions:
-    Attack                      = 
-    Block                       =
-    Dodge                       =
-    Parry                       =
+#### **Bond:** Loyal to his younger sister
+The last surviving member of his family.
 
-Practiced Maneuvers:
+#### **Flaw:** Haunted by Guilt
+Struggles to trust others and often second-guesses his actions.
 
-Traits:
-    * Elven Heritage
-        + Necromancy
-        + Notice
-    B) Black Knight
-        + Armizare
-        + Athletics
-        + Necromancy
-    C) Burns on Face
-        + Social / Intimidate
-        - Social
+#### **The Mark of Ruin**
+  A magical curse symbol on his arm. Once per session, Kaelion can invoke it for a significant magical effect, but it also causes unpredictable side effects.
 
-Skills:
-    D) Armizare / Shields
-    E) Armizare / Axe
-    F) Athletics
-    G) Logic
-    H) Necromancy
-    I) Notice
-    J) Social / Intimidation
-    K) Social
-    K) Stealth
-    L) Wealth
-    M) Will
+---
 
-Equipped:
-    N) Plate and Mail
-    O) Kite Shield
-    P) War Axe
-    Q) Doublet
-    R) Trousers
+#### **Inventory**
 
-Carrying:
-    S) Rations, 5
-    T) Backpack
-    U) Bedroll
-```
+  - Enchanted Longsword, *Moonshade*
+    – Grants Bonuses in low-light conditions.
+
+  - Reinforced Leather Armor
+    – Provides moderate protection without sacrificing mobility.
+
+  - Journal filled with sketches of his kingdom’s history and cryptic notes.
+  - A medallion belonging to his sister, imbued with faint protective magic.
+  - Small pouch of herbs for treating minor wounds.
+
+---
 
 ## What is an Aspect?
 
 **Aspects are things that a character has.** As long as a character has an Aspect, it is true. If the Aspect ceases to be true, or if the character no longer has it, it is removed from their sheet.
+
+An Aspect can provide Bonuses in some situations and Maluses in others.
+
+For example: Kaelion gets bitten by a zombie, which grants him a Wound Aspect called "Bitten leg." which grants him a Malus to movement and agility.
+
+Later on, Kaelion might show his bitten leg to a shopkeeper in order to garner sympathy and get a Bonus to negotiate a better price on a Healing Potion.
 
 ## Character Creation
 
@@ -90,6 +74,16 @@ A character's Aspects grant them a bonus or a detriment to any skills that are r
 5. **Bond**: A significant relationship or connection that holds meaning for your character. It could be a person, a group, or an ideal they hold dear.
 
 6. **Flaw**: A weakness or shortcoming that makes your character more realistic. Flaws drive tension in the narrative and create interesting story opportunities.
+
+## Character Progression
+
+Characters in Atomic D6 get broader and taller. As they progress through the story, characters get new Aspects, and some of their other Aspects may change.
+
+As time passes, GM may decide that characters "level up," which represents their skills increasing over time.
+
+The GM is expected to take into account character level when calculating difficulty.
+
+It is recommended that the GM limit the number of Aspects a player can have to about 10.
 
 ## Rolls
 Whenever players attempt to do something, the GM decides their chance of success, from *Awful* to *Superb*, and grants them a number of D6. Players also roll the *Atomic D6*, which determines if they receive a Boon or a Bane.
