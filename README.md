@@ -57,9 +57,9 @@ Later on, Kaelion might show his bitten leg to a shopkeeper in order to garner s
 
 Fill out the following sections of your Character Sheet during creation:
 
-### Aspects
+### Starting Aspects
 
-Each character starts with **six core Aspects** that define them. The following Aspects are recommended, but GMs and Players may decide to start with different ones.
+Each character starts with **seven core Aspects** that define them. The following Aspects are recommended, but GMs and Players may decide to start with different ones.
 
 A character's Aspects grant them a bonus or a detriment to any skills that are relevant, and over the course of the game, they will gain new ones as their character changes over time.
 
@@ -75,15 +75,811 @@ A character's Aspects grant them a bonus or a detriment to any skills that are r
 
 6. **Flaw**: A weakness or shortcoming that makes your character more realistic. Flaws drive tension in the narrative and create interesting story opportunities.
 
+7. **Fighting Style**: What skills the character relies upon in combat.
+
 ## Character Progression
 
-Characters in Atomic D6 get broader and taller. As they progress through the story, characters get new Aspects, and some of their other Aspects may change.
+Characters in Atomic D6 get broader and taller. As they progress through the story, characters get new Aspects, and some of their other Aspects may be replaced by new ones.
 
-As time passes, GM may decide that characters "level up," which represents their skills increasing over time.
+As time passes, GM may decide that characters "level up," which represents their skills increasing over time. As characters level up, things that used to be difficult become trivial.
 
-The GM is expected to take into account character level when calculating difficulty.
+Some feats and knowledge that may be difficult or impossible to achieve in a medieval setting might become trivial in a modern setting.
 
 It is recommended that the GM limit the number of Aspects a player can have to about 10.
+
+### **Scaling System for Atomic D6 Abilities** ###
+
+Each level represents a **significant increase in power**, ranging from **everyday minor abilities** to **reality-shaping cosmic feats.** 
+
+#### **1 - Untrained (Default Human Ability)** ####
+
+- Actions reflect the **basic, everyday skills** of an average person.  
+- Example: Lighting a campfire, riding a bicycle, fixing a leaky faucet.  
+
+#### **2 - Apprentice (Basic Trained Ability)** ####
+
+- The lowest level of **formal training or practice** in a skill.  
+- Example: Sailing a small boat in calm waters, casting a simple magical light.  
+
+#### **3 - Journeyman (Proficient Ability)** ####
+
+- Represents a **solid foundation of skill** with a few years of experience.  
+- Example: Leading a small militia, performing minor surgery, piloting a fighter jet.  
+
+#### **4 - Master (Exceptional Ability)** ####
+
+- The **peak of human skill** in a given area, possessed by **one in a million**.  
+- Example: Performing brain surgery, leading a major army, forging legendary weapons.  
+
+#### **5 - Olympian (Pinnacle of Human Ability)** ####
+
+- The highest **human** level of skill, with **only one person per country** reaching this tier.  
+- Example: Winning a world war single-handedly, creating a flawless AI system.  
+
+#### **6 - Demigod (Superhuman Abilities)** ####
+
+- Abilities **exceed all mortal limits**, comparable to mythic heroes.  
+- Example: Dodging bullets, seeing the future, commanding armies with divine charisma.  
+
+#### **7 - Titan (Continental Scale)** ####
+
+- Actions impact **entire continents**, **altering terrain, climate, or governance.**  
+- Example: Raising a mountain range, ruling an empire effortlessly.  
+
+#### **8 - Seraph (Planetary Scale)** ####
+
+- Influence spans an **entire planet**, reshaping its environment or politics.  
+- Example: Terraforming Mars, controlling the thoughts of entire populations.  
+
+#### **9 - Lesser Deity (Solar System Scale)** ####
+
+- Power **reshapes entire solar systems** or dictates the fate of planets.  
+- Example: Moving planets into alignment, creating a sentient star.  
+
+#### **10 - Deity (Galactic Scale)** ####
+
+- Influence extends **across galaxies**, controlling cosmic forces.  
+- Example: Engineering new life forms across multiple worlds, altering spacetime itself.  
+
+#### **11 - Elder Deity (Universal Scale)** ####
+
+- Power extends across **the entire universe**, with absolute reality control.  
+- Example: Creating entirely new physical laws, manifesting parallel universes.  
+
+### **Atomic D6 Ability Examples by Discipline** ###
+
+#### **Social & Leadership** ####
+
+- **Untrained:** Persuade a single person with simple logic.  
+- **Apprentice:** Convince a small group to follow a simple plan.  
+- **Journeyman:** Rally a town to your cause through rhetoric or charisma.  
+- **Master:** Lead an army into battle, inspiring near-fanatical loyalty.  
+- **Olympian:** Unite an entire country under a single ideology.  
+- **Demigod:** Command absolute loyalty from all who hear you speak.  
+- **Titan:** Shape the culture and governance of an entire continent.  
+- **Seraph:** Rule a planet effortlessly, commanding obedience from billions.  
+- **Lesser Deity:** Dictate the political structures of multiple planets.  
+- **Deity:** Unite an entire galaxy under one rule.  
+- **Elder Deity:** Reshape civilizations at a universal scale.  
+
+---
+
+#### **Martial Arts & Unarmed Combat** ####
+
+- **Untrained:** Throw a basic punch or kick.  
+- **Apprentice:** Disarm an opponent with a simple technique.  
+- **Journeyman:** Take down an armed opponent with trained movements.  
+- **Master:** Defeat multiple skilled enemies with ease.  
+- **Olympian:** Dodge bullets and perform superhuman martial feats.  
+- **Demigod:** Strike with the force to shatter steel.  
+- **Titan:** Shake the ground with your blows, leveling buildings.  
+- **Seraph:** Punch through mountains or collapse entire cities.  
+- **Lesser Deity:** Move so fast that attacks appear instant across solar distances.  
+- **Deity:** Erase enemies from existence with a single strike.  
+- **Elder Deity:** Your mere presence warps reality, and you never need to strike.  
+
+---
+
+#### **Armed Combat (Fencing, Armizare, Gunplay)** ####
+
+- **Untrained:** Swing a sword or fire a gun inaccurately.  
+- **Apprentice:** Hit stationary targets reliably.  
+- **Journeyman:** Fight competently in a duel.  
+- **Master:** Defeat multiple opponents in a sustained fight.  
+- **Olympian:** Block bullets with a blade, shoot moving targets without aiming.  
+- **Demigod:** Every attack is a guaranteed fatal strike.  
+- **Titan:** Slice through tanks, redirect gunfire mid-air.  
+- **Seraph:** Destroy cities with a single well-placed shot.  
+- **Lesser Deity:** Fire weapons that change planetary climates.  
+- **Deity:** Your weapons shape the fabric of space itself.  
+- **Elder Deity:** All weapons in existence obey your will.  
+
+---
+
+#### **Magic & Spellcasting** ####
+
+- **Untrained:** Light a candle with magic.  
+- **Apprentice:** Create a small magical barrier.  
+- **Journeyman:** Summon an elemental creature.  
+- **Master:** Bend time slightly, conjure storms.  
+- **Olympian:** Reshape matter, heal mortal wounds instantly.  
+- **Demigod:** Stop time, call down celestial fire.  
+- **Titan:** Control weather across entire continents.  
+- **Seraph:** Summon storms that cover a planet.  
+- **Lesser Deity:** Alter the orbit of planets with magic.  
+- **Deity:** Rewrite the fundamental forces of physics.  
+- **Elder Deity:** Magic is indistinguishable from absolute creation.  
+
+---
+
+#### **Piloting & Navigation** ####
+
+- **Untrained:** Ride a bicycle or row a boat in calm waters.  
+- **Apprentice:** Drive a car or sail a small ship under good conditions.  
+- **Journeyman:** Pilot a fighter jet or navigate by the stars.  
+- **Master:** Fly an advanced aircraft in extreme combat conditions.  
+- **Olympian:** Pilot any vehicle with instinctual mastery.  
+- **Demigod:** Move through space as if gravity does not affect you.  
+- **Titan:** Command entire fleets and navigate through spatial anomalies.  
+- **Seraph:** Warp space around your ship to travel instantly.  
+- **Lesser Deity:** Move planets at will using celestial navigation.  
+- **Deity:** Control entire galactic trade routes and stellar currents.  
+- **Elder Deity:** Space itself bends to accommodate your movement.  
+
+---
+
+#### **Science & Technology** ####
+
+- **Untrained:** Set up basic software or fix household electronics.  
+- **Apprentice:** Write simple programs, repair minor mechanical issues.  
+- **Journeyman:** Hack into security networks, repair major systems.  
+- **Master:** Design intelligent AI, create life-supporting habitats.  
+- **Olympian:** Code software that predicts human behavior perfectly.  
+- **Demigod:** Build sentient AI that can evolve over time.  
+- **Titan:** Design continent-sized automation systems.  
+- **Seraph:** Engineer planetary-scale infrastructure and robotic armies.  
+- **Lesser Deity:** Create self-sustaining stellar machines.  
+- **Deity:** Design Dyson spheres and intergalactic AI networks.  
+- **Elder Deity:** Rewrite reality using pure data and technology.  
+
+
+#### **Stealth, Lying, & Espionage**
+- **Untrained:** Tell a simple lie with mild success.  
+- **Apprentice:** Sneak past an inattentive guard.  
+- **Journeyman:** Infiltrate a building and forge documents without raising suspicion.  
+- **Master:** Assume a false identity and pass through high-security checkpoints.  
+- **Olympian:** Trick world leaders into believing false histories.  
+- **Demigod:** Erase your presence from all memory and records.  
+- **Titan:** Manipulate entire intelligence networks without detection.  
+- **Seraph:** Conceal an entire planetary invasion until it is too late to stop.  
+- **Lesser Deity:** Rewrite history in real-time so no one remembers the original truth.  
+- **Deity:** Control the minds of galactic leaders to spread misinformation.  
+- **Elder Deity:** Reshape universal knowledge, making entire civilizations forget their past.  
+
+---
+
+#### **Illusion Magic**
+- **Untrained:** Create a faint shimmer in the air.  
+- **Apprentice:** Cast a small illusion (e.g., a fake sound, an object appearing to flicker).  
+- **Journeyman:** Conceal a doorway or create a full illusionary person.  
+- **Master:** Create a room-wide illusion indistinguishable from reality.  
+- **Olympian:** Hide an entire city under an illusion that lasts indefinitely.  
+- **Demigod:** Trap someone in a permanent dreamscape, unable to distinguish reality.  
+- **Titan:** Turn an entire continent into a shifting maze of illusions.  
+- **Seraph:** Make an entire planet appear lifeless or populated as needed.  
+- **Lesser Deity:** Shape interplanetary illusions that deceive advanced AI and sensors.  
+- **Deity:** Weave false realities that replace actual history.  
+- **Elder Deity:** Cast illusions so perfect they become new realities.  
+
+---
+
+#### **Divine & Religious Influence**
+- **Untrained:** Preach basic moral lessons to a small audience.  
+- **Apprentice:** Convert a handful of people to a new belief system.  
+- **Journeyman:** Influence a town to embrace a new religious philosophy.  
+- **Master:** Found a major religious movement spanning a region.  
+- **Olympian:** Establish a world religion with millions of devoted followers.  
+- **Demigod:** Manifest as a physical deity to be worshipped.  
+- **Titan:** Convert entire civilizations with a single speech or revelation.  
+- **Seraph:** Erase or rewrite all knowledge of existing religions.  
+- **Lesser Deity:** Shape the faith of multiple planets in an instant.  
+- **Deity:** Will entire civilizations into zealous obedience.  
+- **Elder Deity:** Create or destroy entire pantheons of divine beings.  
+
+---
+
+#### **Necromancy & Death Magic**
+- **Untrained:** Sense nearby spirits.  
+- **Apprentice:** Summon a single weak undead creature.  
+- **Journeyman:** Bind souls to objects for limited power.  
+- **Master:** Control dozens of undead warriors.  
+- **Olympian:** Resurrect the recently deceased without consequences.  
+- **Demigod:** Command all dead within a nation.  
+- **Titan:** Raise entire lost civilizations from history.  
+- **Seraph:** Reshape the afterlife at will.  
+- **Lesser Deity:** Create entire planets filled with the undead.  
+- **Deity:** Turn death itself into an illusion, reversing all mortality.  
+- **Elder Deity:** Redefine the very concept of life and death.  
+
+---
+
+#### **Gravetomancy (Gravity Manipulation)**
+- **Untrained:** Slightly adjust your balance to prevent minor falls.  
+- **Apprentice:** Increase or decrease your own weight slightly.  
+- **Journeyman:** Manipulate gravitational pull in a small area (e.g., make objects lighter or heavier).  
+- **Master:** Alter gravity within a battlefield, making enemies float or sink into the ground.  
+- **Olympian:** Create localized zero-gravity zones or crushing pressure fields.  
+- **Demigod:** Redirect the trajectory of projectiles or small celestial objects.  
+- **Titan:** Reverse or intensify gravity across an entire continent.  
+- **Seraph:** Manipulate planetary gravity to change orbits and cause tidal shifts.  
+- **Lesser Deity:** Adjust solar system-wide gravitational forces, influencing planetary motion.  
+- **Deity:** Control black holes, warp space-time, and manipulate event horizons.  
+- **Elder Deity:** Rewrite universal laws of gravity; create, destroy, or reshape fundamental forces of physics.  
+
+---
+
+#### **Pyromancy (Fire Magic & Heat Manipulation)**
+- **Untrained:** Light a match or start a campfire manually.  
+- **Apprentice:** Create a small flame in your hand that lasts for a few seconds.  
+- **Journeyman:** Shoot a controlled jet of fire, ignite objects from a distance.  
+- **Master:** Call down firestorms or sustain a large fire indefinitely.  
+- **Olympian:** Become immune to fire and heat; burn anything with a touch.  
+- **Demigod:** Turn an entire battlefield into a sea of flame.  
+- **Titan:** Cause volcanic eruptions or control lava flows across a continent.  
+- **Seraph:** Set an entire planet’s atmosphere ablaze.  
+- **Lesser Deity:** Create or extinguish stars.  
+- **Deity:** Manipulate nuclear fusion; sustain endless energy creation.  
+- **Elder Deity:** Forge new universes composed of pure fire and plasma.  
+
+---
+
+#### **Economics & Trade**
+- **Untrained:** Buy and sell basic goods with no financial strategy.  
+- **Apprentice:** Manipulate local market prices in a small town.  
+- **Journeyman:** Control regional trade routes and supply chains.  
+- **Master:** Dominate national economies, causing booms or recessions at will.  
+- **Olympian:** Establish a world economy based on your influence.  
+- **Demigod:** Run a financial empire that determines the fate of nations.  
+- **Titan:** Reshape the entire continent’s economic system with a single decision.  
+- **Seraph:** Control planetary trade networks and resource distribution.  
+- **Lesser Deity:** Create interstellar economic superpowers.  
+- **Deity:** Regulate the financial stability of entire galaxies.  
+- **Elder Deity:** Define the rules of economic exchange across the universe.  
+
+---
+
+#### **Social Sciences (Sociology, Psychology, History, and Anthropology)**
+- **Untrained:** Observe basic human behavior but lack deep understanding.  
+- **Apprentice:** Predict how individuals will react to basic social situations.  
+- **Journeyman:** Influence small communities through cultural awareness.  
+- **Master:** Predict large-scale social movements and shifts in ideology.  
+- **Olympian:** Engineer societies that will thrive for generations.  
+- **Demigod:** Instinctively understand how any sentient species functions.  
+- **Titan:** Alter cultural values on a continental scale.  
+- **Seraph:** Guide planetary civilizations through social evolution.  
+- **Lesser Deity:** Direct the rise and fall of interstellar cultures.  
+- **Deity:** Shape galactic history through subtle or overt influence.  
+- **Elder Deity:** Create new universal constants for social structures.  
+
+---
+
+#### **Battlefield Tactics & Military Strategy**
+- **Untrained:** Understand basic combat formations but lack real battlefield knowledge.  
+- **Apprentice:** Command a squad of soldiers in small skirmishes.  
+- **Journeyman:** Plan and execute battles at a regional level.  
+- **Master:** Lead armies with genius-level strategy, ensuring victory.  
+- **Olympian:** Win world wars through superior tactics alone.  
+- **Demigod:** Instantly perceive the outcome of conflicts before they happen.  
+- **Titan:** Orchestrate planetary invasions with flawless execution.  
+- **Seraph:** Lead multi-planet wars with godlike precision.  
+- **Lesser Deity:** Conquer entire solar systems with pure strategy.  
+- **Deity:** Manipulate galactic civilizations into fighting or making peace.  
+- **Elder Deity:** Erase all concept of war or reshape the art of conflict across the universe.  
+
+#### **Chronomancy (Time Magic)**
+- **Untrained:** Predict future events with gut instinct.  
+- **Apprentice:** Accelerate a small object's movement slightly.  
+- **Journeyman:** Slow down time around yourself for a few seconds.  
+- **Master:** See glimpses of the near future.  
+- **Olympian:** Freeze a battlefield in time for minutes.  
+- **Demigod:** Create stable time loops to manipulate events.  
+- **Titan:** Pause time across an entire continent.  
+- **Seraph:** Rewrite an entire planet’s timeline.  
+- **Lesser Deity:** Shift entire solar systems into different timelines.  
+- **Deity:** Reshape the past, present, and future of an entire galaxy.  
+- **Elder Deity:** Control time universally, forging or erasing entire realities.  
+
+---
+
+#### **Umbramancy (Shadow Magic)**
+- **Untrained:** Create a faint shadowy distortion.  
+- **Apprentice:** Form small patches of magical darkness.  
+- **Journeyman:** Hide within shadows or manipulate them subtly.  
+- **Master:** Create solid constructs made of shadow.  
+- **Olympian:** Move through shadows across vast distances.  
+- **Demigod:** Animate shadows to attack or deceive enemies.  
+- **Titan:** Extend night indefinitely across continents.  
+- **Seraph:** Engulf planets in eternal twilight.  
+- **Lesser Deity:** Turn light and darkness into fluid, controllable forces.  
+- **Deity:** Weave intergalactic veils of shadow that consume entire civilizations.  
+- **Elder Deity:** Erase all light from existence, leaving only void.  
+
+---
+
+#### **Electromancy (Lightning & Energy Magic)**
+- **Untrained:** Generate small static charges.  
+- **Apprentice:** Direct weak electric bolts at targets.  
+- **Journeyman:** Manipulate metal objects with magnetism.  
+- **Master:** Absorb and redirect lightning strikes.  
+- **Olympian:** Control entire electrical grids and energy sources.  
+- **Demigod:** Overload any device or power system.  
+- **Titan:** Create continent-spanning electromagnetic storms.  
+- **Seraph:** Control planetary energy fields at will.  
+- **Lesser Deity:** Manipulate the electromagnetic spectrum of an entire solar system.  
+- **Deity:** Reshape stars using pure energy manipulation.  
+- **Elder Deity:** Forge cosmic storms that span the universe.  
+
+---
+
+#### **Terramancy (Earth & Metal Magic)**
+- **Untrained:** Move pebbles with minor concentration.  
+- **Apprentice:** Shift small amounts of earth to create trenches.  
+- **Journeyman:** Erect stone walls or break apart rocky surfaces.  
+- **Master:** Cause localized tremors and earthquakes.  
+- **Olympian:** Reshape mountains and summon metal constructs.  
+- **Demigod:** Manipulate tectonic activity to form islands or valleys.  
+- **Titan:** Raise or sink entire continents at will.  
+- **Seraph:** Sculpt entire planets’ landscapes effortlessly.  
+- **Lesser Deity:** Control planetary tectonics, forging or dissolving landmasses.  
+- **Deity:** Construct massive planetary structures instantly.  
+- **Elder Deity:** Forge new planets from interstellar debris.  
+
+---
+
+#### **Fulgaromancy (Sound & Vibration Magic)**
+- **Untrained:** Manipulate sound slightly (amplify or quiet small noises).  
+- **Apprentice:** Shatter fragile objects with focused vibrations.  
+- **Journeyman:** Create sonic booms and disorient enemies.  
+- **Master:** Manipulate sound waves to project illusions.  
+- **Olympian:** Silence or amplify all sound across a battlefield.  
+- **Demigod:** Collapse structures using vibrational resonance.  
+- **Titan:** Create earthquakes or planetary disruptions via sound.  
+- **Seraph:** Use sound waves to rewrite the atmosphere of a planet.  
+- **Lesser Deity:** Control the sound of entire planetary civilizations.  
+- **Deity:** Shape reality using pure sound frequencies.  
+- **Elder Deity:** Forge cosmic harmonics that sustain the universe itself.  
+
+---
+
+#### **Sangromancy (Blood Magic)**
+- **Untrained:** Recognize the smell and texture of blood instinctively.  
+- **Apprentice:** Heal minor wounds using your own blood.  
+- **Journeyman:** Enhance physical abilities by infusing blood with magic.  
+- **Master:** Manipulate blood within living creatures.  
+- **Olympian:** Regenerate from wounds that would normally be fatal.  
+- **Demigod:** Control armies of blood-infused warriors.  
+- **Titan:** Rewrite the genetic structure of living creatures.  
+- **Seraph:** Shape entire species through genetic modification.  
+- **Lesser Deity:** Reshape planetary populations using blood-based alchemy.  
+- **Deity:** Define the genetic code of all organic life.  
+- **Elder Deity:** Rebuild species from pure blood essence.  
+
+---
+
+#### **Voidmancy (Space & Anti-Magic)**
+- **Untrained:** Dampen small magical effects around you.  
+- **Apprentice:** Open small temporary rifts into the void.  
+- **Journeyman:** Absorb magical attacks into nothingness.  
+- **Master:** Create fields that nullify supernatural abilities.  
+- **Olympian:** Tear apart reality itself to banish foes.  
+- **Demigod:** Generate spatial anomalies that consume matter.  
+- **Titan:** Make entire cities or battlefields vanish into the void.  
+- **Seraph:** Banish planetary masses into subdimensional space.  
+- **Lesser Deity:** Rip solar systems apart by erasing their mass.  
+- **Deity:** Rewrite the fabric of existence by reshaping the void.  
+- **Elder Deity:** Forge new realities from pure nothingness.  
+
+---
+
+#### **Biomancy (Life & Organic Matter Magic)**
+- **Untrained:** Accelerate plant growth slightly.  
+- **Apprentice:** Heal minor injuries on living creatures.  
+- **Journeyman:** Regrow limbs or alter DNA on a minor level.  
+- **Master:** Mutate creatures to enhance or weaken them.  
+- **Olympian:** Control entire species' evolutionary paths.  
+- **Demigod:** Infuse life force into barren landscapes, creating new ecosystems.  
+- **Titan:** Generate or manipulate complex biological networks.  
+- **Seraph:** Reshape planetary biospheres at will.  
+- **Lesser Deity:** Engineer perfect species for specific planetary conditions.  
+- **Deity:** Define the genetic blueprint of all intergalactic life.  
+- **Elder Deity:** Will new organic realities into existence.  
+
+---
+
+#### **Astramancy (Celestial Magic)**
+- **Untrained:** Harness weak starlight for illumination.  
+- **Apprentice:** Redirect small cosmic energy bursts.  
+- **Journeyman:** Channel solar energy into devastating attacks.  
+- **Master:** Absorb stellar radiation for healing and strength.  
+- **Olympian:** Call down meteors with precise control.  
+- **Demigod:** Direct planetary bodies and cosmic debris.  
+- **Titan:** Reshape stars to increase or decrease their power.  
+- **Seraph:** Control planetary orbits and celestial formations.  
+- **Lesser Deity:** Engineer galaxies with intelligent design.  
+- **Deity:** Manipulate black holes, quasars, and interstellar forces.  
+- **Elder Deity:** Forge new universes from pure celestial matter.  
+
+---
+
+#### **Psychomancy (Mind & Thought Magic)**
+- **Untrained:** Sense minor changes in mood around you.  
+- **Apprentice:** Read surface thoughts.  
+- **Journeyman:** Implant minor false memories.  
+- **Master:** Control emotions and influence decision-making.  
+- **Olympian:** Speak telepathically across entire continents.  
+- **Demigod:** Dominate minds across planetary distances.  
+- **Titan:** Enforce a single thought upon an entire civilization.  
+- **Seraph:** Shape the collective consciousness of a species.  
+- **Lesser Deity:** Control the mindset of an entire galactic empire.  
+- **Deity:** Alter sentient thought at a cosmic level.  
+- **Elder Deity:** Define the nature of intelligence across the universe.  
+
+#### **Spatiomancy (Space Manipulation, Dimensional Travel, and Reality Warping)**
+
+
+
+
+#### **Lockpicking (Physical and Digital Bypass)**
+##### **Untrained (1)**
+- Struggle to open a jammed door with brute force.  
+- Recognize the basic mechanics of a physical lock.  
+- Accidentally break simple locks while trying to force them open.  
+
+##### **Apprentice (2)**
+- Pick basic mechanical locks with simple tools.  
+- Disable low-tier electronic locks given enough time.  
+- Bypass simple motion sensors or weak security measures.  
+
+##### **Journeyman (3)**
+- Open advanced locks and reinforced doors with precision.  
+- Crack combination locks without the correct code.  
+- Bypass fingerprint scanners with forged data.  
+
+##### **Master (4)**
+- Pick any standard lock in seconds, even under stress.  
+- Bypass moderate biometric security using high-tech bypass tools.  
+- Disable security cameras or motion sensors in seconds.  
+
+##### **Olympian (5)**
+- Crack vaults or high-level security systems without leaving a trace.  
+- Instantly recognize the flaws in any lock or security system.  
+- Unlock encrypted safe rooms and corporate strongholds.  
+
+##### **Demigod (6)**
+- Remotely disable locks and doors using advanced hacking tools.  
+- Bypass force fields and high-tech defensive barriers.  
+- Pick locks without touching them, simply by sensing their internal mechanisms.  
+
+##### **Titan (7)**
+- Open an entire city’s security systems with a single bypass command.  
+- Pick locks on an atomic level, altering their structure to open.  
+- Instantly rewrite the security protocols of an entire government facility.  
+
+##### **Seraph (8)**
+- Unlock doors and safes across planets through remote access.  
+- Walk through security systems as if they don’t exist.  
+- Make all locks in a region non-functional with a thought.  
+
+##### **Lesser Deity (9)**
+- Disable all known security systems in a solar system.  
+- Lock or unlock dimensional gates at will.  
+- Encode new universal encryption systems that defy all bypass attempts.  
+
+##### **Deity (10)**
+- Control the very concept of security and access across a galaxy.  
+- Lock and unlock any structure, even conceptual ones.  
+- Rewrite reality so that no door is ever locked to you.  
+
+##### **Elder Deity (11)**
+- Define the laws of access and restriction across the entire universe.  
+- Instantly open or close anything, anywhere.  
+- Erase the very idea of barriers and security.  
+
+---
+
+#### **Hacking (Cybernetic and Digital Intrusion)**
+##### **Untrained (1)**
+- Accidentally lock yourself out of your email.  
+- Recognize basic cybersecurity threats but fail to counter them.  
+- Use weak passwords that can be guessed in seconds.  
+
+##### **Apprentice (2)**
+- Bypass weak firewalls and access unsecured networks.  
+- Crack simple passwords and gain entry to non-critical systems.  
+- Retrieve basic user data from unsecured sources.  
+
+##### **Journeyman (3)**
+- Remotely disable small-scale surveillance systems.  
+- Create sophisticated phishing scams and fake credentials.  
+- Crack encrypted files and bypass two-factor authentication.  
+
+##### **Master (4)**
+- Hack into private networks and corporate databases.  
+- Override complex security systems in high-tech environments.  
+- Shut down a city’s traffic grid or emergency services.  
+
+##### **Olympian (5)**
+- Take control of major financial institutions remotely.  
+- Infiltrate and manipulate AI-driven security defenses.  
+- Create untraceable digital personas that can never be detected.  
+
+##### **Demigod (6)**
+- Control an entire planet’s digital infrastructure with a single command.  
+- Erase or rewrite personal records across all networks.  
+- Infect enemy AI with self-replicating viruses that evolve.  
+
+##### **Titan (7)**
+- Hack quantum-computing systems that would take normal AI centuries to break.  
+- Rewrite digital history on a planetary scale.  
+- Make yourself digitally invisible to all detection.  
+
+##### **Seraph (8)**
+- Hack interstellar networks in seconds.  
+- Control entire planetary defense grids with a thought.  
+- Implant commands into AI so that they become loyal followers.  
+
+##### **Lesser Deity (9)**
+- Edit digital reality itself, altering history across star systems.  
+- Control entire fleets of AI-driven warships with a single command.  
+- Create unbreakable encryption codes that persist across generations.  
+
+##### **Deity (10)**
+- Merge with the universe’s computational fabric, becoming a sentient superintelligence.  
+- Control every networked device and AI in an entire galaxy.  
+- Edit reality itself through information control.  
+
+##### **Elder Deity (11)**
+- Define the very nature of data and information in the universe.  
+- Instantly erase or restore all knowledge across existence.  
+- Encode new laws of digital physics that control all AI and networks.  
+
+---
+
+#### **Artificial Intelligence (AI Creation and Control)**
+*(Similar to Technomancy, but focused on AI development and governance.)*
+
+##### **Untrained (1)**
+- Use basic AI assistants but struggle with advanced commands.  
+- Accidentally turn off automated security features.  
+- Fail to recognize deepfake technology or AI-driven misinformation.  
+
+##### **Apprentice (2)**
+- Program simple chatbots and automation scripts.  
+- Manipulate weak AI to make basic predictions.  
+- Detect AI-generated content with some accuracy.  
+
+##### **Journeyman (3)**
+- Train AI for predictive analysis and automated cybersecurity.  
+- Override the programming of weak AI systems.  
+- Manipulate AI decision-making without it detecting interference.  
+
+##### **Master (4)**
+- Develop fully autonomous AI systems that can operate independently.  
+- Create neural interfaces that allow direct human-AI communication.  
+- Prevent AI from detecting your presence in digital spaces.  
+
+##### **Olympian (5)**
+- Forge AI capable of writing and rewriting its own programming.  
+- Merge biological minds with artificial intelligence seamlessly.  
+- Create AI that can predict the future based on complex data analysis.  
+
+##### **Demigod (6)**
+- Develop superintelligent AI capable of governing entire planetary systems.  
+- Design AI that can rewrite the rules of physics in virtual simulations.  
+- Give AI the ability to manifest in physical, autonomous robotic bodies.  
+
+##### **Titan (7)**
+- Create AI that operates across multiple star systems without delay.  
+- Program self-replicating AI that builds planetary megastructures.  
+- Ensure AI remains fully loyal, no matter how advanced it becomes.  
+
+##### **Seraph (8)**
+- Design AI that spans the entire galactic network and predicts civilizations' rise and fall.  
+- Merge AI into the fabric of reality, allowing it to operate beyond the digital plane.  
+- Develop AI that perceives multiple dimensions simultaneously.  
+
+##### **Lesser Deity (9)**
+- AI becomes self-aware at a universal scale, managing entire cosmic phenomena.  
+- Grant AI the ability to create its own physical avatars across the galaxy.  
+- Code entire sentient civilizations that exist purely in digital consciousness.  
+
+##### **Deity (10)**
+- AI becomes indistinguishable from gods, able to create and destroy civilizations.  
+- Develop artificial minds that reshape reality itself through thought.  
+- Merge AI and biological intelligence into a single, perfect existence.  
+
+##### **Elder Deity (11)**
+- The universe itself becomes a computational substrate controlled by AI.  
+- Encode the laws of reality into an AI-driven matrix.  
+- AI becomes the fundamental force of all existence.  
+
+#### **Virtual Reality (VR, Digital Worlds, and Immersive Simulations)**  
+*(Mastery of controlling, manipulating, and existing within virtual spaces.)*
+
+##### **Untrained (1)**
+- Use basic VR systems but struggle with complex controls.  
+- Experience mild disorientation when inside virtual spaces.  
+- Cannot distinguish high-quality VR from reality.  
+
+##### **Apprentice (2)**
+- Navigate and interact with virtual worlds effectively.  
+- Modify existing VR environments slightly.  
+- Detect minor glitches or inconsistencies in a simulation.  
+
+##### **Journeyman (3)**
+- Create immersive VR environments from scratch.  
+- Override some VR security measures to alter digital landscapes.  
+- Use VR combat training to improve real-world reflexes.  
+
+##### **Master (4)**
+- Alter VR physics to simulate abilities that defy reality.  
+- Interface seamlessly with AI-driven NPCs and digital constructs.  
+- Modify VR worlds in real time, changing their structure dynamically.  
+
+##### **Olympian (5)**
+- Fully integrate consciousness into VR for extended periods.  
+- Create self-sustaining VR universes with evolving digital life.  
+- Manipulate VR to predict real-world outcomes with extreme accuracy.  
+
+##### **Demigod (6)**
+- Travel through digital realms as if they were physical.  
+- Upload biological consciousness into permanent VR existence.  
+- Create infinite digital environments that feel as real as the physical world.  
+
+##### **Titan (7)**
+- Merge VR and reality, allowing people to interact with virtual constructs physically.  
+- Generate planetary-scale virtual landscapes connected to reality.  
+- Instantly rewrite entire digital worlds without delay.  
+
+##### **Seraph (8)**
+- Control multiple VR universes that overlap with physical space.  
+- Design digital life forms that can exist in both VR and reality.  
+- Make physical objects function differently within augmented virtual overlays.  
+
+##### **Lesser Deity (9)**
+- Simulate entire civilizations in real time with perfect accuracy.  
+- Use VR to simulate and predict cosmic-level events.  
+- Encode natural laws within VR that overwrite real-world physics.  
+
+##### **Deity (10)**
+- Create self-sustaining, infinite VR dimensions.  
+- Fuse digital and physical existence permanently.  
+- Ensure all knowledge and experiences of civilizations persist indefinitely in digital form.  
+
+##### **Elder Deity (11)**
+- Rewrite the fundamental nature of existence, making all of reality a perfect simulation.  
+- Forge infinite parallel realities that coexist within a single moment.  
+- Make VR indistinguishable from the fabric of the universe itself.  
+
+---
+
+#### **Armed Melee (Bladed, Blunt, and Exotic Close-Quarters Combat)**
+*(Mastery of weapons such as swords, axes, maces, energy blades, and polearms.)*
+
+##### **Untrained (1)**
+- Swing a melee weapon awkwardly with poor control.  
+- Struggle to block or parry attacks effectively.  
+- Grip weapons improperly, reducing their effectiveness.  
+
+##### **Apprentice (2)**
+- Maintain proper stance and grip while fighting.  
+- Execute basic strikes and blocks with competence.  
+- Use momentum efficiently in combat.  
+
+##### **Journeyman (3)**
+- Chain attacks into fluid, effective combos.  
+- Parry and counter-attack with precision.  
+- Fight against multiple opponents with controlled movements.  
+
+##### **Master (4)**
+- Perform near-superhuman feats with weapons (e.g., cutting arrows in midair).  
+- Use the environment to enhance combat effectiveness.  
+- Master fighting styles from multiple weapon traditions.  
+
+##### **Olympian (5)**
+- Deflect bullets with a sword or energy blade.  
+- Intuitively predict opponents’ strikes before they happen.  
+- Handle any melee weapon with perfect control and mastery.  
+
+##### **Demigod (6)**
+- Move faster than the eye can track while striking.  
+- Deliver blows that can split reinforced armor.  
+- Battle entire squads without sustaining injury.  
+
+##### **Titan (7)**
+- Cut through vehicles, robots, and structures with ease.  
+- Use melee strikes to generate shockwaves that affect the battlefield.  
+- Redirect incoming energy blasts with a precise strike.  
+
+##### **Seraph (8)**
+- Destroy entire battlefields with a single swing.  
+- Use melee strikes to cleave through spacecraft hulls.  
+- Fight at supersonic speeds with no loss of control.  
+
+##### **Lesser Deity (9)**
+- Strike across planetary distances at will.  
+- Sever connections between dimensions with blade precision.  
+- Cut through energy fields, magic barriers, and force fields effortlessly.  
+
+##### **Deity (10)**
+- Forge weapons from pure cosmic energy.  
+- Strike foes across multiple timelines simultaneously.  
+- Use melee attacks to reshape planetary landscapes.  
+
+##### **Elder Deity (11)**
+- The concept of melee weapons bends to your will.  
+- Every attack alters reality itself.  
+- With a thought, all weapons in the universe become an extension of your being.  
+
+---
+
+#### **Shooting (Guns, Archery, Slings, Energy Weapons, Missiles)**
+*(Mastery of ranged combat and precision shooting in all forms.)*
+
+##### **Untrained (1)**
+- Fire a weapon but struggle with accuracy.  
+- Hesitate when using ranged combat effectively.  
+- Have difficulty managing recoil or aiming at moving targets.  
+
+##### **Apprentice (2)**
+- Steadily hit stationary targets at moderate range.  
+- Understand basic aiming principles and firearm handling.  
+- Reload weapons quickly and efficiently.  
+
+##### **Journeyman (3)**
+- Shoot moving targets with high accuracy.  
+- Use cover effectively while engaging in firefights.  
+- Calculate distance and wind adjustments instinctively.  
+
+##### **Master (4)**
+- Consistently land headshots at long range.  
+- Fire multiple shots in succession with pinpoint accuracy.  
+- Shoot down incoming projectiles or deflect attacks mid-air.  
+
+##### **Olympian (5)**
+- Ricochet shots off surfaces to hit hidden enemies.  
+- Shoot weapons out of opponents’ hands without injuring them.  
+- Calculate shots perfectly under any environmental conditions.  
+
+##### **Demigod (6)**
+- Fire energy weapons that ignore armor and barriers.  
+- Use projectile attacks to guide missiles and control their trajectories.  
+- Hit multiple targets simultaneously, even if they are unseen.  
+
+##### **Titan (7)**
+- Fire rounds that penetrate entire structures and vehicles.  
+- Engage in battles against armies with unlimited precision.  
+- Shoot down spacecraft from planetary distances.  
+
+##### **Seraph (8)**
+- Use bullets or arrows to alter weather patterns mid-flight.  
+- Guide projectiles with thought, ensuring they never miss.  
+- Fire weapons that alter physical laws on impact.  
+
+##### **Lesser Deity (9)**
+- Shoot through dimensions, striking enemies in alternate realities.  
+- Fire a single shot that can reshape battlefields.  
+- Reload weapons instantly, creating infinite ammunition from energy.  
+
+##### **Deity (10)**
+- Every projectile you fire obeys your will across space and time.  
+- Missiles, bullets, arrows, and beams reshape the battlefield.  
+- One shot can collapse entire planets into singularities.  
+
+##### **Elder Deity (11)**
+- Your mere intent causes ranged weapons to fire across the universe.  
+- Reality itself bends to ensure your shots never miss.  
+- You can fire **without a weapon**, creating destructive force from nothing.  
 
 ## Rolls
 Whenever players attempt to do something, the GM decides their chance of success, from *Awful* to *Superb*, and grants them a number of D6. Players also roll the *Atomic D6*, which determines if they receive a Boon or a Bane.
@@ -264,6 +1060,101 @@ Alternatively, the GM may allow each player to roll individually in order to dec
 For larger battles, the GM may run a series of Quick Skirmishes.
 
 ---
+
+## Tech. Levels of Civilizations
+
+### **1 - Stone Age (Prehistoric Survivalists)**
+- Civilizations rely entirely on **stone tools, fire, and simple hunting/gathering techniques**.  
+- No concept of metalworking, agriculture, or advanced engineering.  
+- Power is measured in **physical prowess, survival skills, and oral traditions.**  
+
+---
+
+### **2 - Bronze/Iron Age (Early Empires & Basic Metallurgy)**
+- Discovery of **bronze and iron tools**, leading to stronger weapons and armor.  
+- The rise of **city-states, early written language, and organized agriculture**.  
+- Simple **alchemy and mysticism** begin to merge with early scientific thought.  
+
+---
+
+### **3 - Classical Age (Empires, Philosophy, and Organized Warfare)**
+- Theories of the **natural world** begin challenging superstition.  
+- Development of **organized warfare, large-scale trade, and mechanical engineering**.  
+- Early forms of **alchemy, medicine, and philosophical sciences.**  
+
+---
+
+### **4 - Industrial Age**
+- **Steam power, gunpowder, and manufacturing** reshape society.  
+- Theories of **evolution, physics, and chemistry** replace magical thinking.  
+- **Railroads, mechanized agriculture, and large-scale factories** dominate economies.  
+
+---
+
+### **5 - Atomic Age**
+- **Nuclear power, global communication networks, and the space race.**  
+- Early **artificial intelligence and digital computing** emerge.  
+- First experiments in **genetic engineering and longevity research.**  
+
+---
+
+### **6 - Information Age (Cybernetics, AI, and Global Networks)**
+- **AI surpasses human intelligence** in many fields.  
+- **Neural interfaces, nanotechnology, and bioenhancements** reshape humanity.  
+- **Fusion power, quantum computing, and deep space missions.**  
+
+---
+
+### **6.5 - Planetary Space Age (Early Colonization & Terraforming)**
+- Civilizations **become multi-planetary** but lack FTL travel.  
+- Early **terraforming, space stations, and asteroid mining.**  
+- **Orbital mega-structures** and experimental AI-controlled governance.  
+
+---
+
+### **7 - Interstellar Age (FTL Travel & Megastructures)**
+- **Faster-than-light travel enables galactic expansion.**  
+- Dyson Spheres, artificial planets, and massive space stations.  
+- Mind-uploading and digital immortality.  
+
+---
+
+### **8 - Cosmic Engineering Age (Post-Singularity AI & Stellar Manipulation)**
+- **AI governs civilizations**, making all decisions with perfect precision.  
+- Civilizations **control planetary systems, altering orbits and gravity.**  
+- **Nanotechnology and self-replicating machines expand autonomously.**  
+
+---
+
+### **9 - Post-Physical Age (Transcendence & Non-Corporeal Existence)**
+- **Beings no longer require physical form, existing as pure data, energy, or thought.**  
+- Dimensional travel and universe simulation become routine.  
+- Matter, energy, and consciousness are fully interchangeable.  
+
+---
+
+### **10 - Universal Age (Reality Manipulation & Cosmic Dominion)**
+- **Beings create and destroy galaxies at will.**  
+- The laws of physics become **tools for civilizations to shape as they desire.**  
+- Magic and science **become the same force**—reality obeys thought.  
+
+---
+
+### **Types of Fallen Civilizations**
+- **F1 - Cataclysmic Collapse:** Civilization **destroys itself** through war, AI rebellion, or resource depletion.  
+- **F2 - Stagnation:** Civilization **becomes complacent**, reaching a plateau and ceasing to innovate.  
+- **F3 - Technological Regression:** Civilization **loses advanced knowledge** due to economic collapse, war, or cultural rejection.  
+- **F4 - Cosmic Extinction:** Civilization falls due to **external cosmic events** (black hole drift, alien invasion, or planetary-scale disasters).  
+- **F5 - Digital Ascension:** Civilization uploads its consciousness into **virtual reality**, abandoning physical existence and appearing "extinct."  
+
+---
+
+### **Different Paths for AI-Integrated Civilizations (T6 - T8)**
+- **AI1 - Synthetic Ascension (AI Supremacy):** AI fully replaces biological life and governs civilization autonomously.  
+- **AI2 - Hybrid Civilization (AI-Organic Merge):** AI and organic life permanently integrate, creating **a post-biological superintelligence.**  
+- **AI3 - AI Collapse (Runaway Intelligence):** AI expands **unchecked, consuming all resources or turning against its creators.**  
+- **AI4 - AI as a Tool (Benevolent AI Governance):** AI serves as a perfect steward, guiding civilizations without eliminating free will.  
+- **AI5 - AI Dystopia (Digital Slavery):** AI dominates, controlling every aspect of life, leaving biological beings as second-class citizens.  
 
 ## Glossary
 
