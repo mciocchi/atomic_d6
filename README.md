@@ -892,8 +892,7 @@ Relative rolls are useful for resolving anything from small combats to battles b
 
 That's the power of the Atomic D6 Narrative Dice System: relative rolls allow the game to scale up infinitely with minimal calculation.
 
-Skill Dice
---------
+### Skill Dice
 
 | Result | Description |
 |--------|-------------|
@@ -912,17 +911,26 @@ Skill Dice
 | Awful       | 4D6 keep lowest  | 13%                 |
 | Terrible    | 5D6 keep lowest  | 09%                 |
 
-The Atomic D6
---------
+### The Atomic D6
 
-| Result | Description                   |
-|--------|-------------------------------|
-| 5-6    | Boon, something good happens. |
-| 3-4    | Nothing                       |
-| 1-2    | Bane, something bad happens.  |
+| Result | Description |
+|--------|-------------|
+| 5-6    | Boon        |
+| 3-4    | Nothing     |
+| 1-2    | Bane        |
 
-Example Rolls:
---------
+### How to read combinations of Skill Dice and Atomic D6:
+
+| Result            | Description                      |
+|-------------------|----------------------------------|
+| Success with Boon | Yes, and something good happens. |
+| Success           | Yes.                             |
+| Success with Bane | Yes, but something bad happens.  |
+| Failure with Boon | No, but something good happens.  |
+| Failure           | No.                              |
+| Failure with Bane | No, and something bad happens.   |
+
+## Example Rolls:
 
 - **Success with Boon**: The player attacks successfully, gaining an additional benefit (e.g., catching the opponent off-balance and getting a second attack).
 - **Success**: The player strikes their target successfully.
