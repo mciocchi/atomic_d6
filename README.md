@@ -886,11 +886,9 @@ Whenever players attempt to do something, the GM decides their chance of success
 
 If the roll is considered trivial or impossible, the GM may declare that a roll is not needed.
 
-Rolls are always relative. For example, a player may attack with a powerful magical weapon, but if their target has exceptional armor, the GM might decide their chance of a successful attack is only "Middling," and ask them to roll 1d6.
+Rolls are always relative. Depending upon the scope and scale of the story, a roll might be used to represent the outcome of a fistfight between two peasants or two Elder Gods colliding, their contrary realities radiating eldritch energies incomprehensible to man as they attempt to annihilate one another. In either one of these cases, the opponents are roughly equivalent, so the GM rules that the characters only need to roll 1D6 to determine the outcome of the situation.
 
-Relative rolls are useful for resolving anything from small combats to battles between massive armies. The mechanic is still the same in a large battle. If the two sides are roughly equivalent, with the same number of advantages, the GM might rule that the player's chance of victory is still only "Middling," and they still roll just 1d6.
-
-That's the power of the Atomic D6 Narrative Dice System: relative rolls allow the game to scale up infinitely with minimal calculation.
+That's the power of the Atomic D6 Narrative Dice System: relative rolls allow the game to scale infinitely without requiring more calculation.
 
 ### Skill Dice
 
@@ -899,7 +897,7 @@ That's the power of the Atomic D6 Narrative Dice System: relative rolls allow th
 | 4-6    | Success     |
 | 1-3    | Failure     |
 
-| Difficulty  | Die to Roll      | % Chance of Success |
+| Description | Die to Roll      | % Chance of Success |
 |-------------|------------------|---------------------|
 | Superb      | 5D6 keep highest | 91%                 |
 | Excellent   | 4D6 keep highest | 87%                 |
@@ -930,14 +928,138 @@ That's the power of the Atomic D6 Narrative Dice System: relative rolls allow th
 | Failure           | No.                              |
 | Failure with Bane | No, and something bad happens.   |
 
-## Example Rolls:
+### Examples of Boons and Banes
 
-- **Success with Boon**: The player attacks successfully, gaining an additional benefit (e.g., catching the opponent off-balance and getting a second attack).
-- **Success**: The player strikes their target successfully.
-- **Success with Bane**: The player hits but leaves themselves open for counterattack.
-- **Failure with Boon**: The player misses, but the enemy also falters in some way.
-- **Failure**: The player misses outright.
-- **Failure with Bane**: The player fails and suffers an additional setback (e.g., their weapon breaks**.
+Here are just a few examples of Boons and Banes in different situations. This is not intended to be a definitive list, but rather, a jumping off point.
+
+#### Melee Combat ####
+
+##### Boons #####
+
+| # | Boon Name | Effect |
+|---|----------|--------|
+| 1 | **Opening Strike** | Your attack lands perfectly, forcing your enemy off balance (Malus on their next action). |
+| 2 | **Weapon Precision** | You hit a weak spot, ignoring armor or inflicting extra damage. |
+| 3 | **Momentum Shift** | Your successful strike gives you a follow-up attack opportunity or lets an ally strike with an advantage. |
+| 4 | **Tactical Positioning** | You maneuver your enemy into a disadvantageous position (e.g., backed against a wall, forced into rough terrain). |
+| 5 | **Psyche Break** | Your powerful attack shakes the enemy’s morale, making them hesitate or reconsider their approach. |
+| 6 | **Battlefield Awareness** | Your movements allow you to spot an incoming threat, granting you a Bonus on your next defense roll. |
+
+##### Banes #####
+
+| # | Bane Name | Effect |
+|---|----------|--------|
+| 1 | **Overextended** | Your attack leaves you open, giving your opponent a free counterattack or an advantage on their next strike. |
+| 2 | **Weapon Slip** | You lose grip on your weapon slightly, suffering a Malus on your next attack. |
+| 3 | **Miscalculated Strike** | Your attack lands poorly, striking armor or glancing off, reducing effectiveness. |
+| 4 | **Unsteady Footing** | You stumble slightly, making you easier to hit on the next enemy turn. |
+| 5 | **Clash Recoil** | The force of the impact numbs your arm, making weapon use slower or harder until you recover. |
+| 6 | **Friendly Fire Risk** | Your wild attack nearly hits an ally, forcing them to make a quick reaction or causing some minor unintended damage. |
+
+---
+
+#### Ranged Combat ####
+
+##### Boons #####
+
+| # | Boon Name | Effect |
+|---|----------|--------|
+| 1 | **Pinpoint Accuracy** | Your shot strikes a vulnerable spot, bypassing armor or dealing critical damage. |
+| 2 | **Ricochet Shot** | Your projectile bounces off a surface, hitting an unexpected target. |
+| 3 | **Perfect Timing** | Your shot lands at just the right moment, disrupting an enemy's action. |
+| 4 | **Cover Fire** | Your attack forces enemies to take cover or hesitate, granting allies a Bonus on movement or attacks. |
+| 5 | **Piercing Shot** | Your projectile punches through multiple enemies or barriers. |
+| 6 | **Wind-Assisted Aim** | Environmental factors aid your shot, allowing you to hit a target you normally wouldn’t. |
+
+##### Banes #####
+
+| # | Bane Name | Effect |
+|---|----------|--------|
+| 1 | **Missed Mark** | Your shot barely misses, giving away your position or wasting ammunition. |
+| 2 | **Weapon Jam** | Your bowstring snaps, or your firearm jams, forcing you to spend an action fixing it. |
+| 3 | **Stray Shot** | The projectile hits an unintended target (ally, object, or even a critical structure). |
+| 4 | **Awkward Reload** | Something slows your next shot, giving a Malus on your next attack. |
+| 5 | **Gust of Wind** | Unexpected conditions throw off your aim, making your shot ineffective. |
+| 6 | **Reflected Light** | A glint off your weapon or arrowhead alerts enemies to your presence, causing them to react. |
+
+---
+
+#### Large-Scale Battles ####
+
+##### Boons #####
+
+| # | Boon Name | Effect |
+|---|----------|--------|
+| 1 | **Tactical Advantage** | Your forces gain superior positioning, giving them an edge in the next phase. |
+| 2 | **Enemy Disarray** | The opposing army becomes disorganized, reducing their effectiveness. |
+| 3 | **Inspirational Leadership** | Your actions rally your troops, improving morale and increasing their attack success. |
+| 4 | **Critical Weakness Exposed** | A key flaw in the enemy’s formation is revealed, allowing for a devastating strike. |
+| 5 | **Supply Seizure** | Your forces capture an enemy stockpile, resupplying or denying the enemy resources. |
+| 6 | **Tide of Battle Turns** | Your troops make unexpected gains, forcing the enemy into a defensive stance. |
+
+##### Banes #####
+
+| # | Bane Name | Effect |
+|---|----------|--------|
+| 1 | **Troop Panic** | A section of your forces breaks rank, reducing your army’s effectiveness. |
+| 2 | **Miscommunication** | Orders are misheard or misunderstood, leading to a tactical misstep. |
+| 3 | **Surprise Enemy Reinforcement** | Unexpected enemy backup arrives, shifting the odds. |
+| 4 | **Weather Shift** | A storm, fog, or dust cloud reduces battlefield visibility and effectiveness. |
+| 5 | **Flanking Maneuver** | Your forces are caught off-guard, leading to a disadvantage. |
+| 6 | **Supply Disruption** | Food, weapons, or medical supplies run short, negatively impacting troops. |
+
+---
+
+#### Social Situations ####
+
+##### Boons #####
+
+| # | Boon Name | Effect |
+|---|----------|--------|
+| 1 | **Silver Tongue** | Your words resonate deeply, causing the audience to be more persuaded than expected. |
+| 2 | **Unintentional Confession** | Your conversation tricks your opponent into revealing key information. |
+| 3 | **Witty Retort** | Your response disarms hostility, making the other party more agreeable. |
+| 4 | **Public Favor** | A crowd or bystanders rally behind you, adding social weight to your argument. |
+| 5 | **Subtle Manipulation** | Your words plant doubt or inspiration, influencing future actions. |
+| 6 | **Perfect Timing** | You deliver your argument at just the right moment, maximizing its impact. |
+
+##### Banes #####
+
+| # | Bane Name | Effect |
+|---|----------|--------|
+| 1 | **Foot-in-Mouth** | You accidentally say something offensive or revealing, damaging your position. |
+| 2 | **Hostile Backfire** | The conversation turns against you, with people growing more suspicious or angry. |
+| 3 | **Unconvincing Argument** | Your persuasion attempt falls flat, causing the other party to double down. |
+| 4 | **Overexplaining** | You reveal too much information, giving your opponent an advantage. |
+| 5 | **Social Misread** | You misjudge someone’s emotions, making an incorrect assumption. |
+| 6 | **Unexpected Disruption** | A third party interrupts, derailing the conversation or making persuasion harder. |
+
+---
+
+#### Magic ####
+
+##### Boons #####
+
+| # | Boon Name | Effect |
+|---|----------|--------|
+| 1 | **Resonance Effect** | The spell is more powerful than expected, dealing extra damage or extending its duration. |
+| 2 | **Arcane Echo** | The magic lingers, causing residual effects that continue after the spell ends. |
+| 3 | **Overcharge** | You channel extra energy into the spell, making it wider in range or more potent. |
+| 4 | **Unexpected Synergy** | The magic combines with environmental factors for a unique effect. |
+| 5 | **Spell Ricochet** | If an attack spell misses, it redirects itself toward another enemy. |
+| 6 | **Magical Feedback Loop** | The spell restores some of your energy, allowing you to cast another spell sooner. |
+
+##### Banes #####
+
+| # | Bane Name | Effect |
+|---|----------|--------|
+| 1 | **Spell Fizzle** | The magic misfires or dissipates, wasting the spell’s energy. |
+| 2 | **Overload** | The spell backfires, causing a minor self-inflicted effect. |
+| 3 | **Unstable Casting** | The spell doesn’t work as intended, creating a random magical effect. |
+| 4 | **Mana Drain** | Casting the spell fatigues you, giving a Malus on future spellcasting. |
+| 5 | **Wild Surge** | The magic causes a strange, unpredictable effect. |
+| 6 | **Attracting Attention** | The spell’s energy is so powerful that it draws the interest of an unknown entity. |
+
 
 ## Contests
 
@@ -1072,97 +1194,97 @@ For larger battles, the GM may run a series of Quick Skirmishes.
 ## Tech. Levels of Civilizations
 
 ### **1 - Stone Age (Prehistoric Survivalists)**
-- Civilizations rely entirely on **stone tools, fire, and simple hunting/gathering techniques**.  
-- No concept of metalworking, agriculture, or advanced engineering.  
-- Power is measured in **physical prowess, survival skills, and oral traditions.**  
+- Civilizations rely entirely on **stone tools, fire, and simple hunting/gathering techniques**.
+- No concept of metalworking, agriculture, or advanced engineering.
+- Power is measured in **physical prowess, survival skills, and oral traditions.**
 
 ---
 
 ### **2 - Bronze/Iron Age (Early Empires & Basic Metallurgy)**
-- Discovery of **bronze and iron tools**, leading to stronger weapons and armor.  
-- The rise of **city-states, early written language, and organized agriculture**.  
-- Simple **alchemy and mysticism** begin to merge with early scientific thought.  
+- Discovery of **bronze and iron tools**, leading to stronger weapons and armor.
+- The rise of **city-states, early written language, and organized agriculture**.
+- Simple **alchemy and mysticism** begin to merge with early scientific thought.
 
 ---
 
 ### **3 - Classical Age (Empires, Philosophy, and Organized Warfare)**
-- Theories of the **natural world** begin challenging superstition.  
-- Development of **organized warfare, large-scale trade, and mechanical engineering**.  
-- Early forms of **alchemy, medicine, and philosophical sciences.**  
+- Theories of the **natural world** begin challenging superstition.
+- Development of **organized warfare, large-scale trade, and mechanical engineering**.
+- Early forms of **alchemy, medicine, and philosophical sciences.**
 
 ---
 
 ### **4 - Industrial Age**
-- **Steam power, gunpowder, and manufacturing** reshape society.  
-- Theories of **evolution, physics, and chemistry** replace magical thinking.  
-- **Railroads, mechanized agriculture, and large-scale factories** dominate economies.  
+- **Steam power, gunpowder, and manufacturing** reshape society.
+- Theories of **evolution, physics, and chemistry** replace magical thinking.
+- **Railroads, mechanized agriculture, and large-scale factories** dominate economies.
 
 ---
 
 ### **5 - Atomic Age**
-- **Nuclear power, global communication networks, and the space race.**  
-- Early **artificial intelligence and digital computing** emerge.  
-- First experiments in **genetic engineering and longevity research.**  
+- **Nuclear power, global communication networks, and the space race.**
+- Early **artificial intelligence and digital computing** emerge.
+- First experiments in **genetic engineering and longevity research.**
 
 ---
 
 ### **6 - Information Age (Cybernetics, AI, and Global Networks)**
-- **AI surpasses human intelligence** in many fields.  
-- **Neural interfaces, nanotechnology, and bioenhancements** reshape humanity.  
-- **Fusion power, quantum computing, and deep space missions.**  
+- **AI surpasses human intelligence** in many fields.
+- **Neural interfaces, nanotechnology, and bioenhancements** reshape humanity.
+- **Fusion power, quantum computing, and deep space missions.**
 
 ---
 
 ### **6.5 - Planetary Space Age (Early Colonization & Terraforming)**
-- Civilizations **become multi-planetary** but lack FTL travel.  
-- Early **terraforming, space stations, and asteroid mining.**  
-- **Orbital mega-structures** and experimental AI-controlled governance.  
+- Civilizations **become multi-planetary** but lack FTL travel.
+- Early **terraforming, space stations, and asteroid mining.**
+- **Orbital mega-structures** and experimental AI-controlled governance.
 
 ---
 
 ### **7 - Interstellar Age (FTL Travel & Megastructures)**
-- **Faster-than-light travel enables galactic expansion.**  
-- Dyson Spheres, artificial planets, and massive space stations.  
-- Mind-uploading and digital immortality.  
+- **Faster-than-light travel enables galactic expansion.**
+- Dyson Spheres, artificial planets, and massive space stations.
+- Mind-uploading and digital immortality.
 
 ---
 
 ### **8 - Cosmic Engineering Age (Post-Singularity AI & Stellar Manipulation)**
-- **AI governs civilizations**, making all decisions with perfect precision.  
-- Civilizations **control planetary systems, altering orbits and gravity.**  
-- **Nanotechnology and self-replicating machines expand autonomously.**  
+- **AI governs civilizations**, making all decisions with perfect precision.
+- Civilizations **control planetary systems, altering orbits and gravity.**
+- **Nanotechnology and self-replicating machines expand autonomously.**
 
 ---
 
 ### **9 - Post-Physical Age (Transcendence & Non-Corporeal Existence)**
-- **Beings no longer require physical form, existing as pure data, energy, or thought.**  
-- Dimensional travel and universe simulation become routine.  
-- Matter, energy, and consciousness are fully interchangeable.  
+- **Beings no longer require physical form, existing as pure data, energy, or thought.**
+- Dimensional travel and universe simulation become routine.
+- Matter, energy, and consciousness are fully interchangeable.
 
 ---
 
 ### **10 - Universal Age (Reality Manipulation & Cosmic Dominion)**
-- **Beings create and destroy galaxies at will.**  
-- The laws of physics become **tools for civilizations to shape as they desire.**  
-- Magic and science **become the same force**—reality obeys thought.  
+- **Beings create and destroy galaxies at will.**
+- The laws of physics become **tools for civilizations to shape as they desire.**
+- Magic and science **become the same force**—reality obeys thought.
 
 ---
 
 ### **Types of Fallen Civilizations**
-- **F1 - Cataclysmic Collapse:** Civilization **destroys itself** through war, AI rebellion, or resource depletion.  
-- **F2 - Stagnation:** Civilization **becomes complacent**, reaching a plateau and ceasing to innovate.  
-- **F3 - Technological Regression:** Civilization **loses advanced knowledge** due to economic collapse, war, or cultural rejection.  
-- **F4 - Cosmic Extinction:** Civilization falls due to **external cosmic events** (black hole drift, alien invasion, or planetary-scale disasters).  
-- **F5 - Digital Ascension:** Civilization uploads its consciousness into **virtual reality**, abandoning physical existence and appearing "extinct."  
+- **F1 - Cataclysmic Collapse:** Civilization **destroys itself** through war, AI rebellion, or resource depletion.
+- **F2 - Stagnation:** Civilization **becomes complacent**, reaching a plateau and ceasing to innovate.
+- **F3 - Technological Regression:** Civilization **loses advanced knowledge** due to economic collapse, war, or cultural rejection.
+- **F4 - Cosmic Extinction:** Civilization falls due to **external cosmic events** (black hole drift, alien invasion, or planetary-scale disasters).
+- **F5 - Digital Ascension:** Civilization uploads its consciousness into **virtual reality**, abandoning physical existence and appearing "extinct."
 
 ---
 
 ### **Different Paths for AI-Integrated Civilizations (T6 - T8)**
-- **AI1 - Synthetic Ascension (AI Supremacy):** AI fully replaces biological life and governs civilization autonomously.  
-- **AI2 - Hybrid Civilization (AI-Organic Merge):** AI and organic life permanently integrate, creating **a post-biological superintelligence.**  
-- **AI3 - AI Collapse (Runaway Intelligence):** AI expands **unchecked, consuming all resources or turning against its creators.**  
-- **AI4 - AI as a Tool (Benevolent AI Governance):** AI serves as a perfect steward, guiding civilizations without eliminating free will.  
-- **AI5 - AI Dystopia (Digital Slavery):** AI dominates, controlling every aspect of life, leaving biological beings as second-class citizens.  
+- **AI1 - Synthetic Ascension (AI Supremacy):** AI fully replaces biological life and governs civilization autonomously.
+- **AI2 - Hybrid Civilization (AI-Organic Merge):** AI and organic life permanently integrate, creating **a post-biological superintelligence.**
+- **AI3 - AI Collapse (Runaway Intelligence):** AI expands **unchecked, consuming all resources or turning against its creators.**
+- **AI4 - AI as a Tool (Benevolent AI Governance):** AI serves as a perfect steward, guiding civilizations without eliminating free will.
+- **AI5 - AI Dystopia (Digital Slavery):** AI dominates, controlling every aspect of life, leaving biological beings as second-class citizens.
 
 ## Glossary
 
