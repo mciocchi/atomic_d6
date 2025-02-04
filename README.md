@@ -1065,11 +1065,19 @@ Here are just a few examples of Boons and Banes in different situations. This is
 
 A Contest is a roll that compares the skill of two or more characters that are trying to use their abilities to oppose one another.
 
-In such a case, the GM is expected to adjust the relative difficulty of the roll to account for the skill of the opponent. Only one party needs to roll.
+In such a case, the GM is expected to adjust the relative difficulty of the roll to account for the skill of the opponent. During two-sided contests, only one party needs to roll because the failure of one party causes the opposing party to succeed.
 
-The fact that only one party needs to roll gives the GM some flexibility because rolls can be resolved by either party.
+The fact that only one party needs to roll gives the GM some flexibility because rolls can be initiated and resolved by either party.
 
 The winner of a contest is usually able to do what they attempted, but there may be additional consequences for both the loser and the winner, especially if they rolled a Boon or a Bane.
+
+### **Contest Example: Grappling**
+- A **warrior** attempts to grapple an opponent.
+  - The GM assigns the **warrior 3D6 (keeping the highest)** based on their comparative skill.
+- The **warrior rolls:** **2, 4, 5** → **Best Roll: 5 (Success!)**
+- **The opponent fails to resist and is grappled.**
+- The Atomic D6 roll is **1 (Bane effect triggered!).**
+- **Outcome:** The warrior successfully grapples the opponent but **overextends and falls prone.**
 
 ## Group Rolls
 
@@ -1132,13 +1140,21 @@ By default, when it is the players turn to act, they take turns around the table
 
 ### 1) Players take Action
 
-When a player announces their action, the GM assigns a difficulty to their roll, and they roll the appropriate number of dice.
+When a player announces their action, the GM assigns them a number of Skill Dice and tells them to keep the highest or lowest based on the difficulty of what they're attempting to do.
 
-When attacking, the difficulty of the roll should take into consideration the target's armor, their ability to parry, dodge, and resist, their level of alertness, and any other mitigating factors.
+When players attack an NPC, the GM should take these factors into consideration when setting the difficulty of the Skill Roll:
+
+- Range of the target
+- Armor
+- Resistances and Immunities
+- Target's level and ability to take Defensive Actions
+- Target's level of alertness
+- Cover
+- Other mitigating factors
 
 If the player succeeds on their roll, their attack is successful. A failure means their attack missed or was negated by their opponent's actions. A failure with Bane might even grant the enemy an immediate counterattack.
 
-Players may move either before or after they attack. A typical mortal can move one zone per combat turn without magical or technological augmentation. If they do nothing except move, they may move two zones.
+Players may move either before or after they attack. A typical mortal can move one zone per combat turn without augmentation, but if they do nothing else, they may move two zones.
 
 Players may also speak in turn-based play, but they are limited to ten syllables per turn.
 
@@ -1150,47 +1166,74 @@ On the NPCs turn, the GM may move them and declare their actions.
 
 When NPCs attack, the players roll to defend. If the players fail, the attack succeeds. Whether players are attacking or defending, it bears repeating that there is only one roll. Either the attacker or the defender rolls, but usually not both.
 
-Players may decide what kind of defensive action to take, for instance, they may dodge, block, parry, hide, counterspell, or even Judo throw. They're encouraged to be creative when narrating their actions.
+Players may decide what kind of defensive action to take, for instance, they may dodge, block, parry, hide, counterspell, or even a Judo throw, and they're encouraged to be creative when narrating their actions.
 
 Each of these actions have different difficulties depending upon the defender's situation, skills, and opponent.
 
 For each additional attacker after the first that characters must defend against, they receive an additional Malus on their defensive rolls.
 
-Defense and attack both come at a cost, and the GM may rule that a character in prolonged combat gains the "Fatigued" Aspect.
-
+#### Counterspell
 A Counterspell is bound by all of the same rules as any other magic spell. They are different only with regards to the fact that they are cast by a defender and they cannot take longer than one defensive turn to cast.
 
-Counterspells do not simply cancel out enemy offensive actions: they are full fledged spells that defend by adding additional effects. For instance, an Aquamancer might summon a shield made of water to block an enemy fireball.
+A Counterspell does not simply cancel out enemy offensive actions: they are full fledged spells that defend by adding additional effects. For instance, an Aquamancer might summon a shield made of water to simultaneously block and extinguish an enemy fireball.
+
+#### Defending someone else
+
+In melee, a typical character may attempt to defend any other character within the same zone, with the knowledge that they are risking life and limb in the process.
+
+Casters may attempt to counterspell an attack more than one zone away, but in that case, they are bound by the rules of ranged attacks.
 
 #### Suggestions for Defensive Actions:
-* Dodge
-  Jump out of the way.
-* Block
-  Stop the attack with a shield.
-* Parry
-  Knock the enemy's attack away with your weapon. Usually doesn't work against projectiles.
-* Counterspell
-  Cast a spell to try to negate an enemy attack.
-* Judo Throw
-  Use the force of the enemy attack to try to throw them with Martial Arts.
-* Cover
-  Hide behind something or someone
-* Something else
+- **Dodge** Jump out of the way.
+- **Block** Stop the attack with a shield.
+- **Parry** Knock the enemy's attack away with your weapon. Usually doesn't work against projectiles.
+- **Counterspell** Cast a spell to try to negate an enemy attack.
+- **Judo Throw** Use the force of the enemy attack to try to throw them with Martial Arts.
+- **Cover** Hit the deck or duck behind something or someone
+- **Something else** Be creative!
 
 ## Quick Skirmishes
 
 If the story warrants that a combat should be resolved quickly, the GM determines the difficulty of the entire battle and resolves it with a single roll.
 
-Alternatively, the GM may allow each player to roll individually in order to decide their fate during the battle and how much they had to exert themselves.
+As an alternative, the GM may allow each player to roll in order to decide their fate during the battle and determine how much they had to exert themselves.
+
+Large-scale battles between armies can be resolved as a series of quick skirmishes.
 
 ---
 
-## Large-Scale Battles
+## **Spellcasting**
 
-For larger battles, the GM may run a series of Quick Skirmishes.
+"Any sufficiently advanced technology is indistinguishable from magic." ~~**Arthur C. Clarke**
+
+Magic in *Atomic D6* is a powerful but risky force. A character must roll **Skill Dice** to determine if their spell succeeds or fails. By default, **casters only lose Stamina when a spell fails**.
+
+### **Casting a Spell**
+1. **Determine the caster’s skill level.**
+   - The GM assigns **Skill Dice** based on the caster’s expertise compared to the difficulty of the spell.
+2. **Roll the assigned Skill Dice to determine success or failure of the spell.**
+3. **If the spell fails, the caster loses 1 Stamina**
+4. GM interprets Boons and Banes in the context of spellcasting:
+  - **Boon:** The spell might have an **enhanced effect** or something beneficial happens to the caster.
+  - **Bane:** The spell might **misfire or backfire**, even if successful, or something detrimental happens to the caster.
+
+### **Running Out of Stamina**
+- If a caster reaches **0 Stamina**, they **can still cast spells**, but each failure **instead deals 1 Wound.**
 
 ---
 
+### **Variant Rule: Pay Stamina on Success** ###
+
+In this alternate rule, **casters only lose Stamina when they successfully cast a spell**. This makes magic **more reliable but also self-limiting**, as **powerful casters burn through stamina quickly.**
+
+- **Failure costs nothing** (but Banes may still cause side effects).
+- **Success costs 1 Stamina (or more, if Overcharging).**
+- **Casters must decide when to stop casting before they run out of stamina.**
+- **Running out of Stamina forces Overcasting, which causes Wounds instead of Stamina loss.**
+
+This system **encourages more frequent spellcasting** but ensures that **casters must manage their Stamina carefully.**
+
+---
 ## Tech. Levels of Civilizations
 
 ### **1 - Stone Age (Prehistoric Survivalists)**
