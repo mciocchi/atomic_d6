@@ -9,6 +9,13 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 
 ## Example Character Sheets
 ### Kaelion Veynor (3)
+Stamina:
+🫁
+🫁
+Wounds:
+♡ Slashed arm
+♡
+♡
 #### **Concept:** Cursed Prince Seeking Redemption
 Exiled heir to a once-prosperous kingdom, forced to wander after a betrayal by his closest ally.
 
@@ -1202,7 +1209,73 @@ Large-scale battles between armies can be resolved as a series of quick skirmish
 
 ---
 
-## **Spellcasting**
+## Wounds, Hearts, and Stamina
+
+Most mortals begin the game with two Stamina and three Wound Slots.
+
+When a character is hit by an attack, they receive a Wound or lose Stamina. If they have no more Stamina, they have no choice but to receive a Wound. Consuming Stamina in this way represents a character expending their energy to take evasive action.
+
+At the GM's discretion, some actions like sprinting or concentrating for a long period of time are particularly taxing and may also consume Stamina.
+
+Wounds can be either physical or mental. The first time players are injured in a location, they take a Minor Wound. If players are wounded in the same place again, before the Minor Wound heals, they receive a Major Wound.
+
+Major wounds have lingering effects, including long-term psychological damage, broken bones, amputation, bleeding, or infection.
+
+Mental wounds should not be underestimated. If a character loses their last heart due to a mental wound, they become catatonic, unable to take action or even eat, their personality having been shattered despite their body remaining in tact.
+
+Mental wounds can also be caused by non-combat situations.
+
+### Physical Wounds
+
+| **D6** | **Wound Location** |
+|------- |--------------------|
+| 1      | Foot               |
+| 2      | Hand               |
+| 3      | Leg                |
+| 4      | Arm                |
+| 5      | Torso              |
+| 6      | Head / Neck        |
+
+### Mental Wounds
+
+| **D20** | **Description**           |
+|---------|----------------------------|
+|   1     | Hoarding                   |
+|   2     | Compulsive Honesty         |
+|   3     | Compulsive Lying           |
+|   4     | Phobia                     |
+|   5     | Nightmares                 |
+|   6     | Involuntary Memories       |
+|   7     | Insomnia                   |
+|   8     | Anxiety                    |
+|   9     | Guilt                      |
+|   10    | Tremors                    |
+|   11    | Obsession                  |
+|   12    | Depression                 |
+|   13    | Uncontrollable Laughter    |
+|   14    | Uncontrollable Crying      |
+|   15    | Uncontrollable Anger       |
+|   16    | Narcolepsy                 |
+|   17    | Addiction                  |
+|   18    | Delusions                  |
+|   19    | Hallucinations             |
+|   20    | Amnesia                    |
+
+### Variant Rule: No Major Wounds
+
+If the players and GM decide to forego realism in the pursuit of fun, they may play the game without Major Wounds.
+
+---
+
+## Natural Healing
+
+Characters recover all Stamina after five minutes of low activity.
+
+When they wake up each morning, characters roll D6 for each Minor Wound they have. On 2 or higher, the wound is healed.
+
+Some Major Wounds cannot be healed naturally and require additional treatment.
+
+## Spellcasting
 
 "Any sufficiently advanced technology is indistinguishable from magic." ~~**Arthur C. Clarke**
 
