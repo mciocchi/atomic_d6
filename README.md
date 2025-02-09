@@ -1070,13 +1070,29 @@ Here are just a few examples of Boons and Banes in different situations. This is
 
 ## Contests
 
-A Contest is a roll that compares the skill of two or more characters that are trying to use their abilities to oppose one another.
+A Contest is a roll that compares the skill of one or more characters that are trying to use their abilities to oppose one or more other characters.
 
-In such a case, the GM is expected to adjust the relative difficulty of the roll to account for the skill of the opponent. During two-sided contests, only one party needs to roll because the failure of one party causes the opposing party to succeed.
+In such a case, the GM is expected to adjust the relative difficulty of the roll to account for the skill of the opposing party. During two-sided contests, only one party needs to roll because the failure of one party causes the opposing party to succeed.
 
 The fact that only one party needs to roll gives the GM some flexibility because rolls can be initiated and resolved by either party.
 
 The winner of a contest is usually able to do what they attempted, but there may be additional consequences for both the loser and the winner, especially if they rolled a Boon or a Bane.
+
+| Description                                             | Die to Roll      | Approximate |
+|                                                         |                  | Level       |
+|                                                         |                  | Difference  |
+|---------------------------------------------------------|------------------|-------------|
+| You effortlessly overpower an unskilled foe.            | Don't roll       | > 2         |
+| You face someone far below your skill level.            | 5D6 Keep Highest | 2           |
+| You have a clear advantage over your opponent.          | 4D6 Keep Highest |             |
+| You are superior in skill, and have the edge.           | 3D6 Keep Highest | 1           |
+| You are slightly better, but success is not guaranteed. | 2D6 Keep Highest |             |
+| You are evenly matched; the outcome is uncertain.       | 1D6              | 0           |
+| Your opponent has a slight edge over you.               | 2D6 Keep Lowest  |             |
+| Your opponent is noticeably stronger.                   | 3D6 Keep Lowest  | 1           |
+| You are completely outclassed.                          | 4D6 Keep Lowest  |             |
+| You face a far superior opponent.                       | 5D6 Keep Lowest  | 2           |
+| You are hopelessly outmatched.                          | Don't roll       | > 2         |
 
 ### **Contest Example: Grappling**
 - A **warrior** attempts to grapple an opponent.
@@ -1094,17 +1110,21 @@ In this case, the GM can call for a Group Roll, where each member of the group r
 
 For the sake of speed and simplicity, only one Atomic D6 should be rolled during a Group Roll.
 
-**Contests between two groups**
+### Group Contests
 
-Group Rolls can also be used in Contests. If two groups are opposing one another in a contest, the GM simply needs to adjust the difficulty of the roll accordingly.
+Usually opposing actions between groups are resolved by a single Contest roll, but the GM could also opt for a Group Roll if they want to engage all the players.
 
-**Contests between three or more parties**
+A Group Contest is run the same way as a Group Roll, but the DM must adjust the difficulty of each players roll to take the skill of the opposition into account.
 
-On rare occasion there are certain "battle royale" style contests where three or more individuals or groups are all competing against one another for the same goal.
+Only the members of one of the groups need to roll because their failure implies that the opposition won.
 
-In the case of a "battle royale," the GM may call for repeated rounds of rolls. At each round, the GM is expected to make note of which parties succeeded. The rounds continue until a clear ranking has been established, and the GM may define different consequences for first place, second place, and so on.
+If the majority of the players succeed on their rolls, the group wins the Contest.
 
-As is the case with other Group Contests, only one Atomic D6 should be rolled during a battle royale.
+### "Battle Royale" Contests
+
+On rare occasion, three or more individuals or groups are all competing against one another. In this case, the GM may call for repeated rounds of rolls. Anyone who fails gets eliminated from the contest. The rounds of rolls continue until only one winning party remains, or until all parties have been eliminated.
+
+As is the case with other Group Contests, only one Atomic D6 should be rolled during a Battle Royale.
 
 ## Notice / Stealth Rolls
 
