@@ -5,7 +5,7 @@
 
 ## Acknowledgements
 
-Atomic D6 takes its inspiration from too many sources and individuals to name, including, but not limited to: FATE Condensed, FUDGE 10th Anniversary Edition, EZD6, Mini Six, and Deathbringer.
+Atomic D6 takes its inspiration from too many sources and individuals to name, including, but not limited to: FATE Condensed, FUDGE 10th Anniversary Edition, EZD6, Mini Six, Deathbringer, and Atomic D20.
 
 ## Example Character Sheets
 ### Kaelion Veynor (3)
@@ -1155,7 +1155,7 @@ The GM can call for a Reaction Roll in order to determine whether characters hav
 
 Characters that fail to Notice a threat automatically fail their Reaction Roll to it.
 
-Incapacitated characters also automatically fail Reaction Rolls.
+Incapacitated characters automatically fail Reaction Rolls.
 
 ## Turn-Based Play
 
@@ -1231,7 +1231,9 @@ Large-scale battles between armies can be resolved as a series of quick skirmish
 
 ## Wounds, Hearts, and Stamina
 
-Most mortals begin the game with two Stamina and three Wound Slots.
+Most mortals begin the game with one Stamina and two Wound Slots.
+
+Player characters are heroes with supernormal abilities, and they usually start with five Stamina and three Wound Slots.
 
 When a character is hit by an attack, they receive a Wound or lose Stamina. If they have no more Stamina, they have no choice but to receive a Wound. Consuming Stamina in this way represents a character expending their energy to take evasive action.
 
@@ -1294,6 +1296,46 @@ Characters recover all Stamina after five minutes of low activity.
 When they wake up each morning, characters roll D6 for each Minor Wound they have. On 2 or higher, the wound is healed.
 
 Some Major Wounds cannot be healed naturally and require additional treatment.
+
+## Story Points
+Story Points allow players some control over the narrative.
+
+GMs are encouraged to make their own tables detailing ways that characters can earn Story Points.
+
+### Spending Story Points
+| **#** | **Description**                                     |
+|-------|-----------------------------------------------------|
+| 1     | Have a flashback                                    |
+| 2     | Avoid a Major Wound                                 |
+| 3     | Stop a trap or environmental hazard from activating |
+| 4     | Discover a hidden cache of equipment                |
+| 5     | Meet an unexpected ally                             |
+| 6     | Reroll                                              |
+| 7     | Force an opponent to reroll                         |
+| 8     | Introduce a twist to an existing plot               |
+| 9     | Introduce a new plotline                            |
+| 10    | Convince an NPC to change their mind                |
+| 11    | Introduce a new character                           |
+| 12    | Fast-forward through part of the story              |
+
+### Earning Story Points
+| **#** | **Description**                                                                |
+|-------|--------------------------------------------------------------------------------|
+| 1     | Rolling a new character after death                                            |
+| 2     | Receiving a Major Wound                                                        |
+| 3     | Roleplaying a character flaw                                                   |
+| 4     | Roleplaying a character strength as a flaw, depending on the situation         |
+| 5     | Inspired roleplay                                                              |
+| 6     | Creating or fulfilling a new Bond, personal quest, or long-term goal           |
+| 7     | Having something important to your character lost or destroyed.                |
+| 8     | Inventing a new Spell, Technique or item                                       |
+| 9     | Creating a new NPC and integrating them into the story                         |
+| 10    | Adding new lore to the game world                                              |
+| 11    | Creating a new place or historical event                                       |
+| 12    | Making an unexpected connection between two previously unrelated game elements |
+| 13    | Voluntarily taking a setback for the benefit of the team                       |
+| 14    | Creating a shared history or backstory connection with another player          |
+| 15    | Using one's environment and surroundings creatively                            |
 
 ## Spellcasting
 
