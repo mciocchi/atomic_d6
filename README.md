@@ -1014,7 +1014,7 @@ That's the power of the Atomic D6 Narrative Dice System: relative rolls allow th
 | Terrible          | 5D6 Keep Lowest  | -4B        | 2 levels higher           | 9              |
 | Nearly Impossible | Don't roll       | -5B        | More than 2 levels higher | < 9            |
 
-## Variant Rule: Atomic D20
+### Variant Rule: Atomic D20
 
 Some players feel an attachment to the D20, and they can't imagine playing Tabletop RPGs without it. These players may use the following table to convert their rolls into D20 instead of D6.
 
@@ -1044,7 +1044,16 @@ Some players feel an attachment to the D20, and they can't imagine playing Table
 | Nothing          | 3-4       |
 | Bane             | 1-2       |
 
-## Understanding the Atomic D6 in Context with Skill Rolls
+Whilst Skill Dice represent a character's ability, the Atomic D6 represents the narrative forces of chaos and fate, and everything outside of their control.
+
+In certain situations where many rolls are happening back to back, the GM may call for only one Atomic D6 for the sake of speed and simplicity.
+
+### Variant Rule: "There is no fate but what we make for ourselves."
+
+Some groups don't like the randomness that the Atomic D6 adds to the game. Others might want to substitute their own GM Oracle. In that case, they may choose to play without the Atomic D6.
+
+### Understanding the Atomic D6 in Context with Skill Rolls
+
 | **Description:** | **Result:**       |
 |------------------|-------------------|
 | "Yes, and..."    | Success with Boon |
@@ -1774,8 +1783,8 @@ The GM may also run any number of Domain Turns before starting a Narrative, as a
 1. **Players declare their Domain Actions.**
 2. **GM sets difficulty** based on scale and opposition.
 3. **Players roll Domain Skill Dice + Atomic D6.**
-4. **Outcomes are resolved.**
-5. **GM Rolls for random Domain Events**
+4. **Outcomes are resolved, GM calls for Players to roleplay scenes if necessary.**
+5. **GM Rolls to determine random Domain Events**
 
 ---
 ## **Domain Actions**
