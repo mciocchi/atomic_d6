@@ -235,11 +235,11 @@ Some players feel an attachment to the D20, and they can't imagine playing Table
 | Nearly Impossible | Don't roll       | -5B        | More than 2 levels higher | < 10           |
 
 ## The Atomic D6
-| **Description:** | **Roll:** |
-|------------------|-----------|
-| Boon             | 5-6       |
-| Nothing          | 3-4       |
-| Bane             | 1-2       |
+| **Roll:** | **Description:** |
+|-----------|------------------|
+| 5-6       | Boon             |
+| 3-4       | Nothing          |
+| 1-2       | Bane             |
 
 Whilst Skill Dice represent a character's ability, the Atomic D6 represents the narrative forces of chaos and fate, and everything outside of their control.
 
@@ -437,36 +437,58 @@ Large-scale battles between armies can be resolved as a series of quick skirmish
 
 ---
 
-# Wounds, Hearts, and Stamina
+# Stamina, Wounds, and Scars
 
 Most mortals begin the game with one Stamina and two Wound Slots.
 
 Player characters are heroes with supernormal abilities, and they usually start with three Stamina and three Wound Slots.
 
-When a character is hit by an attack, they receive a Wound or lose Stamina. If they have no more Stamina, they have no choice but to receive a Wound. Consuming Stamina in this way represents a character expending their energy to take evasive action.
+## Stamina
+
+When a character takes damage, they lose Stamina. Consuming Stamina in this way represents a character getting the wind knocked out of them, or expending their energy to take evasive action.
 
 At the GM's discretion, some actions like sprinting or concentrating for a long period of time are particularly taxing and may also consume Stamina.
 
-Wounds can be either physical or mental. The first time players are injured in a location, they take a Minor Wound. If players are wounded in the same place again, before the Minor Wound heals, they receive a Major Wound.
+### Eating and Drinking
 
-Major wounds have lingering effects, including long-term psychological damage, broken bones, amputation, bleeding, or infection.
+Characters recover Stamina naturally by sleeping or taking 30 minutes of light activity to eat and drink.
 
-Mental wounds should not be underestimated. If a character loses their last heart due to a mental wound, they become catatonic, unable to take action or even eat, their personality having been shattered despite their body remaining in tact.
+At that point, they may roll for each point of Stamina that they have lost. Characters usually receive +4B to recover Stamina in this way, but that may change depending upon the quality of the rations and how they were prepared.
 
-Mental wounds can also be caused by non-combat situations.
+## Wounds
 
-## Physical Wounds
+Wounds represent damage to a character which can be either physical or mental.
 
-| **D6** | **Wound Location** |
-|------- |--------------------|
-| 1      | Foot               |
-| 2      | Hand               |
-| 3      | Leg                |
-| 4      | Arm                |
-| 5      | Torso              |
-| 6      | Head / Neck        |
+When characters take damage and they have no more Stamina to lose, they take a Wound.
 
-## Mental Wounds
+### Sleep
+
+Wounds have a chance to heal naturally after characters have slept for eight hours.
+
+Upon waking, characters roll for for each Wound they have, in order to determine if it has healed, and they receive +2. At this time, characters may also receive +5 (success guaranteed) to recover Stamina, but these Bonuses may vary in the case of poor or interrupted sleep.
+
+## Scars
+
+If characters accumulate two Wounds in the same location or suffer a particularly grievous injury, they receive a Scar.
+
+Scars are Aspects of a character that have lingering effects, including long-term psychological damage, broken bones, amputation, bleeding, or infection.
+
+Most scars do not heal naturally and require specialized treatment in order to be removed.
+
+## Physical Scars
+
+The exact type of scar depends upon the type of physical damage that caused it.
+
+| **D6** | **Location** |
+|--------|--------------|
+| 1      | Foot         |
+| 2      | Hand         |
+| 3      | Leg          |
+| 4      | Arm          |
+| 5      | Torso        |
+| 6      | Head / Neck  |
+
+## Mental Scars
 
 | **D20** | **Description**           |
 |---------|----------------------------|
@@ -491,15 +513,29 @@ Mental wounds can also be caused by non-combat situations.
 |   19    | Hallucinations             |
 |   20    | Amnesia                    |
 
+---
+
 ## Variant Rule: No Major Wounds
 
 If the players and GM decide to forego realism in the pursuit of fun, they may play the game without Major Wounds.
 
 ---
 
+## A note on Cybernetic, post-human, or alien species
+
+Not all species eat and sleep in the same way that humans do.
+
+Instead of eating and sleeping, cybernetic organisms are assumed to be rebooting, charging, and performing maintenance protocols.
+
+Likewise, instead of medicine, these species may require repair.
+
+The exact rules for different species can be handled on a case-by-case basis.
+
+---
+
 # Death
 
-When all of a character's wound slots are filled, they begin to die, and they may choose how to spend their last breaths:
+When all of a character's Wounds have been used, they begin to die, and they may choose how to spend their last breaths:
 
 ## Inspiring last words
 
@@ -521,13 +557,9 @@ You become incapacitated and focus all your energy on staying alive. Roll D6 at 
 
 If you receive medical attention while you are incapacitated, you may make this roll with +1B.
 
-# Natural Healing
+### Death by Mental Wounds
 
-Characters recover all Stamina after five minutes of low activity.
-
-When they wake up each morning, characters roll D6 for each Minor Wound they have. On 2 or higher, the wound is healed.
-
-Some Major Wounds cannot be healed naturally and require additional treatment.
+In Atomic D6, Mental Wounds are considered to be just as deadly as physical ones. When a character dies due to Mental Wounds, their body remains in tact, but their personality is destroyed by the gravity of the cosmic horrors that they have witnessed. They are unresponsive, unable even to eat or drink, and nothing short of a magical or technological miracle can bring them back.
 
 # Story Points
 Story Points allow players some control over the narrative.
