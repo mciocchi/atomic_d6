@@ -15,7 +15,9 @@ Stamina:
 
 Wounds:
 ♡ Slashed arm
+
 ♡
+
 ♡
 ### **Concept:** Cursed Prince Seeking Redemption
 Exiled heir to a once-prosperous kingdom, forced to wander after a betrayal by his closest ally.
@@ -1635,9 +1637,10 @@ Below are example spells at different power levels, showcasing **how spell resol
 |        |                  | session.                                          |
 | 5      | Scene            | A single continuous unit of action, typically     |
 |        |                  | lasting several beats.                            |
-| 6      | Beat             | A single turn within turn-based play.             |
+| 6      | Beat             | A single turn within turn-based play, a part of a |
+|        |                  | Scene.                                            |
 | 7      | Moment           | A brief but significant point in time within a    |
-|        |                  | scene, often influencing its direction.           |
+|        |                  | Beat, often influencing its direction.            |
 | 8      | Instant          | An event that happens immediately, without delay. |
 
 ## Flashbacks:
@@ -1692,8 +1695,6 @@ Solo play provides a way for players to explore narratives at their own pace, ex
 
 ---
 
-
-```markdown
 # Domain-Level Play
 ## **Overview**
 At higher levels of play, characters might gain control over **Domains**—kingdoms, factions, corporations, or empires. This system allows players to engage in large-scale **politics, warfare, economics, and diplomacy** while preserving Atomic D6's streamlined mechanics.
