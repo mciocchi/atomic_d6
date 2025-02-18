@@ -12,6 +12,7 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 
 ```
 # Kaelion Veynor (3)
+
 Stamina:
 🫁 🫁 🫁
 
@@ -20,27 +21,47 @@ Wounds:
 ♡ Slashed arm
 ♡
 ♡
-### **Concept:** Cursed Prince Seeking Redemption
-Exiled heir to a once-prosperous kingdom, forced to wander after a betrayal by his closest ally.
 
-### **Heritage:** Half-Elf
+## **Concept:** Cursed Prince Seeking Redemption
+
+Exiled heir to a once-prosperous kingdom, forced to wander after a betrayal by
+his closest ally.
+
+## **Heritage:** Half-Elf
+
 Agile and keen senses, but ostracized by both human and elven societies.
 
-### **Strength:** Master Swordsman
-Renowned for precise and deadly swordplay.
+## **Strength:** Unyielding Will
 
-### **Bond:** Loyal to his younger sister
+Kaelion refuses to falter, pushing through pain, exhaustion, and even magical
+influence. His sheer determination grants him resistance against mind-affecting
+effects and allows him to keep fighting even when gravely wounded. However, his
+unwillingness to retreat, stubbornness in diplomacy, and disregard for limits
+can lead to unnecessary risks, conflicts, or self-destruction. His allies may
+rely on him too much, and his refusal to yield may cost him dearly when wisdom
+calls for caution.
+
+## **Bond:** Loyal to his younger sister
+
 The last surviving member of his family.
 
-### **Flaw:** Haunted by Guilt
+## **Flaw:** Haunted by Guilt
+
 Struggles to trust others and often second-guesses his actions.
 
-### **The Mark of Ruin**
-  A magical curse symbol on his arm. Once per session, Kaelion can invoke it for a significant magical effect, but it also causes unpredictable side effects.
+## **Fighting Style:** Swordsman
+
+Renowned for precise and deadly swordplay, Kaelion was trained to wield a sword
+from a young age.
+
+## **The Mark of Ruin**
+
+A magical curse symbol on his arm. Once per session, Kaelion can invoke it for
+a significant magical effect, but it also causes unpredictable side effects.
 
 ---
 
-### **Inventory**
+## **Inventory**
 
   - Enchanted Longsword, *Moonshade*
     – Grants Bonuses in low-light conditions.
@@ -1855,6 +1876,39 @@ Holdings:
   - Imperial Treasury (Gold reserves & taxation system)
   - Arcane Academy (Center of magical knowledge)
 
+
+# Blank Character Sheet
+```
+# NAME
+
+Stamina:
+🫁 🫁 🫁
+
+Wounds:
+
+♡
+♡
+♡
+
+## **Concept:**
+
+## **Heritage:**
+
+## **Strength:**
+
+## **Bond:**
+
+## **Flaw:**
+
+## **Fighting Style:**
+
+---
+
+## **Inventory**
+
+```
+
+---
 
 # Glossary
 
