@@ -2018,15 +2018,15 @@ This is by no means an exhaustive list. It exists merely to provide a jumping-of
 
 # Glossary
 
-- **+1B**: Shorthand for one Boon
-- **-1B**: Shorthand for one Bane
-- **Boon**: A positive narrative beat
+- **+1B**: Shorthand for one Bonus
+- **-1B**: Shorthand for one Malus
 - **Bane**: A negative narrative beat
+- **Boon**: A positive narrative beat
 - **Bonus**: A positive effect that increases someone's chance to succeed on a roll.
-- **Malus**: A negative effect that reduces a character's chance to succeed on a roll.
+- **D6**: Six sided die.
+- **D20**: Twenty sided die.
 - **GM**: Game Master, the game's storyteller and referee.
-- **1D**: One six-sided die.
-
+- **Malus**: A negative effect that reduces a character's chance to succeed on a roll.
 
 # The Five Mutually Reenforcing Design Principles of Atomic D6
 ## Fun
