@@ -8,38 +8,60 @@ Atomic D6
 
 Atomic D6 takes its inspiration from too many sources and individuals to name, including, but not limited to: FATE Condensed, FUDGE 10th Anniversary Edition, EZD6, Mini Six, Deathbringer, and Atomic D20.
 
-# Example Character Sheets
-## Kaelion Veynor (3)
+# Example Character Sheet
+
+```
+# Kaelion Veynor (3)
+
 Stamina:
 🫁 🫁 🫁
 
 Wounds:
+
 ♡ Slashed arm
-
+♡
 ♡
 
-♡
-### **Concept:** Cursed Prince Seeking Redemption
-Exiled heir to a once-prosperous kingdom, forced to wander after a betrayal by his closest ally.
+## **Concept:** Cursed Prince Seeking Redemption
 
-### **Heritage:** Half-Elf
+Exiled heir to a once-prosperous kingdom, forced to wander after a betrayal by
+his closest ally.
+
+## **Heritage:** Half-Elf
+
 Agile and keen senses, but ostracized by both human and elven societies.
 
-### **Strength:** Master Swordsman
-Renowned for precise and deadly swordplay.
+## **Strength:** Unyielding Will
 
-### **Bond:** Loyal to his younger sister
+Kaelion refuses to falter, pushing through pain, exhaustion, and even magical
+influence. His sheer determination grants him resistance against mind-affecting
+effects and allows him to keep fighting even when gravely wounded. However, his
+unwillingness to retreat, stubbornness in diplomacy, and disregard for limits
+can lead to unnecessary risks, conflicts, or self-destruction. His allies may
+rely on him too much, and his refusal to yield may cost him dearly when wisdom
+calls for caution.
+
+## **Bond:** Loyal to his younger sister
+
 The last surviving member of his family.
 
-### **Flaw:** Haunted by Guilt
+## **Flaw:** Haunted by Guilt
+
 Struggles to trust others and often second-guesses his actions.
 
-### **The Mark of Ruin**
-  A magical curse symbol on his arm. Once per session, Kaelion can invoke it for a significant magical effect, but it also causes unpredictable side effects.
+## **Fighting Style:** Swordsman
+
+Renowned for precise and deadly swordplay, Kaelion was trained to wield a sword
+from a young age.
+
+## **The Mark of Ruin**
+
+A magical curse symbol on his arm. Once per session, Kaelion can invoke it for
+a significant magical effect, but it also causes unpredictable side effects.
 
 ---
 
-### **Inventory**
+## **Inventory**
 
   - Enchanted Longsword, *Moonshade*
     – Grants Bonuses in low-light conditions.
@@ -51,8 +73,9 @@ Struggles to trust others and often second-guesses his actions.
   - A medallion belonging to his sister, imbued with faint protective magic.
   - Small pouch of herbs for treating minor wounds.
 
----
+```
 
+---
 # What is an Aspect?
 
 **Aspects are things that a character has.** As long as a character has an Aspect, it is true. If the Aspect ceases to be true, or if the character no longer has it, it is removed from their sheet.
@@ -1014,7 +1037,7 @@ That's the power of the Atomic D6 Narrative Dice System: relative rolls allow th
 | Terrible          | 5D6 Keep Lowest  | -4B        | 2 levels higher           | 9              |
 | Nearly Impossible | Don't roll       | -5B        | More than 2 levels higher | < 9            |
 
-## Variant Rule: Atomic D20
+### Variant Rule: Atomic D20
 
 Some players feel an attachment to the D20, and they can't imagine playing Tabletop RPGs without it. These players may use the following table to convert their rolls into D20 instead of D6.
 
@@ -1044,7 +1067,16 @@ Some players feel an attachment to the D20, and they can't imagine playing Table
 | Nothing          | 3-4       |
 | Bane             | 1-2       |
 
-## Understanding the Atomic D6 in Context with Skill Rolls
+Whilst Skill Dice represent a character's ability, the Atomic D6 represents the narrative forces of chaos and fate, and everything outside of their control.
+
+In certain situations where many rolls are happening back to back, the GM may call for only one Atomic D6 for the sake of speed and simplicity.
+
+### Variant Rule: "There is no fate but what we make for ourselves."
+
+Some groups don't like the randomness that the Atomic D6 adds to the game. Others might want to substitute their own GM Oracle. In that case, they may choose to play without the Atomic D6.
+
+### Understanding the Atomic D6 in Context with Skill Rolls
+
 | **Description:** | **Result:**       |
 |------------------|-------------------|
 | "Yes, and..."    | Success with Boon |
@@ -1774,8 +1806,8 @@ The GM may also run any number of Domain Turns before starting a Narrative, as a
 1. **Players declare their Domain Actions.**
 2. **GM sets difficulty** based on scale and opposition.
 3. **Players roll Domain Skill Dice + Atomic D6.**
-4. **Outcomes are resolved.**
-5. **GM Rolls for random Domain Events**
+4. **Outcomes are resolved, GM calls for Players to roleplay scenes if necessary.**
+5. **GM Rolls to determine random Domain Events**
 
 ---
 ## **Domain Actions**
@@ -1844,6 +1876,39 @@ Holdings:
   - Imperial Treasury (Gold reserves & taxation system)
   - Arcane Academy (Center of magical knowledge)
 
+
+# Blank Character Sheet
+```
+# NAME
+
+Stamina:
+🫁 🫁 🫁
+
+Wounds:
+
+♡
+♡
+♡
+
+## **Concept:**
+
+## **Heritage:**
+
+## **Strength:**
+
+## **Bond:**
+
+## **Flaw:**
+
+## **Fighting Style:**
+
+---
+
+## **Inventory**
+
+```
+
+---
 
 # Glossary
 
