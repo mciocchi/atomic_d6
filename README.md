@@ -8,16 +8,17 @@ Atomic D6
 
 Atomic D6 takes its inspiration from too many sources and individuals to name, including, but not limited to: FATE Condensed, FUDGE 10th Anniversary Edition, EZD6, Mini Six, Deathbringer, and Atomic D20.
 
-# Example Character Sheets
-## Kaelion Veynor (3)
+# Example Character Sheet
+
+```
+# Kaelion Veynor (3)
 Stamina:
 🫁 🫁 🫁
 
 Wounds:
+
 ♡ Slashed arm
-
 ♡
-
 ♡
 ### **Concept:** Cursed Prince Seeking Redemption
 Exiled heir to a once-prosperous kingdom, forced to wander after a betrayal by his closest ally.
@@ -51,8 +52,9 @@ Struggles to trust others and often second-guesses his actions.
   - A medallion belonging to his sister, imbued with faint protective magic.
   - Small pouch of herbs for treating minor wounds.
 
----
+```
 
+---
 # What is an Aspect?
 
 **Aspects are things that a character has.** As long as a character has an Aspect, it is true. If the Aspect ceases to be true, or if the character no longer has it, it is removed from their sheet.
