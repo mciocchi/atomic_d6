@@ -8,13 +8,42 @@ Atomic D6
 
 Atomic D6 takes its inspiration from too many sources and individuals to name, including, but not limited to: FATE Condensed, FUDGE 10th Anniversary Edition, EZD6, Mini Six, Deathbringer, and Atomic D20.
 
+# Index
+
+[Licensing](#Licensing)
+[Acknowledgements](#Acknowledgements)
+[Index](#Index)
+[Example Character Sheet](#Example-Character-Sheet)
+[What is an Aspect?](#What-is-an-Aspect?)
+[Character Creation](#Character-Creation)
+[Character Progression](#Character-Progression)
+[Rolls](#Rolls)
+[Contests](#Contests)
+[Group Rolls](#Group-Rolls)
+[Notice / Stealth Rolls](#Notice-/-Stealth-Rolls)
+[Reaction Rolls](#Reaction-Rolls)
+[Turn-Based Play](#Turn-Based-Play)
+[Quick Skirmishes](#Quick-Skirmishes)
+[Stamina, Wounds, and Scars](#Stamina,-Wounds,-and-Scars)
+[Death](#Death)
+[Story Points](#Story-Points)
+[Spellcasting](#Spellcasting)
+[Tech. Levels of Civilizations](#Tech.-Levels-of-Civilizations)
+[Time](#Time)
+[Playing Multiple Characters](#Playing-Multiple-Characters)
+[Domains](#Domains)
+[Blank Character Sheet](#Blank-Character-Sheet)
+[Ability Examples by Discipline](#Ability-Examples-by-Discipline)
+[Glossary](#Glossary)
+[The Five Mutually Reenforcing Design Principles of Atomic D6](#The-Five-Mutually-Reenforcing-Design-Principles-of-Atomic-D6)
+
 # Example Character Sheet
 
 ```
 # Kaelion Veynor (3)
 
 Stamina:
-🫁 🫁 🫁
+[x] [x] [ ]
 
 Wounds:
 
@@ -76,6 +105,7 @@ a significant magical effect, but it also causes unpredictable side effects.
 ```
 
 ---
+
 # What is an Aspect?
 
 **Aspects are things that a character has.** As long as a character has an Aspect, it is true. If the Aspect ceases to be true, or if the character no longer has it, it is removed from their sheet.
@@ -199,17 +229,17 @@ That's the power of the Atomic D6 Narrative Dice System: relative rolls allow th
 
 | **Difficulty:**   | **Die to Roll:** | **Bonus:** | **Level Difference:**     | **% Success:** |
 |:------------------|:-----------------|:-----------|:--------------------------|:---------------|
-| Trivial           | Don't roll       | +5B        | More than 2 levels lower  | > 91           |
-| Superb            | 5D6 Keep Highest | +4B        | 2 levels lower            | 91             |
-| Excellent         | 4D6 Keep Highest | +3B        |                           | 87             |
-| Great             | 3D6 Keep Highest | +2B        | 1 level lower             | 74             |
-| Good              | 2D6 Keep Highest | +1B        |                           | 58             |
-| Middling          | 1D6              | +0B        | Equivalent                | 50             |
-| Poor              | 2D6 Keep Lowest  | -1B        |                           | 42             |
-| Bad               | 3D6 Keep Lowest  | -2B        | 1 level higher            | 26             |
-| Awful             | 4D6 Keep Lowest  | -3B        |                           | 13             |
-| Terrible          | 5D6 Keep Lowest  | -4B        | 2 levels higher           | 9              |
-| Nearly Impossible | Don't roll       | -5B        | More than 2 levels higher | < 9            |
+| Trivial           | Don't roll       | +5         | More than 2 levels lower  | > 91           |
+| Superb            | 5D6 Keep Highest | +4         | 2 levels lower            | 91             |
+| Excellent         | 4D6 Keep Highest | +3         |                           | 87             |
+| Great             | 3D6 Keep Highest | +2         | 1 level lower             | 74             |
+| Good              | 2D6 Keep Highest | +1         |                           | 58             |
+| Middling          | 1D6              | +0         | Equivalent                | 50             |
+| Poor              | 2D6 Keep Lowest  | -1         |                           | 42             |
+| Bad               | 3D6 Keep Lowest  | -2         | 1 level higher            | 26             |
+| Awful             | 4D6 Keep Lowest  | -3         |                           | 13             |
+| Terrible          | 5D6 Keep Lowest  | -4         | 2 levels higher           | 9              |
+| Nearly Impossible | Don't roll       | -5         | More than 2 levels higher | < 9            |
 
 ### Variant Rule: Atomic D20
 
@@ -222,17 +252,17 @@ Some players feel an attachment to the D20, and they can't imagine playing Table
 
 | **Difficulty:**   | **Die to Roll:** | **Bonus:** | **Level Difference:**     | **% Success:** |
 |:------------------|:-----------------|:-----------|:--------------------------|:---------------|
-| Trivial           | Don't roll       | +5B        | More than 2 levels lower  | > 90           |
-| Superb            | 1D20+8           | +4B        | 2 levels lower            | 90             |
-| Excellent         | 1D20+6           | +3B        |                           | 80             |
-| Great             | 1D20+4           | +2B        | 1 level lower             | 70             |
-| Good              | 1D20+2           | +1B        |                           | 60             |
-| Middling          | 1D20+0           | +0B        | Equivalent                | 50             |
-| Poor              | 1D20-2           | -1B        |                           | 40             |
-| Bad               | 1D20-4           | -2B        | 1 level higher            | 30             |
-| Awful             | 1D20-6           | -3B        |                           | 20             |
-| Terrible          | 1D20-8           | -4B        | 2 levels higher           | 10             |
-| Nearly Impossible | Don't roll       | -5B        | More than 2 levels higher | < 10           |
+| Trivial           | Don't roll       | +5         | More than 2 levels lower  | > 90           |
+| Superb            | 1D20+8           | +4         | 2 levels lower            | 90             |
+| Excellent         | 1D20+6           | +3         |                           | 80             |
+| Great             | 1D20+4           | +2         | 1 level lower             | 70             |
+| Good              | 1D20+2           | +1         |                           | 60             |
+| Middling          | 1D20+0           | +0         | Equivalent                | 50             |
+| Poor              | 1D20-2           | -1         |                           | 40             |
+| Bad               | 1D20-4           | -2         | 1 level higher            | 30             |
+| Awful             | 1D20-6           | -3         |                           | 20             |
+| Terrible          | 1D20-8           | -4         | 2 levels higher           | 10             |
+| Nearly Impossible | Don't roll       | -5         | More than 2 levels higher | < 10           |
 
 ## The Atomic D6
 | **Roll:** | **Description:** |
@@ -264,11 +294,11 @@ Some groups don't like the randomness that the Atomic D6 adds to the game. Other
 
 Azrick the Bard is attempting to ingratiate himself with Lord Axebender in an attempt to gain access to his private collection of tomes. He hopes that one of the books will reveal the last known location of a powerful magic artifact. He decides to perform a ballad in front of the court.
 
-Azrick's character sheet states that his Concept is "Traveling Minstrel" and he has "Musician" as his Strength, so the GM grants him 2 Bonuses (+2B), one for each relevant Aspect.
+Azrick's character sheet states that his Concept is "Traveling Minstrel" and he has "Musician" as his Strength, so the GM grants him 2 Bonuses (+2), one for each relevant Aspect.
 
-Azrick is an Apprentice Bard, which means he's level 2, and the song he's attempting to perform is also about as difficult as an Apprentice can play (level 2.) Because he's attempting a Feat of equal level to his own, his chance of success neither increases nor decreases, and remains at +2B.
+Azrick is an Apprentice Bard, which means he's level 2, and the song he's attempting to perform is also about as difficult as an Apprentice can play (level 2.) Because he's attempting a Feat of equal level to his own, his chance of success neither increases nor decreases, and remains at +2.
 
-Unless the GM specifies otherwise, +2B grants Azrick two additional dice, up to 3D6, which means his chance of success is "Great."
+Unless the GM specifies otherwise, +2 grants Azrick two additional dice, up to 3D6, which means his chance of success is "Great."
 
 Azrick rolls 4,3, Success! Everyone claps, and Lord Axebender has been convinced to grant him access to his library!
 
@@ -302,9 +332,9 @@ The winner of a contest is usually able to do what they attempted, but there may
 
 ## **Contest Example: Grappling**
 - A **warrior** attempts to grapple an opponent.
-- The warrior has 1 relevant Aspect, so he receives +1B
-- He's also one level higher than his opponent, which gets an additional +2B.
-- His opponent also has +1B, which gets subtracted because he's in opposition.
+- The warrior has 1 relevant Aspect, so he receives +1
+- He's also one level higher than his opponent, which gets an additional +2.
+- His opponent also has +1, which gets subtracted because he's in opposition.
 - The warrior rolls 2D6 Keep Highest **2, 5** **Best Roll: 5 (Success!)**
 - **He successfully grapples his opponent.**
 - The Atomic D6 roll is **1 (Bane effect triggered!).**
@@ -322,7 +352,7 @@ For the sake of speed and simplicity, only one Atomic D6 should be rolled during
 
 Usually opposing actions between groups are resolved by a single Contest roll, but the GM could also opt for a Group Roll if they want to engage all the players.
 
-A Group Contest is run the same way as a Group Roll, but the DM must adjust the difficulty of each players roll to take the skill of the opposition into account.
+A Group Contest is run the same way as a Group Roll, but the GM must adjust the difficulty of each players roll to take the skill of the opposition into account.
 
 Only the members of one of the groups need to roll because their failure implies that the opposition won.
 
@@ -453,7 +483,7 @@ At the GM's discretion, some actions like sprinting or concentrating for a long 
 
 Characters recover Stamina naturally by sleeping or taking 30 minutes of light activity to eat and drink.
 
-At that point, they may roll for each point of Stamina that they have lost. Characters usually receive +4B to recover Stamina in this way, but that may change depending upon the quality of the rations and how they were prepared.
+At that point, they may roll for each point of Stamina that they have lost. Characters usually receive +4 to recover Stamina in this way, but that may change depending upon the quality of the rations and how they were prepared.
 
 ## Wounds
 
@@ -555,7 +585,7 @@ You become incapacitated and focus all your energy on staying alive. Roll D6 at 
 | 4-5: | Survive for another turn.                                         |
 | 1-3: | Slip into the abyss and die.                                      |
 
-If you receive medical attention while you are incapacitated, you may make this roll with +1B.
+If you receive medical attention while you are incapacitated, you may make this roll with +1.
 
 ### Death by Mental Wounds
 
@@ -933,7 +963,7 @@ Solo play provides a way for players to explore narratives at their own pace, ex
 
 ---
 
-# Domain-Level Play
+# Domains
 ## **Overview**
 At higher levels of play, characters might gain control over **Domains**—kingdoms, factions, corporations, or empires. This system allows players to engage in large-scale **politics, warfare, economics, and diplomacy** while preserving Atomic D6's streamlined mechanics.
 
@@ -985,6 +1015,24 @@ During each Domain Turn, leaders may issue standing orders to their Ministers, w
 
 If leaders are out of communication, their Ministers will follow standing orders and do their best to react to any situations that arise.
 
+## **Gaining Aspects from Domains**
+When a character is part of a Domain (such as a Faction, Kingdom, or Guild), they can gain an Aspect that represents their role, rank, and influence within that Domain.
+
+These Aspects change how people react to the character. They might grant **Bonuses** or **Maluses** in relevant situations, and they might allow characters access to new resources.
+
+| **Aspect Example**                    | **Bonus**                                 | **Malus**                                   |
+|---------------------------------------|-------------------------------------------|---------------------------------------------|
+| **"Knight of the Sun Court"**         | +1 when negotiating with nobility         | -1 when dealing with criminal organizations |
+| **"Member of the Alchemist’s Guild"** | +1 to crafting potions                    | -1 when bartering outside the guild         |
+| **"Crimson Blades Enforcer"**         | +1 to intimidation in mercenary contracts | -1 when dealing with nobility               |
+
+### **Changing Domain Aspects**
+- **Promotion or Demotion**: Characters may gain or lose ranks within a Domain, altering their Aspects.
+- **Defection or Betrayal**: Leaving a Domain may replace the Aspect with something negative (e.g., *"Exiled from the Sun Court"*).
+- **Multiple Domain Aspects**: A character may belong to multiple Domains, but they might find it increasingly difficult to manage split allegiances.
+
+By treating Domains as living, evolving entities, these Aspects help shape how characters interact with the world and how the world reacts to them.
+
 ## **Domain Levels**
 A Domain's **Level** represents its scale and influence.
 
@@ -1000,9 +1048,10 @@ A Domain's **Level** represents its scale and influence.
 | **7**     | Planetary          | A planetary empire, a world religion          |
 | **8**     | Stellar            | An interstellar republic, a galactic megacorp |
 | **9**     | Galactic           | A civilization spanning star systems          |
-| **10**    | Universal          | A force shaping reality itself                |
+| **10**    | Universal          | A pantheon shaping reality itself             |
 
 ---
+
 ## **Domain Turns**
 
 Domain Turns happen in-between sessions, when characters have downtime.
@@ -1019,10 +1068,10 @@ The GM may also run any number of Domain Turns before starting a Narrative, as a
 ## **Domain Actions**
 Because the rules of Atomic D6 can scale infinitely, Domain Actions are resolved by the same mechanics as individual actions. Domains can attempt Feats and Contests just like an individual or small group can.
 
-- **For each level the acting Domain is higher, it gains +2B.**
-- **For each level the acting Domain is lower, it suffers -2B.**
-- If a Domain has a beneficial Aspect relating to the roll, they gain +1B
-- Detrimental Aspects grant -1B
+- **For each level the acting Domain is higher, it gains +2.**
+- **For each level the acting Domain is lower, it suffers -2.**
+- If a Domain has a beneficial Aspect relating to the roll, they gain +1
+- Detrimental Aspects grant -1
 
 Domains can take actions in key areas:
 
@@ -2050,8 +2099,8 @@ This is by no means an exhaustive list. It exists merely to provide a jumping-of
 
 # Glossary
 
-- **+1B**: Shorthand for one Bonus
-- **-1B**: Shorthand for one Malus
+- **+1**: Shorthand for one Bonus
+- **-1**: Shorthand for one Malus
 - **Bane**: A negative narrative beat
 - **Boon**: A positive narrative beat
 - **Bonus**: A positive effect that increases someone's chance to succeed on a roll.
