@@ -153,7 +153,7 @@ Later on, Kaelion might show his bitten leg to a shopkeeper in order to garner s
 
 Fill out the following sections of your Character Sheet during creation:
 
-## Starting Aspects
+## Choosing Starting Aspects Before Game
 
 Each character starts with **seven core Aspects** that define them. The following Aspects are recommended, but GMs and Players may decide to start with different ones.
 
@@ -172,6 +172,46 @@ A character's Aspects grant them a bonus or a detriment to any skills that are r
 6. **Flaw**: A weakness or shortcoming that makes your character more realistic. Flaws drive tension in the narrative and create interesting story opportunities.
 
 7. **Fighting Style**: What skills the character relies upon in combat.
+
+---
+
+## Variant Rule: Dynamic Character Creation
+
+Atomic D6 allows players to **discover their characters organically** rather than defining everything at the start. Instead of choosing all of their Aspects before the game begins, players start with a **blank character sheet** and develop their Aspects as they play.
+
+This style of play works great for single-session campaigns or groups that want to start at Level 0.
+
+### **How It Works**
+1. **Begin Play with No Defined Aspects**
+   - Players do **not** start with their 7 Aspects written down. Their character exists but has no predefined strengths, weaknesses, or background beyond a basic concept.
+
+2. **Define Aspects When They Become Relevant**
+   - When a player attempts an action, they have three options:
+     - **Use a relevant existing Aspect (if they have one).**
+     - **Create a new Aspect on the spot.**
+     - **Decide that they have no relevant Aspects and roll without a Bonus or Malus.**
+   - Once an Aspect is created, it is added to their character sheet.
+
+3. **Filling the Seven Starting Aspects**
+   - Over the course of play, characters gradually define their seven starting Aspects.
+   - Each Aspect can be developed **organically through action** rather than predetermined.
+   - Characters can fill in their remaining Aspects in between sessions, as long as the GM approves their choices.
+   - If they don't choose a flaw, the GM may roll one for them
+
+### **Example in Play**
+- **Scenario:** The GM asks a player to roll to sneak past a guard.
+- **Player Decision:** The player doesn’t have any Aspects yet.
+- **Option 1:** The player invents an Aspect like **“Streetwise Urchin”** (+1B to urban stealth and thievery).
+- **Option 2:** The player could choose to roll without a Bonus and define an Aspect later.
+- **Result:** The new Aspect **remains on the character sheet** and can be used in future situations.
+
+### **Benefits of Dynamic Character Creation**
+- **Encourages roleplay-driven character growth.**
+- **Prevents players from getting stuck in early choices.**
+- **Makes each character unique based on how they play.**
+- **Eliminates analysis paralysis during session zero.**
+
+By the end of the first few sessions, every player will have a fully fleshed-out character, with Aspects that **reflect how they’ve played rather than what they planned.**
 
 ---
 
