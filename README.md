@@ -4,9 +4,13 @@ Atomic D6
 
 © 2025. Atomic D6 is openly licensed by Matt Ciocchi under CC BY-SA 4.0 (Creative Commons Attribution ShareAlike 4.0 International)
 
+---
+
 # Acknowledgements
 
 Atomic D6 takes its inspiration from too many sources and individuals to name, including, but not limited to: FATE Condensed, FUDGE 10th Anniversary Edition, EZD6, Mini Six, Deathbringer, and Atomic D20.
+
+---
 
 # Index
 
@@ -143,6 +147,8 @@ For example: Kaelion gets bitten by a zombie, which grants him a Wound Aspect ca
 
 Later on, Kaelion might show his bitten leg to a shopkeeper in order to garner sympathy and get a Bonus to negotiate a better price on a Healing Potion.
 
+---
+
 # Character Creation
 
 Fill out the following sections of your Character Sheet during creation:
@@ -166,6 +172,8 @@ A character's Aspects grant them a bonus or a detriment to any skills that are r
 6. **Flaw**: A weakness or shortcoming that makes your character more realistic. Flaws drive tension in the narrative and create interesting story opportunities.
 
 7. **Fighting Style**: What skills the character relies upon in combat.
+
+---
 
 # Character Progression
 
@@ -235,6 +243,8 @@ Each level represents a **significant increase in power**, ranging from **everyd
 
 - Power extends across **the entire universe**, with absolute reality control.
 - Example: Creating entirely new physical laws, manifesting parallel universes.
+
+---
 
 # Rolls
 Whenever players attempt to do something, the GM decides their chance of success, from *Awful* to *Superb*, and grants them a number of D6. Players also roll the *Atomic D6*, which determines if they receive a Boon or a Bane.
@@ -347,6 +357,8 @@ The music flowed perfectly, his mind was completely clear, his fingers jumping i
 
 Azrick's Success with Bane has guaranteed his place at court, but at a cost; he has a new rival!
 
+---
+
 # Contests
 
 A Contest is a roll that compares the skill of one or more characters that are trying to use their abilities to oppose one or more other characters.
@@ -366,6 +378,8 @@ The winner of a contest is usually able to do what they attempted, but there may
 - **He successfully grapples his opponent.**
 - The Atomic D6 roll is **1 (Bane effect triggered!).**
 - **Outcome:** The warrior successfully grapples the opponent but **overextends and they both fall prone!**
+
+---
 
 # Group Rolls
 
@@ -391,6 +405,8 @@ On rare occasion, three or more individuals or groups are all competing against 
 
 As is the case with other Group Contests, only one Atomic D6 should be rolled during a Battle Royale.
 
+---
+
 # Notice / Stealth Rolls
 
 Characters can make a Notice roll to determine whether they sense something. A character trying to Notice a target is initiating a contest against the target's Stealth.
@@ -414,6 +430,8 @@ If an entire group of characters is attempting to Notice or Stealth, the rules f
 
 Incapacitated characters automatically fail Notice Rolls.
 
+---
+
 # Reaction Rolls
 
 The GM can call for a Reaction Roll in order to determine whether characters have time to respond to a threat.
@@ -421,6 +439,8 @@ The GM can call for a Reaction Roll in order to determine whether characters hav
 Characters that fail to Notice a threat automatically fail their Reaction Roll to it.
 
 Incapacitated characters automatically fail Reaction Rolls.
+
+---
 
 # Turn-Based Play
 
@@ -483,6 +503,8 @@ Casters may attempt to counterspell an attack more than one zone away, but in th
 - **Judo Throw** Use the force of the enemy attack to try to throw them with Martial Arts.
 - **Cover** Hit the deck or duck behind something or someone
 - **Something else** Be creative!
+
+---
 
 # Quick Skirmishes
 
@@ -618,6 +640,8 @@ If you receive medical attention while you are incapacitated, you may make this 
 
 In Atomic D6, Mental Wounds are considered to be just as deadly as physical ones. When a character dies due to Mental Wounds, their body remains in tact, but their personality is destroyed by the gravity of the cosmic horrors that they have witnessed. They are unresponsive, unable even to eat or drink, and nothing short of a magical or technological miracle can bring them back.
 
+---
+
 # Story Points
 Story Points allow players some control over the narrative.
 
@@ -657,6 +681,8 @@ GMs are encouraged to make their own tables detailing ways that characters can e
 | 13    | Voluntarily taking a setback for the benefit of the team                       |
 | 14    | Creating a shared history or backstory connection with another player          |
 | 15    | Using one's environment and surroundings creatively                            |
+
+---
 
 # Spellcasting
 
@@ -825,6 +851,7 @@ Below are example spells at different power levels, showcasing **how spell resol
 |                       | that disrupts the battlefield.                          |
 
 ---
+
 # Tech. Levels of Civilizations
 
 ## **1 - Stone Age (Prehistoric Survivalists)**
@@ -920,6 +947,8 @@ Below are example spells at different power levels, showcasing **how spell resol
 - **AI4 - AI as a Tool (Benevolent AI Governance):** AI serves as a perfect steward, guiding civilizations without eliminating free will.
 - **AI5 - AI Dystopia (Digital Slavery):** AI dominates, controlling every aspect of life, leaving biological beings as second-class citizens.
 
+---
+
 # Time
 | **#:** | **Description:** | **Equivalent to:**                                |
 |--------|------------------|---------------------------------------------------|
@@ -943,6 +972,8 @@ Below are example spells at different power levels, showcasing **how spell resol
 At any time, characters may choose to spend a Story Point in order to remember a scene that happened in the past. They might remember that they packed certain equipment or planned ahead for a specific contingency that they're facing.
 
 Flashbacks are still full scenes. Characters must roll for any feats that they attempt and deduct gold for any equipment they remember purchasing.
+
+---
 
 # Playing Multiple Characters
 
@@ -1158,6 +1189,7 @@ Holdings:
   - Imperial Treasury (Gold reserves & taxation system)
   - Arcane Academy (Center of magical knowledge)
 
+---
 
 # Blank Character Sheet
 ```
@@ -2136,6 +2168,8 @@ This is by no means an exhaustive list. It exists merely to provide a jumping-of
 - **GM**: Game Master, the game's storyteller and referee.
 - **Malus**: A negative effect that reduces a character's chance to succeed on a roll.
 
+---
+
 # The Five Mutually Reenforcing Design Principles of Atomic D6
 ## Fun
 
@@ -2156,3 +2190,5 @@ We will prefer open-ended rules that can be extended by players and the communit
 ## Scalability
 
 We will prefer rules that can handle a wide range of power levels and situations consistently, which will help keep things simple.
+
+---
