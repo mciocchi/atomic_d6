@@ -34,7 +34,7 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 
 [Group Rolls](#Group-Rolls)
 
-[Notice / Stealth Rolls](#Notice-/-Stealth-Rolls)
+[Notice / Stealth Rolls](#Notice-Stealth-Rolls)
 
 [Reaction Rolls](#Reaction-Rolls)
 
@@ -42,7 +42,7 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 
 [Quick Skirmishes](#Quick-Skirmishes)
 
-[Stamina, Wounds, and Scars](#Stamina,-Wounds,-and-Scars)
+[Stamina, Wounds, and Scars](#Stamina-Wounds-and-Scars)
 
 [Death](#Death)
 
