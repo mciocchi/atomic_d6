@@ -66,6 +66,8 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 
 [The Five Mutually Reenforcing Design Principles of Atomic D6](#The-Five-Mutually-Reenforcing-Design-Principles-of-Atomic-D6)
 
+[Worldbuilding Through High-Level Play](#Worldbuilding-Through-High-Level-Play)
+
 ---
 
 # Example Character Sheet
