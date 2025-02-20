@@ -58,6 +58,8 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 
 [Domains](#Domains)
 
+[Worldbuilding Through High-Level Play](#Worldbuilding-Through-High-Level-Play)
+
 [Blank Character Sheet](#Blank-Character-Sheet)
 
 [Ability Examples by Discipline](#Ability-Examples-by-Discipline)
@@ -65,8 +67,6 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 [Glossary](#Glossary)
 
 [The Five Mutually Reenforcing Design Principles of Atomic D6](#The-Five-Mutually-Reenforcing-Design-Principles-of-Atomic-D6)
-
-[Worldbuilding Through High-Level Play](#Worldbuilding-Through-High-Level-Play)
 
 ---
 
@@ -1231,6 +1231,65 @@ Holdings:
 
 ---
 
+# Worldbuilding Through High-Level Play
+## **The Setting as a Living Narrative**
+
+In Atomic D6, the **campaign world is not static**—it is a Narrative, just like the events unfolding in play. Instead of starting with a pre-built setting, players can **create the world dynamically** by taking on the roles of divine beings, primordial forces, or legendary founders. Through **Domain Level Play**, they may shape history, establish civilizations, and define the world's fundamental laws, all while telling an evolving story.
+
+## **Playing as Divine Beings**
+
+Players take on the role of powerful entities—gods, titans, mythical heroes, or abstract cosmic forces—who **weave the fabric of the world through their actions.** Their choices **define geography, history, cultures, and major factions**.
+
+### **Defining a Divine Character**
+
+Each divine being is a high-level character with immense influence, and they may choose to lead or create a **Domain**, which is tracked with a **Domain Sheet**. Their actions shape civilizations, history, and the laws of reality, but they remain distinct from the Domains they govern.
+
+- **Name & Identity:** Who or what the entity represents.
+- **Aspects:** Core themes of their influence (e.g., "Goddess of Storms and the Sea").
+- **Creations & Realms:** Landmarks, civilizations, cults, or supernatural phenomena they introduce.
+- **Rivalries & Alliances:** Conflicts and cooperation between divine entities.
+
+## **Primordial Aeons**
+
+Divine play proceeds in **turns** called Aeons, where each divine being takes an action to shape existence itself. At the highest levels, divines can create or destroy entire universes, shaping the very fabric of reality. These actions might include:
+
+- **Shaping the Cosmos:** Creating, modifying, or destroying Universes, Galaxies, Solar Systems, and Planets.
+- **Forming the Land:** Creating continents, mountains, oceans, forests, or magical realms.
+- **Creating Life:** Introducing species, mythical creatures, or sentient beings.
+- **Granting Knowledge:** Bestowing language, magic, or technology upon mortals.
+- **Waging War:** Struggles between divine forces shape history.
+- **Founding Civilizations:** Establishing kingdoms, empires, or powerful factions.
+- **Altering Reality:** Defining natural laws, changing history, or breaking time itself.
+
+Each action influences the world's evolving history, setting the stage for future stories.
+
+## **Ancient History**
+
+After the Primordial Aeons, players may begin **Domain Level Play** for the civilizations founded by the divines. These civilizations, guided by divine influence, now face challenges, expansion, and evolution over vast periods of time.
+
+### **Time Progression and the Ages of Civilization**
+
+Rather than playing through every moment of history, the game uses **Narrative Time Jumps** to move between significant eras. Players, as high-level characters or rulers, decide how civilizations develop, rise, or fall.
+
+#### **Time Jump Mechanic:**
+
+1. **Determine the Length of the Jump:** Decide how many centuries, millennia, or even longer will pass.
+2. **Major Events Roll:** Players or the GM define 2-3 world-shaping events that occur during the gap.
+3. **Adjust Domains & Factions:** Civilizations may grow stronger, face internal struggles, or collapse entirely.
+4. **Update the World Map & Lore:** Players collaboratively describe the changed world, shaping the setting for the next era of play.
+
+By advancing time fluidly, the game ensures that the **world continues to evolve dynamically**, providing fresh challenges and new historical contexts for players to explore.
+
+## **Modernity**
+
+Once the Primordial Aeons have played out, players can transition into **mortal-level play**, taking on the roles of characters who live within the world they have helped create.
+
+- The **gods and legends they created** now shape the culture and beliefs of the setting.
+- The **kingdoms and civilizations they built** become the backdrop for political intrigue and war.
+- The **supernatural forces they unleashed** create the conflicts that drive mortal adventures.
+- Much of Ancient History has been misremembered or forgotten entirely.
+
+---
 # Blank Character Sheet
 ```
 # NAME
@@ -2196,65 +2255,6 @@ This is by no means an exhaustive list. It exists merely to provide a jumping-of
 
 ---
 
-# Worldbuilding Through High-Level Play
-## **The Setting as a Living Narrative**
-
-In Atomic D6, the **campaign world is not static**—it is a Narrative, just like the events unfolding in play. Instead of starting with a pre-built setting, players can **create the world dynamically** by taking on the roles of divine beings, primordial forces, or legendary founders. Through **Domain Level Play**, they may shape history, establish civilizations, and define the world's fundamental laws, all while telling an evolving story.
-
-## **Playing as Divine Beings**
-
-Players take on the role of powerful entities—gods, titans, mythical heroes, or abstract cosmic forces—who **weave the fabric of the world through their actions.** Their choices **define geography, history, cultures, and major factions**.
-
-### **Defining a Divine Character**
-
-Each divine being is a high-level character with immense influence, and they may choose to lead or create a **Domain**, which is tracked with a **Domain Sheet**. Their actions shape civilizations, history, and the laws of reality, but they remain distinct from the Domains they govern.
-
-- **Name & Identity:** Who or what the entity represents.
-- **Aspects:** Core themes of their influence (e.g., "Goddess of Storms and the Sea").
-- **Creations & Realms:** Landmarks, civilizations, cults, or supernatural phenomena they introduce.
-- **Rivalries & Alliances:** Conflicts and cooperation between divine entities.
-
-## **Primordial Aeons**
-
-Divine play proceeds in **turns** called Aeons, where each divine being takes an action to shape existence itself. At the highest levels, divines can create or destroy entire universes, shaping the very fabric of reality. These actions might include:
-
-- **Shaping the Cosmos:** Creating, modifying, or destroying Universes, Galaxies, Solar Systems, and Planets.
-- **Forming the Land:** Creating continents, mountains, oceans, forests, or magical realms.
-- **Creating Life:** Introducing species, mythical creatures, or sentient beings.
-- **Granting Knowledge:** Bestowing language, magic, or technology upon mortals.
-- **Waging War:** Struggles between divine forces shape history.
-- **Founding Civilizations:** Establishing kingdoms, empires, or powerful factions.
-- **Altering Reality:** Defining natural laws, changing history, or breaking time itself.
-
-Each action influences the world's evolving history, setting the stage for future stories.
-
-## **Ancient History**
-
-After the Primordial Aeons, players may begin **Domain Level Play** for the civilizations founded by the divines. These civilizations, guided by divine influence, now face challenges, expansion, and evolution over vast periods of time.
-
-### **Time Progression and the Ages of Civilization**
-
-Rather than playing through every moment of history, the game uses **Narrative Time Jumps** to move between significant eras. Players, as high-level characters or rulers, decide how civilizations develop, rise, or fall.
-
-#### **Time Jump Mechanic:**
-
-1. **Determine the Length of the Jump:** Decide how many centuries, millennia, or even longer will pass.
-2. **Major Events Roll:** Players or the GM define 2-3 world-shaping events that occur during the gap.
-3. **Adjust Domains & Factions:** Civilizations may grow stronger, face internal struggles, or collapse entirely.
-4. **Update the World Map & Lore:** Players collaboratively describe the changed world, shaping the setting for the next era of play.
-
-By advancing time fluidly, the game ensures that the **world continues to evolve dynamically**, providing fresh challenges and new historical contexts for players to explore.
-
-## **Modernity**
-
-Once the Primordial Aeons have played out, players can transition into **mortal-level play**, taking on the roles of characters who live within the world they have helped create.
-
-- The **gods and legends they created** now shape the culture and beliefs of the setting.
-- The **kingdoms and civilizations they built** become the backdrop for political intrigue and war.
-- The **supernatural forces they unleashed** create the conflicts that drive mortal adventures.
-- Much of Ancient History has been misremembered or forgotten entirely.
-
----
 # Glossary
 
 - **+1**: Shorthand for one Bonus
