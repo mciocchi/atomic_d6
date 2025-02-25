@@ -1673,242 +1673,242 @@ This is by no means an exhaustive list. It exists merely to provide a jumping-of
 
 ---
 
-## **Religion**  
+## **Religion**
 *(The power to shape belief, faith, and divine authority across civilizations.)*
 
-- **Untrained**  
-- Preach basic moral lessons to a small audience.  
-- Struggle to inspire true conviction in others.  
-- Fail to influence established religious beliefs.  
+- **Untrained**
+- Preach basic moral lessons to a small audience.
+- Struggle to inspire true conviction in others.
+- Fail to influence established religious beliefs.
 
-- **Apprentice**  
-- Convert a handful of people to a new belief system.  
-- Persuade others to adopt minor religious rituals.  
-- Inspire temporary devotion through passionate speech.  
+- **Apprentice**
+- Convert a handful of people to a new belief system.
+- Persuade others to adopt minor religious rituals.
+- Inspire temporary devotion through passionate speech.
 
-- **Journeyman**  
-- Influence a town to embrace a new religious philosophy.  
-- Establish a local cult or following around a central belief.  
-- Invoke minor divine blessings through faith alone.  
+- **Journeyman**
+- Influence a town to embrace a new religious philosophy.
+- Establish a local cult or following around a central belief.
+- Invoke minor divine blessings through faith alone.
 
-- **Master**  
-- Found a major religious movement spanning a region.  
-- Perform miracles that solidify divine status.  
-- Shape doctrine and belief systems that last generations.  
+- **Master**
+- Found a major religious movement spanning a region.
+- Perform miracles that solidify divine status.
+- Shape doctrine and belief systems that last generations.
 
-- **Olympian**  
-- Establish a world religion with millions of devoted followers.  
-- Inspire sacred texts that redefine morality and faith.  
-- Manifest religious visions to influence entire societies.  
+- **Olympian**
+- Establish a world religion with millions of devoted followers.
+- Inspire sacred texts that redefine morality and faith.
+- Manifest religious visions to influence entire societies.
 
-- **Demigod**  
-- Manifest as a physical deity to be worshipped.  
-- Grant divine favor to chosen champions.  
-- Instill absolute faith in vast populations with mere presence.  
+- **Demigod**
+- Manifest as a physical deity to be worshipped.
+- Grant divine favor to chosen champions.
+- Instill absolute faith in vast populations with mere presence.
 
-- **Titan**  
-- Convert entire civilizations with a single speech or revelation.  
-- Reshape cultural identity through divine intervention.  
-- Redirect worship from existing gods to yourself effortlessly.  
+- **Titan**
+- Convert entire civilizations with a single speech or revelation.
+- Reshape cultural identity through divine intervention.
+- Redirect worship from existing gods to yourself effortlessly.
 
-- **Seraph**  
-- Erase or rewrite all knowledge of existing religions.  
-- Overwrite divine hierarchies with new cosmic orders.  
-- Decide what is considered sacred or blasphemous across worlds.  
+- **Seraph**
+- Erase or rewrite all knowledge of existing religions.
+- Overwrite divine hierarchies with new cosmic orders.
+- Decide what is considered sacred or blasphemous across worlds.
 
-- **Lesser Deity**  
-- Shape the faith of multiple planets in an instant.  
-- Forge divine avatars that act as gods in your name.  
-- Establish a universal religion that transcends species and cultures.  
+- **Lesser Deity**
+- Shape the faith of multiple planets in an instant.
+- Forge divine avatars that act as gods in your name.
+- Establish a universal religion that transcends species and cultures.
 
-- **Deity**  
-- Will entire civilizations into zealous obedience.  
-- Manifest divine law that alters reality through faith alone.  
-- Command the unwavering devotion of countless worlds.  
+- **Deity**
+- Will entire civilizations into zealous obedience.
+- Manifest divine law that alters reality through faith alone.
+- Command the unwavering devotion of countless worlds.
 
-- **Elder Deity**  
-- Create or destroy entire pantheons of divine beings.  
-- Decide the fate of all religious and spiritual belief in existence.  
-- Transcend worship, becoming the fundamental force behind all faith.  
+- **Elder Deity**
+- Create or destroy entire pantheons of divine beings.
+- Decide the fate of all religious and spiritual belief in existence.
+- Transcend worship, becoming the fundamental force behind all faith.
 
 ---
 
-## **Economics & Trade**  
+## **Economics & Trade**
 *(The power to influence, control, and reshape financial systems on any scale.)*
 
-- **Untrained**  
-- Buy and sell basic goods with no financial strategy.  
-- Struggle to understand market trends and investment risks.  
-- Fail to negotiate profitable deals or long-term economic gains.  
+- **Untrained**
+- Buy and sell basic goods with no financial strategy.
+- Struggle to understand market trends and investment risks.
+- Fail to negotiate profitable deals or long-term economic gains.
 
-- **Apprentice**  
-- Manipulate local market prices in a small town.  
-- Identify profitable trade opportunities with moderate success.  
-- Establish small-scale businesses with limited influence.  
+- **Apprentice**
+- Manipulate local market prices in a small town.
+- Identify profitable trade opportunities with moderate success.
+- Establish small-scale businesses with limited influence.
 
-- **Journeyman**  
-- Control regional trade routes and supply chains.  
-- Manipulate demand for goods through strategic investments.  
-- Establish economic alliances that influence multiple cities.  
+- **Journeyman**
+- Control regional trade routes and supply chains.
+- Manipulate demand for goods through strategic investments.
+- Establish economic alliances that influence multiple cities.
 
-- **Master**  
-- Dominate national economies, causing booms or recessions at will.  
-- Control monopolies and banking systems to shape financial landscapes.  
-- Engineer financial crashes or rapid economic growth for entire nations.  
+- **Master**
+- Dominate national economies, causing booms or recessions at will.
+- Control monopolies and banking systems to shape financial landscapes.
+- Engineer financial crashes or rapid economic growth for entire nations.
 
-- **Olympian**  
-- Establish a world economy based on your influence.  
-- Shape international financial institutions and trade regulations.  
-- Control currency valuations and inflation across multiple nations.  
+- **Olympian**
+- Establish a world economy based on your influence.
+- Shape international financial institutions and trade regulations.
+- Control currency valuations and inflation across multiple nations.
 
-- **Demigod**  
-- Run a financial empire that determines the fate of nations.  
-- Collapse or uplift entire economies with a single decision.  
-- Manipulate stock markets and trade systems beyond human comprehension.  
+- **Demigod**
+- Run a financial empire that determines the fate of nations.
+- Collapse or uplift entire economies with a single decision.
+- Manipulate stock markets and trade systems beyond human comprehension.
 
-- **Titan**  
-- Reshape the entire continent’s economic system with a single decision.  
-- Create economic structures that sustain entire civilizations.  
-- Introduce new forms of currency that become universally accepted.  
+- **Titan**
+- Reshape the entire continent’s economic system with a single decision.
+- Create economic structures that sustain entire civilizations.
+- Introduce new forms of currency that become universally accepted.
 
-- **Seraph**  
-- Control planetary trade networks and resource distribution.  
-- Regulate the flow of rare and valuable materials across the world.  
-- Engineer economic stability or chaos on a global scale at will.  
+- **Seraph**
+- Control planetary trade networks and resource distribution.
+- Regulate the flow of rare and valuable materials across the world.
+- Engineer economic stability or chaos on a global scale at will.
 
-- **Lesser Deity**  
-- Create interstellar economic superpowers.  
-- Control trade routes between planets, managing supply and demand flawlessly.  
-- Shape the financial future of entire star systems.  
+- **Lesser Deity**
+- Create interstellar economic superpowers.
+- Control trade routes between planets, managing supply and demand flawlessly.
+- Shape the financial future of entire star systems.
 
-- **Deity**  
-- Regulate the financial stability of entire galaxies.  
-- Decide the fate of civilizations through economic manipulation alone.  
-- Establish self-sustaining economies that transcend conventional finance.  
+- **Deity**
+- Regulate the financial stability of entire galaxies.
+- Decide the fate of civilizations through economic manipulation alone.
+- Establish self-sustaining economies that transcend conventional finance.
 
-- **Elder Deity**  
-- Define the rules of economic exchange across the universe.  
-- Manifest new financial principles that reshape the nature of trade itself.  
-- Transcend commerce, becoming the unseen force behind all economic balance.  
+- **Elder Deity**
+- Define the rules of economic exchange across the universe.
+- Manifest new financial principles that reshape the nature of trade itself.
+- Transcend commerce, becoming the unseen force behind all economic balance.
 
 
-## **Electromancy (Lightning & Energy Magic)**  
+## **Electromancy (Lightning & Energy Magic)**
 The ability to generate, manipulate, and control electricity and electromagnetic forces.
 
-- **Untrained**  
-- Generate small static charges.  
-- Struggle to control electrical discharges without unintended effects.  
-- Fail to channel electricity in any meaningful way.  
+- **Untrained**
+- Generate small static charges.
+- Struggle to control electrical discharges without unintended effects.
+- Fail to channel electricity in any meaningful way.
 
-- **Apprentice**  
-- Direct weak electric bolts at targets.  
-- Power small electronic devices with bioelectric energy.  
-- Absorb minor electrical currents without harm.  
+- **Apprentice**
+- Direct weak electric bolts at targets.
+- Power small electronic devices with bioelectric energy.
+- Absorb minor electrical currents without harm.
 
-- **Journeyman**  
-- Manipulate metal objects with magnetism.  
-- Channel stronger electrical arcs for offense or utility.  
-- Overcharge or disrupt small circuits with a touch.  
+- **Journeyman**
+- Manipulate metal objects with magnetism.
+- Channel stronger electrical arcs for offense or utility.
+- Overcharge or disrupt small circuits with a touch.
 
-- **Master**  
-- Absorb and redirect lightning strikes.  
-- Generate electromagnetic fields to repel or attract metallic objects.  
-- Control localized weather patterns to summon storms.  
+- **Master**
+- Absorb and redirect lightning strikes.
+- Generate electromagnetic fields to repel or attract metallic objects.
+- Control localized weather patterns to summon storms.
 
-- **Olympian**  
-- Control entire electrical grids and energy sources.  
-- Blackout or restore power to cities at will.  
-- Generate controlled plasma fields from raw electricity.  
+- **Olympian**
+- Control entire electrical grids and energy sources.
+- Blackout or restore power to cities at will.
+- Generate controlled plasma fields from raw electricity.
 
-- **Demigod**  
-- Overload any device or power system.  
-- Disrupt communication networks with electromagnetic pulses.  
-- Convert energy into different forms, such as heat, motion, or light.  
+- **Demigod**
+- Overload any device or power system.
+- Disrupt communication networks with electromagnetic pulses.
+- Convert energy into different forms, such as heat, motion, or light.
 
-- **Titan**  
-- Create continent-spanning electromagnetic storms.  
-- Shape magnetic fields strong enough to manipulate planetary weather.  
-- Generate lightning powerful enough to shatter mountains.  
+- **Titan**
+- Create continent-spanning electromagnetic storms.
+- Shape magnetic fields strong enough to manipulate planetary weather.
+- Generate lightning powerful enough to shatter mountains.
 
-- **Seraph**  
-- Control planetary energy fields at will.  
-- Manipulate the ionosphere to alter global climate conditions.  
-- Directly influence planetary magnetic poles and radiation belts.  
+- **Seraph**
+- Control planetary energy fields at will.
+- Manipulate the ionosphere to alter global climate conditions.
+- Directly influence planetary magnetic poles and radiation belts.
 
-- **Lesser Deity**  
-- Manipulate the electromagnetic spectrum of an entire solar system.  
-- Control solar flares and coronal mass ejections from stars.  
-- Reshape planets by altering their core energy fields.  
+- **Lesser Deity**
+- Manipulate the electromagnetic spectrum of an entire solar system.
+- Control solar flares and coronal mass ejections from stars.
+- Reshape planets by altering their core energy fields.
 
-- **Deity**  
-- Reshape stars using pure energy manipulation.  
-- Generate, absorb, and direct cosmic radiation effortlessly.  
-- Forge artificial celestial bodies powered by controlled electromagnetic energy.  
+- **Deity**
+- Reshape stars using pure energy manipulation.
+- Generate, absorb, and direct cosmic radiation effortlessly.
+- Forge artificial celestial bodies powered by controlled electromagnetic energy.
 
-- **Elder Deity**  
-- Forge cosmic storms that span the universe.  
-- Control the flow of energy across galaxies without limit.  
-- Transcend physical form, existing as pure electromagnetic force.  
+- **Elder Deity**
+- Forge cosmic storms that span the universe.
+- Control the flow of energy across galaxies without limit.
+- Transcend physical form, existing as pure electromagnetic force.
 
 ---
 
-## **Engineering**  
+## **Engineering**
 The mastery of designing, building, and optimizing technology, from simple machines to reality-altering constructs.
 
-- **Untrained**  
-- Set up basic software or fix household electronics.  
-- Struggle with complex mechanical or digital systems.  
-- Fail to optimize or improve existing technologies.  
+- **Untrained**
+- Set up basic software or fix household electronics.
+- Struggle with complex mechanical or digital systems.
+- Fail to optimize or improve existing technologies.
 
-- **Apprentice**  
-- Write simple programs, repair minor mechanical issues.  
-- Assemble small machines or gadgets with basic functionality.  
-- Troubleshoot and optimize low-level code and hardware.  
+- **Apprentice**
+- Write simple programs, repair minor mechanical issues.
+- Assemble small machines or gadgets with basic functionality.
+- Troubleshoot and optimize low-level code and hardware.
 
-- **Journeyman**  
-- Hack into security networks, repair major systems.  
-- Reverse-engineer technology to improve efficiency.  
-- Design and construct advanced robotic or cybernetic enhancements.  
+- **Journeyman**
+- Hack into security networks, repair major systems.
+- Reverse-engineer technology to improve efficiency.
+- Design and construct advanced robotic or cybernetic enhancements.
 
-- **Master**  
-- Design intelligent AI, create life-supporting habitats.  
-- Develop fully automated industrial systems.  
-- Integrate organic and synthetic components seamlessly.  
+- **Master**
+- Design intelligent AI, create life-supporting habitats.
+- Develop fully automated industrial systems.
+- Integrate organic and synthetic components seamlessly.
 
-- **Olympian**  
-- Code software that predicts human behavior perfectly.  
-- Construct self-repairing structures and adaptive machines.  
-- Design smart cities that autonomously regulate themselves.  
+- **Olympian**
+- Code software that predicts human behavior perfectly.
+- Construct self-repairing structures and adaptive machines.
+- Design smart cities that autonomously regulate themselves.
 
-- **Demigod**  
-- Build sentient AI that can evolve over time.  
-- Develop self-replicating nanotechnology.  
-- Engineer machines capable of independent innovation and adaptation.  
+- **Demigod**
+- Build sentient AI that can evolve over time.
+- Develop self-replicating nanotechnology.
+- Engineer machines capable of independent innovation and adaptation.
 
-- **Titan**  
-- Design continent-sized automation systems.  
-- Reshape entire landscapes with precision-engineered megastructures.  
-- Develop machines that optimize planetary resource distribution.  
+- **Titan**
+- Design continent-sized automation systems.
+- Reshape entire landscapes with precision-engineered megastructures.
+- Develop machines that optimize planetary resource distribution.
 
-- **Seraph**  
-- Engineer planetary-scale infrastructure and robotic armies.  
-- Construct fully automated civilizations that sustain themselves indefinitely.  
-- Build self-replicating robotic ecosystems that expand across planets.  
+- **Seraph**
+- Engineer planetary-scale infrastructure and robotic armies.
+- Construct fully automated civilizations that sustain themselves indefinitely.
+- Build self-replicating robotic ecosystems that expand across planets.
 
-- **Lesser Deity**  
-- Create self-sustaining stellar machines.  
-- Construct spaceborne megastructures that regulate solar energy.  
-- Develop technology that alters celestial mechanics with precision.  
+- **Lesser Deity**
+- Create self-sustaining stellar machines.
+- Construct spaceborne megastructures that regulate solar energy.
+- Develop technology that alters celestial mechanics with precision.
 
-- **Deity**  
-- Design Dyson spheres and intergalactic AI networks.  
-- Construct fully artificial worlds with self-regulating ecosystems.  
-- Engineer machines that interface directly with the fabric of reality.  
+- **Deity**
+- Design Dyson spheres and intergalactic AI networks.
+- Construct fully artificial worlds with self-regulating ecosystems.
+- Engineer machines that interface directly with the fabric of reality.
 
-- **Elder Deity**  
-- Rewrite reality using pure data and technology.  
-- Forge entire universes as computational constructs.  
-- Transcend physical engineering, reshaping existence itself through code.  
+- **Elder Deity**
+- Rewrite reality using pure data and technology.
+- Forge entire universes as computational constructs.
+- Transcend physical engineering, reshaping existence itself through code.
 
 ## **Espionage & Intelligence Manipulation**
 *(The mastery of covert operations, sabotage, surveillance, and information warfare.)*
@@ -1970,122 +1970,122 @@ The mastery of designing, building, and optimizing technology, from simple machi
 
 ---
 
-## **Fulgaromancy (Sound & Vibration Magic)**  
+## **Fulgaromancy (Sound & Vibration Magic)**
 *(The mastery of manipulating sound waves, vibrations, and resonance to shape reality.)*
 
-- **Untrained**  
-- Manipulate sound slightly (amplify or quiet small noises).  
-- Struggle to control the direction or intensity of vibrations.  
-- Fail to use sound as a weapon or tool effectively.  
+- **Untrained**
+- Manipulate sound slightly (amplify or quiet small noises).
+- Struggle to control the direction or intensity of vibrations.
+- Fail to use sound as a weapon or tool effectively.
 
-- **Apprentice**  
-- Shatter fragile objects with focused vibrations.  
-- Create small sonic pulses to disrupt concentration.  
-- Amplify or dampen specific noises with moderate precision.  
+- **Apprentice**
+- Shatter fragile objects with focused vibrations.
+- Create small sonic pulses to disrupt concentration.
+- Amplify or dampen specific noises with moderate precision.
 
-- **Journeyman**  
-- Create sonic booms and disorient enemies.  
-- Direct concentrated sound waves to knock back targets.  
-- Manipulate vibrations to enhance or dull senses.  
+- **Journeyman**
+- Create sonic booms and disorient enemies.
+- Direct concentrated sound waves to knock back targets.
+- Manipulate vibrations to enhance or dull senses.
 
-- **Master**  
-- Manipulate sound waves to project illusions.  
-- Cancel out specific frequencies to create pockets of silence.  
-- Use controlled resonance to strengthen or weaken materials.  
+- **Master**
+- Manipulate sound waves to project illusions.
+- Cancel out specific frequencies to create pockets of silence.
+- Use controlled resonance to strengthen or weaken materials.
 
-- **Olympian**  
-- Silence or amplify all sound across a battlefield.  
-- Shape environmental acoustics to enhance strategy and control.  
-- Detect and interpret sound waves over vast distances.  
+- **Olympian**
+- Silence or amplify all sound across a battlefield.
+- Shape environmental acoustics to enhance strategy and control.
+- Detect and interpret sound waves over vast distances.
 
-- **Demigod**  
-- Collapse structures using vibrational resonance.  
-- Generate infrasonic waves that induce fear or unconsciousness.  
-- Weaponize harmonic frequencies to disable entire groups.  
+- **Demigod**
+- Collapse structures using vibrational resonance.
+- Generate infrasonic waves that induce fear or unconsciousness.
+- Weaponize harmonic frequencies to disable entire groups.
 
-- **Titan**  
-- Create earthquakes or planetary disruptions via sound.  
-- Direct seismic waves to reshape landscapes with precision.  
-- Generate frequency-based barriers that repel physical forces.  
+- **Titan**
+- Create earthquakes or planetary disruptions via sound.
+- Direct seismic waves to reshape landscapes with precision.
+- Generate frequency-based barriers that repel physical forces.
 
-- **Seraph**  
-- Use sound waves to rewrite the atmosphere of a planet.  
-- Manipulate planetary weather patterns using vibrational control.  
-- Tune sound frequencies to influence biological or mental states.  
+- **Seraph**
+- Use sound waves to rewrite the atmosphere of a planet.
+- Manipulate planetary weather patterns using vibrational control.
+- Tune sound frequencies to influence biological or mental states.
 
-- **Lesser Deity**  
-- Control the sound of entire planetary civilizations.  
-- Dictate the resonance of languages, music, and thought itself.  
-- Alter perception and memory through sound manipulation.  
+- **Lesser Deity**
+- Control the sound of entire planetary civilizations.
+- Dictate the resonance of languages, music, and thought itself.
+- Alter perception and memory through sound manipulation.
 
-- **Deity**  
-- Shape reality using pure sound frequencies.  
-- Construct sonic architectures that defy physics.  
-- Harmonize or disrupt the very fabric of existence through resonance.  
+- **Deity**
+- Shape reality using pure sound frequencies.
+- Construct sonic architectures that defy physics.
+- Harmonize or disrupt the very fabric of existence through resonance.
 
-- **Elder Deity**  
-- Forge cosmic harmonics that sustain the universe itself.  
-- Sing entire realms into existence through vibrational control.  
-- Transcend sound, existing as pure frequency woven into reality.  
+- **Elder Deity**
+- Forge cosmic harmonics that sustain the universe itself.
+- Sing entire realms into existence through vibrational control.
+- Transcend sound, existing as pure frequency woven into reality.
 
 ---
-## **Gravetomancy (Gravity Manipulation)**  
+## **Gravetomancy (Gravity Manipulation)**
 *(The mastery of gravitational forces, from subtle adjustments to cosmic-scale alterations.)*
 
-- **Untrained**  
-- Slightly adjust your balance to prevent minor falls.  
-- Struggle to control gravitational shifts with precision.  
-- Fail to meaningfully alter the weight of objects.  
+- **Untrained**
+- Slightly adjust your balance to prevent minor falls.
+- Struggle to control gravitational shifts with precision.
+- Fail to meaningfully alter the weight of objects.
 
-- **Apprentice**  
-- Increase or decrease your own weight slightly.  
-- Manipulate small objects by adjusting their gravitational pull.  
-- Create minor shifts in gravity to aid movement or hinder foes.  
+- **Apprentice**
+- Increase or decrease your own weight slightly.
+- Manipulate small objects by adjusting their gravitational pull.
+- Create minor shifts in gravity to aid movement or hinder foes.
 
-- **Journeyman**  
-- Manipulate gravitational pull in a small area (e.g., make objects lighter or heavier).  
-- Enhance physical movements by reducing or increasing local gravity.  
-- Cause enemies to experience disorienting gravitational fluctuations.  
+- **Journeyman**
+- Manipulate gravitational pull in a small area (e.g., make objects lighter or heavier).
+- Enhance physical movements by reducing or increasing local gravity.
+- Cause enemies to experience disorienting gravitational fluctuations.
 
-- **Master**  
-- Alter gravity within a battlefield, making enemies float or sink into the ground.  
-- Anchor yourself or others to surfaces regardless of orientation.  
-- Generate gravitational pulses that repel or attract objects.  
+- **Master**
+- Alter gravity within a battlefield, making enemies float or sink into the ground.
+- Anchor yourself or others to surfaces regardless of orientation.
+- Generate gravitational pulses that repel or attract objects.
 
-- **Olympian**  
-- Create localized zero-gravity zones or crushing pressure fields.  
-- Manipulate gravity wells to redirect movement and energy.  
-- Walk freely on walls or ceilings by altering personal gravity.  
+- **Olympian**
+- Create localized zero-gravity zones or crushing pressure fields.
+- Manipulate gravity wells to redirect movement and energy.
+- Walk freely on walls or ceilings by altering personal gravity.
 
-- **Demigod**  
-- Redirect the trajectory of projectiles or small celestial objects.  
-- Strengthen or weaken planetary gravity to control ecosystems.  
-- Suspend entire structures or landscapes in anti-gravity states.  
+- **Demigod**
+- Redirect the trajectory of projectiles or small celestial objects.
+- Strengthen or weaken planetary gravity to control ecosystems.
+- Suspend entire structures or landscapes in anti-gravity states.
 
-- **Titan**  
-- Reverse or intensify gravity across an entire continent.  
-- Generate gravitational anomalies strong enough to tear apart landscapes.  
-- Manipulate inertia to slow, stop, or accelerate movement instantly.  
+- **Titan**
+- Reverse or intensify gravity across an entire continent.
+- Generate gravitational anomalies strong enough to tear apart landscapes.
+- Manipulate inertia to slow, stop, or accelerate movement instantly.
 
-- **Seraph**  
-- Manipulate planetary gravity to change orbits and cause tidal shifts.  
-- Control gravitational fields on a planetary scale without exertion.  
-- Alter time perception by distorting local gravity wells.  
+- **Seraph**
+- Manipulate planetary gravity to change orbits and cause tidal shifts.
+- Control gravitational fields on a planetary scale without exertion.
+- Alter time perception by distorting local gravity wells.
 
-- **Lesser Deity**  
-- Adjust solar system-wide gravitational forces, influencing planetary motion.  
-- Weave gravity into massive celestial constructs, such as artificial planets.  
-- Reshape planetary bodies by shifting their gravitational centers.  
+- **Lesser Deity**
+- Adjust solar system-wide gravitational forces, influencing planetary motion.
+- Weave gravity into massive celestial constructs, such as artificial planets.
+- Reshape planetary bodies by shifting their gravitational centers.
 
-- **Deity**  
-- Control black holes, warp space-time, and manipulate event horizons.  
-- Bend light and energy through extreme gravitational fields.  
-- Shape stellar formations using gravitational mastery alone.  
+- **Deity**
+- Control black holes, warp space-time, and manipulate event horizons.
+- Bend light and energy through extreme gravitational fields.
+- Shape stellar formations using gravitational mastery alone.
 
-- **Elder Deity**  
-- Rewrite universal laws of gravity; create, destroy, or reshape fundamental forces of physics.  
-- Generate or collapse entire galaxies through gravitational command.  
-- Transcend mass itself, existing as a gravitational force that permeates all of reality.  
+- **Elder Deity**
+- Rewrite universal laws of gravity; create, destroy, or reshape fundamental forces of physics.
+- Generate or collapse entire galaxies through gravitational command.
+- Transcend mass itself, existing as a gravitational force that permeates all of reality.
 
 ---
 
@@ -2147,63 +2147,63 @@ The mastery of designing, building, and optimizing technology, from simple machi
 
 ---
 
-## **Illusion Magic**  
+## **Illusion Magic**
 *(The ability to manipulate perception, bending sight, sound, and reality itself.)*
 
-- **Untrained**  
-- Create a faint shimmer in the air.  
-- Struggle to maintain illusions for more than a few moments.  
-- Fail to produce convincing deceptions.  
+- **Untrained**
+- Create a faint shimmer in the air.
+- Struggle to maintain illusions for more than a few moments.
+- Fail to produce convincing deceptions.
 
-- **Apprentice**  
-- Cast a small illusion (e.g., a fake sound, an object appearing to flicker).  
-- Slightly distort the appearance of minor objects.  
-- Create subtle auditory or visual distractions.  
+- **Apprentice**
+- Cast a small illusion (e.g., a fake sound, an object appearing to flicker).
+- Slightly distort the appearance of minor objects.
+- Create subtle auditory or visual distractions.
 
-- **Journeyman**  
-- Conceal a doorway or create a full illusionary person.  
-- Project sounds, lights, and movements that seem real up close.  
-- Alter your own appearance temporarily.  
+- **Journeyman**
+- Conceal a doorway or create a full illusionary person.
+- Project sounds, lights, and movements that seem real up close.
+- Alter your own appearance temporarily.
 
-- **Master**  
-- Create a room-wide illusion indistinguishable from reality.  
-- Trick multiple senses, including touch and smell.  
-- Make objects or people appear as something else entirely.  
+- **Master**
+- Create a room-wide illusion indistinguishable from reality.
+- Trick multiple senses, including touch and smell.
+- Make objects or people appear as something else entirely.
 
-- **Olympian**  
-- Hide an entire city under an illusion that lasts indefinitely.  
-- Generate illusions that react intelligently to their surroundings.  
-- Conceal your presence even from technological detection.  
+- **Olympian**
+- Hide an entire city under an illusion that lasts indefinitely.
+- Generate illusions that react intelligently to their surroundings.
+- Conceal your presence even from technological detection.
 
-- **Demigod**  
-- Trap someone in a permanent dreamscape, unable to distinguish reality.  
-- Create illusions that persist even when disbelieved.  
-- Manipulate perception so deeply that memories and emotions are affected.  
+- **Demigod**
+- Trap someone in a permanent dreamscape, unable to distinguish reality.
+- Create illusions that persist even when disbelieved.
+- Manipulate perception so deeply that memories and emotions are affected.
 
-- **Titan**  
-- Turn an entire continent into a shifting maze of illusions.  
-- Generate mirages that alter navigation and geography itself.  
-- Confuse the minds of entire armies, causing them to fight imaginary foes.  
+- **Titan**
+- Turn an entire continent into a shifting maze of illusions.
+- Generate mirages that alter navigation and geography itself.
+- Confuse the minds of entire armies, causing them to fight imaginary foes.
 
-- **Seraph**  
-- Make an entire planet appear lifeless or populated as needed.  
-- Control planetary-scale illusions that deceive satellites and sensors.  
-- Shift the perception of history, rewriting collective memory.  
+- **Seraph**
+- Make an entire planet appear lifeless or populated as needed.
+- Control planetary-scale illusions that deceive satellites and sensors.
+- Shift the perception of history, rewriting collective memory.
 
-- **Lesser Deity**  
-- Shape interplanetary illusions that deceive advanced AI and sensors.  
-- Manifest illusions so convincing they function as real objects.  
-- Construct false realms that can trap or house beings indefinitely.  
+- **Lesser Deity**
+- Shape interplanetary illusions that deceive advanced AI and sensors.
+- Manifest illusions so convincing they function as real objects.
+- Construct false realms that can trap or house beings indefinitely.
 
-- **Deity**  
-- Weave false realities that replace actual history.  
-- Make entire civilizations believe in fabricated timelines and events.  
-- Create illusions indistinguishable from divine miracles.  
+- **Deity**
+- Weave false realities that replace actual history.
+- Make entire civilizations believe in fabricated timelines and events.
+- Create illusions indistinguishable from divine miracles.
 
-- **Elder Deity**  
-- Cast illusions so perfect they become new realities.  
-- Forge worlds from pure perception, sustained by belief alone.  
-- Transcend illusion, shaping existence itself through perception and thought.  
+- **Elder Deity**
+- Cast illusions so perfect they become new realities.
+- Forge worlds from pure perception, sustained by belief alone.
+- Transcend illusion, shaping existence itself through perception and thought.
 
 ---
 
@@ -2325,183 +2325,183 @@ The mastery of designing, building, and optimizing technology, from simple machi
 
 ---
 
-## **Martial Arts**  
+## **Martial Arts**
 *(The mastery of physical combat, from disciplined strikes to reality-warping blows.)*
 
-- **Untrained**  
-- Throw a basic punch or kick.  
-- Struggle with maintaining balance and form.  
-- Fail to generate significant power or precision in attacks.  
+- **Untrained**
+- Throw a basic punch or kick.
+- Struggle with maintaining balance and form.
+- Fail to generate significant power or precision in attacks.
 
-- **Apprentice**  
-- Disarm an opponent with a simple technique.  
-- Land precise strikes against untrained foes.  
-- Use momentum and positioning to gain an advantage.  
+- **Apprentice**
+- Disarm an opponent with a simple technique.
+- Land precise strikes against untrained foes.
+- Use momentum and positioning to gain an advantage.
 
-- **Journeyman**  
-- Take down an armed opponent with trained movements.  
-- Fight multiple opponents using skill and technique.  
-- Counter and evade most common combat styles effectively.  
+- **Journeyman**
+- Take down an armed opponent with trained movements.
+- Fight multiple opponents using skill and technique.
+- Counter and evade most common combat styles effectively.
 
-- **Master**  
-- Defeat multiple skilled enemies with ease.  
-- Redirect attacks effortlessly, turning an opponent’s strength against them.  
-- Break through defenses and strike with pinpoint accuracy.  
+- **Master**
+- Defeat multiple skilled enemies with ease.
+- Redirect attacks effortlessly, turning an opponent’s strength against them.
+- Break through defenses and strike with pinpoint accuracy.
 
-- **Olympian**  
-- Dodge bullets and perform superhuman martial feats.  
-- Move faster than the human eye can track in combat.  
-- Strike with enough force to dent metal and fracture stone.  
+- **Olympian**
+- Dodge bullets and perform superhuman martial feats.
+- Move faster than the human eye can track in combat.
+- Strike with enough force to dent metal and fracture stone.
 
-- **Demigod**  
-- Strike with the force to shatter steel.  
-- Deflect projectiles mid-air with nothing but precision and speed.  
-- Generate shockwaves with every movement, distorting the air around you.  
+- **Demigod**
+- Strike with the force to shatter steel.
+- Deflect projectiles mid-air with nothing but precision and speed.
+- Generate shockwaves with every movement, distorting the air around you.
 
-- **Titan**  
-- Shake the ground with your blows, leveling buildings.  
-- Move with such speed that combat appears instantaneous to onlookers.  
-- Parry and counter energy-based or supernatural attacks through sheer skill.  
+- **Titan**
+- Shake the ground with your blows, leveling buildings.
+- Move with such speed that combat appears instantaneous to onlookers.
+- Parry and counter energy-based or supernatural attacks through sheer skill.
 
-- **Seraph**  
-- Punch through mountains or collapse entire cities.  
-- Leap across vast distances in a single bound.  
-- Strike so quickly that enemies fall before they realize they’ve been hit.  
+- **Seraph**
+- Punch through mountains or collapse entire cities.
+- Leap across vast distances in a single bound.
+- Strike so quickly that enemies fall before they realize they’ve been hit.
 
-- **Lesser Deity**  
-- Move so fast that attacks appear instant across solar distances.  
-- Tear through starships and fortresses with unarmed strikes alone.  
-- Dodge attacks by existing between moments of time itself.  
+- **Lesser Deity**
+- Move so fast that attacks appear instant across solar distances.
+- Tear through starships and fortresses with unarmed strikes alone.
+- Dodge attacks by existing between moments of time itself.
 
-- **Deity**  
-- Erase enemies from existence with a single strike.  
-- Attack on multiple planes of reality simultaneously.  
-- End conflicts before they begin by striking across past, present, and future.  
+- **Deity**
+- Erase enemies from existence with a single strike.
+- Attack on multiple planes of reality simultaneously.
+- End conflicts before they begin by striking across past, present, and future.
 
-- **Elder Deity**  
-- Your mere presence warps reality, and you never need to strike.  
-- Cause destruction with a thought, as your intent alone reshapes existence.  
-- Transcend physical combat, becoming a force of martial perfection beyond comprehension.  
+- **Elder Deity**
+- Your mere presence warps reality, and you never need to strike.
+- Cause destruction with a thought, as your intent alone reshapes existence.
+- Transcend physical combat, becoming a force of martial perfection beyond comprehension.
 
 ---
 
-## **Navigation**  
+## **Navigation**
 *(The art of charting and traversing landscapes, seas, and space with absolute mastery.)*
 
-- **Untrained**  
-- Use simple maps or landmarks to find your way.  
-- Struggle to orient yourself in unfamiliar locations.  
-- Get lost easily without clear guidance.  
+- **Untrained**
+- Use simple maps or landmarks to find your way.
+- Struggle to orient yourself in unfamiliar locations.
+- Get lost easily without clear guidance.
 
-- **Apprentice**  
-- Navigate using the stars, compasses, and basic wayfinding skills.  
-- Read and interpret maps accurately.  
-- Recognize patterns in natural landscapes for direction.  
+- **Apprentice**
+- Navigate using the stars, compasses, and basic wayfinding skills.
+- Read and interpret maps accurately.
+- Recognize patterns in natural landscapes for direction.
 
-- **Journeyman**  
-- Plot complex routes over vast distances, including sea and sky travel.  
-- Adjust to changing environmental factors such as weather or terrain shifts.  
-- Predict and avoid common navigation hazards.  
+- **Journeyman**
+- Plot complex routes over vast distances, including sea and sky travel.
+- Adjust to changing environmental factors such as weather or terrain shifts.
+- Predict and avoid common navigation hazards.
 
-- **Master**  
-- Chart unexplored regions with unerring accuracy.  
-- Navigate hazardous environments such as deep space, underground labyrinths, or uncharted wilderness.  
-- Sense hidden paths and safe routes instinctively.  
+- **Master**
+- Chart unexplored regions with unerring accuracy.
+- Navigate hazardous environments such as deep space, underground labyrinths, or uncharted wilderness.
+- Sense hidden paths and safe routes instinctively.
 
-- **Olympian**  
-- Travel flawlessly through any natural or artificial terrain without error.  
-- Calculate optimal routes faster than supercomputers.  
-- Predict navigation obstacles long before they appear.  
+- **Olympian**
+- Travel flawlessly through any natural or artificial terrain without error.
+- Calculate optimal routes faster than supercomputers.
+- Predict navigation obstacles long before they appear.
 
-- **Demigod**  
-- Traverse dimensions and alternate realities with ease.  
-- Move through space-time anomalies without being affected.  
-- Manipulate gravity and momentum to make travel effortless.  
+- **Demigod**
+- Traverse dimensions and alternate realities with ease.
+- Move through space-time anomalies without being affected.
+- Manipulate gravity and momentum to make travel effortless.
 
-- **Titan**  
-- Guide entire fleets through the most treacherous regions of the cosmos.  
-- Navigate black holes, wormholes, and temporal distortions safely.  
-- Move seamlessly across planetary orbits and deep space without effort.  
+- **Titan**
+- Guide entire fleets through the most treacherous regions of the cosmos.
+- Navigate black holes, wormholes, and temporal distortions safely.
+- Move seamlessly across planetary orbits and deep space without effort.
 
-- **Seraph**  
-- Warp space to shorten distances between locations.  
-- Control planetary rotations and orbital alignments for navigation advantages.  
-- Instantly calculate the safest route through any galaxy.  
+- **Seraph**
+- Warp space to shorten distances between locations.
+- Control planetary rotations and orbital alignments for navigation advantages.
+- Instantly calculate the safest route through any galaxy.
 
-- **Lesser Deity**  
-- Shift entire planets into optimal positions for cosmic navigation.  
-- Manipulate the flow of time to ensure seamless interstellar travel.  
-- Reshape the very layout of space itself for more efficient paths.  
+- **Lesser Deity**
+- Shift entire planets into optimal positions for cosmic navigation.
+- Manipulate the flow of time to ensure seamless interstellar travel.
+- Reshape the very layout of space itself for more efficient paths.
 
-- **Deity**  
-- Control entire galactic trade routes and stellar currents.  
-- Erase distance as a concept, allowing movement to any location instantly.  
-- Decide the fate of all space-faring civilizations by determining their ability to traverse the cosmos.  
+- **Deity**
+- Control entire galactic trade routes and stellar currents.
+- Erase distance as a concept, allowing movement to any location instantly.
+- Decide the fate of all space-faring civilizations by determining their ability to traverse the cosmos.
 
-- **Elder Deity**  
-- Space and time adjust themselves to match your intended course.  
-- Entire universes align to facilitate your movement.  
-- You exist beyond travel—you are wherever you choose to be.  
+- **Elder Deity**
+- Space and time adjust themselves to match your intended course.
+- Entire universes align to facilitate your movement.
+- You exist beyond travel—you are wherever you choose to be.
 
 ---
 
-## **Necromancy**  
+## **Necromancy**
 *(The power to manipulate death, spirits, and the boundary between life and the afterlife.)*
 
-- **Untrained**  
-- Sense nearby spirits.  
-- Experience vague premonitions of death without control.  
-- Fail to influence or communicate with the dead.  
+- **Untrained**
+- Sense nearby spirits.
+- Experience vague premonitions of death without control.
+- Fail to influence or communicate with the dead.
 
-- **Apprentice**  
-- Summon a single weak undead creature.  
-- Communicate briefly with lingering spirits.  
-- Preserve corpses to slow natural decay.  
+- **Apprentice**
+- Summon a single weak undead creature.
+- Communicate briefly with lingering spirits.
+- Preserve corpses to slow natural decay.
 
-- **Journeyman**  
-- Bind souls to objects for limited power.  
-- Raise multiple undead minions with moderate control.  
-- Extract memories from the recently deceased.  
+- **Journeyman**
+- Bind souls to objects for limited power.
+- Raise multiple undead minions with moderate control.
+- Extract memories from the recently deceased.
 
-- **Master**  
-- Control dozens of undead warriors.  
-- Permanently tether spirits to reanimated bodies.  
-- Instill intelligence and limited free will in the undead.  
+- **Master**
+- Control dozens of undead warriors.
+- Permanently tether spirits to reanimated bodies.
+- Instill intelligence and limited free will in the undead.
 
-- **Olympian**  
-- Resurrect the recently deceased without consequences.  
-- Shape the undead into advanced warriors or spellcasters.  
-- Walk unnoticed through the realm of the dead.  
+- **Olympian**
+- Resurrect the recently deceased without consequences.
+- Shape the undead into advanced warriors or spellcasters.
+- Walk unnoticed through the realm of the dead.
 
-- **Demigod**  
-- Command all dead within a nation.  
-- Bind powerful spirits into artifacts or living hosts.  
-- Create unkillable undead that persist indefinitely.  
+- **Demigod**
+- Command all dead within a nation.
+- Bind powerful spirits into artifacts or living hosts.
+- Create unkillable undead that persist indefinitely.
 
-- **Titan**  
-- Raise entire lost civilizations from history.  
-- Restore ancient beings long erased from memory.  
-- Generate massive undead armies capable of overrunning entire continents.  
+- **Titan**
+- Raise entire lost civilizations from history.
+- Restore ancient beings long erased from memory.
+- Generate massive undead armies capable of overrunning entire continents.
 
-- **Seraph**  
-- Reshape the afterlife at will.  
-- Trap, release, or rewrite souls bound to the cycle of death.  
-- Manifest as a godlike entity within the realms of the dead.  
+- **Seraph**
+- Reshape the afterlife at will.
+- Trap, release, or rewrite souls bound to the cycle of death.
+- Manifest as a godlike entity within the realms of the dead.
 
-- **Lesser Deity**  
-- Create entire planets filled with the undead.  
-- Bind the spirits of entire species to serve eternally.  
-- Rewrite the rules of undeath, creating new forms of existence.  
+- **Lesser Deity**
+- Create entire planets filled with the undead.
+- Bind the spirits of entire species to serve eternally.
+- Rewrite the rules of undeath, creating new forms of existence.
 
-- **Deity**  
-- Turn death itself into an illusion, reversing all mortality.  
-- Bestow immortality or undeath on entire civilizations.  
-- Command all souls across time, space, and reality.  
+- **Deity**
+- Turn death itself into an illusion, reversing all mortality.
+- Bestow immortality or undeath on entire civilizations.
+- Command all souls across time, space, and reality.
 
-- **Elder Deity**  
-- Redefine the very concept of life and death.  
-- Collapse the barrier between existence and the afterlife.  
-- Shape the cycle of souls, forging new planes of existence beyond comprehension.  
+- **Elder Deity**
+- Redefine the very concept of life and death.
+- Collapse the barrier between existence and the afterlife.
+- Shape the cycle of souls, forging new planes of existence beyond comprehension.
 
 ---
 
@@ -2574,243 +2574,243 @@ The mastery of designing, building, and optimizing technology, from simple machi
 
 ---
 
-## **Piloting**  
+## **Piloting**
 *(The skill of operating and mastering control of vehicles, from personal transports to massive starships.)*
 
-- **Untrained**  
-- Ride a bicycle or row a boat in calm waters.  
-- Struggle with maintaining balance and coordination.  
-- Fail to react quickly in high-speed situations.  
+- **Untrained**
+- Ride a bicycle or row a boat in calm waters.
+- Struggle with maintaining balance and coordination.
+- Fail to react quickly in high-speed situations.
 
-- **Apprentice**  
-- Drive a car or sail a small ship under good conditions.  
-- Maneuver basic vehicles with reasonable control.  
-- Handle minor mechanical failures with some difficulty.  
+- **Apprentice**
+- Drive a car or sail a small ship under good conditions.
+- Maneuver basic vehicles with reasonable control.
+- Handle minor mechanical failures with some difficulty.
 
-- **Journeyman**  
-- Pilot a fighter jet or a spacecraft under normal conditions.  
-- Operate advanced vehicles with precision and efficiency.  
-- Execute high-speed maneuvers with increasing confidence.  
+- **Journeyman**
+- Pilot a fighter jet or a spacecraft under normal conditions.
+- Operate advanced vehicles with precision and efficiency.
+- Execute high-speed maneuvers with increasing confidence.
 
-- **Master**  
-- Fly an advanced aircraft in extreme combat conditions.  
-- Maintain control of a vehicle even when systems fail.  
-- Push machines beyond their intended limits without losing stability.  
+- **Master**
+- Fly an advanced aircraft in extreme combat conditions.
+- Maintain control of a vehicle even when systems fail.
+- Push machines beyond their intended limits without losing stability.
 
-- **Olympian**  
-- Pilot any vehicle with instinctual mastery.  
-- Seamlessly transition between different types of craft without training.  
-- Perform near-impossible stunts and evasive maneuvers with ease.  
+- **Olympian**
+- Pilot any vehicle with instinctual mastery.
+- Seamlessly transition between different types of craft without training.
+- Perform near-impossible stunts and evasive maneuvers with ease.
 
-- **Demigod**  
-- Move through space as if gravity does not affect you.  
-- Pilot at speeds that defy known physics.  
-- React faster than any computer-assisted system could predict.  
+- **Demigod**
+- Move through space as if gravity does not affect you.
+- Pilot at speeds that defy known physics.
+- React faster than any computer-assisted system could predict.
 
-- **Titan**  
-- Command entire fleets while piloting simultaneously.  
-- Masterfully control planetary-scale vehicles or mobile fortresses.  
-- Manipulate inertia and momentum as though they were mere suggestions.  
+- **Titan**
+- Command entire fleets while piloting simultaneously.
+- Masterfully control planetary-scale vehicles or mobile fortresses.
+- Manipulate inertia and momentum as though they were mere suggestions.
 
-- **Seraph**  
-- Warp space around your ship to travel instantly.  
-- Control vessels with a mere thought, as though they were extensions of your body.  
-- Move at impossible speeds while avoiding all hazards effortlessly.  
+- **Seraph**
+- Warp space around your ship to travel instantly.
+- Control vessels with a mere thought, as though they were extensions of your body.
+- Move at impossible speeds while avoiding all hazards effortlessly.
 
-- **Lesser Deity**  
-- Pilot celestial-scale constructs such as planetary fortresses.  
-- Dictate the movement of entire spacefaring civilizations.  
-- Bend the laws of acceleration and propulsion at will.  
+- **Lesser Deity**
+- Pilot celestial-scale constructs such as planetary fortresses.
+- Dictate the movement of entire spacefaring civilizations.
+- Bend the laws of acceleration and propulsion at will.
 
-- **Deity**  
-- Move entire armadas across galaxies in an instant.  
-- Operate all known vehicles without physically interacting with them.  
-- Define the concept of movement itself through sheer force of will.  
+- **Deity**
+- Move entire armadas across galaxies in an instant.
+- Operate all known vehicles without physically interacting with them.
+- Define the concept of movement itself through sheer force of will.
 
-- **Elder Deity**  
-- Space itself bends to accommodate your movement.  
-- You no longer require a vessel, as you are the pilot of reality itself.  
-- Transcend motion and arrive anywhere the moment you desire it.  
-
----
-
-## **Psychomancy (Mind & Thought Magic)**  
-*(The ability to perceive, influence, and control thought, emotion, and consciousness itself.)*  
-
-- **Untrained**  
-- Sense minor changes in mood around you.  
-- Pick up on surface-level emotions without control.  
-- Fail to influence or read deeper thoughts.  
-
-- **Apprentice**  
-- Read surface thoughts.  
-- Project simple mental messages into another’s mind.  
-- Heighten or dull emotions subtly.  
-
-- **Journeyman**  
-- Implant minor false memories.  
-- Sense lies and deception with high accuracy.  
-- Temporarily block someone’s ability to recall specific information.  
-
-- **Master**  
-- Control emotions and influence decision-making.  
-- Manipulate thoughts in real-time without detection.  
-- Create complex false memories indistinguishable from reality.  
-
-- **Olympian**  
-- Speak telepathically across entire continents.  
-- Instantly understand and translate all languages mentally.  
-- Influence thousands of minds simultaneously.  
-
-- **Demigod**  
-- Dominate minds across planetary distances.  
-- Reshape personalities and perspectives at will.  
-- Conceal your presence from all telepathic detection.  
-
-- **Titan**  
-- Enforce a single thought upon an entire civilization.  
-- Suppress independent will across a planetary population.  
-- Erase or rewrite mass memories and historical events through thought alone.  
-
-- **Seraph**  
-- Shape the collective consciousness of a species.  
-- Manifest as a godlike presence within the minds of billions.  
-- Weave entire cultures and belief systems directly into sentient thought.  
-
-- **Lesser Deity**  
-- Control the mindset of an entire galactic empire.  
-- Instill unshakable loyalty or ideological shifts across interstellar civilizations.  
-- Exist simultaneously in every mind within your sphere of influence.  
-
-- **Deity**  
-- Alter sentient thought at a cosmic level.  
-- Construct or erase entire species-wide intellects.  
-- Reprogram the concept of individuality itself.  
-
-- **Elder Deity**  
-- Define the nature of intelligence across the universe.  
-- Will new cognitive beings into existence or erase them from thought.  
-- Reshape reality itself through the sheer force of mental influence.  
+- **Elder Deity**
+- Space itself bends to accommodate your movement.
+- You no longer require a vessel, as you are the pilot of reality itself.
+- Transcend motion and arrive anywhere the moment you desire it.
 
 ---
 
-## **Pyromancy (Fire Magic & Heat Manipulation)**  
-*(The ability to generate, control, and shape fire and heat, from simple flames to cosmic infernos.)*  
+## **Psychomancy (Mind & Thought Magic)**
+*(The ability to perceive, influence, and control thought, emotion, and consciousness itself.)*
 
-- **Untrained**  
-- Light a match or start a campfire manually.  
-- Struggle to control or sustain flames without tools.  
-- Fail to generate or direct fire through magical means.  
+- **Untrained**
+- Sense minor changes in mood around you.
+- Pick up on surface-level emotions without control.
+- Fail to influence or read deeper thoughts.
 
-- **Apprentice**  
-- Create a small flame in your hand that lasts for a few seconds.  
-- Ignite flammable materials with minor effort.  
-- Resist mild burns and high temperatures.  
+- **Apprentice**
+- Read surface thoughts.
+- Project simple mental messages into another’s mind.
+- Heighten or dull emotions subtly.
 
-- **Journeyman**  
-- Shoot a controlled jet of fire, ignite objects from a distance.  
-- Extinguish flames as easily as creating them.  
-- Increase or decrease the temperature of an area slightly.  
+- **Journeyman**
+- Implant minor false memories.
+- Sense lies and deception with high accuracy.
+- Temporarily block someone’s ability to recall specific information.
 
-- **Master**  
-- Call down firestorms or sustain a large fire indefinitely.  
-- Manipulate flames into complex shapes and patterns.  
-- Withstand extreme heat and pressure, such as walking through fire unharmed.  
+- **Master**
+- Control emotions and influence decision-making.
+- Manipulate thoughts in real-time without detection.
+- Create complex false memories indistinguishable from reality.
 
-- **Olympian**  
-- Become immune to fire and heat; burn anything with a touch.  
-- Control temperature on a large scale, freezing or scorching entire regions.  
-- Create and manipulate plasma, the fourth state of matter.  
+- **Olympian**
+- Speak telepathically across entire continents.
+- Instantly understand and translate all languages mentally.
+- Influence thousands of minds simultaneously.
 
-- **Demigod**  
-- Turn an entire battlefield into a sea of flame.  
-- Generate heat so intense it melts metal instantly.  
-- Absorb and redirect fire and energy at will.  
+- **Demigod**
+- Dominate minds across planetary distances.
+- Reshape personalities and perspectives at will.
+- Conceal your presence from all telepathic detection.
 
-- **Titan**  
-- Cause volcanic eruptions or control lava flows across a continent.  
-- Manipulate planetary weather by controlling heat distribution.  
-- Transform yourself into a being of pure fire.  
+- **Titan**
+- Enforce a single thought upon an entire civilization.
+- Suppress independent will across a planetary population.
+- Erase or rewrite mass memories and historical events through thought alone.
 
-- **Seraph**  
-- Set an entire planet’s atmosphere ablaze.  
-- Burn away toxins, disease, or unwanted elements through controlled purification.  
-- Convert energy into fire on a planetary scale.  
+- **Seraph**
+- Shape the collective consciousness of a species.
+- Manifest as a godlike presence within the minds of billions.
+- Weave entire cultures and belief systems directly into sentient thought.
 
-- **Lesser Deity**  
-- Create or extinguish stars.  
-- Control solar flares and stellar heat output.  
-- Weave entire constellations out of living flame.  
+- **Lesser Deity**
+- Control the mindset of an entire galactic empire.
+- Instill unshakable loyalty or ideological shifts across interstellar civilizations.
+- Exist simultaneously in every mind within your sphere of influence.
 
-- **Deity**  
-- Manipulate nuclear fusion; sustain endless energy creation.  
-- Ignite or extinguish celestial bodies at will.  
-- Harness pure cosmic fire to rewrite the nature of heat and light.  
+- **Deity**
+- Alter sentient thought at a cosmic level.
+- Construct or erase entire species-wide intellects.
+- Reprogram the concept of individuality itself.
 
-- **Elder Deity**  
-- Forge new universes composed of pure fire and plasma.  
-- Transcend matter, existing as an eternal force of heat and energy.  
-- Shape reality itself using the primal force of cosmic flame.  
+- **Elder Deity**
+- Define the nature of intelligence across the universe.
+- Will new cognitive beings into existence or erase them from thought.
+- Reshape reality itself through the sheer force of mental influence.
 
 ---
 
-## **Sangromancy (Blood Magic)**  
-*(The mastery of blood, life essence, and the manipulation of genetic and biological structures.)*  
+## **Pyromancy (Fire Magic & Heat Manipulation)**
+*(The ability to generate, control, and shape fire and heat, from simple flames to cosmic infernos.)*
 
-- **Untrained**  
-- Recognize the smell and texture of blood instinctively.  
-- Sense minor changes in blood composition, such as sickness or poisoning.  
-- Fail to influence or control blood in any meaningful way.  
+- **Untrained**
+- Light a match or start a campfire manually.
+- Struggle to control or sustain flames without tools.
+- Fail to generate or direct fire through magical means.
 
-- **Apprentice**  
-- Heal minor wounds using your own blood.  
-- Harden blood to form simple tools or weapons.  
-- Extract small amounts of life essence to enhance minor magical effects.  
+- **Apprentice**
+- Create a small flame in your hand that lasts for a few seconds.
+- Ignite flammable materials with minor effort.
+- Resist mild burns and high temperatures.
 
-- **Journeyman**  
-- Enhance physical abilities by infusing blood with magic.  
-- Strengthen your body beyond human limits through controlled blood manipulation.  
-- Accelerate healing in yourself and others by guiding blood flow.  
+- **Journeyman**
+- Shoot a controlled jet of fire, ignite objects from a distance.
+- Extinguish flames as easily as creating them.
+- Increase or decrease the temperature of an area slightly.
 
-- **Master**  
-- Manipulate blood within living creatures.  
-- Draw blood from others without direct contact.  
-- Coagulate or liquefy blood at will, preventing or accelerating wounds.  
+- **Master**
+- Call down firestorms or sustain a large fire indefinitely.
+- Manipulate flames into complex shapes and patterns.
+- Withstand extreme heat and pressure, such as walking through fire unharmed.
 
-- **Olympian**  
-- Regenerate from wounds that would normally be fatal.  
-- Use blood as an energy source, sustaining yourself indefinitely.  
-- Control multiple bodies at once by connecting their life force.  
+- **Olympian**
+- Become immune to fire and heat; burn anything with a touch.
+- Control temperature on a large scale, freezing or scorching entire regions.
+- Create and manipulate plasma, the fourth state of matter.
 
-- **Demigod**  
-- Control armies of blood-infused warriors.  
-- Bind blood to create unbreakable magical contracts.  
-- Extract and manipulate the life force of entire populations.  
+- **Demigod**
+- Turn an entire battlefield into a sea of flame.
+- Generate heat so intense it melts metal instantly.
+- Absorb and redirect fire and energy at will.
 
-- **Titan**  
-- Rewrite the genetic structure of living creatures.  
-- Evolve or devolve organisms through blood alteration.  
-- Merge different species by fusing their life essences together.  
+- **Titan**
+- Cause volcanic eruptions or control lava flows across a continent.
+- Manipulate planetary weather by controlling heat distribution.
+- Transform yourself into a being of pure fire.
 
-- **Seraph**  
-- Shape entire species through genetic modification.  
-- Restore extinct creatures by reconstructing their bloodlines.  
-- Imbue new traits and abilities into existing populations at will.  
+- **Seraph**
+- Set an entire planet’s atmosphere ablaze.
+- Burn away toxins, disease, or unwanted elements through controlled purification.
+- Convert energy into fire on a planetary scale.
 
-- **Lesser Deity**  
-- Reshape planetary populations using blood-based alchemy.  
-- Generate entirely new biological forms from raw blood essence.  
-- Replace conventional reproduction with direct genetic sculpting.  
+- **Lesser Deity**
+- Create or extinguish stars.
+- Control solar flares and stellar heat output.
+- Weave entire constellations out of living flame.
 
-- **Deity**  
-- Define the genetic code of all organic life.  
-- Bestow immortality or mortality upon entire civilizations.  
-- Directly manipulate the fundamental principles of biology and evolution.  
+- **Deity**
+- Manipulate nuclear fusion; sustain endless energy creation.
+- Ignite or extinguish celestial bodies at will.
+- Harness pure cosmic fire to rewrite the nature of heat and light.
 
-- **Elder Deity**  
-- Rebuild species from pure blood essence.  
-- Shape entire universes populated by beings of your own creation.  
-- Transcend organic life, existing as the source of all genetic and biological potential.  
+- **Elder Deity**
+- Forge new universes composed of pure fire and plasma.
+- Transcend matter, existing as an eternal force of heat and energy.
+- Shape reality itself using the primal force of cosmic flame.
+
+---
+
+## **Sangromancy (Blood Magic)**
+*(The mastery of blood, life essence, and the manipulation of genetic and biological structures.)*
+
+- **Untrained**
+- Recognize the smell and texture of blood instinctively.
+- Sense minor changes in blood composition, such as sickness or poisoning.
+- Fail to influence or control blood in any meaningful way.
+
+- **Apprentice**
+- Heal minor wounds using your own blood.
+- Harden blood to form simple tools or weapons.
+- Extract small amounts of life essence to enhance minor magical effects.
+
+- **Journeyman**
+- Enhance physical abilities by infusing blood with magic.
+- Strengthen your body beyond human limits through controlled blood manipulation.
+- Accelerate healing in yourself and others by guiding blood flow.
+
+- **Master**
+- Manipulate blood within living creatures.
+- Draw blood from others without direct contact.
+- Coagulate or liquefy blood at will, preventing or accelerating wounds.
+
+- **Olympian**
+- Regenerate from wounds that would normally be fatal.
+- Use blood as an energy source, sustaining yourself indefinitely.
+- Control multiple bodies at once by connecting their life force.
+
+- **Demigod**
+- Control armies of blood-infused warriors.
+- Bind blood to create unbreakable magical contracts.
+- Extract and manipulate the life force of entire populations.
+
+- **Titan**
+- Rewrite the genetic structure of living creatures.
+- Evolve or devolve organisms through blood alteration.
+- Merge different species by fusing their life essences together.
+
+- **Seraph**
+- Shape entire species through genetic modification.
+- Restore extinct creatures by reconstructing their bloodlines.
+- Imbue new traits and abilities into existing populations at will.
+
+- **Lesser Deity**
+- Reshape planetary populations using blood-based alchemy.
+- Generate entirely new biological forms from raw blood essence.
+- Replace conventional reproduction with direct genetic sculpting.
+
+- **Deity**
+- Define the genetic code of all organic life.
+- Bestow immortality or mortality upon entire civilizations.
+- Directly manipulate the fundamental principles of biology and evolution.
+
+- **Elder Deity**
+- Rebuild species from pure blood essence.
+- Shape entire universes populated by beings of your own creation.
+- Transcend organic life, existing as the source of all genetic and biological potential.
 
 ---
 
@@ -2874,183 +2874,183 @@ The mastery of designing, building, and optimizing technology, from simple machi
 
 ---
 
-## **Social & Leadership**  
-*(The mastery of persuasion, influence, and governance, from leading small groups to shaping entire civilizations.)*  
+## **Social & Leadership**
+*(The mastery of persuasion, influence, and governance, from leading small groups to shaping entire civilizations.)*
 
-- **Untrained**  
-- Persuade a single person with simple logic.  
-- Struggle to maintain authority or inspire confidence.  
-- Fail to navigate complex social situations effectively.  
+- **Untrained**
+- Persuade a single person with simple logic.
+- Struggle to maintain authority or inspire confidence.
+- Fail to navigate complex social situations effectively.
 
-- **Apprentice**  
-- Convince a small group to follow a simple plan.  
-- Navigate minor negotiations with moderate success.  
-- Gain trust through basic charisma and reasoning.  
+- **Apprentice**
+- Convince a small group to follow a simple plan.
+- Navigate minor negotiations with moderate success.
+- Gain trust through basic charisma and reasoning.
 
-- **Journeyman**  
-- Rally a town to your cause through rhetoric or charisma.  
-- Lead groups with confidence and inspire strong loyalty.  
-- Influence local policies and social structures through speech alone.  
+- **Journeyman**
+- Rally a town to your cause through rhetoric or charisma.
+- Lead groups with confidence and inspire strong loyalty.
+- Influence local policies and social structures through speech alone.
 
-- **Master**  
-- Lead an army into battle, inspiring near-fanatical loyalty.  
-- Command absolute obedience from those under your direct leadership.  
-- Defuse conflicts or escalate them with masterful rhetoric.  
+- **Master**
+- Lead an army into battle, inspiring near-fanatical loyalty.
+- Command absolute obedience from those under your direct leadership.
+- Defuse conflicts or escalate them with masterful rhetoric.
 
-- **Olympian**  
-- Unite an entire country under a single ideology.  
-- Reshape national identity and cultural beliefs through influence.  
-- Maintain control even in times of crisis through sheer presence.  
+- **Olympian**
+- Unite an entire country under a single ideology.
+- Reshape national identity and cultural beliefs through influence.
+- Maintain control even in times of crisis through sheer presence.
 
-- **Demigod**  
-- Command absolute loyalty from all who hear you speak.  
-- Restructure societies overnight without opposition.  
-- Enforce peace or war through nothing but words.  
+- **Demigod**
+- Command absolute loyalty from all who hear you speak.
+- Restructure societies overnight without opposition.
+- Enforce peace or war through nothing but words.
 
-- **Titan**  
-- Shape the culture and governance of an entire continent.  
-- Influence world leaders as though their will is your own.  
-- Instinctively understand and manipulate political dynamics on a massive scale.  
+- **Titan**
+- Shape the culture and governance of an entire continent.
+- Influence world leaders as though their will is your own.
+- Instinctively understand and manipulate political dynamics on a massive scale.
 
-- **Seraph**  
-- Rule a planet effortlessly, commanding obedience from billions.  
-- Cultivate planetary-wide loyalty that transcends generations.  
-- Shape laws and ideologies that define civilizations for millennia.  
+- **Seraph**
+- Rule a planet effortlessly, commanding obedience from billions.
+- Cultivate planetary-wide loyalty that transcends generations.
+- Shape laws and ideologies that define civilizations for millennia.
 
-- **Lesser Deity**  
-- Dictate the political structures of multiple planets.  
-- Control entire star systems without direct intervention.  
-- Become the foundation of interplanetary government and law.  
+- **Lesser Deity**
+- Dictate the political structures of multiple planets.
+- Control entire star systems without direct intervention.
+- Become the foundation of interplanetary government and law.
 
-- **Deity**  
-- Unite an entire galaxy under one rule.  
-- Control the rise and fall of civilizations across space and time.  
-- Transcend leadership—your will becomes the unchallenged doctrine of countless worlds.  
+- **Deity**
+- Unite an entire galaxy under one rule.
+- Control the rise and fall of civilizations across space and time.
+- Transcend leadership—your will becomes the unchallenged doctrine of countless worlds.
 
-- **Elder Deity**  
-- Reshape civilizations at a universal scale.  
-- Define the fundamental principles of governance and society across all of existence.  
-- Rule not through power, but through the very nature of reality itself.  
-
----
-
-## **Social Sciences (Sociology, Psychology, History, and Anthropology)**  
-*(The study and manipulation of societies, cultures, and the psychological forces that shape civilizations.)*  
-
-- **Untrained**  
-- Observe basic human behavior but lack deep understanding.  
-- Struggle to analyze cultural or historical trends.  
-- Fail to predict or influence social interactions beyond common sense.  
-
-- **Apprentice**  
-- Predict how individuals will react to basic social situations.  
-- Identify common behavioral patterns within small groups.  
-- Recognize fundamental societal structures and historical influences.  
-
-- **Journeyman**  
-- Influence small communities through cultural awareness.  
-- Accurately predict the short-term consequences of social and political changes.  
-- Develop strategies to shape public perception and group behavior.  
-
-- **Master**  
-- Predict large-scale social movements and shifts in ideology.  
-- Manipulate cultural narratives to drive political or social change.  
-- Analyze history with such precision that future societal trends become clear.  
-
-- **Olympian**  
-- Engineer societies that will thrive for generations.  
-- Design governmental and economic systems that maximize stability and growth.  
-- Instinctively foresee and prevent social collapse before it begins.  
-
-- **Demigod**  
-- Instinctively understand how any sentient species functions.  
-- Modify cultural values without direct intervention.  
-- Reshape historical narratives to alter collective identity.  
-
-- **Titan**  
-- Alter cultural values on a continental scale.  
-- Cause or prevent revolutions through indirect influence.  
-- Shift philosophical and moral structures across entire civilizations.  
-
-- **Seraph**  
-- Guide planetary civilizations through social evolution.  
-- Shape belief systems, traditions, and historical memory effortlessly.  
-- Directly control the rise and fall of major political ideologies.  
-
-- **Lesser Deity**  
-- Direct the rise and fall of interstellar cultures.  
-- Maintain harmony or chaos across multiple planets through social manipulation.  
-- Weave the histories of entire species into a grand, interconnected narrative.  
-
-- **Deity**  
-- Shape galactic history through subtle or overt influence.  
-- Ensure the longevity of civilizations or orchestrate their downfall with a single decree.  
-- Define the ideological, moral, and intellectual progress of countless star systems.  
-
-- **Elder Deity**  
-- Create new universal constants for social structures.  
-- Dictate the fundamental laws that govern thought, belief, and cultural evolution.  
-- Transcend individual societies—your will becomes the eternal structure of civilization itself.  
+- **Elder Deity**
+- Reshape civilizations at a universal scale.
+- Define the fundamental principles of governance and society across all of existence.
+- Rule not through power, but through the very nature of reality itself.
 
 ---
 
-## **Spatiomancy (Space Manipulation, Dimensional Travel, and Reality Warping)**  
-*(The mastery of space itself, from simple distortions to absolute control over dimensions and reality.)*  
+## **Social Sciences (Sociology, Psychology, History, and Anthropology)**
+*(The study and manipulation of societies, cultures, and the psychological forces that shape civilizations.)*
 
-- **Untrained**  
-- Sense minor distortions in space, such as pressure shifts or gravitational anomalies.  
-- Notice inconsistencies in spatial perception but fail to manipulate them.  
-- Struggle to orient yourself in environments with warped geometry.  
+- **Untrained**
+- Observe basic human behavior but lack deep understanding.
+- Struggle to analyze cultural or historical trends.
+- Fail to predict or influence social interactions beyond common sense.
 
-- **Apprentice**  
-- Create small spatial distortions, bending light or slightly shifting an object’s position.  
-- Adjust distances subtly to make objects seem closer or farther away.  
-- Detect hidden pathways or weak points in reality.  
+- **Apprentice**
+- Predict how individuals will react to basic social situations.
+- Identify common behavioral patterns within small groups.
+- Recognize fundamental societal structures and historical influences.
 
-- **Journeyman**  
-- Fold space to teleport short distances or create minor pocket dimensions.  
-- Manipulate small areas of space to extend or shorten movement.  
-- Store small objects in extradimensional spaces.  
+- **Journeyman**
+- Influence small communities through cultural awareness.
+- Accurately predict the short-term consequences of social and political changes.
+- Develop strategies to shape public perception and group behavior.
 
-- **Master**  
-- Warp the battlefield, extending or compressing distances to confuse enemies.  
-- Generate stable pathways through warped dimensions.  
-- Shift perspectives so that directions and locations become fluid and unpredictable.  
+- **Master**
+- Predict large-scale social movements and shifts in ideology.
+- Manipulate cultural narratives to drive political or social change.
+- Analyze history with such precision that future societal trends become clear.
 
-- **Olympian**  
-- Open stable portals between distant locations or trap enemies in spatial loops.  
-- Create pathways through interdimensional rifts.  
-- Manipulate localized gravity and spatial compression effortlessly.  
+- **Olympian**
+- Engineer societies that will thrive for generations.
+- Design governmental and economic systems that maximize stability and growth.
+- Instinctively foresee and prevent social collapse before it begins.
 
-- **Demigod**  
-- Reshape the local laws of physics, allowing for non-Euclidean architecture and impossible movement.  
-- Shift objects between dimensions without restrictions.  
-- Sustain entire regions where space behaves differently than the rest of reality.  
+- **Demigod**
+- Instinctively understand how any sentient species functions.
+- Modify cultural values without direct intervention.
+- Reshape historical narratives to alter collective identity.
 
-- **Titan**  
-- Generate vast extradimensional realms or phase entire cities out of normal space.  
-- Merge separate locations into a single connected area.  
-- Create spatial defenses that render structures inaccessible or invulnerable.  
+- **Titan**
+- Alter cultural values on a continental scale.
+- Cause or prevent revolutions through indirect influence.
+- Shift philosophical and moral structures across entire civilizations.
 
-- **Seraph**  
-- Manipulate planetary orbits, move moons, or collapse space into singularities.  
-- Cause entire regions of space to expand, contract, or loop infinitely.  
-- Create regions where movement occurs without the passage of time.  
+- **Seraph**
+- Guide planetary civilizations through social evolution.
+- Shape belief systems, traditions, and historical memory effortlessly.
+- Directly control the rise and fall of major political ideologies.
 
-- **Lesser Deity**  
-- Bend entire solar systems into pocket dimensions or rewrite celestial mechanics.  
-- Erase or recreate planetary locations instantly.  
-- Generate stable, artificial dimensions to house civilizations or store cosmic secrets.  
+- **Lesser Deity**
+- Direct the rise and fall of interstellar cultures.
+- Maintain harmony or chaos across multiple planets through social manipulation.
+- Weave the histories of entire species into a grand, interconnected narrative.
 
-- **Deity**  
-- Restructure galactic spacetime, creating permanent wormhole networks or moving entire star clusters.  
-- Fuse or separate galaxies by manipulating the fabric of space.  
-- Reshape the architecture of the universe to fit your desires.  
+- **Deity**
+- Shape galactic history through subtle or overt influence.
+- Ensure the longevity of civilizations or orchestrate their downfall with a single decree.
+- Define the ideological, moral, and intellectual progress of countless star systems.
 
-- **Elder Deity**  
-- Define the very nature of space itself, merging or separating realities at will.  
-- Collapse or generate new dimensions beyond conventional existence.  
-- Transcend all spatial constraints, existing everywhere and nowhere simultaneously.  
+- **Elder Deity**
+- Create new universal constants for social structures.
+- Dictate the fundamental laws that govern thought, belief, and cultural evolution.
+- Transcend individual societies—your will becomes the eternal structure of civilization itself.
+
+---
+
+## **Spatiomancy (Space Manipulation, Dimensional Travel, and Reality Warping)**
+*(The mastery of space itself, from simple distortions to absolute control over dimensions and reality.)*
+
+- **Untrained**
+- Sense minor distortions in space, such as pressure shifts or gravitational anomalies.
+- Notice inconsistencies in spatial perception but fail to manipulate them.
+- Struggle to orient yourself in environments with warped geometry.
+
+- **Apprentice**
+- Create small spatial distortions, bending light or slightly shifting an object’s position.
+- Adjust distances subtly to make objects seem closer or farther away.
+- Detect hidden pathways or weak points in reality.
+
+- **Journeyman**
+- Fold space to teleport short distances or create minor pocket dimensions.
+- Manipulate small areas of space to extend or shorten movement.
+- Store small objects in extradimensional spaces.
+
+- **Master**
+- Warp the battlefield, extending or compressing distances to confuse enemies.
+- Generate stable pathways through warped dimensions.
+- Shift perspectives so that directions and locations become fluid and unpredictable.
+
+- **Olympian**
+- Open stable portals between distant locations or trap enemies in spatial loops.
+- Create pathways through interdimensional rifts.
+- Manipulate localized gravity and spatial compression effortlessly.
+
+- **Demigod**
+- Reshape the local laws of physics, allowing for non-Euclidean architecture and impossible movement.
+- Shift objects between dimensions without restrictions.
+- Sustain entire regions where space behaves differently than the rest of reality.
+
+- **Titan**
+- Generate vast extradimensional realms or phase entire cities out of normal space.
+- Merge separate locations into a single connected area.
+- Create spatial defenses that render structures inaccessible or invulnerable.
+
+- **Seraph**
+- Manipulate planetary orbits, move moons, or collapse space into singularities.
+- Cause entire regions of space to expand, contract, or loop infinitely.
+- Create regions where movement occurs without the passage of time.
+
+- **Lesser Deity**
+- Bend entire solar systems into pocket dimensions or rewrite celestial mechanics.
+- Erase or recreate planetary locations instantly.
+- Generate stable, artificial dimensions to house civilizations or store cosmic secrets.
+
+- **Deity**
+- Restructure galactic spacetime, creating permanent wormhole networks or moving entire star clusters.
+- Fuse or separate galaxies by manipulating the fabric of space.
+- Reshape the architecture of the universe to fit your desires.
+
+- **Elder Deity**
+- Define the very nature of space itself, merging or separating realities at will.
+- Collapse or generate new dimensions beyond conventional existence.
+- Transcend all spatial constraints, existing everywhere and nowhere simultaneously.
 
 ---
 
@@ -3114,243 +3114,243 @@ The mastery of designing, building, and optimizing technology, from simple machi
 
 ---
 
-## **Survivalism**  
+## **Survivalism**
 *(The ability to endure, adapt, and thrive in hostile or unpredictable environments.)*
 
-- **Untrained**  
-- Find shelter and food in a familiar environment.  
-- Struggle to maintain body temperature in extreme weather.  
-- Panic in dangerous or high-stress survival situations.  
+- **Untrained**
+- Find shelter and food in a familiar environment.
+- Struggle to maintain body temperature in extreme weather.
+- Panic in dangerous or high-stress survival situations.
 
-- **Apprentice**  
-- Start fires, purify water, and navigate basic wilderness challenges.  
-- Identify edible plants and track small animals.  
-- Build simple shelters for short-term survival.  
+- **Apprentice**
+- Start fires, purify water, and navigate basic wilderness challenges.
+- Identify edible plants and track small animals.
+- Build simple shelters for short-term survival.
 
-- **Journeyman**  
-- Survive in extreme conditions such as deserts, tundras, or dense jungles.  
-- Hunt, trap, and forage effectively for long-term survival.  
-- Construct durable shelters that withstand harsh elements.  
+- **Journeyman**
+- Survive in extreme conditions such as deserts, tundras, or dense jungles.
+- Hunt, trap, and forage effectively for long-term survival.
+- Construct durable shelters that withstand harsh elements.
 
-- **Master**  
-- Thrive indefinitely in hostile environments with minimal tools.  
-- Predict and prepare for natural disasters before they occur.  
-- Maintain peak physical condition even under starvation or extreme fatigue.  
+- **Master**
+- Thrive indefinitely in hostile environments with minimal tools.
+- Predict and prepare for natural disasters before they occur.
+- Maintain peak physical condition even under starvation or extreme fatigue.
 
-- **Olympian**  
-- Endure conditions no normal being could survive (vacuum of space, toxic atmospheres, deep-sea pressure).  
-- Adapt instantly to new biomes without preparation.  
-- Sense and avoid natural hazards before they manifest.  
+- **Olympian**
+- Endure conditions no normal being could survive (vacuum of space, toxic atmospheres, deep-sea pressure).
+- Adapt instantly to new biomes without preparation.
+- Sense and avoid natural hazards before they manifest.
 
-- **Demigod**  
-- Survive direct exposure to deadly elements such as magma, radiation, or extreme voids.  
-- Withstand years without food, water, or rest.  
-- Regenerate from near-fatal wounds without medical aid.  
+- **Demigod**
+- Survive direct exposure to deadly elements such as magma, radiation, or extreme voids.
+- Withstand years without food, water, or rest.
+- Regenerate from near-fatal wounds without medical aid.
 
-- **Titan**  
-- Adapt your biology to any environment, no matter how inhospitable.  
-- Manipulate your metabolism and bodily functions at will.  
-- Become immune to poisons, diseases, and even environmental destruction.  
+- **Titan**
+- Adapt your biology to any environment, no matter how inhospitable.
+- Manipulate your metabolism and bodily functions at will.
+- Become immune to poisons, diseases, and even environmental destruction.
 
-- **Seraph**  
-- Walk through the most extreme conditions—supernovae, black holes, or void storms—without harm.  
-- Reshape ecosystems to suit your survival needs instantly.  
-- Extend your survival abilities to entire groups, keeping them alive under impossible odds.  
+- **Seraph**
+- Walk through the most extreme conditions—supernovae, black holes, or void storms—without harm.
+- Reshape ecosystems to suit your survival needs instantly.
+- Extend your survival abilities to entire groups, keeping them alive under impossible odds.
 
-- **Lesser Deity**  
-- Render entire planets habitable through sheer will.  
-- No longer require sustenance, rest, or protection from the elements.  
-- Control the balance of life and death in any survival scenario.  
+- **Lesser Deity**
+- Render entire planets habitable through sheer will.
+- No longer require sustenance, rest, or protection from the elements.
+- Control the balance of life and death in any survival scenario.
 
-- **Deity**  
-- Endure reality-breaking phenomena without effort.  
-- Exist in multiple environments at once without suffering consequences.  
-- Shape existence itself to ensure your continued survival.  
+- **Deity**
+- Endure reality-breaking phenomena without effort.
+- Exist in multiple environments at once without suffering consequences.
+- Shape existence itself to ensure your continued survival.
 
-- **Elder Deity**  
-- The universe itself adapts to sustain your life.  
-- No force can extinguish your existence, regardless of conditions.  
-- Transcend survival—you exist beyond destruction.  
-
----
-
-## **Tactics & Strategy**  
-*(The mastery of military strategy, warfare, and large-scale conflict, from small skirmishes to intergalactic wars.)*  
-
-- **Untrained**  
-- Understand basic combat formations but lack real battlefield knowledge.  
-- Struggle to coordinate groups effectively in combat situations.  
-- Fail to anticipate enemy movements beyond simple reactions.  
-
-- **Apprentice**  
-- Command a squad of soldiers in small skirmishes.  
-- Recognize key strategic advantages in battle.  
-- Adapt to minor tactical challenges with moderate success.  
-
-- **Journeyman**  
-- Plan and execute battles at a regional level.  
-- Coordinate multiple units effectively, ensuring battlefield cohesion.  
-- Predict enemy strategies based on troop movements and logistics.  
-
-- **Master**  
-- Lead armies with genius-level strategy, ensuring victory.  
-- Counteract enemy tactics before they unfold.  
-- Use terrain, deception, and logistics to manipulate the battlefield.  
-
-- **Olympian**  
-- Win world wars through superior tactics alone.  
-- Execute large-scale military operations flawlessly.  
-- Maintain absolute control over conflicts, even when outnumbered.  
-
-- **Demigod**  
-- Instantly perceive the outcome of conflicts before they happen.  
-- Shape battles through pure strategy without direct engagement.  
-- Lead without flaw, making perfect tactical decisions in real time.  
-
-- **Titan**  
-- Orchestrate planetary invasions with flawless execution.  
-- Control entire war campaigns with the precision of a master chess player.  
-- Instinctively devise countermeasures to any known form of attack.  
-
-- **Seraph**  
-- Lead multi-planet wars with godlike precision.  
-- Manipulate entire star systems into war or peace with minimal effort.  
-- Direct vast interstellar conflicts as easily as commanding a single battle.  
-
-- **Lesser Deity**  
-- Conquer entire solar systems with pure strategy.  
-- Shape the evolution of warfare across civilizations.  
-- Enforce order or chaos across multiple planetary factions without lifting a weapon.  
-
-- **Deity**  
-- Manipulate galactic civilizations into fighting or making peace.  
-- Orchestrate conflicts so massive they alter the fate of entire species.  
-- Render war obsolete through sheer control over military thought and strategy.  
-
-- **Elder Deity**  
-- Erase all concept of war or reshape the art of conflict across the universe.  
-- Decide the fate of all warfare across time and space.  
-- Transcend strategy, becoming the force that determines victory and defeat at a cosmic scale.  
+- **Elder Deity**
+- The universe itself adapts to sustain your life.
+- No force can extinguish your existence, regardless of conditions.
+- Transcend survival—you exist beyond destruction.
 
 ---
 
-## **Terramancy (Earth & Metal Magic)**  
-*(The mastery of controlling earth, stone, and metal, from shifting pebbles to forging entire planets.)*  
+## **Tactics & Strategy**
+*(The mastery of military strategy, warfare, and large-scale conflict, from small skirmishes to intergalactic wars.)*
 
-- **Untrained**  
-- Move pebbles with minor concentration.  
-- Sense subtle vibrations through the ground.  
-- Fail to manipulate solid materials in any meaningful way.  
+- **Untrained**
+- Understand basic combat formations but lack real battlefield knowledge.
+- Struggle to coordinate groups effectively in combat situations.
+- Fail to anticipate enemy movements beyond simple reactions.
 
-- **Apprentice**  
-- Shift small amounts of earth to create trenches.  
-- Compact loose soil or sand into solid surfaces.  
-- Detect minerals and ores within arm’s reach.  
+- **Apprentice**
+- Command a squad of soldiers in small skirmishes.
+- Recognize key strategic advantages in battle.
+- Adapt to minor tactical challenges with moderate success.
 
-- **Journeyman**  
-- Erect stone walls or break apart rocky surfaces.  
-- Manipulate basic metallic structures with moderate precision.  
-- Direct small-scale landslides or soil movements.  
+- **Journeyman**
+- Plan and execute battles at a regional level.
+- Coordinate multiple units effectively, ensuring battlefield cohesion.
+- Predict enemy strategies based on troop movements and logistics.
 
-- **Master**  
-- Cause localized tremors and earthquakes.  
-- Reshape terrain to create defensive barriers or trenches.  
-- Extract and refine raw metals directly from the earth.  
+- **Master**
+- Lead armies with genius-level strategy, ensuring victory.
+- Counteract enemy tactics before they unfold.
+- Use terrain, deception, and logistics to manipulate the battlefield.
 
-- **Olympian**  
-- Reshape mountains and summon metal constructs.  
-- Harden rock into unbreakable materials or liquefy stone at will.  
-- Manipulate metal with the same precision as a blacksmith forging steel.  
+- **Olympian**
+- Win world wars through superior tactics alone.
+- Execute large-scale military operations flawlessly.
+- Maintain absolute control over conflicts, even when outnumbered.
 
-- **Demigod**  
-- Manipulate tectonic activity to form islands or valleys.  
-- Redirect seismic energy to prevent or cause natural disasters.  
-- Shape massive underground caverns and subterranean cities effortlessly.  
+- **Demigod**
+- Instantly perceive the outcome of conflicts before they happen.
+- Shape battles through pure strategy without direct engagement.
+- Lead without flaw, making perfect tactical decisions in real time.
 
-- **Titan**  
-- Raise or sink entire continents at will.  
-- Shift planetary fault lines to reshape the world.  
-- Fuse different metals and minerals into entirely new substances.  
+- **Titan**
+- Orchestrate planetary invasions with flawless execution.
+- Control entire war campaigns with the precision of a master chess player.
+- Instinctively devise countermeasures to any known form of attack.
 
-- **Seraph**  
-- Sculpt entire planets’ landscapes effortlessly.  
-- Extract planetary cores and redistribute their energy.  
-- Construct enormous landmasses, mountain ranges, or subterranean networks.  
+- **Seraph**
+- Lead multi-planet wars with godlike precision.
+- Manipulate entire star systems into war or peace with minimal effort.
+- Direct vast interstellar conflicts as easily as commanding a single battle.
 
-- **Lesser Deity**  
-- Control planetary tectonics, forging or dissolving landmasses.  
-- Manipulate the structure of planets to create ideal environments.  
-- Direct asteroid formations to collide or fuse with existing worlds.  
+- **Lesser Deity**
+- Conquer entire solar systems with pure strategy.
+- Shape the evolution of warfare across civilizations.
+- Enforce order or chaos across multiple planetary factions without lifting a weapon.
 
-- **Deity**  
-- Construct massive planetary structures instantly.  
-- Rebuild destroyed civilizations by reshaping their worlds.  
-- Transform entire planets into living metal or crystalline landscapes.  
+- **Deity**
+- Manipulate galactic civilizations into fighting or making peace.
+- Orchestrate conflicts so massive they alter the fate of entire species.
+- Render war obsolete through sheer control over military thought and strategy.
 
-- **Elder Deity**  
-- Forge new planets from interstellar debris.  
-- Collapse entire planetary bodies into raw materials for creation.  
-- Reshape the structure of the cosmos, dictating the formation of celestial bodies.  
+- **Elder Deity**
+- Erase all concept of war or reshape the art of conflict across the universe.
+- Decide the fate of all warfare across time and space.
+- Transcend strategy, becoming the force that determines victory and defeat at a cosmic scale.
 
 ---
 
-## **Umbramancy (Shadow Magic)**  
-*(The mastery of darkness, shadows, and the manipulation of light’s absence.)*  
+## **Terramancy (Earth & Metal Magic)**
+*(The mastery of controlling earth, stone, and metal, from shifting pebbles to forging entire planets.)*
 
-- **Untrained**  
-- Create a faint shadowy distortion.  
-- Sense nearby darkness but fail to control it.  
-- Struggle to manipulate shadows beyond natural movement.  
+- **Untrained**
+- Move pebbles with minor concentration.
+- Sense subtle vibrations through the ground.
+- Fail to manipulate solid materials in any meaningful way.
 
-- **Apprentice**  
-- Form small patches of magical darkness.  
-- Obscure light sources to create minor illusions.  
-- Slightly extend or shrink shadows at will.  
+- **Apprentice**
+- Shift small amounts of earth to create trenches.
+- Compact loose soil or sand into solid surfaces.
+- Detect minerals and ores within arm’s reach.
 
-- **Journeyman**  
-- Hide within shadows or manipulate them subtly.  
-- Move unseen by blending into areas of darkness.  
-- Extend and reshape shadows to create misleading images.  
+- **Journeyman**
+- Erect stone walls or break apart rocky surfaces.
+- Manipulate basic metallic structures with moderate precision.
+- Direct small-scale landslides or soil movements.
 
-- **Master**  
-- Create solid constructs made of shadow.  
-- Weaponize darkness into cutting edges or restraining tendrils.  
-- Conceal entire areas in magical night that negates visibility.  
+- **Master**
+- Cause localized tremors and earthquakes.
+- Reshape terrain to create defensive barriers or trenches.
+- Extract and refine raw metals directly from the earth.
 
-- **Olympian**  
-- Move through shadows across vast distances.  
-- Phase into darkness to become intangible.  
-- Use shadows to reach places untouched by light.  
+- **Olympian**
+- Reshape mountains and summon metal constructs.
+- Harden rock into unbreakable materials or liquefy stone at will.
+- Manipulate metal with the same precision as a blacksmith forging steel.
 
-- **Demigod**  
-- Animate shadows to attack or deceive enemies.  
-- Infuse darkness with sentience, creating independent shadow entities.  
-- Consume light sources to sustain or strengthen your abilities.  
+- **Demigod**
+- Manipulate tectonic activity to form islands or valleys.
+- Redirect seismic energy to prevent or cause natural disasters.
+- Shape massive underground caverns and subterranean cities effortlessly.
 
-- **Titan**  
-- Extend night indefinitely across continents.  
-- Shape the flow of time within areas of darkness.  
-- Banish all illumination, forcing entire regions into absolute blackness.  
+- **Titan**
+- Raise or sink entire continents at will.
+- Shift planetary fault lines to reshape the world.
+- Fuse different metals and minerals into entirely new substances.
 
-- **Seraph**  
-- Engulf planets in eternal twilight.  
-- Command planetary-scale darkness without opposition.  
-- Shift the balance between light and shadow at will.  
+- **Seraph**
+- Sculpt entire planets’ landscapes effortlessly.
+- Extract planetary cores and redistribute their energy.
+- Construct enormous landmasses, mountain ranges, or subterranean networks.
 
-- **Lesser Deity**  
-- Turn light and darkness into fluid, controllable forces.  
-- Manifest pure void, erasing all substance from an area.  
-- Weave constructs of absolute darkness that defy physical laws.  
+- **Lesser Deity**
+- Control planetary tectonics, forging or dissolving landmasses.
+- Manipulate the structure of planets to create ideal environments.
+- Direct asteroid formations to collide or fuse with existing worlds.
 
-- **Deity**  
-- Weave intergalactic veils of shadow that consume entire civilizations.  
-- Erase light itself from existence in targeted regions of the cosmos.  
-- Shape galaxies through the interplay of dark and luminous energy.  
+- **Deity**
+- Construct massive planetary structures instantly.
+- Rebuild destroyed civilizations by reshaping their worlds.
+- Transform entire planets into living metal or crystalline landscapes.
 
-- **Elder Deity**  
-- Erase all light from existence, leaving only void.  
-- Redefine the concept of darkness, bending it to your will.  
-- Transcend light and shadow, existing as the eternal force between them.  
+- **Elder Deity**
+- Forge new planets from interstellar debris.
+- Collapse entire planetary bodies into raw materials for creation.
+- Reshape the structure of the cosmos, dictating the formation of celestial bodies.
+
+---
+
+## **Umbramancy (Shadow Magic)**
+*(The mastery of darkness, shadows, and the manipulation of light’s absence.)*
+
+- **Untrained**
+- Create a faint shadowy distortion.
+- Sense nearby darkness but fail to control it.
+- Struggle to manipulate shadows beyond natural movement.
+
+- **Apprentice**
+- Form small patches of magical darkness.
+- Obscure light sources to create minor illusions.
+- Slightly extend or shrink shadows at will.
+
+- **Journeyman**
+- Hide within shadows or manipulate them subtly.
+- Move unseen by blending into areas of darkness.
+- Extend and reshape shadows to create misleading images.
+
+- **Master**
+- Create solid constructs made of shadow.
+- Weaponize darkness into cutting edges or restraining tendrils.
+- Conceal entire areas in magical night that negates visibility.
+
+- **Olympian**
+- Move through shadows across vast distances.
+- Phase into darkness to become intangible.
+- Use shadows to reach places untouched by light.
+
+- **Demigod**
+- Animate shadows to attack or deceive enemies.
+- Infuse darkness with sentience, creating independent shadow entities.
+- Consume light sources to sustain or strengthen your abilities.
+
+- **Titan**
+- Extend night indefinitely across continents.
+- Shape the flow of time within areas of darkness.
+- Banish all illumination, forcing entire regions into absolute blackness.
+
+- **Seraph**
+- Engulf planets in eternal twilight.
+- Command planetary-scale darkness without opposition.
+- Shift the balance between light and shadow at will.
+
+- **Lesser Deity**
+- Turn light and darkness into fluid, controllable forces.
+- Manifest pure void, erasing all substance from an area.
+- Weave constructs of absolute darkness that defy physical laws.
+
+- **Deity**
+- Weave intergalactic veils of shadow that consume entire civilizations.
+- Erase light itself from existence in targeted regions of the cosmos.
+- Shape galaxies through the interplay of dark and luminous energy.
+
+- **Elder Deity**
+- Erase all light from existence, leaving only void.
+- Redefine the concept of darkness, bending it to your will.
+- Transcend light and shadow, existing as the eternal force between them.
 
 ---
 
