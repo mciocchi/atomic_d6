@@ -71,18 +71,17 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 ---
 
 # Example Character Sheet
-
 ```
 # Kaelion Veynor (3)
 
-Stamina:
-[x] [x] [ ]
+Stamina: [ ][ ][ ]
 
 Wounds:
 
 ♡ Slashed arm
 ♡
 ♡
+
 
 ## **Concept:** Cursed Prince Seeking Redemption
 
@@ -113,8 +112,15 @@ Struggles to trust others and often second-guesses his actions.
 
 ## **Fighting Style:** Swordsman
 
-Renowned for precise and deadly swordplay, Kaelion was trained to wield a sword
-from a young age.
+Renowned for precise and deadly swordplay, Kaelion was trained to wield a
+Longsword from a young age.
+
+## **Exile of Veyndor**
+
+Once the rightful heir to the throne, Kaelion is now a fugitive. Some see him
+as a fallen prince, others as a dangerous usurper. His reputation grants him
+access to those who would see the kingdom restored, but also makes him a prime
+target for bounty hunters and spies of the usurper.
 
 ## **The Mark of Ruin**
 
@@ -134,6 +140,8 @@ a significant magical effect, but it also causes unpredictable side effects.
   - Journal filled with sketches of his kingdom’s history and cryptic notes.
   - A medallion belonging to his sister, imbued with faint protective magic.
   - Small pouch of herbs for treating minor wounds.
+
+---
 
 ```
 
@@ -349,6 +357,8 @@ Some players feel an attachment to the D20, and they can't imagine playing Table
 | 1-2       | Bane             |
 
 Whilst Skill Dice represent a character's ability, the Atomic D6 represents the narrative forces of chaos and fate, and everything outside of their control.
+
+Narrative Beats that occur as a result of Boons and Banes do not necessarily have to relate to the feat the character was attempting. Sometimes fortune comes out of left field.
 
 In certain situations where many rolls are happening back to back, the GM may call for only one Atomic D6 for the sake of speed and simplicity.
 
@@ -1208,26 +1218,104 @@ Domains can take actions in key areas:
 ---
 ## **Domain Sheets**
 
-Just like Characters, domains get a sheet that lists their Aspects and Holdings.
+Just like Characters, domains get a sheet that lists their Aspects and Inventory, known as Holdings.
 
-### Example Domain Sheet
+# Example Domain Sheet #
 
-Name: The Lyran Empire
-Type: Monarchy / Empire
-Level: 6 (Continental Power)
-Ruler: Emperor Valerius IX
+```
+# Kingdom of Veyndor
 
-Aspects:
-  - "An Empire of Old Glory" (*Powerful but fading*)
-  - "Steel Legions of Lyria" (*Highly trained army*)
-  - "Political Intrigue Runs Deep" (*Rife with corruption and betrayal*)
-  - "The Emperor’s Word is Law" (*Centralized authority*)
+## Type: Fallen Kingdom / Usurped Monarchy ## Level: 4 (Kingdom) ## Current
+Ruler: Lord Regent Malagar Thorne (Usurper) ## Rightful Heir: Kaelion Veynor
+(Exiled)
 
-Holdings:
-  - The Imperial Throne (Seat of power in Lyria Prime)
-  - Legion Command (Armies spanning multiple provinces)
-  - Imperial Treasury (Gold reserves & taxation system)
-  - Arcane Academy (Center of magical knowledge)
+## "Once a Kingdom of Honor, Now Ruled by Shadows"
+
+Once renowned for its chivalry and wisdom, Veyndor has fallen under the grip of
+tyranny and corruption.
+
+## "The Silverwood Trees Whisper Forgotten Magic"
+
+The ancient forests of Veyndor are home to mystical energies and lost secrets.
+
+## "A Throne Stolen, A Prince Cursed"
+
+The rightful heir, Kaelion Veynor, was betrayed and exiled, his name now either
+a rallying cry or a curse.
+
+## "Resistance Brews in the Hidden Glades"
+
+Rebels loyal to the old dynasty gather in secrecy, awaiting the moment to
+strike against the usurper.
+
+---
+
+## Holdings:
+
+### Eldenholde (Capital City)
+
+A once-prosperous fortress city, now heavily fortified under Malagar Thorne’s
+rule.
+
+### The Silverwood Forests
+
+Enchanted woodlands said to hold secrets of the Veynor bloodline and ancient
+magic.
+
+### The Fallen Citadel
+
+The ruins of Kaelion’s ancestral castle, burned during the usurpation.
+
+### The Veilspire Mountains
+
+A treacherous range that hides exiled nobles and rebel outposts.
+
+---
+
+## Factions & Power Struggles:
+
+### Malagar’s Black Guard
+
+The elite enforcers of the usurper, known for their ruthless efficiency.
+
+### The Silver Veil
+
+A secret network of loyalists seeking to restore Kaelion to the throne.
+
+### The Guild of Twilight
+
+Mercenaries and spies who play both sides, profiting from the kingdom’s unrest.
+
+### The Eldenholde Council
+
+Nobles who once served the Veynors, now divided between loyalty and
+self-preservation.
+
+---
+
+## Domain Challenges:
+
+### Oppressive Rule
+
+The people live under heavy taxation and constant surveillance.
+
+### Rebel Raids
+
+Skirmishes between loyalists and the usurper’s forces threaten stability.
+
+### Arcane Imbalance
+
+The ancient magics of the Silverwood grow restless, causing unpredictable
+effects.
+
+### Foreign Intrigue
+
+Neighboring kingdoms eye Veyndor’s weakened state, considering intervention or
+conquest.
+
+---
+
+```
 
 ---
 
@@ -1246,7 +1334,6 @@ Each divine being is a high-level character with immense influence, and they may
 
 - **Name & Identity:** Who or what the entity represents.
 - **Aspects:** Core themes of their influence (e.g., "Goddess of Storms and the Sea").
-- **Creations & Realms:** Landmarks, civilizations, cults, or supernatural phenomena they introduce.
 - **Rivalries & Alliances:** Conflicts and cooperation between divine entities.
 
 ## **Primordial Aeons**
@@ -1255,11 +1342,11 @@ Divine play proceeds in **turns** called Aeons, where each divine being takes an
 
 - **Shaping the Cosmos:** Creating, modifying, or destroying Universes, Galaxies, Solar Systems, and Planets.
 - **Forming the Land:** Creating continents, mountains, oceans, forests, or magical realms.
-- **Creating Life:** Introducing species, mythical creatures, or sentient beings.
+- **Creating Life:** Creating species, mythical creatures, or sentient beings.
 - **Granting Knowledge:** Bestowing language, magic, or technology upon mortals.
 - **Waging War:** Struggles between divine forces shape history.
 - **Founding Civilizations:** Establishing kingdoms, empires, or powerful factions.
-- **Altering Reality:** Defining natural laws, changing history, or breaking time itself.
+- **Altering Reality:** Defining the laws of magic and nature, changing history, or breaking time itself.
 
 Each action influences the world's evolving history, setting the stage for future stories.
 
@@ -1271,8 +1358,6 @@ After the Primordial Aeons, players may begin **Domain Level Play** for the civi
 
 Rather than playing through every moment of history, the game uses **Narrative Time Jumps** to move between significant eras. Players, as high-level characters or rulers, decide how civilizations develop, rise, or fall.
 
-#### **Time Jump Mechanic:**
-
 1. **Determine the Length of the Jump:** Decide how many centuries, millennia, or even longer will pass.
 2. **Major Events Roll:** Players or the GM define 2-3 world-shaping events that occur during the gap.
 3. **Adjust Domains & Factions:** Civilizations may grow stronger, face internal struggles, or collapse entirely.
@@ -1282,26 +1367,33 @@ By advancing time fluidly, the game ensures that the **world continues to evolve
 
 ## **Modernity**
 
-Once the Primordial Aeons have played out, players can transition into **mortal-level play**, taking on the roles of characters who live within the world they have helped create.
+Once the Primordial Aeons and Ancient History have played out, players can transition into **mortal-level play**, taking on the roles of characters who live within the world they have helped create.
 
 - The **gods and legends they created** now shape the culture and beliefs of the setting.
 - The **kingdoms and civilizations they built** become the backdrop for political intrigue and war.
-- The **supernatural forces they unleashed** create the conflicts that drive mortal adventures.
-- Much of Ancient History has been misremembered or forgotten entirely.
+- By this point, much of **Ancient History might be misremembered or forgotten entirely.**
+- The **forces they unleashed** create the conflicts that drive mortal adventures.
+
+### Variant Rule: Divine Patronage
+
+Players and the GM may decide that magic is only accessible to mortals via divine patronage. Spellcasters must choose a divine patron. This patronage may also require them to join a religious or magical faction.
+
+Characters attempting to cast spells that go against the will and Domain of their patron may receive a Malus, or they may find themselves completely cut off from magic.
+
+For instance: a Pyromancer might choose a fire god as their divine patron. They might find it difficult or even impossible to cast spells outside of the school of Pyromancy.
 
 ---
+
 # Blank Character Sheet
 ```
-# NAME
-
-Stamina:
-🫁 🫁 🫁
+Stamina: [ ][ ][ ]
 
 Wounds:
 
 ♡
 ♡
 ♡
+
 
 ## **Concept:**
 
@@ -1318,6 +1410,8 @@ Wounds:
 ---
 
 ## **Inventory**
+
+---
 
 ```
 
