@@ -62,7 +62,7 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 
 [Blank Character Sheet](#Blank-Character-Sheet)
 
-[Ability Examples by Discipline](#Ability-Examples-by-Discipline)
+[Skill Examples by Discipline](#Skill-Examples-by-Discipline)
 
 [Glossary](#Glossary)
 
@@ -563,6 +563,24 @@ If the story warrants that a combat should be resolved quickly, the GM determine
 As an alternative, the GM may allow each player to roll in order to decide their fate during the battle and determine how much they had to exert themselves.
 
 Large-scale battles between armies can be resolved as a series of quick skirmishes.
+
+---
+
+# Zone Movement
+
+Zones are arbitrary divisions of the map defined as the distance a character can cover by moving on foot for one [Beat](Time). This can also be expressed as having a movement speed equal to 1.
+
+If they do nothing else besides move, characters may move two Zones in one [Beat](Time).
+
+Characters with magical or technological augmentation may move faster or slower.
+
+If they are using maps, it is expected that the GM will divide them into Zones, or otherwise enforce Zone Movement when applicable.
+
+## A Note on Differing Movement Speeds
+
+If all parties are roughly the same speed, GMs are encouraged to make the Zones larger. For instance, during a chase between two motorcycles, each with a speed of 50, the GM is encouraged to use zones 50 times larger, so that all characters are still moving roughly one zone per [Beat](Time).
+
+**If characters are traveling at significantly different speeds,** the GM can draw another smaller grid of size 1 inside the grid of size 50, or start a smaller map.
 
 ---
 
