@@ -1220,14 +1220,16 @@ Domains can take actions in key areas:
 
 Just like Characters, domains get a sheet that lists their Aspects and Inventory, known as Holdings.
 
-# Example Domain Sheet #
+# Example Domain Sheet
 
 ```
-# Kingdom of Veyndor
+# Kingdom of Veyndor (4)
 
-## Type: Fallen Kingdom / Usurped Monarchy ## Level: 4 (Kingdom) ## Current
-Ruler: Lord Regent Malagar Thorne (Usurper) ## Rightful Heir: Kaelion Veynor
-(Exiled)
+## Type: Fallen Kingdom / Usurped Monarchy
+
+## Current Ruler: Lord Regent Malagar Thorne (Usurper)
+
+## Rightful Heir: Kaelion Veynor (Exiled)
 
 ## "Once a Kingdom of Honor, Now Ruled by Shadows"
 
@@ -1386,6 +1388,8 @@ For instance: a Pyromancer might choose a fire god as their divine patron. They 
 
 # Blank Character Sheet
 ```
+# {Name} ({Level})
+
 Stamina: [ ][ ][ ]
 
 Wounds:
@@ -1417,6 +1421,14 @@ Wounds:
 
 ---
 
+# Blank Domain Sheet
+```
+# {Title} ({Level})
+## Type:
+## Holdings:
+## Factions & Power Struggles:
+## Domain Challenges:
+```
 # Ability Examples by Discipline
 
 This is by no means an exhaustive list. It exists merely to provide a jumping-off point. Players are encouraged to invent their own skills.
