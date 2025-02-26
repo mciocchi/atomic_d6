@@ -42,6 +42,8 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 
 [Quick Skirmishes](#Quick-Skirmishes)
 
+[Zone Movement](Zone Movement)
+
 [Stamina, Wounds, and Scars](#Stamina-Wounds-and-Scars)
 
 [Death](#Death)
@@ -358,7 +360,7 @@ Some players feel an attachment to the D20, and they can't imagine playing Table
 
 Whilst Skill Dice represent a character's ability, the Atomic D6 represents the narrative forces of chaos and fate, and everything outside of their control.
 
-Narrative Beats that occur as a result of Boons and Banes do not necessarily have to relate to the feat the character was attempting. Sometimes fortune comes out of left field.
+Narrative [Beats](#Time) that occur as a result of Boons and Banes do not necessarily have to relate to the feat the character was attempting. Sometimes fortune comes out of left field.
 
 In certain situations where many rolls are happening back to back, the GM may call for only one Atomic D6 for the sake of speed and simplicity.
 
@@ -568,9 +570,9 @@ Large-scale battles between armies can be resolved as a series of quick skirmish
 
 # Zone Movement
 
-Zones are arbitrary divisions of the map defined as the distance a character can cover by moving on foot for one [Beat](Time). This can also be expressed as having a movement speed equal to 1.
+Zones are arbitrary divisions of the map defined as the distance a character can cover by moving on foot for one [Beat](#Time). This can also be expressed as having a movement speed equal to 1.
 
-If they do nothing else besides move, characters may move two Zones in one [Beat](Time).
+If they do nothing else besides move, characters may move two Zones in one [Beat](#Time).
 
 Characters with magical or technological augmentation may move faster or slower.
 
@@ -578,7 +580,7 @@ If they are using maps, it is expected that the GM will divide them into Zones, 
 
 ## A Note on Differing Movement Speeds
 
-If all parties are roughly the same speed, GMs are encouraged to make the Zones larger. For instance, during a chase between two motorcycles, each with a speed of 50, the GM is encouraged to use zones 50 times larger, so that all characters are still moving roughly one zone per [Beat](Time).
+If all parties are roughly the same speed, GMs are encouraged to make the Zones larger. For instance, during a chase between two motorcycles, each with a speed of 50, the GM is encouraged to use zones 50 times larger, so that all characters are still moving roughly one zone per [Beat](#Time).
 
 **If characters are traveling at significantly different speeds,** the GM can draw another smaller grid of size 1 inside the grid of size 50, or start a smaller map.
 
@@ -922,80 +924,99 @@ Below are example spells at different power levels, showcasing **how spell resol
 
 # Tech. Levels of Civilizations
 
-## **1 - Stone Age (Prehistoric Survivalists)**
+## **T0 - Stone Age (Prehistoric Survivalists)**
+- Power is measured in **physical prowess, survival skills, and oral traditions.**
 - Civilizations rely entirely on **stone tools, fire, and simple hunting/gathering techniques**.
 - No concept of metalworking, agriculture, or advanced engineering.
-- Power is measured in **physical prowess, survival skills, and oral traditions.**
 
 ---
 
-## **2 - Bronze/Iron Age (Early Empires & Basic Metallurgy)**
-- Discovery of **bronze and iron tools**, leading to stronger weapons and armor.
+## **T1 - Bronze Age (City States & Basic Metallurgy)**
+- Early nautical cultures begin to utilize **wind power** to cross oceans.
+- The discovery of **bronze**, leads to stronger weapons and armor.
 - The rise of **city-states, early written language, and organized agriculture**.
 - Simple **alchemy and mysticism** begin to merge with early scientific thought.
 
 ---
 
-## **3 - Classical Age (Empires, Philosophy, and Organized Warfare)**
-- Theories of the **natural world** begin challenging superstition.
+## **T2 - Classical Age (Empires, Philosophy, and Organized Warfare)**
+- **Iron tools are now widespread**, and Steel becomes available in limited quantities.
+- Theories of the **natural world** begin challenging traditional worldviews.
 - Development of **organized warfare, large-scale trade, and mechanical engineering**.
 - Early forms of **alchemy, medicine, and philosophical sciences.**
 
 ---
 
-## **4 - Industrial Age**
-- **Steam power, gunpowder, and manufacturing** reshape society.
+## **T3 - Early Industrial Age (Steam & Mass Production)**
+- **Steam and hydro power** reshape society and drive **mass production**.
+- Mass production of **Gunpowder** changes the way wars are fought.
 - Theories of **evolution, physics, and chemistry** replace magical thinking.
 - **Railroads, mechanized agriculture, and large-scale factories** dominate economies.
+- **Early mechanical computers and telegraphs** begin revolutionizing communication.
 
 ---
 
-## **5 - Atomic Age**
-- **Nuclear power, global communication networks, and the space race.**
-- Early **artificial intelligence and digital computing** emerge.
+## **T4 - Late Industrial Age**
+- **Electricity, petroleum, and internal combustion engines** bring power to individual consumers.
+- **Assembly lines** make consumer goods widely available.
+- **Telecommunications (radio, telephone)** enable global communication and mass media.
+- **Automobiles and early aviation** redefine transportation.
+- **Early electronics and programmable computers** emerge.
+
+---
+
+## **T5 - Atomic Age**
+- **Nuclear power** creates abundant energy but threatens the environment.
+- **Weapons of Mass Destruction** raise the possibility of world destruction.
+- **Global communication networks**, and **digital computing** dominate.
+- First tentative steps into Space begin the **Space age**.
 - First experiments in **genetic engineering and longevity research.**
 
 ---
 
-## **6 - Information Age (Cybernetics, AI, and Global Networks)**
+## **T6 - Information Age (Cybernetics, AI, and Fusion Power)**
+- **Fusion power** makes energy plentiful, cheap, and clean.
 - **AI surpasses human intelligence** in many fields.
 - **Neural interfaces, nanotechnology, and bioenhancements** reshape humanity.
-- **Fusion power, quantum computing, and deep space missions.**
+- **Virtual Reality** opens up fully immersive virtual worlds.
+- **Quantum computing** expands computation power exponentially.
 
 ---
 
-## **6.5 - Planetary Space Age (Early Colonization & Terraforming)**
+## **T7 - Planetary Space Age (Early Colonization & Terraforming)**
 - Civilizations **become multi-planetary** but lack FTL travel.
+- **Quantum Networking** allows FTL communication over vast distances.
 - Early **terraforming, space stations, and asteroid mining.**
-- **Orbital mega-structures** and experimental AI-controlled governance.
+- Experimental AI-controlled governance.
 
 ---
 
-## **7 - Interstellar Age (FTL Travel & Megastructures)**
+## **T8 - Interstellar Age (FTL Travel & Megastructures)**
+- Dyson Spheres enable civilizations to harness power from entire stars.
 - **Faster-than-light travel enables galactic expansion.**
-- Dyson Spheres, artificial planets, and massive space stations.
-- Mind-uploading and digital immortality.
+- FTL travel makes construction of artificial planets and massive space stations possible.
+- Mind-uploading, digital immortality, and Matrioshka brains.
 
 ---
 
-## **8 - Cosmic Engineering Age (Post-Singularity AI & Stellar Manipulation)**
+## **T9 - Cosmic Engineering Age (Post-Singularity AI & Stellar Manipulation)**
 - **AI governs civilizations**, making all decisions with perfect precision.
 - Civilizations **control planetary systems, altering orbits and gravity.**
 - **Nanotechnology and self-replicating machines expand autonomously.**
 
 ---
 
-## **9 - Post-Physical Age (Transcendence & Non-Corporeal Existence)**
+## **T10 - Post-Physical Age (Transcendence & Non-Corporeal Existence)**
 - **Beings no longer require physical form, existing as pure data, energy, or thought.**
-- Dimensional travel and universe simulation become routine.
+- Dimensional travel, time travel, and universe simulation become routine.
 - Matter, energy, and consciousness are fully interchangeable.
 
 ---
 
-## **10 - Universal Age (Reality Manipulation & Cosmic Dominion)**
+## **T11 - Universal Age (Reality Manipulation & Cosmic Dominion)**
 - **Beings create and destroy galaxies at will.**
 - The laws of physics become **tools for civilizations to shape as they desire.**
-- Magic and science **become the same force**—reality obeys thought.
+- Technology becomes indistinguishable from magic, and incomprehensible to lesser beings.
 
 ---
 
@@ -1017,23 +1038,51 @@ Below are example spells at different power levels, showcasing **how spell resol
 
 ---
 
+## **Potential Conflicts for T8+ Civilizations** ##
+
+Sometimes it can be difficult for the GM to imagine what might possibly cause divine beings to come into conflict. These suggestions can be a jumping-off point.
+
+### **1. Reality Wars (Conflicts Over the Nature of Existence)** ###
+
+- Some factions want to **preserve the base reality**, while others seek to **collapse all matter into simulation**.
+- Battle between those who **see physical existence as obsolete** and those who still value it.
+
+### **2. The Collapse vs. Expansion Dilemma** ###
+
+- **Expansionalists** believe in **constant growth and colonization**.
+- **Minimalists** advocate for civilizations to **compress into higher-dimensional micro-realities**.
+
+### **3. Time War (Manipulation of Causality & Multiverses)** ###
+
+- **Preservers** want a stable, linear timeline.
+- **Revisionists** rewrite history over and over for an optimized outcome.
+- **Anarchists** create infinite branching realities.
+
+### **4. The Energy War (Battles Over Universal Entropy & Star Harvesting)** ###
+
+- **Stellar Conservators** oppose large-scale star draining.
+- **Dyson Imperium** pushes for full energy utilization.
+- **Entropy Cults** seek to accelerate the heat death of the universe.
+
+### **5. Post-Mortality Conflict (Death vs. Immortality)** ###
+
+- **Existentialists** want to restore death as a meaningful choice.
+- **Eternals** work to erase all concepts of death.
+- **Recyclers** propose periodic memory wipes for continued novelty.
+
+---
+
 # Time
-| **#:** | **Description:** | **Equivalent to:**                                |
-|--------|------------------|---------------------------------------------------|
-| 1      | Permanent        | Forever, in perpetuity.                           |
-| 2      | Narrative        | A full campaign, typically spanning one to five   |
-|        |                  | Acts.                                             |
-| 3      | Act              | A major chapter of a campaign, consisting of      |
-|        |                  | multiple sequences.                               |
-| 4      | Sequence         | A collection of scenes, usually about one game    |
-|        |                  | session.                                          |
-| 5      | Scene            | A single continuous unit of action, typically     |
-|        |                  | lasting several beats.                            |
-| 6      | Beat             | A single turn within turn-based play, a part of a |
-|        |                  | Scene.                                            |
-| 7      | Moment           | A brief but significant point in time within a    |
-|        |                  | Beat, often influencing its direction.            |
-| 8      | Instant          | An event that happens immediately, without delay. |
+| **#:** | **Description:** | **Equivalent to:**                                                                    |
+|--------|------------------|---------------------------------------------------------------------------------------|
+| 1      | Permanent        | Forever, in perpetuity.                                                               |
+| 2      | Narrative        | A full campaign, typically spanning one to five Acts.                                 |
+| 3      | Act              | A major chapter of a campaign, consisting of a group of Sequences.                    |
+| 4      | Sequence         | A collection of scenes, usually about one game Session.                               |
+| 5      | Scene            | A single continuous unit of action, typically lasting for several Beats.              |
+| 6      | Beat             | A single turn within turn-based play, a part of a Scene.                              |
+| 7      | Moment           | A brief but significant point in time within a Beat, often influencing its direction. |
+| 8      | Instant          | An event that happens immediately.                                     |
 
 ## Flashbacks:
 
