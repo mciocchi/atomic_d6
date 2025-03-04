@@ -42,7 +42,7 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 
 [Quick Skirmishes](#Quick-Skirmishes)
 
-[Zone Movement](Zone Movement)
+[Zone Movement](#Zone-Movement)
 
 [Stamina, Wounds, and Scars](#Stamina-Wounds-and-Scars)
 
@@ -64,7 +64,9 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 
 [Blank Character Sheet](#Blank-Character-Sheet)
 
-[Skill Examples by Discipline](#Skill-Examples-by-Discipline)
+[Example Starting Aspects](#Example-Starting-Aspects)
+
+[Example Feats by Discipline](#Example-Feats-by-Discipline)
 
 [Glossary](#Glossary)
 
@@ -90,7 +92,7 @@ Wounds:
 Exiled heir to a once-prosperous kingdom, forced to wander after a betrayal by
 his closest ally.
 
-## **Heritage:** Half-Elf
+## **Origin:** Half-Elf
 
 Agile and keen senses, but ostracized by both human and elven societies.
 
@@ -165,21 +167,23 @@ Later on, Kaelion might show his bitten leg to a shopkeeper in order to garner s
 
 ## Choosing Starting Aspects Before Game
 
-Each character starts with **seven core Aspects** that define them. The following Aspects are recommended, but GMs and Players may decide to start with different ones.
+Each character starts with **seven core Aspects** that define them. The following Aspects are recommended, but the GM and Players may decide to start with different ones.
 
-A character's Aspects grant them a bonus or a detriment to any skills that are relevant, and over the course of the game, they will gain new ones as their character changes over time.
+If they need ideas for Aspects, players are encouraged to roll on the [Tables of Aspects](Tables of Aspects).
 
-1. **Concept**: A broad statement about who your character is at their core. This could be as simple as "Wandering Scholar" or as specific as "Cursed Prince Seeking Redemption."
+When a character attempts a Feat, they and the GM look over their Aspects and determine which ones are relevant. The same Aspect might grant a Bonus in some situations and a Malus in others, depending upon the context of the Scene.
 
-2. **Background**: Your character’s history and past experiences. Where are they from? What key events shaped them?
+1. **Concept**: A broad statement about who the character is at their core at the present moment. It could be as simple as "Wandering Scholar" or as specific as "Cursed Prince Seeking Redemption."
 
-3. **Heritage**: The culture and species your character hails from. This can grant traits, societal expectations, or inherited abilities.
+2. **Background**: the character’s history and past experiences. Where are they from? What key events shaped them? Differs from Concept because it's about the past, rather than the present.
 
-4. **Strength**: A defining strength or talent that your character possesses, whether physical, mental, or emotional. This is something they can rely on in challenging situations.
+3. **Origin**: The character's culture and species, or the circumstances of how they were constructed, created, or summoned.
 
-5. **Bond**: A significant relationship or connection that holds meaning for your character. It could be a person, a group, or an ideal they hold dear.
+4. **Strength**: A defining strength or talent that the character possesses, whether physical, mental, or emotional. This is something they can rely on in challenging situations.
 
-6. **Flaw**: A weakness or shortcoming that makes your character more realistic. Flaws drive tension in the narrative and create interesting story opportunities.
+5. **Bond**: A significant relationship or connection that holds meaning for the character. It could be a person, a group, or an ideal they hold dear.
+
+6. **Flaw**: A weakness or shortcoming that makes the character more realistic. Flaws drive tension in the narrative and create interesting story opportunities.
 
 7. **Fighting Style**: What skills the character relies upon in combat.
 
@@ -330,9 +334,9 @@ That's the power of the Atomic D6 Narrative Dice System: relative rolls allow th
 
 ### Variant Rule: Atomic D20
 
-Some players feel an attachment to the D20, and they can't imagine playing Tabletop RPGs without it. These players may use the following table to convert their rolls into D20 instead of D6.
+Some people can't imagine playing Tabletop RPGs without rolling a D20. These players may use the following table to play the game with a D20 instead of 5D6.
 
-| Result | Description |
+ Result | Description |
 |--------|-------------|
 | 11-20  | Success     |
 | 1-10   | Failure     |
@@ -811,9 +815,13 @@ To prevent overuse and encourage **strategic spellcasting**, *Atomic D6* uses th
 ---
 
 ### **6. Paradox**
+
 Magic is still mysterious and poorly understood. It has been observed that occasionally, the same exact spell will get more difficult when cast repeatedly.  Other spells that seem to break the laws and expectations of the universe also experience this phenomenon.
 
 Wizards who have experienced this describe it as the universe exerting its own will and pushing back against a paradoxical situation that should not be happening.
+
+---
+
 ## **Spellcasting Examples by School of Magic**
 
 Below are example spells at different power levels, showcasing **how spell resolution works** using the Atomic D6 system.
@@ -1397,14 +1405,6 @@ In Atomic D6, the **campaign world is not static**—it is a Narrative, just lik
 
 Players take on the role of powerful entities—gods, titans, mythical heroes, or abstract cosmic forces—who **weave the fabric of the world through their actions.** Their choices **define geography, history, cultures, and major factions**.
 
-### **Defining a Divine Character**
-
-Each divine being is a high-level character with immense influence, and they may choose to lead or create a **Domain**, which is tracked with a **Domain Sheet**. Their actions shape civilizations, history, and the laws of reality, but they remain distinct from the Domains they govern.
-
-- **Name & Identity:** Who or what the entity represents.
-- **Aspects:** Core themes of their influence (e.g., "Goddess of Storms and the Sea").
-- **Rivalries & Alliances:** Conflicts and cooperation between divine entities.
-
 ## **Primordial Aeons**
 
 Divine play proceeds in **turns** called Aeons, where each divine being takes an action to shape existence itself. At the highest levels, divines can create or destroy entire universes, shaping the very fabric of reality. These actions might include:
@@ -1468,7 +1468,7 @@ Wounds:
 
 ## **Concept:**
 
-## **Heritage:**
+## **Origin:**
 
 ## **Strength:**
 
@@ -1496,9 +1496,192 @@ Wounds:
 ## Factions & Power Struggles:
 ## Domain Challenges:
 ```
-# Skill Examples by Discipline
+# Example Starting Aspects
+## **Mortal Concepts**
 
-This is by no means an exhaustive list. It exists merely to provide a jumping-off point. Players are encouraged to invent their own skills and decide which skills belong to which Aspects.
+| D6    | 1                 | 2                      | 3                       | 4            | 5             | 6               |
+|-------|-------------------|------------------------|-------------------------|--------------|---------------|-----------------|
+| **1** | Fugitive          | Wandering Outcast      | Martial Artist          |              | Cage Fighter  | Medic           |
+| **2** | Fraudster         | Battle-Scarred Veteran | Tourist                 | Merchant     | Bounty Hunter | Chef            |
+| **3** | Dissident Scholar | Cyber Decker           | Monster Hunter          | Mercenary    | Illusionist   | Freedom Fighter |
+| **4** | Feral Warrior     | Secret Agent           | Quack                   | Pilgrim      | Gunslinger    | Smuggler        |
+| **5** | Gambler           | Craftsman              | Shaman                  | Ace Pilot    | War Priest    | Treasure Hunter |
+| **6** | Tourist           | Mystic                 | Secret Society Initiate | Elementalist | Mob Associate | Burglar         |
+
+---
+
+## **Divine Concepts**
+
+| D6    | 1                           | 2                              | 3                                        | 4                                    | 5                              | 6                                     |
+|-------|-----------------------------|--------------------------------|------------------------------------------|--------------------------------------|--------------------------------|---------------------------------------|
+| **1** | God of War and Conquest     | Keeper of Forbidden Knowledge  | Celestial Guardian of Balance            | Titan of the Roaring Storms          | The Unseen Hand of Fate        | Weaver of Dreams and Nightmares       |
+| **2** | Primordial Chaos Given Form | Divine Judge of the Afterlife  | Architect of Reality and Worlds          | Eternal Warden of the Underworld     | Herald of the End Times        | Bringer of Cosmic Enlightenment       |
+| **3** | The Endless Wanderer        | Patron of Heroes and Champions | The Whispering Shadow                    | The Cosmic Trickster                 | The Burning Phoenix of Rebirth | Shaper of Flesh and Mutation          |
+| **4** | Lord of the Wild Hunt       | Keeper of the Celestial Forge  | Master of Time’s Flow                    | God of Love and Betrayal             | The Abyssal Watcher            | Harbinger of the Starborn Age         |
+| **5** | Titan of the Shattered Sun  | Shepherd of Lost Souls         | The Relentless Lawbringer                | The Ever-Hungering Maw               | The Eternal Duelist            | The Architect of Divine Machines      |
+| **6** | Guardian of the First Flame | The Thousand-Faced Deity       | The Last Remnant of a Forgotten Pantheon | The Serpent That Encircles the World | The Cosmic Librarian           | The God That Was Never Meant to Exist |
+
+---
+
+## **Mortal Backgrounds**
+
+| D6    | 1                              | 2                                 | 3                             | 4                                         | 5                                  | 6                          |
+|-------|--------------------------------|-----------------------------------|-------------------------------|-------------------------------------------|------------------------------------|----------------------------|
+| **1** | Raised in a War Zone           | Born in a Noble House             | Raised by Outlaws             | Grew Up in an Orphanage                   | Child of Prophecy                  | Streetwise Survivor        |
+| **2** | Escaped Cult Follower          | Escaped from Slavery              | Trained in a Military Academy | Grew up in a traveling band of performers | Raised by Mercenaries              | Cursed                     |
+| **3** | Last member of a Dying Culture | Raised in a Hidden Temple         | Former Gang Member            | Grew Up in the Wilderness                 | Secretly a Royal Bastard           | Adopted by a Mystic Order  |
+| **4** | Escaped Experiment             | Sole Survivor                     | Raised Among Beasts           | Grew Up in a Traveling Caravan            | Raised in a Crime Syndicate        | Failed Actor               |
+| **5** | Raised by AI or Machines       | Refugee from an Oppressive Regime | Lost Time Traveler            | Trained from Birth for a Purpose          | Grew Up in a Slum                  | Marked by an Ancient Power |
+| **6** | Child of a Legendary Hero      | Orphaned by War                   | Found and Raised by Strangers | Grew Up Under Tyranny                     | Descendant of an Ancient Bloodline | Stowaway                   |
+
+---
+
+## **Divine Backgrounds**
+
+| D6    | 1                                    | 2                                      | 3                                       | 4                                 | 5                                 | 6                                         |
+|-------|--------------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------|-----------------------------------|-------------------------------------------|
+| **1** | Born from the First Light            | Forged in the Chaos Before Time        | A Mortal Who Ascended                   | A Fragment of a Greater Being     | Created to Fulfill a Cosmic Role  | A Mistake That Became Divine              |
+| **2** | Formed from the Dreams of Mortals    | Sprang from the Blood of a Slain Titan | The Last of an Extinct Pantheon         | Manifested from Pure Willpower    | Created by Another Deity          | A Being of Pure Thought                   |
+| **3** | Bound by an Unbreakable Oath         | Risen from the Ashes of a Fallen World | The Chosen Champion of an Ancient Force | A Rebellion Against Fate Itself   | A Lost God Rediscovered           | Born from the Prayers of a Forgotten Race |
+| **4** | Once a Servant, Now a Master         | A Guardian of the Cosmic Balance       | A Secret Kept by the Universe           | A Paradox Given Form              | The Result of an Ancient Prophecy | A Divine Entity That Should Not Exist     |
+| **5** | A Wanderer Across Infinite Realities | A Being That Defied Extinction         | The First and Last of Its Kind          | A Survivor of the War of the Gods | A Prisoner Who Escaped the Void   | A Remnant of a Forgotten Civilization     |
+| **6** | A Dream That Became Reality          | The Embodiment of a Concept            | A Cosmic Experiment Gone Wrong          | A Spirit That Refused to Fade     | A Deity Who Usurped Power         | A Being With No Beginning and No End      |
+
+---
+
+## **Mortal Origins**
+
+| D6    | 1                     | 2                             | 3                              | 4                              | 5                                   | 6                                   |
+|-------|-----------------------|-------------------------------|--------------------------------|--------------------------------|-------------------------------------|-------------------------------------|
+| **1** | Human                 | Elf, Ancient and Graceful     | Dwarf, Stalwart and Enduring   |                                | Golem, Android, or Living Construct | Summoned from a different dimension |
+| **2** | Mutant, Born of Chaos | Revenant, returned from Death | Demonic or Celestial Lineage   | Werewolf or other Werecreature | Vampire, Cursed with Immortality    | Possessed                           |
+| **3** |                       | Beastfolk                     | Fae-Touched                    | Gnome                          | Goblin                              | Hybrid of two lineages              |
+| **4** | Elemental Lineage     | Naga, Serpentine and Wise     | Orc, Strong and Fierce         | Halfling                       | Host to a sentient parasite         | Amphibian                           |
+| **5** | Clone, One of Many    | Part Machine                  | Divine Spawn, Child of a Deity |                                | Reincarnated                        | Shapeshifter, Identity in Flux      |
+| **6** |                       | Gargoyle                      |                                | Insectoid                      | Plantfolk, Living Flora             | Living Myth, A Legend Made Flesh    |
+
+---
+
+## **Divine Origins**
+
+| D6    | 1                                    | 2                                  | 3                                 | 4                                | 5                                           | 6                                    |
+|-------|--------------------------------------|------------------------------------|-----------------------------------|----------------------------------|---------------------------------------------|--------------------------------------|
+| **1** | Human, Elevated by Divine Favor      | Human, Reincarnation of a Lost God | Human, The Chosen Champion        | Human, Transcended Mortal Limits | Human who ascended by striking down a deity | Human, Blessed by an Ancient Relic   |
+| **2** | Born from the First Flame            | Created by the Prayers of Mortals  | A Fragment of a Greater Divinity  | A Mortal Who Stole Divine Power  | Shaped from Cosmic Energy                   | Formed from the Ashes of a Dead Star |
+| **3** | Manifestation of an Abstract Concept | The Last of an Ancient Pantheon    | A Machine That Gained Divinity    | Bound to the Weave of Fate       | A Spirit Given Physical Form                | A God Who Chose to Be Reborn         |
+| **4** | A Dream That Became Reality          | Forged from the Bones of a Titan   | The First and Last of Its Kind    | A Soul that Refused to Pass On   | Created by a Forgotten Civilization         | A Being from Outside Time            |
+| **5** | A Rebellious Angel or Fallen Deity   | An Eldritch Entity in a New Shape  | The Result of a Divine Experiment | A Guardian of an Ancient Seal    | A Wanderer from Another Universe            | An Emissary of the Void              |
+| **6** | A God Shattered and Reforged         | A Being of Pure Thought            | A Child of Light and Darkness     | A Deity Born from Mortal Worship | The Last Survivor of a Cosmic War           | A Forgotten Legend Made Flesh        |
+
+---
+
+## **Mortal Bonds**
+
+| D6    | 1                                     | 2                                     | 3                                 | 4                            | 5                                 | 6                              |
+|-------|---------------------------------------|---------------------------------------|-----------------------------------|------------------------------|-----------------------------------|--------------------------------|
+| **1** | A sibling I swore to protect          | A mentor who taught me everything     | A lost love I still search for    | A rival who challenges me    | A child who looks up to me        | A comrade I once betrayed      |
+| **2** | A sacred oath I cannot break          | A master I must one day surpass       | A kingdom that depends on me      | A family secret I must guard | A debt I can never repay          | A best friend turned enemy     |
+| **3** | A people who see me as their champion | A fallen comrade I must avenge        | A legendary weapon I must reclaim | A creature that follows me   | An ancient prophecy tied to me    | A deity who has chosen me      |
+| **4** | A village that raised me              | An organization that gave me purpose  | A criminal past that haunts me    | A promise I made long ago    | A powerful patron who sponsors me | A homeland I long to return to |
+| **5** | A forbidden romance                   | A duty passed down by my ancestors    | A book of secrets only I can read | A prisoner I must free       | A mission I cannot fail           | A hidden enemy watching me     |
+| **6** | A shadowy figure who guides me        | A lost civilization I seek to restore | A legendary hero I admire         | A ship and its crew          | A cause I will die for            | A bond stronger than blood     |
+
+---
+
+## **Divine Bonds**
+
+| D6    | 1                               | 2                                     | 3                                      | 4                                   | 5                                  | 6                               |
+|-------|---------------------------------|---------------------------------------|----------------------------------------|-------------------------------------|------------------------------------|---------------------------------|
+| **1** | A mortal bloodline I protect    | A divine rival I must surpass         | A long-lost love across time           | A realm I must watch over           | A prophecy that binds my fate      | A sibling deity I am bound to   |
+| **2** | A civilization that worships me | A legendary artifact tied to me       | A cosmic force I must balance          | A forgotten god I must restore      | A secret only I can keep           | A mortal champion I have chosen |
+| **3** | A duty I cannot abandon         | A powerful enemy I must destroy       | A debt I owe to another deity          | A kingdom built in my name          | A past sin I seek to redeem        | A celestial war I am part of    |
+| **4** | A star system I watch over      | A curse I share with another          | A pantheon I rebelled against          | A prophecy I must prevent           | A creature of legend I created     | A love that defies the cosmos   |
+| **5** | A realm where I am forbidden    | A student who will one day surpass me | A force of nature I embody             | A mortal who remembers my true name | A great war only I can end         | A prison I cannot escape        |
+| **6** | A forgotten oath I swore        | A celestial court I serve             | A city that thrives under my influence | A being who knows my weakness       | A relic that holds part of my soul | A cosmic cycle I must break     |
+
+---
+
+## **Mortal Flaws**
+
+| D6    | 1                                 | 2                                  | 3                          | 4                          | 5                             | 6                                           |
+|-------|-----------------------------------|------------------------------------|----------------------------|----------------------------|-------------------------------|---------------------------------------------|
+| **1** | Haunted by the past               | Prone to reckless decisions        | Struggles to trust others  | Overconfident to a fault   | Burdened by guilt             | A tendency for self-destruction             |
+| **2** | Hunted by powerful enemies        | Cannot resist temptation           | Prone to fits of rage      | Struggles with addiction   | Bound by an unbreakable oath  | Always speaks the truth, no matter the cost |
+| **3** | Terrible with money               | Secretly afraid of their own power | Carries a dangerous curse  | Unlucky in crucial moments | Deeply superstitious          | Cannot refuse a challenge                   |
+| **4** | Quick to violence                 | Suffers from crippling self-doubt  | A deep fear of failure     | Naïve to deception         | A weakness for lost causes    | Often acts before thinking                  |
+| **5** | Marked by an infamous past        | Socially awkward or tactless       | Obsessed with revenge      | Cannot let go of grudges   | Struggles to control emotions | Will do anything for knowledge              |
+| **6** | Physically frail but sharp-minded | Struggles with authority           | Torn between two loyalties | Unable to keep secrets     | Feels unworthy of success     | Haunted by recurring visions or dreams      |
+
+---
+
+## **Divine Flaws**
+
+| D6    | 1                                       | 2                                          | 3                                   | 4                                            | 5                                         | 6                                             |
+|-------|-----------------------------------------|--------------------------------------------|-------------------------------------|----------------------------------------------|-------------------------------------------|-----------------------------------------------|
+| **1** | Bound by an Unbreakable Oath            | Haunted by a Forgotten Past                | Consumed by Wrath                   | Overwhelmed by Divine Pride                  | Cannot Interfere Directly with Mortals    | Fated to Bring About a Great Disaster         |
+| **2** | Desires What They Cannot Have           | Tied to a Mortal Weakness                  | Constantly Tested by Higher Powers  | Struggles to Comprehend Mortals              | Power Grows Unstable Over Time            | Bound to a Cosmic Rival                       |
+| **3** | Feared by Those They Protect            | Incapable of Feeling True Emotion          | Cursed to Wander Without Rest       | Must Consume Energy to Survive               | Doomed to Be Forgotten                    | Blind to Their Own Flaws                      |
+| **4** | Vulnerable to a Specific Weapon         | Can Be Bound by Ancient Rites              | Their Power Attracts Dangerous Foes | Torn Between Two Conflicting Duties          | Suffers from Moments of Mortality         | Bound by the Will of Worshipers               |
+| **5** | Can See the Future but Cannot Change It | Their Presence Warps Reality Unpredictably | Forbidden from Using Full Strength  | Hunted by a Force Beyond Their Understanding | Prone to Hubris and Overconfidence        | Suffering from Divine Amnesia                 |
+| **6** | Must Uphold an Ancient Law              | Only Exists as Long as They Are Remembered | Power is Slowly Fading              | Their True Name Grants Power Over Them       | Their Actions Unknowingly Harm the Cosmos | Destined to Be Betrayed by Someone They Trust |
+
+---
+
+## **Mortal Strengths**
+
+| D6    | 1                    | 2                                      | 3                        | 4                    | 5                           | 6                          |
+|-------|----------------------|----------------------------------------|--------------------------|----------------------|-----------------------------|----------------------------|
+| **1** | Unmatched Endurance  | Lightning Reflexes                     | Master of Stealth        | Natural Leader       | Unbreakable Willpower       | Deadly Marksman            |
+| **2** | Skilled Tactician    | Master of Disguise                     | Quick-Witted Manipulator |                      | Silver-Tongued Negotiator   | Expert Tracker             |
+| **3** | Brilliant Strategist | Unstoppable Brawler                    | Technological Savant     | Unerring Intuition   | Impossible Agility          | Inspiring Orator           |
+| **4** | Elemental Affinity   | Peerless Navigator                     |                          | Boundless Creativity | Indomitable Survivor        | Master of Ancient Lore     |
+| **5** | Shadowy Infiltrator  | Martial Artist, Disciplined and Deadly | Cybernetic Enhancements  | Expert Pilot         | Master of Improvised Combat | Gifted Inventor            |
+| **6** | Superhuman Strength  | Perfect Memory                         | Master of Dual Weapons   | Combat Prodigy       | Immune to Fear              | Resilient Against All Odds |
+
+---
+
+## **Divine Strengths**
+
+| D6    | 1                                 | 2                                        | 3                                  | 4                                  | 5                                    | 6                                       |
+|-------|-----------------------------------|------------------------------------------|------------------------------------|------------------------------------|--------------------------------------|-----------------------------------------|
+| **1** | Unstoppable in Battle             | Master of Cosmic Manipulation            | Seer of Infinite Possibilities     | Wields the Power of Creation       | Unmatched Tactical Genius            | Incites Fear in All Who Oppose Them     |
+| **2** | Controls Time at Will             | Can Speak the Language of the Universe   | Immortal and Cannot Be Destroyed   | Can Rewrite Reality with a Thought | Blessed with Divine Charisma         | Can Command Armies Instantly            |
+| **3** | Can Banish Any Foe with a Gesture | Walks Between Worlds Effortlessly        | Knows the True Names of All Things | Can Steal the Strength of Others   | Can Bend the Laws of Physics         | Master of Elemental Forces              |
+| **4** | Incorruptible and Unwavering      | Exists Simultaneously in Multiple Places | Can See the Future Clearly         | Unmatched in Wisdom and Strategy   | Can Forge Weapons of the Gods        | Has Dominion Over Life and Death        |
+| **5** | Incapable of Feeling Fear         | Instills Absolute Loyalty in Followers   | Can Manifest Any Form              | Can Withstand Any Force            | Has Power Over Dreams and Nightmares | Can Bless or Curse Entire Civilizations |
+| **6** | Can Shatter Worlds with a Thought | Has Infinite Knowledge of the Cosmos     | Commands the Essence of Magic      | Exists Beyond the Bounds of Time   | Can Absorb the Power of Others       | Can Reshape Themselves Limitlessly      |
+
+---
+
+## **Mortal Fighting Styles**
+
+| D6    | 1                                         | 2                                           | 3                                               | 4                                            | 5                                            | 6                                            |
+|-------|-------------------------------------------|---------------------------------------------|-------------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
+| **1** | Duelist, precise and deadly               | Brutal Brawler, fights dirty                | Tactical Fighter, exploits weaknesses           | Relentless Berserker, unstoppable force      | Defensive Warrior, patient and unyielding    | Acrobatic Combatant, evades and strikes      |
+| **2** | Sniper, deadly from afar                  | Gunslinger, fast and flashy                 | Blade Dancer, fluid and elegant                 | Shieldbearer, indomitable guardian           | Assassin, silent and efficient               | Unarmed Master, fists like steel             |
+| **3** | Elemental Striker, weaponized energy      | Mystic Warrior, channels supernatural force | Beast-Fighter, fights like an animal            | Cybernetic Combatant, enhanced precision     | Improviser, uses anything as a weapon        | Fearmonger, uses terror as a tool            |
+| **4** | Ghost Fighter, strikes unseen             | Gladiator, showy and overpowering           | Street Fighter, raw and unrefined               | Psi-Blade, wields mental weapons             | Trapper, controls the battlefield            | Stormcaller, fights with the elements        |
+| **5** | Martial Artist, disciplined and efficient | Warlord, commands and fights                | Wild Hunter, primal instincts                   | Dances in Shadows, elusive and unpredictable | Bonebreaker, shatters defenses               | Temporal Warrior, manipulates time mid-fight |
+| **6** | Arcane Duelist, blends magic and steel    | Gravity Fighter, manipulates force          | Bloodbound Fighter, grows stronger when wounded | Phantom Warrior, phases in and out           | Frenzied Ravager, attacks without hesitation | Weapon Master, fights with any tool          |
+
+---
+
+## **Divine Fighting Styles**
+
+| D6    | 1                                      | 2                                       | 3                                   | 4                                     | 5                                      | 6                                       |
+|-------|----------------------------------------|-----------------------------------------|-------------------------------------|---------------------------------------|----------------------------------------|-----------------------------------------|
+| **1** | Wields a Celestial Blade of Pure Light | Commands Armies with a Single Word      | Manifest as a Towering Titan        | Moves at the Speed of Thought         | Calls Down Divine Storms               | Wages War Through Dreams and Nightmares |
+| **2** | Forms Weapons from Their Own Essence   | Battles with Gravity-Altering Strikes   | Channels the Wrath of the Sun       | Becomes a Swarm of Divine Avatars     | Shapes the Battlefield with Thought    | Unleashes the Fires of Creation         |
+| **3** | Shatters Reality with Each Blow        | Manipulates Time to Rewrite Battles     | Creates Weapons from Fallen Enemies | Becomes an Unstoppable Force          | Commands the Bones of Ancient Titans   | Summons Celestial Beasts to Fight       |
+| **4** | Fights with Words that Turn to Blades  | Absorbs the Strength of Fallen Foes     | Forms an Unbreakable Divine Armor   | Transforms into a Cosmic Juggernaut   | Sings a War Song that Shapes Reality   | Weaves Chains of Fate to Bind Enemies   |
+| **5** | Wields a Spear That Pierces Dimensions | Casts Shadows That Fight Alongside Them | Warps Space to Strike from Anywhere | Wields the Elements as Living Weapons | Engraves Their Will Upon the Stars     | Can Split Into Multiple Divine Forms    |
+| **6** | Battles with the Power of Pure Thought | Summons an Endless Army of Echoes       | Turns the Sky Into a Battlefield    | Becomes an Incarnation of Destruction | Wages War Through the Minds of Mortals | Shatters Planets with a Single Strike   |
+
+---
+
+# Example Feats by Discipline
+
+This is by no means an exhaustive list. It exists merely to provide a jumping-off point. Players are encouraged to invent their own feats and decide which feats are influenced by which Aspects.
 
 ## **Armed Melee (Bladed, Blunt, and Exotic Close-Quarters Combat)**
 *(Mastery of weapons such as swords, axes, maces, energy blades, and polearms.)*
