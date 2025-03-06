@@ -1459,14 +1459,14 @@ Wounds:
 # Example Starting Aspects
 ## **Mortal Concepts**
 
-| D6    | 1                 | 2                      | 3                       | 4            | 5             | 6               |
-|-------|-------------------|------------------------|-------------------------|--------------|---------------|-----------------|
-| **1** | Fugitive          | Wandering Outcast      | Martial Artist          |              | Cage Fighter  | Medic           |
-| **2** | Fraudster         | Battle-Scarred Veteran | Tourist                 | Merchant     | Bounty Hunter | Chef            |
-| **3** | Dissident Scholar | Cyber Decker           | Monster Hunter          | Mercenary    | Illusionist   | Freedom Fighter |
-| **4** | Feral Warrior     | Secret Agent           | Quack                   | Pilgrim      | Gunslinger    | Smuggler        |
-| **5** | Gambler           | Craftsman              | Shaman                  | Ace Pilot    | War Priest    | Treasure Hunter |
-| **6** | Tourist           | Mystic                 | Secret Society Initiate | Elementalist | Mob Associate | Burglar         |
+| D6    | 1                 | 2                      | 3                       | 4                  | 5             | 6               |
+|-------|-------------------|------------------------|-------------------------|--------------------|---------------|-----------------|
+| **1** | Fugitive          | Wandering Outcast      | Martial Artist          | Architect of Flesh | Cage Fighter  | Medic           |
+| **2** | Fraudster         | Battle-Scarred Veteran | Traveling Performer     | Merchant           | Bounty Hunter | Chef            |
+| **3** | Dissident Scholar | Doctor                 | Monster Hunter          | Mercenary          | Illusionist   | Freedom Fighter |
+| **4** | Feral Warrior     | Secret Agent           | Quack                   | Pilgrim            | Alchemist     | Smuggler        |
+| **5** | Gambler           | Craftsman              | Shaman                  | Ace Pilot          | War Priest    | Treasure Hunter |
+| **6** | Tourist           | Mystic                 | Secret Society Initiate | Elementalist       | Mob Associate | Burglar         |
 
 ---
 
@@ -1485,14 +1485,14 @@ Wounds:
 
 ## **Mortal Backgrounds**
 
-| D6    | 1                              | 2                                 | 3                             | 4                                         | 5                                  | 6                          |
-|-------|--------------------------------|-----------------------------------|-------------------------------|-------------------------------------------|------------------------------------|----------------------------|
-| **1** | Raised in a War Zone           | Born in a Noble House             | Raised by Outlaws             | Grew Up in an Orphanage                   | Child of Prophecy                  | Streetwise Survivor        |
-| **2** | Escaped Cult Follower          | Escaped from Slavery              | Trained in a Military Academy | Grew up in a traveling band of performers | Raised by Mercenaries              | Cursed                     |
-| **3** | Last member of a Dying Culture | Raised in a Hidden Temple         | Former Gang Member            | Grew Up in the Wilderness                 | Secretly a Royal Bastard           | Adopted by a Mystic Order  |
-| **4** | Escaped Experiment             | Sole Survivor                     | Raised Among Beasts           | Grew Up in a Traveling Caravan            | Raised in a Crime Syndicate        | Failed Actor               |
-| **5** | Raised by AI or Machines       | Refugee from an Oppressive Regime | Lost Time Traveler            | Trained from Birth for a Purpose          | Grew Up in a Slum                  | Marked by an Ancient Power |
-| **6** | Child of a Legendary Hero      | Orphaned by War                   | Found and Raised by Strangers | Grew Up Under Tyranny                     | Descendant of an Ancient Bloodline | Stowaway                   |
+| D6    | 1                                     | 2                                 | 3                             | 4                                         | 5                                  | 6                          |
+|-------|---------------------------------------|-----------------------------------|-------------------------------|-------------------------------------------|------------------------------------|----------------------------|
+| **1** | Raised in a War Zone                  | Born in a Noble House             | Raised by Outlaws             | Grew Up in an Orphanage                   | Child of Prophecy                  | Streetwise Survivor        |
+| **2** | Escaped Cult Follower                 | Escaped from Slavery              | Trained in a Military Academy | Grew up in a traveling band of performers | Raised by Mercenaries              | Cursed                     |
+| **3** | Last member of a Dying Culture        | Raised in a Temple                | Former Gang Member            | Grew Up in the Wilderness                 | Secretly a Royal Bastard           | Adopted by a Mystic Order  |
+| **4** | Escaped Experiment                    | Sole Survivor                     | Raised Among Beasts           | Grew Up in a Traveling Caravan            | Raised in a Crime Syndicate        | Failed Actor               |
+| **5** | Raised by AI, Machines, or Constructs | Refugee from an Oppressive Regime | Lost Time Traveler            | Trained from Birth for a Purpose          | Grew Up in a Slum                  | Marked by an Ancient Power |
+| **6** | Child of a Legendary Hero             | Orphaned by War                   | Foundling Raised by Strangers | Grew Up Under Tyranny                     | Descendant of an Ancient Bloodline | Stowaway                   |
 
 ---
 
@@ -1589,14 +1589,14 @@ Wounds:
 
 ## **Mortal Strengths**
 
-| D6    | 1                    | 2                                      | 3                        | 4                    | 5                           | 6                          |
-|-------|----------------------|----------------------------------------|--------------------------|----------------------|-----------------------------|----------------------------|
-| **1** | Unmatched Endurance  | Lightning Reflexes                     | Master of Stealth        | Natural Leader       | Unbreakable Willpower       | Deadly Marksman            |
-| **2** | Skilled Tactician    | Master of Disguise                     | Quick-Witted Manipulator |                      | Silver-Tongued Negotiator   | Expert Tracker             |
-| **3** | Brilliant Strategist | Unstoppable Brawler                    | Technological Savant     | Unerring Intuition   | Impossible Agility          | Inspiring Orator           |
-| **4** | Elemental Affinity   | Peerless Navigator                     |                          | Boundless Creativity | Indomitable Survivor        | Master of Ancient Lore     |
-| **5** | Shadowy Infiltrator  | Martial Artist, Disciplined and Deadly | Cybernetic Enhancements  | Expert Pilot         | Master of Improvised Combat | Gifted Inventor            |
-| **6** | Superhuman Strength  | Perfect Memory                         | Master of Dual Weapons   | Combat Prodigy       | Immune to Fear              | Resilient Against All Odds |
+| D6    | 1                       | 2                   | 3                        | 4                    | 5                           | 6                          |
+|-------|-------------------------|---------------------|--------------------------|----------------------|-----------------------------|----------------------------|
+| **1** | Unmatched Endurance     | Lightning Reflexes  | Master of Stealth        | Natural Leader       | Unbreakable Willpower       | Deadly Marksman            |
+| **2** | Skilled Tactician       | Master of Disguise  | Quick-Witted Manipulator | Hypervigilant        | Silver-Tongued Negotiator   | Expert Tracker             |
+| **3** | Brilliant Strategist    | Unstoppable Brawler | Technological Savant     | Unerring Intuition   | Impossible Agility          | Inspiring Orator           |
+| **4** | Elemental Affinity      | Peerless Navigator  | Empath                   | Boundless Creativity | Indomitable Survivor        | Master of Lore             |
+| **5** | Preternatural Instincts | Magically Sensitive | Cybernetic Enhancements  | Expert Pilot         | Master of Improvised Combat | Gifted Inventor            |
+| **6** | Superhuman Strength     | Perfect Memory      | Master of Dual Weapons   | Combat Prodigy       | Fearless                    | Resilient Against All Odds |
 
 ---
 
@@ -1615,14 +1615,14 @@ Wounds:
 
 ## **Mortal Fighting Styles**
 
-| D6    | 1                                         | 2                                           | 3                                               | 4                                            | 5                                            | 6                                            |
-|-------|-------------------------------------------|---------------------------------------------|-------------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
-| **1** | Duelist, precise and deadly               | Brutal Brawler, fights dirty                | Tactical Fighter, exploits weaknesses           | Relentless Berserker, unstoppable force      | Defensive Warrior, patient and unyielding    | Acrobatic Combatant, evades and strikes      |
-| **2** | Sniper, deadly from afar                  | Gunslinger, fast and flashy                 | Blade Dancer, fluid and elegant                 | Shieldbearer, indomitable guardian           | Assassin, silent and efficient               | Unarmed Master, fists like steel             |
-| **3** | Elemental Striker, weaponized energy      | Mystic Warrior, channels supernatural force | Beast-Fighter, fights like an animal            | Cybernetic Combatant, enhanced precision     | Improviser, uses anything as a weapon        | Fearmonger, uses terror as a tool            |
-| **4** | Ghost Fighter, strikes unseen             | Gladiator, showy and overpowering           | Street Fighter, raw and unrefined               | Psi-Blade, wields mental weapons             | Trapper, controls the battlefield            | Stormcaller, fights with the elements        |
-| **5** | Martial Artist, disciplined and efficient | Warlord, commands and fights                | Wild Hunter, primal instincts                   | Dances in Shadows, elusive and unpredictable | Bonebreaker, shatters defenses               | Temporal Warrior, manipulates time mid-fight |
-| **6** | Arcane Duelist, blends magic and steel    | Gravity Fighter, manipulates force          | Bloodbound Fighter, grows stronger when wounded | Phantom Warrior, phases in and out           | Frenzied Ravager, attacks without hesitation | Weapon Master, fights with any tool          |
+| D6    | 1                                    | 2                                           | 3                                               | 4                                            | 5                                            | 6                                            |
+|-------|--------------------------------------|---------------------------------------------|-------------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
+| **1** | Duelist, precise and deadly          | Brutal Brawler, fights dirty                | Tactical Fighter, exploits weaknesses           | Relentless Berserker, unstoppable force      | Defensive Warrior, patient and unyielding    | Acrobatic Combatant, evades and strikes      |
+| **2** | Sniper, deadly from afar             | Gunslinger, fast and flashy                 | Blade Dancer, fluid and elegant                 | Shieldbearer, indomitable guardian           | Assassin, silent and efficient               | Unarmed Master, fists like steel             |
+| **3** | Elemental Striker, weaponized energy | Mystic Warrior, channels supernatural force | Beastlike, fights like an animal                | Cybernetic Combatant, enhanced precision     | Improviser, uses anything as a weapon        | Fearmonger, uses terror as a tool            |
+| **4** | Ghost Fighter, strikes unseen        | Gladiator, showy and overpowering           | Street Fighter, raw and unrefined               | Psi-Blade, wields mental weapons             | Trapper, controls the battlefield            | Stormcaller, fights with the elements        |
+| **5** | Martial Arts                         | Warlord, commands and fights                | Wild Hunter, primal instincts                   | Dances in Shadows, elusive and unpredictable | Bonebreaker, shatters defenses               | Temporal Warrior, manipulates time mid-fight |
+| **6** | Blends magic and steel               | Gravity Fighter, manipulates force          | Bloodbound Fighter, grows stronger when wounded | Phantom Warrior, phases in and out           | Frenzied Ravager, attacks without hesitation | Weapon Master, fights with any tool          |
 
 ---
 
