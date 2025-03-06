@@ -48,8 +48,6 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 
 [Death](#Death)
 
-[Story Points](#Story-Points)
-
 [Spellcasting](#Spellcasting)
 
 [Tech. Levels of Civilizations](#Tech-Levels-of-Civilizations)
@@ -169,7 +167,7 @@ Later on, Kaelion might show his bitten leg to a shopkeeper in order to garner s
 
 Each character starts with **seven core Aspects** that define them. The following Aspects are recommended, but the GM and Players may decide to start with different ones.
 
-If they need ideas for Aspects, players are encouraged to roll on the [Tables of Aspects](Tables of Aspects).
+If they need ideas for Aspects, players are encouraged to roll on the [Example Starting Aspects](Example Starting Aspects) tables.
 
 When a character attempts a Feat, they and the GM look over their Aspects and determine which ones are relevant. The same Aspect might grant a Bonus in some situations and a Malus in others, depending upon the context of the Scene.
 
@@ -708,53 +706,11 @@ You become incapacitated and focus all your energy on staying alive. Roll D6 at 
 | 4-5: | Survive for another turn.                                         |
 | 1-3: | Slip into the abyss and die.                                      |
 
-If you receive medical attention while you are incapacitated, you may make this roll with +1.
+For each turn that you receive medical attention while you are incapacitated, you may make this roll with +1.
 
 ### Death by Mental Wounds
 
 In Atomic D6, Mental Wounds are considered to be just as deadly as physical ones. When a character dies due to Mental Wounds, their body remains in tact, but their personality is destroyed by the gravity of the cosmic horrors that they have witnessed. They are unresponsive, unable even to eat or drink, and nothing short of a magical or technological miracle can bring them back.
-
----
-
-# Story Points
-Story Points allow players some control over the narrative.
-
-GMs are encouraged to make their own tables detailing ways that characters can earn Story Points.
-
-## Spending Story Points
-| **#** | **Description**                                     |
-|-------|-----------------------------------------------------|
-| 1     | Have a flashback                                    |
-| 2     | Avoid a Major Wound                                 |
-| 3     | Stop a trap or environmental hazard from activating |
-| 4     | Discover a hidden cache of equipment                |
-| 5     | Meet an unexpected ally                             |
-| 6     | Reroll                                              |
-| 7     | Force an opponent to reroll                         |
-| 8     | Introduce a twist to an existing plot               |
-| 9     | Introduce a new plotline                            |
-| 10    | Convince an NPC to change their mind                |
-| 11    | Introduce a new character                           |
-| 12    | Fast-forward through part of the story              |
-
-## Earning Story Points
-| **#** | **Description**                                                                |
-|-------|--------------------------------------------------------------------------------|
-| 1     | Rolling a new character after death                                            |
-| 2     | Receiving a Major Wound                                                        |
-| 3     | Roleplaying a character flaw                                                   |
-| 4     | Roleplaying a character strength as a flaw, depending on the situation         |
-| 5     | Inspired roleplay                                                              |
-| 6     | Creating or fulfilling a new Bond, personal quest, or long-term goal           |
-| 7     | Having something important to your character lost or destroyed.                |
-| 8     | Inventing a new Spell, Technique or item                                       |
-| 9     | Creating a new NPC and integrating them into the story                         |
-| 10    | Adding new lore to the game world                                              |
-| 11    | Creating a new place or historical event                                       |
-| 12    | Making an unexpected connection between two previously unrelated game elements |
-| 13    | Voluntarily taking a setback for the benefit of the team                       |
-| 14    | Creating a shared history or backstory connection with another player          |
-| 15    | Using one's environment and surroundings creatively                            |
 
 ---
 
@@ -1094,7 +1050,9 @@ Sometimes it can be difficult for the GM to imagine what might possibly cause di
 
 ## Flashbacks:
 
-At any time, characters may choose to spend a Story Point in order to remember a scene that happened in the past. They might remember that they packed certain equipment or planned ahead for a specific contingency that they're facing.
+GMs may give out Flashbacks to players that they may use later.
+
+At any time, characters may choose to spend a Flashback in order to remember a scene that happened in the past. They might remember that they packed certain equipment or planned ahead for a specific contingency that they're facing.
 
 Flashbacks are still full scenes. Characters must roll for any feats that they attempt and deduct gold for any equipment they remember purchasing.
 
@@ -1555,10 +1513,10 @@ Wounds:
 |-------|-----------------------|-------------------------------|--------------------------------|--------------------------------|-------------------------------------|-------------------------------------|
 | **1** | Human                 | Elf, Ancient and Graceful     | Dwarf, Stalwart and Enduring   |                                | Golem, Android, or Living Construct | Summoned from a different dimension |
 | **2** | Mutant, Born of Chaos | Revenant, returned from Death | Demonic or Celestial Lineage   | Werewolf or other Werecreature | Vampire, Cursed with Immortality    | Possessed                           |
-| **3** |                       | Beastfolk                     | Fae-Touched                    | Gnome                          | Goblin                              | Hybrid of two lineages              |
-| **4** | Elemental Lineage     | Naga, Serpentine and Wise     | Orc, Strong and Fierce         | Halfling                       | Host to a sentient parasite         | Amphibian                           |
+| **3** | Birdfolk              | Beastfolk                     | Fae-Touched                    | Gnome                          | Goblin                              | Hybrid of two lineages              |
+| **4** | Elemental Lineage     | Naga, Serpentine and Wise     | Orc, Strong and Fierce         | Halfling                       | Host and sentient parasite          | Amphibian                           |
 | **5** | Clone, One of Many    | Part Machine                  | Divine Spawn, Child of a Deity |                                | Reincarnated                        | Shapeshifter, Identity in Flux      |
-| **6** |                       | Gargoyle                      |                                | Insectoid                      | Plantfolk, Living Flora             | Living Myth, A Legend Made Flesh    |
+| **6** | Lizardfolk            | Gargoyle                      |                                | Insectoid                      | Plantfolk, Living Flora             | Living Myth, A Legend Made Flesh    |
 
 ---
 
