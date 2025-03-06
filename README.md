@@ -68,6 +68,8 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 
 [Glossary](#Glossary)
 
+[Why is this game called Atomic D6?](#Why-is-this-game-called-Atomic-D6)
+
 [The Five Mutually Reenforcing Design Principles of Atomic D6](#The-Five-Mutually-Reenforcing-Design-Principles-of-Atomic-D6)
 
 ---
@@ -3636,10 +3638,16 @@ The mastery of designing, building, and optimizing technology, from simple machi
 
 ---
 
+# Why is this game called Atomic D6?
+
+The Atom is the smallest stable unit found in nature, but despite its small size, the Atom contains a great deal of potential energy, and it can be combined into many different forms. [The Five Mutually Reenforcing Design Principles of Atomic D6](#The-Five-Mutually-Reenforcing-Design-Principles-of-Atomic-D6) seek to embody those qualities.
+
+---
+
 # The Five Mutually Reenforcing Design Principles of Atomic D6
 ## Fun
 
-Above all else, we will strive to make our rules fun, even at the expense of our other principles.
+Above all else, we will strive to make our rules fun, even at the expense of our other design principles.
 
 ## Speed
 
