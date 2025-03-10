@@ -1485,14 +1485,14 @@ Wounds:
 
 ## **Mortal Backgrounds**
 
-| D6    | 1                                     | 2                                 | 3                             | 4                                         | 5                                  | 6                          |
-|-------|---------------------------------------|-----------------------------------|-------------------------------|-------------------------------------------|------------------------------------|----------------------------|
-| **1** | Raised in a War Zone                  | Born in a Noble House             | Raised by Outlaws             | Grew Up in an Orphanage                   | Child of Prophecy                  | Streetwise Survivor        |
-| **2** | Escaped Cult Follower                 | Escaped from Slavery              | Trained in a Military Academy | Grew up in a traveling band of performers | Raised by Mercenaries              | Cursed                     |
-| **3** | Last member of a Dying Culture        | Raised in a Temple                | Former Gang Member            | Grew Up in the Wilderness                 | Secretly a Royal Bastard           | Adopted by a Mystic Order  |
-| **4** | Escaped Experiment                    | Sole Survivor                     | Raised Among Beasts           | Grew Up in a Traveling Caravan            | Raised in a Crime Syndicate        | Failed Actor               |
-| **5** | Raised by AI, Machines, or Constructs | Refugee from an Oppressive Regime | Lost Time Traveler            | Trained from Birth for a Purpose          | Grew Up in a Slum                  | Marked by an Ancient Power |
-| **6** | Child of a Legendary Hero             | Orphaned by War                   | Foundling Raised by Strangers | Grew Up Under Tyranny                     | Descendant of an Ancient Bloodline | Stowaway                   |
+| D6    | 1                                     | 2                                 | 3                              | 4                                         | 5                                  | 6                          |
+|-------|---------------------------------------|-----------------------------------|--------------------------------|-------------------------------------------|------------------------------------|----------------------------|
+| **1** | Raised in a War Zone                  | Born in a Noble House             | Raised by Outlaws              | Grew Up in an Orphanage                   | Child of Prophecy                  | Streetwise Survivor        |
+| **2** | Escaped Cultist                       | Escaped from Slavery              | Trained in a Military Academy  | Grew up in a traveling band of performers | Raised by Mercenaries              | Cursed                     |
+| **3** | Awakened from Stasis                  | Raised in a Temple                | Former Gang Member             | Grew Up in the Wilderness                 | Secretly a Royal Bastard           | Adopted by a Mystic Order  |
+| **4** | Escaped Experiment                    | Sole Survivor                     | Raised Among Beasts            | Grew Up in a Traveling Caravan            | Raised in a Crime Syndicate        | Failed Actor               |
+| **5** | Raised by AI, Machines, or Constructs | Refugee from an Oppressive Regime | Lost Time Traveler             | Trained from Birth for a Purpose          | Grew Up in a Slum                  | Marked by an Ancient Power |
+| **6** | Child of a Legendary Hero             | Orphaned by War                   | Last member of a Dying Culture | Grew Up Under Tyranny                     | Descendant of an Ancient Bloodline | Stowaway                   |
 
 ---
 
@@ -1511,14 +1511,14 @@ Wounds:
 
 ## **Mortal Origins**
 
-| D6    | 1                     | 2                             | 3                              | 4                              | 5                                   | 6                                   |
-|-------|-----------------------|-------------------------------|--------------------------------|--------------------------------|-------------------------------------|-------------------------------------|
-| **1** | Human                 | Elf, Ancient and Graceful     | Dwarf, Stalwart and Enduring   |                                | Golem, Android, or Living Construct | Summoned from a different dimension |
-| **2** | Mutant, Born of Chaos | Revenant, returned from Death | Demonic or Celestial Lineage   | Werewolf or other Werecreature | Vampire, Cursed with Immortality    | Possessed                           |
-| **3** | Birdfolk              | Beastfolk                     | Fae-Touched                    | Gnome                          | Goblin                              | Hybrid of two lineages              |
-| **4** | Elemental Lineage     | Naga, Serpentine and Wise     | Orc, Strong and Fierce         | Halfling                       | Host and sentient parasite          | Amphibian                           |
-| **5** | Clone, One of Many    | Part Machine                  | Divine Spawn, Child of a Deity |                                | Reincarnated                        | Shapeshifter, Identity in Flux      |
-| **6** | Lizardfolk            | Gargoyle                      |                                | Insectoid                      | Plantfolk, Living Flora             | Living Myth, A Legend Made Flesh    |
+| D6    | 1                  | 2                         | 3                              | 4                              | 5                                   | 6                                            |
+|-------|--------------------|---------------------------|--------------------------------|--------------------------------|-------------------------------------|----------------------------------------------|
+| **1** | Human              | Elf, Ancient and Graceful | Dwarf, Stalwart and Enduring   | Minotaur                       | Golem, Android, or Living Construct | Summoned from a different dimension          |
+| **2** | Mutant             | Undead                    | Demonic or Celestial Lineage   | Werewolf or other Werecreature | Vampire                             | Possessed                                    |
+| **3** | Birdfolk           | Beastfolk                 | Kobold                         | Gnome                          | Goblin                              | Hybrid of two lineages (roll two more times) |
+| **4** | Elemental Lineage  | Lizardfolk or Naga        | Orc, Strong and Fierce         | Halfling                       | Host and parasite                   | Amphibian                                    |
+| **5** | Clone, One of Many | Part Machine              | Divine Spawn, Child of a Deity | Giant Blood                    | Reincarnated                        | Shapeshifter                                 |
+| **6** | Fairy              | Gargoyle                  | Fishfolk                       | Insectoid                      | Plantfolk, Living Flora             | Living Myth, A Legend Made Flesh             |
 
 ---
 
