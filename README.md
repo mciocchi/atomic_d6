@@ -58,6 +58,8 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 
 [Domains](#Domains)
 
+[Example Domain Sheet](#Example-Domain-Sheet)
+
 [Worldbuilding Through High-Level Play](#Worldbuilding-Through-High-Level-Play)
 
 [Blank Character Sheet](#Blank-Character-Sheet)
@@ -1251,11 +1253,9 @@ Domains can take actions in key areas:
 ---
 
 ---
-## **Domain Sheets**
+## **Example Domain Sheet**
 
 Just like Characters, domains get a sheet that lists their Aspects and Inventory, known as Holdings.
-
-# Example Domain Sheet
 
 ```
 # Kingdom of Veyndor (4)
