@@ -98,6 +98,14 @@ his closest ally.
 
 Agile and keen senses, but ostracized by both human and elven societies.
 
+## Background: Exile of Veyndor
+
+Once the rightful heir to the throne, Kaelion is now a fugitive. Some see him
+as a fallen prince, others as a dangerous usurper. His reputation grants him
+access to those who would see the kingdom restored, but also makes him a prime
+target for bounty hunters and spies of the usurper.
+
+
 ## Strength: Unyielding Will
 
 Kaelion refuses to falter, pushing through pain, exhaustion, and even magical
@@ -121,16 +129,9 @@ Struggles to trust others and often second-guesses his actions.
 Renowned for precise and deadly swordplay, Kaelion was trained to wield a
 Longsword from a young age.
 
-## Exile of Veyndor
-
-Once the rightful heir to the throne, Kaelion is now a fugitive. Some see him
-as a fallen prince, others as a dangerous usurper. His reputation grants him
-access to those who would see the kingdom restored, but also makes him a prime
-target for bounty hunters and spies of the usurper.
-
 ## The Mark of Ruin
 
-A magical curse symbol on his arm. Once per session, Kaelion can invoke it for
+A magical curse symbol on his arm. Once per Act, Kaelion can invoke it for
 a significant magical effect, but it also causes unpredictable side effects.
 
 ---
@@ -1461,7 +1462,7 @@ Wounds:
 
 | D6    | 1                 | 2                      | 3                       | 4                  | 5             | 6               |
 |-------|-------------------|------------------------|-------------------------|--------------------|---------------|-----------------|
-| **1** | Fugitive          | Wandering Outcast      | Martial Artist          | Architect of Flesh | Cage Fighter  | Medic           |
+| **1** | Fugitive          | Wandering Outcast      | Martial Artist          | Architect of Flesh | Cage Fighter  | Woodsman        |
 | **2** | Fraudster         | Battle-Scarred Veteran | Traveling Performer     | Merchant           | Bounty Hunter | Chef            |
 | **3** | Dissident Scholar | Doctor                 | Monster Hunter          | Mercenary          | Illusionist   | Freedom Fighter |
 | **4** | Feral Warrior     | Secret Agent           | Quack                   | Pilgrim            | Alchemist     | Smuggler        |
