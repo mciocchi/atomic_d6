@@ -58,7 +58,7 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 
 [Domains](#Domains)
 
-[Example Domain Sheet](#Example-Domain-Sheet)
+[Example Domain Sheet]
 
 [Worldbuilding Through High-Level Play](#Worldbuilding-Through-High-Level-Play)
 
@@ -1251,8 +1251,6 @@ Domains can take actions in key areas:
 - **Control or Defy Prophecies** (Manipulate myths and legends)
 
 ---
-
----
 ## **Example Domain Sheet**
 
 Just like Characters, domains get a sheet that lists their Aspects and Inventory, known as Holdings.
@@ -1450,11 +1448,11 @@ Wounds:
 
 # Blank Domain Sheet
 ```
-# {Title} ({Level})
-## Type:
-## Holdings:
-## Factions & Power Struggles:
-## Domain Challenges:
+# {Name} ({Level})
+## **Concept:**
+## **Factions & Power Struggles:**
+## **Challenges:**
+## **Holdings:**
 ```
 # Example Starting Aspects
 ## **Mortal Concepts**
