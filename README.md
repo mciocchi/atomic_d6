@@ -89,16 +89,16 @@ Wounds:
 ♡
 
 
-## **Concept:** Cursed Prince Seeking Redemption
+## Concept: Cursed Prince Seeking Redemption
 
 Exiled heir to a once-prosperous kingdom, forced to wander after a betrayal by
 his closest ally.
 
-## **Origin:** Half-Elf
+## Origin: Half-Elf
 
 Agile and keen senses, but ostracized by both human and elven societies.
 
-## **Strength:** Unyielding Will
+## Strength: Unyielding Will
 
 Kaelion refuses to falter, pushing through pain, exhaustion, and even magical
 influence. His sheer determination grants him resistance against mind-affecting
@@ -108,34 +108,34 @@ can lead to unnecessary risks, conflicts, or self-destruction. His allies may
 rely on him too much, and his refusal to yield may cost him dearly when wisdom
 calls for caution.
 
-## **Bond:** Loyal to his younger sister
+## Bond: Loyal to his younger sister
 
 The last surviving member of his family.
 
-## **Flaw:** Haunted by Guilt
+## Flaw: Haunted by Guilt
 
 Struggles to trust others and often second-guesses his actions.
 
-## **Fighting Style:** Swordsman
+## Fighting Style: Swordsman
 
 Renowned for precise and deadly swordplay, Kaelion was trained to wield a
 Longsword from a young age.
 
-## **Exile of Veyndor**
+## Exile of Veyndor
 
 Once the rightful heir to the throne, Kaelion is now a fugitive. Some see him
 as a fallen prince, others as a dangerous usurper. His reputation grants him
 access to those who would see the kingdom restored, but also makes him a prime
 target for bounty hunters and spies of the usurper.
 
-## **The Mark of Ruin**
+## The Mark of Ruin
 
 A magical curse symbol on his arm. Once per session, Kaelion can invoke it for
 a significant magical effect, but it also causes unpredictable side effects.
 
 ---
 
-## **Inventory**
+## Inventory
 
   - Enchanted Longsword, *Moonshade*
     – Grants Bonuses in low-light conditions.
@@ -1424,21 +1424,23 @@ Wounds:
 ♡
 
 
-## **Concept:**
+## Concept:
 
-## **Origin:**
+## Origin:
 
-## **Strength:**
+## Background
 
-## **Bond:**
+## Strength:
 
-## **Flaw:**
+## Bond:
 
-## **Fighting Style:**
+## Flaw:
+
+## Fighting Style:
 
 ---
 
-## **Inventory**
+## Inventory
 
 ---
 
@@ -1449,10 +1451,10 @@ Wounds:
 # Blank Domain Sheet
 ```
 # {Name} ({Level})
-## **Concept:**
-## **Factions & Power Struggles:**
-## **Challenges:**
-## **Holdings:**
+## Concept:
+## Factions & Power Struggles:
+## Challenges:
+## Holdings:
 ```
 # Example Starting Aspects
 ## **Mortal Concepts**
