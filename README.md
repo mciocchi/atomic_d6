@@ -1484,42 +1484,16 @@ Wounds:
 
 ---
 
-## **Mortal Backgrounds**
-
-| D6    | 1                                     | 2                                 | 3                              | 4                                         | 5                                  | 6                          |
-|-------|---------------------------------------|-----------------------------------|--------------------------------|-------------------------------------------|------------------------------------|----------------------------|
-| **1** | Raised in a War Zone                  | Born in a Noble House             | Raised by Outlaws              | Grew Up in an Orphanage                   | Child of Prophecy                  | Streetwise Survivor        |
-| **2** | Escaped Cultist                       | Escaped from Slavery              | Trained in a Military Academy  | Grew up in a traveling band of performers | Raised by Mercenaries              | Cursed                     |
-| **3** | Awakened from Stasis                  | Raised in a Temple                | Former Gang Member             | Grew Up in the Wilderness                 | Secretly a Royal Bastard           | Adopted by a Mystic Order  |
-| **4** | Escaped Experiment                    | Sole Survivor                     | Raised Among Beasts            | Grew Up in a Traveling Caravan            | Raised in a Crime Syndicate        | Failed Actor               |
-| **5** | Raised by AI, Machines, or Constructs | Refugee from an Oppressive Regime | Lost Time Traveler             | Trained from Birth for a Purpose          | Grew Up in a Slum                  | Marked by an Ancient Power |
-| **6** | Child of a Legendary Hero             | Orphaned by War                   | Last member of a Dying Culture | Grew Up Under Tyranny                     | Descendant of an Ancient Bloodline | Stowaway                   |
-
----
-
-## **Divine Backgrounds**
-
-| D6    | 1                                    | 2                                      | 3                                       | 4                                 | 5                                 | 6                                         |
-|-------|--------------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------|-----------------------------------|-------------------------------------------|
-| **1** | Born from the First Light            | Forged in the Chaos Before Time        | A Mortal Who Ascended                   | A Fragment of a Greater Being     | Created to Fulfill a Cosmic Role  | A Mistake That Became Divine              |
-| **2** | Formed from the Dreams of Mortals    | Sprang from the Blood of a Slain Titan | The Last of an Extinct Pantheon         | Manifested from Pure Willpower    | Created by Another Deity          | A Being of Pure Thought                   |
-| **3** | Bound by an Unbreakable Oath         | Risen from the Ashes of a Fallen World | The Chosen Champion of an Ancient Force | A Rebellion Against Fate Itself   | A Lost God Rediscovered           | Born from the Prayers of a Forgotten Race |
-| **4** | Once a Servant, Now a Master         | A Guardian of the Cosmic Balance       | A Secret Kept by the Universe           | A Paradox Given Form              | The Result of an Ancient Prophecy | A Divine Entity That Should Not Exist     |
-| **5** | A Wanderer Across Infinite Realities | A Being That Defied Extinction         | The First and Last of Its Kind          | A Survivor of the War of the Gods | A Prisoner Who Escaped the Void   | A Remnant of a Forgotten Civilization     |
-| **6** | A Dream That Became Reality          | The Embodiment of a Concept            | A Cosmic Experiment Gone Wrong          | A Spirit That Refused to Fade     | A Deity Who Usurped Power         | A Being With No Beginning and No End      |
-
----
-
 ## **Mortal Origins**
 
-| D6    | 1                  | 2                         | 3                              | 4                              | 5                                   | 6                                            |
-|-------|--------------------|---------------------------|--------------------------------|--------------------------------|-------------------------------------|----------------------------------------------|
-| **1** | Human              | Elf, Ancient and Graceful | Dwarf, Stalwart and Enduring   | Minotaur                       | Golem, Android, or Living Construct | Summoned from a different dimension          |
-| **2** | Mutant             | Undead                    | Demonic or Celestial Lineage   | Werewolf or other Werecreature | Vampire                             | Possessed                                    |
-| **3** | Birdfolk           | Beastfolk                 | Kobold                         | Gnome                          | Goblin                              | Hybrid of two lineages (roll two more times) |
-| **4** | Elemental Lineage  | Lizardfolk or Naga        | Orc, Strong and Fierce         | Halfling                       | Host and parasite                   | Amphibian                                    |
-| **5** | Clone, One of Many | Part Machine              | Divine Spawn, Child of a Deity | Giant Blood                    | Reincarnated                        | Shapeshifter                                 |
-| **6** | Fairy              | Gargoyle                  | Fishfolk                       | Insectoid                      | Plantfolk, Living Flora             | Living Myth, A Legend Made Flesh             |
+| D6    | 1                 | 2                  | 3                                  | 4                              | 5                                           | 6                                            |
+|-------|-------------------|--------------------|------------------------------------|--------------------------------|---------------------------------------------|----------------------------------------------|
+| **1** | Human             | Elf                | Dwarf                              | Minotaur                       | Golem, Android, or Living Construct         | Summoned from a different dimension          |
+| **2** | Mutant            | Undead             | Demonic or Celestial Lineage       | Werewolf or other Werecreature | Vampire                                     | Possessed                                    |
+| **3** | Birdfolk          | Beastfolk          | Kobold                             | Gnome                          | Goblin                                      | Hybrid of two lineages (roll two more times) |
+| **4** | Elemental Lineage | Lizardfolk or Naga | Orc                                | Halfling                       | Host and parasite                           | Amphibian                                    |
+| **5** | Clone             | Part Machine       | Offspring of a Mortal and a Divine | Giant Blood                    | Animal or Object transmuted into a Humanoid | Shapeshifter                                 |
+| **6** | Fairy             | Gargoyle           | Fishfolk                           | Insectoid                      | Plantfolk, Living Flora                     | Living Myth, A Legend Made Flesh             |
 
 ---
 
@@ -1533,6 +1507,32 @@ Wounds:
 | **4** | A Dream That Became Reality          | Forged from the Bones of a Titan   | The First and Last of Its Kind    | A Soul that Refused to Pass On   | Created by a Forgotten Civilization         | A Being from Outside Time            |
 | **5** | A Rebellious Angel or Fallen Deity   | An Eldritch Entity in a New Shape  | The Result of a Divine Experiment | A Guardian of an Ancient Seal    | A Wanderer from Another Universe            | An Emissary of the Void              |
 | **6** | A God Shattered and Reforged         | A Being of Pure Thought            | A Child of Light and Darkness     | A Deity Born from Mortal Worship | The Last Survivor of a Cosmic War           | A Forgotten Legend Made Flesh        |
+
+---
+
+## **Mortal Backgrounds**
+
+| D6    | 1                                     | 2                                 | 3                               | 4                                | 5                                  | 6                                    |
+|-------|---------------------------------------|-----------------------------------|---------------------------------|----------------------------------|------------------------------------|--------------------------------------|
+| **1** | Raised in a Commune                   | Born in a Noble House             | Raised by Outlaws               | Grew Up in an Orphanage          | Child of Prophecy                  | Grew up in a library                 |
+| **2** | Escaped Cultist                       | Escaped from Slavery              | Trained in a Military Academy   | Grew up in a band of performers  | Raised by Mercenaries              | Cursed                               |
+| **3** | Awakened from Stasis                  | Raised in a Temple                | Former Gang Member              | Grew Up in the Wilderness        | Secretly a Royal Bastard           | Escaped from a simulation            |
+| **4** | Escaped Experiment                    | Sole Survivor                     | Grew up as a Diplomatic Hostage | Grew Up in a Traveling Caravan   | Raised in a Crime Syndicate        | Failed Actor                         |
+| **5** | Raised by AI, Machines, or Constructs | Refugee from an Oppressive Regime | Lost Time Traveler              | Trained from Birth for a Purpose | Street Urchin                      | Entered a binding pact with a divine |
+| **6** | Child of a Legendary Hero             | Grew up in a warzone              | Last member of a Dying Culture  | Child of a rebel leader          | Descendant of an Ancient Bloodline | Stowaway                             |
+
+---
+
+## **Divine Backgrounds**
+
+| D6    | 1                                    | 2                                      | 3                                       | 4                                 | 5                                 | 6                                         |
+|-------|--------------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------|-----------------------------------|-------------------------------------------|
+| **1** | Born from the First Light            | Forged in the Chaos Before Time        | A Mortal Who Ascended                   | A Fragment of a Greater Being     | Created to Fulfill a Cosmic Role  | A Mistake That Became Divine              |
+| **2** | Formed from the Dreams of Mortals    | Sprang from the Blood of a Slain Titan | The Last of an Extinct Pantheon         | Manifested from Pure Willpower    | Created by Another Deity          | A Being of Pure Thought                   |
+| **3** | Bound by an Unbreakable Oath         | Risen from the Ashes of a Fallen World | The Chosen Champion of an Ancient Force | A Rebellion Against Fate Itself   | A Lost God Rediscovered           | Born from the Prayers of a Forgotten Race |
+| **4** | Once a Servant, Now a Master         | A Guardian of the Cosmic Balance       | A Secret Kept by the Universe           | A Paradox Given Form              | The Result of an Ancient Prophecy | A Divine Entity That Should Not Exist     |
+| **5** | A Wanderer Across Infinite Realities | A Being That Defied Extinction         | The First and Last of Its Kind          | A Survivor of the War of the Gods | A Prisoner Who Escaped the Void   | A Remnant of a Forgotten Civilization     |
+| **6** | A Dream That Became Reality          | The Embodiment of a Concept            | A Cosmic Experiment Gone Wrong          | A Spirit That Refused to Fade     | A Deity Who Usurped Power         | A Being With No Beginning and No End      |
 
 ---
 
