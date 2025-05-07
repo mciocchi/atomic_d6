@@ -1891,26 +1891,34 @@ This is by no means an exhaustive list. It exists merely to provide a jumping-of
 - Preach basic moral lessons to a small audience.
 - Struggle to inspire true conviction in others.
 - Fail to influence established religious beliefs.
+- Fail to understand the core meaning of religious texts, artifacts, and rituals.
 
 - **Apprentice**
 - Convert a handful of people to a new belief system.
 - Persuade others to adopt minor religious rituals.
 - Inspire temporary devotion through passionate speech.
+- Understand basic religious themes.
+- Perform basic rituals with guidance.
 
 - **Journeyman**
 - Influence a town to embrace a new religious philosophy.
 - Establish a local cult or following around a central belief.
 - Invoke minor divine blessings through faith alone.
+- Accurately interpret cross-cultural religious doctrines.
+- Identify real and counterfeit religious relics.
 
 - **Master**
 - Found a major religious movement spanning a region.
 - Perform miracles that solidify divine status.
 - Shape doctrine and belief systems that last generations.
+- Understand the layered history and doctrinal development of a faith.
+- Resolve sectarian conflicts through deep understanding of doctrine.
 
 - **Olympian**
 - Establish a world religion with millions of devoted followers.
 - Inspire sacred texts that redefine morality and faith.
 - Manifest religious visions to influence entire societies.
+- Unite clashing belief systems through transcendent interpretation of doctrines.
 
 - **Demigod**
 - Manifest as a physical deity to be worshipped.
