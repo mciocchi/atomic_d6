@@ -58,7 +58,7 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 
 [Domains](#Domains)
 
-[Example Domain Sheet]
+[Example Domain Sheet](#Example-Domain-Sheet)
 
 [Worldbuilding Through High-Level Play](#Worldbuilding-Through-High-Level-Play)
 
@@ -723,7 +723,7 @@ In Atomic D6, Mental Wounds are considered to be just as deadly as physical ones
 
 "Any sufficiently advanced technology is indistinguishable from magic." ~~**Arthur C. Clarke**
 
-Magic in *Atomic D6* is a **freeform, narrative-driven system.** Casters are allowed to declare any spell effect, as long as it's within their area of expertise.
+Magic in *Atomic D6* is a **freeform, narrative-driven system.** Casters are allowed to attempt any spell, but the difficulty is determined by the GM.
 
 ## **Casting a Spell**
 
@@ -747,35 +747,47 @@ To prevent overuse and encourage **strategic spellcasting**, *Atomic D6* uses th
 
 ### **1. Stamina Drain**
 
-- **By default, spells only cost Stamina when they fail.**
-- If a caster reaches **0 Stamina**, they can keep casting, but **each failed spell inflicts a Wound**.
+- By default, spells cost Stamina when they fail.
+- Casters can still cast if they have 0 Stamina, but each failure inflicts a Wound.
+- The usual rules for [Stamina, Wounds, and Scars](#Stamina-Wounds-and-Scars) still apply.
+
+Sometimes, the wounds and stamina drain that a caster receives from failing a spell are direct: for instance, an apprentice attempting to cast a Fireball might light their hands on fire by accident.
+
+In other cases, the caster's mind can be damaged by the powerful eldritch forces that they are attempting to manipulate, and the wounds and stamina loss are purely mental.
+
+#### **Variant Rule: Stamina Drain on Success**
+
+Spells drain stamina on success instead of failure, which changes the whole game for spellcasters.
+
+Under this rule, casters tend to attempt more powerful spells more frequently, but they also tend to burn themselves out more reliably.
 
 ### **2. Boons & Banes Create Consequences**
 
-- A **Bane** can introduce **unexpected side effects**, even on a success.
-- **High-tier magic with Banes** can be catastrophic.
+- A **Bane** can introduce **unexpected negative side effects**, even on a success.
+- Receiving a Bane while casting a high-powered spell can be catastrophic.
+- Banes may cause additional wounds and stamina loss over and above those caused by failing a spell.
 
-### **3. Variant Rule: Pay Stamina on Success**
+### **3. Narrative Magic Limits**
 
-- Instead of costing Stamina **only on failure**, GMs may rule that **spells only drain Stamina on success**.
-- **Each spell costs 1 Stamina** by default.
-
-### **4. Magical Overload (Overcasting)**
-
-- If a caster **fails a spell while at 0 Stamina**, they suffer **a Wound**.
-- This represents **magical backlash, exhaustion, or psychic strain** from pushing too far.
-
-### **5. Narrative Magic Limits**
-
-- The GM may introduce **story-driven magic restrictions**, such as:
+- The GM and Players may introduce **story-driven magic restrictions**, such as:
   - **Rare components** required for advanced spells.
   - **Societal consequences** for public magic use.
   - **Mystical conditions** that must be met to perform legendary spells.
   - **Divine Patronage** required to channel magic power
 
+#### Variant Rule: Nothing from Nothing
+
+Under this rule, mortals only have access to magic via divine patronage.
+
+Before using magic, Spellcasters must choose a divine patron and add it to their character sheet as an Aspect. This patronage may also require them to join a religious or magical faction.
+
+Characters attempting to cast spells that go against the will and domain of their patron may receive a Malus, or they may find themselves completely cut off from magic.
+
+For instance: a Pyromancer might choose a fire god as their divine patron. They might find it difficult or even impossible to cast spells outside of the school of Pyromancy.
+
 ---
 
-### **6. Paradox**
+### **4. Paradox**
 
 Magic is still mysterious and poorly understood. It has been observed that occasionally, the same exact spell will get more difficult when cast repeatedly.  Other spells that seem to break the laws and expectations of the universe also experience this phenomenon.
 
@@ -793,60 +805,48 @@ Below are example spells at different power levels, showcasing **how spell resol
 
 *Briefly slow a target’s reflexes, making them sluggish for a moment.*
 
-| Result                | Effect                                                   |
-|-----------------------|----------------------------------------------------------|
-| **Success with Boon** | The target hesitates longer than expected,               |
-|                       | giving the caster’s allies a bonus on their next action. |
-| **Success**           | The target loses a split second, stumbling slightly.     |
-| **Success with Bane** | The target is slowed, but the caster also suffers a      |
-|                       | brief lapse in concentration.                            |
-| **Failure with Boon** | The spell fizzles, but the target becomes slightly       |
-|                       | distracted anyway.                                       |
-| **Failure**           | The target shrugs off the attempt.                       |
-| **Failure with Bane** | The spell rebounds slightly, making the caster           |
-|                       | hesitate instead.                                        |
+| Result                | Effect                                                                                                                                 |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| **Success with Boon** | The target hesitates longer than expected, receiving -1 on their next action and giving the caster +1 on their next action against it. |
+| **Success**           | The target loses a split second, stumbling slightly and receiving -1 on their next action.                                        |
+| **Success with Bane** | The target is slowed, but the caster is also.                                                                                          |
+| **Failure with Boon** | The spell fails, but the target becomes slightly distracted trying to defend themselves anyway.                                        |
+| **Failure**           | The spell fails, and the target shrugs off the attempt.                                                                                |
+| **Failure with Bane** | The spell rebounds slightly, making the caster hesitate instead.                                                                       |
 
 ---
 
-### **Stormcalling (Level 3 – Journeyman)**
+### **Stormcalling (Level 2 – Journeyman)**
 
 #### **Spell: "Thunder Lance"**
 
 *Summon a concentrated bolt of lightning to strike a single target.*
 
-| Result                | Effect                                                |
-|-----------------------|-------------------------------------------------------|
-| **Success with Boon** | The lightning arcs into nearby enemies, hitting a     |
-|                       | secondary target.                                     |
-| **Success**           | The target is struck by the lightning bolt.           |
-| **Success with Bane** | The lightning hits, but the shockwave knocks the      |
-|                       | caster slightly off balance.                          |
-| **Failure with Boon** | The bolt misses, but it startles the target.          |
-| **Failure**           | The spell misfires, sending static into the air.      |
-| **Failure with Bane** | The lightning misfires, striking an unintended object |
-|                       | or ally.                                              |
+| Result                | Effect                                                               |
+|-----------------------|----------------------------------------------------------------------|
+| **Success with Boon** | The lightning arcs into nearby enemies, hitting a secondary target.  |
+| **Success**           | The target is struck by the lightning bolt.                          |
+| **Success with Bane** | The lightning hits, but the shockwave knocks the caster off balance. |
+| **Failure with Boon** | The bolt misses, but it startles the target.                         |
+| **Failure**           | The spell misfires, sending static into the air.                     |
+| **Failure with Bane** | The lightning misfires, striking an unintended object or ally.       |
 
 ---
 
 ### **Gravetomancy (Level 6 – Demigod)**
 
-#### **Spell: "Event Horizon"**
+#### **Spell: "Mass Blessing"**
 
-*Create a localized gravitational field that pulls everything toward a single point.*
+*Manipulate localized gravitational fields that increase the mass behind allied attacks.*
 
-| Result                | Effect                                                 |
-|-----------------------|--------------------------------------------------------|
-| **Success with Boon** | The pull is stronger than expected, distorting light   |
-|                       | and sound.                                             |
-| **Success**           | The field manifests, dragging objects and enemies      |
-|                       | toward the center.                                     |
-| **Success with Bane** | The spell works, but the caster is slightly affected,  |
-|                       | slowing their own movements.                           |
-| **Failure with Boon** | The field fails to form, but the area becomes slightly |
-|                       | heavier, slowing enemies.                              |
-| **Failure**           | The spell fizzles, doing nothing.                      |
-| **Failure with Bane** | The field inverts, pushing everything outward in an    |
-|                       | unintended shockwave.                                  |
+| Result                | Effect                                                                                                     |
+|-----------------------|------------------------------------------------------------------------------------------------------------|
+| **Success with Boon** | The spell works better than intended. All affected receive +2 to all attacks instead of +1                 |
+| **Success**           | The spell works exactly as intended. All those affected receive +1 to all attacks.                         |
+| **Success with Bane** | The spell works, but it affects enemies in addition to allies!                                             |
+| **Failure with Boon** | The field fails but the caster is able to partially recover. They don't lose any stamina from the failure. |
+| **Failure**           | The gravitational field fails to form. No effect.                                                          |
+| **Failure with Bane** | The field forms haphazardly. Allies receive -1 to their next attack.                                       |
 
 ---
 
@@ -856,16 +856,14 @@ Below are example spells at different power levels, showcasing **how spell resol
 
 *Link multiple minds together, allowing them to share thoughts and instincts.*
 
-| Result                | Effect                                                |
-|-----------------------|-------------------------------------------------------|
-| **Success with Boon** | The linked minds gain heightened awareness, allowing  |
-|                       | perfect coordination.                                 |
-| **Success**           | The spell works, allowing telepathic communication.   |
-| **Success with Bane** | The link is unstable, causing minor confusion.        |
-| **Failure with Boon** | The spell fails, but a brief telepathic echo provides |
-|                       | useful insight.                                       |
-| **Failure**           | The magic does not take hold.                         |
-| **Failure with Bane** | The link is unstable, causing mental distress.        |
+| Result                | Effect                                                                     |
+|-----------------------|----------------------------------------------------------------------------|
+| **Success with Boon** | The linked minds gain heightened awareness, allowing perfect coordination. |
+| **Success**           | The spell works, allowing telepathic communication.                        |
+| **Success with Bane** | The link is unstable, causing minor confusion.                             |
+| **Failure with Boon** | The spell fails, but a brief telepathic echo provides useful insight.      |
+| **Failure**           | The magic does not take hold.                                              |
+| **Failure with Bane** | The link is unstable, causing mental distress.                             |
 
 ---
 
@@ -875,19 +873,14 @@ Below are example spells at different power levels, showcasing **how spell resol
 
 *Fold space inward, creating a singularity that devours all in its range.*
 
-| Result                | Effect                                                  |
-|-----------------------|---------------------------------------------------------|
-| **Success with Boon** | The singularity is stable, and the caster can           |
-|                       | precisely control it.                                   |
-| **Success**           | Space folds inward, erasing a massive portion of the    |
-|                       | battlefield.                                            |
-| **Success with Bane** | The spell works, but an unintended rift lingers,        |
-|                       | causing instability.                                    |
-| **Failure with Boon** | The collapse fails, but the warping effect disorients   |
-|                       | enemies.                                                |
-| **Failure**           | The caster attempts to fold space, but nothing happens. |
-| **Failure with Bane** | The spell backfires, creating a gravitational anomaly   |
-|                       | that disrupts the battlefield.                          |
+| Result                | Effect                                                                               |
+|-----------------------|--------------------------------------------------------------------------------------|
+| **Success with Boon** | The singularity is stable, and the caster can precisely control it.                  |
+| **Success**           | Space folds inward, erasing a massive portion of the battlefield.                    |
+| **Success with Bane** | The spell works, but an unintended rift lingers, causing instability.                |
+| **Failure with Boon** | The collapse fails, but the warping effect disorients enemies.                       |
+| **Failure**           | The caster attempts to fold space, but nothing happens.                              |
+| **Failure with Bane** | The spell backfires, creating a gravitational anomaly that disrupts the battlefield. |
 
 ---
 
@@ -1401,14 +1394,6 @@ Once the Primordial Aeons and Ancient History have played out, players can trans
 - The **kingdoms and civilizations they built** become the backdrop for political intrigue and war.
 - By this point, much of **Ancient History might be misremembered or forgotten entirely.**
 - The **forces they unleashed** create the conflicts that drive mortal adventures.
-
-### Variant Rule: Divine Patronage
-
-Players and the GM may decide that magic is only accessible to mortals via divine patronage. Spellcasters must choose a divine patron. This patronage may also require them to join a religious or magical faction.
-
-Characters attempting to cast spells that go against the will and Domain of their patron may receive a Malus, or they may find themselves completely cut off from magic.
-
-For instance: a Pyromancer might choose a fire god as their divine patron. They might find it difficult or even impossible to cast spells outside of the school of Pyromancy.
 
 ---
 
