@@ -3631,6 +3631,8 @@ The mastery of designing, building, and optimizing technology, from simple machi
 - **Bonus**: A positive effect that increases someone's chance to succeed on a roll.
 - **D6**: Six sided die.
 - **D20**: Twenty sided die.
+- **Domain**: A sociogeographical entity comprised of many characters that can be treated as one unit. e.g: the government of a country, a garrison, a guild, or a corporation.
+- **Feat**: An attempt by a character to do something, usually requiring Feat Dice to be rolled.
 - **GM**: Game Master, the game's storyteller and referee.
 - **Malus**: A negative effect that reduces a character's chance to succeed on a roll.
 
