@@ -318,7 +318,7 @@ Rolls are always relative. Depending upon the scope and scale of the story, a ro
 
 That's the power of the Atomic D6 Narrative Dice System: relative rolls allow the game to scale infinitely without requiring more calculation.
 
-## Skill Dice
+## Feat Dice
 
 | Result | Description |
 |--------|-------------|
@@ -369,7 +369,7 @@ Some people can't imagine playing Tabletop RPGs without rolling a D20. These pla
 | 3-4       | Nothing          |
 | 1-2       | Bane             |
 
-Whilst Skill Dice represent a character's ability, the Atomic D6 represents the narrative forces of chaos and fate, and everything outside of their control.
+Whilst Feat Dice represent a character's ability, the Atomic D6 represents the narrative forces of chaos and fate, and everything outside of their control.
 
 Narrative [Beats](#Time) that occur as a result of Boons and Banes do not necessarily have to relate to the feat the character was attempting. Sometimes fortune comes out of left field.
 
@@ -515,7 +515,7 @@ By default, when it is the players turn to act, they take turns around the table
 
 ## 1) Players take Action
 
-When a player announces their action, the GM assigns them a number of Skill Dice and tells them to keep the highest or lowest based on the difficulty of what they're attempting to do.
+When a player announces their action, the GM assigns them a number of Feat Dice and tells them to keep the highest or lowest based on the difficulty of what they're attempting to do.
 
 When resolving attacks, the GM should take these factors into consideration when setting the difficulty of the Feat:
 
@@ -733,7 +733,7 @@ Magic in *Atomic D6* is a **freeform, narrative-driven system.** Casters are all
 
 1. **Declare the Spell Effect** – The player describes the spell they want to cast.
 2. **GM Consults [Ability Examples by Discipline](#Ability-Examples-by-Discipline)** And determines difficulty based on power, range, situation, and opponent's ability to resist.
-3. **Roll Skill Dice** – The caster rolls their relevant magic skill (e.g., **Pyromancy 3D6, Keep Highest**).
+3. **Roll Feat Dice** – The caster adds their relevant Aspects (e.g., **Pyromancy 3D6, Keep Highest**).
 4. **Roll the Atomic D6** – Determines if a **Boon** or **Bane** applies.
 5. **Resolve Effect**
    - **Success with Boon**: The spell works better than intended.
@@ -1203,7 +1203,7 @@ The GM may also run any number of Domain Turns before starting a Narrative, as a
 
 1. **Players declare their Domain Actions.**
 2. **GM sets difficulty** based on scale and opposition.
-3. **Players roll Domain Skill Dice + Atomic D6.**
+3. **Players roll Feat Dice Domain + Atomic D6 for the entire Domain.**
 4. **Outcomes are resolved, GM calls for Players to roleplay scenes if necessary.**
 5. **GM Rolls to determine random Domain Events**
 
