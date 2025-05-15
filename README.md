@@ -8,7 +8,7 @@ Atomic D6
 
 # Acknowledgements
 
-Atomic D6 takes its inspiration from too many sources and individuals to name, including, but not limited to: FATE Condensed, FUDGE 10th Anniversary Edition, EZD6, Mini Six, Deathbringer, and Atomic D20.
+Atomic D6 takes its inspiration from too many sources and individuals to name, including, but not limited to: FATE Condensed, FUDGE 10th Anniversary Edition, EZD6, Mini Six, Deathbringer, Kingdom, Microscope, and Atomic D20.
 
 ---
 
