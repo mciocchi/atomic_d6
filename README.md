@@ -236,11 +236,15 @@ By the end of the first few sessions, every player will have a fully fleshed-out
 
 Characters in Atomic D6 get broader and taller. As they progress through the story, characters acquire new Aspects, and some of their old Aspects may be superseded and replaced.
 
-As time passes, GM may decide that characters "level up," which represents their skills increasing over time. As characters level up, things that used to be difficult become trivial.
+As time passes, GM may decide that characters "level up," which represents their abilities increasing over time. As characters level up, things that used to be difficult become trivial.
 
-Some feats and knowledge that may be difficult or impossible to achieve in a medieval setting might become trivial in a modern setting.
+Some feats and knowledge that may be difficult or impossible to achieve in a medieval setting might become trivial in modern or science fiction settings.
 
-It is recommended that the GM limit the number of Aspects a player can have to about 10, and certainly not more than 15, otherwise they risk slowing down the game.
+## The number of permanent Aspects a player can have is limited.
+
+The GM should not allow players more than about 10 permanent Aspects at a time, otherwise they risk slowing down the game.
+
+If players have too many Aspects, they should work with the GM to throw out one at a time until they have the right number. Detrimental Aspects cannot be removed in this way except with permission from the GM.
 
 ## **Scaling System for Atomic D6 Abilities**
 
@@ -263,13 +267,13 @@ Each level represents a **significant increase in power**, ranging from **everyd
 
 ### **3 - Master (Exceptional Ability)**
 
-- The **peak of human skill** in a given area, possessed by **one in a million**.
-- Example: Performing brain surgery, leading a major army, forging legendary weapons.
+- The level of skill possessed by about one in a million people.
+- Example: Performing brain surgery, leading an army, forging legendary weapons.
 
 ### **4 - Olympian (Pinnacle of Human Ability)**
 
-- The highest **human** level of skill, with **only one person per country** reaching this tier.
-- Example: Winning a world war single-handedly, creating a flawless AI system.
+- The highest **human** level of skill, with **only about one person per country** reaching this tier.
+- Example: Commanding multiple armies to win a world war single-handedly, creating a flawless AI system.
 
 ### **5 - Demigod (Superhuman Abilities)**
 
