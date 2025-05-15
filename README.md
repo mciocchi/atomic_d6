@@ -379,7 +379,7 @@ In certain situations where many rolls are happening back to back, the GM may ca
 
 Some groups don't like the randomness that the Atomic D6 adds to the game. Others might want to substitute their own GM Oracle. In that case, they may choose to play without the Atomic D6.
 
-### Understanding the Atomic D6 in Context with Skill Rolls
+### Understanding the Atomic D6 in Context with Feats
 
 | **Description:** | **Result:**       |
 |------------------|-------------------|
@@ -517,7 +517,7 @@ By default, when it is the players turn to act, they take turns around the table
 
 When a player announces their action, the GM assigns them a number of Skill Dice and tells them to keep the highest or lowest based on the difficulty of what they're attempting to do.
 
-When players attack an NPC, the GM should take these factors into consideration when setting the difficulty of the Skill Roll:
+When resolving attacks, the GM should take these factors into consideration when setting the difficulty of the Feat:
 
 - Range of the target
 - Armor
