@@ -753,7 +753,7 @@ Magic in *Atomic D6* is a **freeform, narrative-driven system.** Casters are all
 ## **Casting a Spell**
 
 1. **Declare the Spell Effect** – The player describes the spell they want to cast.
-2. **GM Consults [Ability Examples by Discipline](#Ability-Examples-by-Discipline)** And determines difficulty based on power, range, situation, and opponent's ability to resist.
+2. **GM Consults [Example Feats by Discipline](#Example-Feats-by-Discipline)** And determines difficulty based on power, range, situation, and opponent's ability to resist.
 3. **Roll Feat Dice** – The caster adds their relevant Aspects (e.g., **Pyromancy 3D6, Keep Highest**).
 4. **Roll the Atomic D6** – Determines if a **Boon** or **Bane** applies.
 5. **Resolve Effect**
