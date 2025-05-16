@@ -28,7 +28,7 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 
 [Character Progression](#Character-Progression)
 
-[Rolls](#Rolls)
+[Feats](#Feats)
 
 [Contests](#Contests)
 
@@ -307,14 +307,15 @@ Each level represents a **significant increase in power**, ranging from **everyd
 
 ---
 
-# Rolls
+# Feats
+
 Whenever players attempt to do something, the GM decides their chance of success, from *Awful* to *Superb*, and grants them a number of D6. Players also roll the *Atomic D6*, which determines if they receive a Boon or a Bane.
 
-If the roll is considered trivial or impossible, a roll is usually not needed unless the GM explicitly calls for it.
+If the Feat is considered trivial or impossible, a roll is usually not needed unless the GM explicitly calls for it.
 
 ## Feats Scale Infinitely
 
-Rolls are always relative. Depending upon the scope and scale of the story, a roll might be used to represent the outcome of a fistfight between two peasants or two Elder Gods colliding, their contrary realities radiating eldritch energies incomprehensible to man as they attempt to annihilate one another. In either one of these cases, the opponents are roughly equivalent, so the GM rules that the characters only need to roll 1D6 to determine the outcome of the situation.
+Feat Rolls are always relative. Depending upon the scope and scale of the story, a roll might be used to represent the outcome of a fistfight between two peasants or two Elder Gods colliding, their contrary realities radiating eldritch energies incomprehensible to man as they attempt to annihilate one another. In either one of these cases, the opponents are roughly equivalent, so the GM rules that the characters only need to roll 1D6 to determine the outcome of the situation.
 
 That's the power of the Atomic D6 Narrative Dice System: relative rolls allow the game to scale infinitely without requiring more calculation.
 
@@ -325,44 +326,64 @@ That's the power of the Atomic D6 Narrative Dice System: relative rolls allow th
 | 4-6    | Success     |
 | 1-3    | Failure     |
 
-| **Difficulty:**   | **Die to Roll:** | **Bonus:** | **Level Difference:**     | **% Success:** |
-|:------------------|:-----------------|:-----------|:--------------------------|:---------------|
-| Trivial           | Don't roll       | +5         | More than 2 levels lower  | > 91           |
-| Superb            | 5D6 Keep Highest | +4         | 2 levels lower            | 91             |
-| Excellent         | 4D6 Keep Highest | +3         |                           | 87             |
-| Great             | 3D6 Keep Highest | +2         | 1 level lower             | 74             |
-| Good              | 2D6 Keep Highest | +1         |                           | 58             |
-| Middling          | 1D6              | +0         | Equivalent                | 50             |
-| Poor              | 2D6 Keep Lowest  | -1         |                           | 42             |
-| Bad               | 3D6 Keep Lowest  | -2         | 1 level higher            | 26             |
-| Awful             | 4D6 Keep Lowest  | -3         |                           | 13             |
-| Terrible          | 5D6 Keep Lowest  | -4         | 2 levels higher           | 9              |
-| Nearly Impossible | Don't roll       | -5         | More than 2 levels higher | < 9            |
+| **Chance of Success:** | **Die to Roll:** | **Bonus:** | **Level Difference:**     | **% Success:** |
+|:-----------------------|:-----------------|:-----------|:--------------------------|:---------------|
+| Trivial                | Don't roll       | +5         | More than 2 levels lower  | > 91           |
+| Superb                 | 5D6 Keep Highest | +4         | 2 levels lower            | 91             |
+| Excellent              | 4D6 Keep Highest | +3         |                           | 87             |
+| Great                  | 3D6 Keep Highest | +2         | 1 level lower             | 74             |
+| Good                   | 2D6 Keep Highest | +1         |                           | 58             |
+| Middling               | 1D6              | +0         | Equivalent                | 50             |
+| Poor                   | 2D6 Keep Lowest  | -1         |                           | 42             |
+| Bad                    | 3D6 Keep Lowest  | -2         | 1 level higher            | 26             |
+| Awful                  | 4D6 Keep Lowest  | -3         |                           | 13             |
+| Terrible               | 5D6 Keep Lowest  | -4         | 2 levels higher           | 9              |
+| Nearly Impossible      | Don't roll       | -5         | More than 2 levels higher | < 9            |
 
 ### Variant Rule: Atomic D20
 
-Some people can't imagine playing Tabletop RPGs without rolling a D20. These players may use the following table to play the game with a D20 instead of 5D6.
+Some people can't imagine playing Tabletop RPGs without rolling a D20. This rule variant exists for them.
 
- Result | Description |
-|--------|-------------|
-| 11-20  | Success     |
-| 1-10   | Failure     |
+If a character has at least one relevant Aspect, they may add their Level Modifier to their Feat Roll.
 
-| **Difficulty:**   | **Die to Roll:** | **Bonus:** | **Level Difference:**     | **% Success:** |
-|:------------------|:-----------------|:-----------|:--------------------------|:---------------|
-| Trivial           | Don't roll       | +5         | More than 2 levels lower  | > 90           |
-| Superb            | 1D20+8           | +4         | 2 levels lower            | 90             |
-| Excellent         | 1D20+6           | +3         |                           | 80             |
-| Great             | 1D20+4           | +2         | 1 level lower             | 70             |
-| Good              | 1D20+2           | +1         |                           | 60             |
-| Middling          | 1D20+0           | +0         | Equivalent                | 50             |
-| Poor              | 1D20-2           | -1         |                           | 40             |
-| Bad               | 1D20-4           | -2         | 1 level higher            | 30             |
-| Awful             | 1D20-6           | -3         |                           | 20             |
-| Terrible          | 1D20-8           | -4         | 2 levels higher           | 10             |
-| Nearly Impossible | Don't roll       | -5         | More than 2 levels higher | < 10           |
+For each additional relevant Aspect that the character has, they receive a Bonus (+2).
+
+For each Malus counting against them, a character receives -2.
+
+A character's "Feat Modifier" is equivalent to their Level Modifier plus any Bonuses or Maluses that apply.
+
+The difficulty of defending against an enemy attack is equivalent to the enemy's Feat Modifier.
+
+| Level:       | Level Modifier: |
+|--------------|-----------------|
+| Elder Deity  | +40             |
+| Deity        | +36             |
+| Lesser Diety | +32             |
+| Seraph       | +28             |
+| Titan        | +24             |
+| Demigod      | +20             |
+| Olympian     | +16             |
+| Master       | +12             |
+| Journeyman   | +8              |
+| Apprentice   | +4              |
+| Untrained    | +0              |
+
+| Approximate Difficulty of a Feat: | Target Roll: |
+|-----------------------------------|--------------|
+| Elder Deity                       | >50          |
+| Deity                             | >46          |
+| Lesser Diety                      | >42          |
+| Seraph                            | >38          |
+| Titan                             | >34          |
+| Demigod                           | >30          |
+| Olympian                          | >26          |
+| Master                            | >22          |
+| Journeyman                        | >18          |
+| Apprentice                        | >14          |
+| Untrained                         | >10          |
 
 ## The Atomic D6
+
 | **Roll:** | **Description:** |
 |-----------|------------------|
 | 5-6       | Boon             |
