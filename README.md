@@ -246,7 +246,7 @@ The GM should not allow players more than about 10 permanent Aspects at a time, 
 
 If players have too many Aspects, they should work with the GM to throw out one at a time until they have the right number. Detrimental Aspects cannot be removed in this way except with permission from the GM.
 
-## **Scaling System for Atomic D6 Abilities**
+## **Level Scaling for Atomic D6 Feats**
 
 Each level represents a **significant increase in power**, ranging from **everyday minor abilities** to **reality-shaping cosmic feats.**
 
@@ -272,8 +272,11 @@ Each level represents a **significant increase in power**, ranging from **everyd
 
 ### **4 - Olympian (Pinnacle of Human Ability)**
 
-- The highest **human** level of skill, with **only about one person per country** reaching this tier.
-- Example: Commanding multiple armies to win a world war single-handedly, creating a flawless AI system.
+The highest **human** level of skill, with only about one person per six hundred thousand reaching this tier. Odds of meeting someone at an Olympian level of skill are about the same as rolling 10D6 and receiving ten sixes.
+
+For example:
+- Performing brain surgery in the back of a truck taking evasive action through a combat zone.
+- Commanding multiple armies to win a world war single-handedly, creating a flawless AI system.
 
 ### **5 - Demigod (Superhuman Abilities)**
 
@@ -390,7 +393,7 @@ The difficulty of defending against an enemy attack is equivalent to the enemy's
 | 3-4       | Nothing          |
 | 1-2       | Bane             |
 
-Whilst Feat Dice represent a character's ability, the Atomic D6 represents the narrative forces of chaos and fate, and everything outside of their control.
+Whilst Feat Dice represent a character's ability to perform a Feat, the Atomic D6 represents the narrative forces of chaos and fate, and everything outside of their control.
 
 Narrative [Beats](#Time) that occur as a result of Boons and Banes do not necessarily have to relate to the feat the character was attempting. Sometimes fortune comes out of left field.
 
