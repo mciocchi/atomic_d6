@@ -27,6 +27,13 @@ Rules at a Glance
 - If the Feat is only tangentially related to your Concept, roll Half Bonus dice (Concept ÷ 2, rounded up).
 - This rewards partial relevance without giving the full weight of Concept.
 
+## Small Bonuses
++.1 = a pip. Player can turn a 3 into a 4, granting a greater range of success on one die.
+
+If players ever have +.3 pips, it is converted to a full dice (+1)
+
+If players have a Bonus of a dice and a pip, it is written +1.1
+
 ## Passive Bonus (Trivial Successes)
 - To reduce unnecessary rolling, the GM may ask you to convert your Half Bonus into automatic successes.
 - Example: Concept 4 / 2 rounded up = 2 automatic successes without rolling (Passive Bonus).
@@ -559,14 +566,19 @@ Solo play provides a way for players to explore narratives at their own pace, ex
 
 ---
 
-# Domains
-## Overview
+Domains
+==========
+Overview
+----------
 At higher levels of play, characters might gain control over Domains—kingdoms, factions, corporations, or empires. This system allows players to engage in large-scale politics, warfare, economics, and diplomacy while preserving Atomic D6's streamlined mechanics.
 
 Each Domain has a Level (0-10), Aspects, and Holdings that define its strengths and weaknesses. Domain actions are taken in Domain Turns, which typically represent one season (3 months), one month, or one cycle depending on the setting.
 
+Domain Feats are useful in order to determine how large events unfold in the background of the game, and between sequences. For instance: to determine whether an invasion succeeds, the attacker and defender can roll a single opposed check.
+
 ---
-## Gaining Control of a Domain
+Gaining Control of a Domain
+--------------------------------
 Characters may assume control over a Domain in various ways, depending on the game's narrative and setting. Here are some common paths to Domain leadership:
 
 ### 1. Inheritance & Bloodlines
@@ -604,23 +616,25 @@ Characters may assume control over a Domain in various ways, depending on the ga
 Gaining control over a Domain often comes with challenges, including rival factions, internal instability, and external threats. Players must navigate these obstacles to maintain and expand their rule.
 
 ---
-## Regents, Ministers, and Managers
+Regents, Ministers, and Managers
+--------------------------------------
 Leaders that wish to go out on adventures must leave someone in charge of their Domain. It goes without saying that this requires a great deal of trust.
 
 During each Domain Turn, leaders may issue standing orders to their Ministers, who will (usually) execute them to the best of their ability.
 
 If leaders are out of communication, their Ministers will follow standing orders and do their best to react to situations as they arise.
 
-## Gaining Aspects from Domains
+Gaining Aspects from Domains
+---------------------------------
 When a character is part of a Domain (such as a Faction, Kingdom, or Guild), they can gain an Aspect that represents their role, rank, and influence within that Domain.
 
 These Aspects change how people react to the character. They might grant Bonuses or Maluses in relevant situations, and they might allow characters access to new resources.
 
-| Aspect Example                    | Bonus                                     | Malus                                       |
-|-----------------------------------|-------------------------------------------|---------------------------------------------|
-| "Knight of the Sun Court"         | +1 when negotiating with nobility         | -1 when dealing with criminal organizations |
-| "Member of the Alchemist’s Guild" | +1 to crafting potions                    | -1 when bartering outside the guild         |
-| "Crimson Blades Enforcer"         | +1 to intimidation in mercenary contracts | -1 when dealing with nobility               |
+| Aspect Example                    | Bonus                                  | Malus                                    |
+|-----------------------------------|----------------------------------------|------------------------------------------|
+| "Knight of the Sun Court"         | when negotiating with nobility         | when dealing with criminal organizations |
+| "Member of the Alchemist’s Guild" | to crafting potions                    | when bartering outside the guild         |
+| "Crimson Blades Enforcer"         | to intimidation in mercenary contracts | when dealing with nobility               |
 
 ### Changing Domain Aspects
 - Promotion or Demotion: Characters may gain or lose ranks within a Domain, altering their Aspects.
@@ -644,63 +658,104 @@ A Domain's Level represents the scope of its influence.
 | +20      | Interstellar   | An interstellar republic, a galactic megacorp |
 | +26      | Galactic       | A civilization spanning multiple galaxies     |
 
----
+Domain Turns
+--------------
+Domain Turns happen in-between Sequences, when characters have downtime.
 
-## Domain Turns
-
-Domain Turns happen in-between sessions, when characters have downtime.
-
-The GM may also run any number of Domain Turns before starting a Narrative, as a world building exercise.
-
-1. Players declare their Domain Actions.
-2. GM sets difficulty based on scale and opposition.
+1. Players declare Domain Feats.
+2. GM sets difficulty
 3. Players roll Feat Dice Domain + Atomic D6 for the entire Domain.
 4. Outcomes are resolved, GM calls for Players to roleplay scenes if necessary.
 5. GM Rolls to determine random Domain Events
 
----
-## Domain Actions
-Because the rules of Atomic D6 can scale infinitely, Domain Actions are resolved by the same mechanics as individual actions. Domains can attempt Feats and Contests just like an individual or small group can.
+Domain Feats vs. Individual Feats
+---------------------------------------
+In Atomic D6, characters can issue orders to the other members of their organization. Giving orders is a feat of communication in and of itself. After the regent, minister, or manager of the domain receives the orders, they (usually) execute them to the best of their ability.
 
-- For each level the acting Domain is higher, it gains +2.
-- For each level the acting Domain is lower, it suffers -2.
-- If a Domain has a beneficial Aspect relating to the roll, they gain +1
-- Detrimental Aspects grant -1
+When the orders get passed down, the underlings of the Domain execute them. This second Feat is called a Domain Feat. In order to determine the success or failure of a Domain Feat, the players or DM use the same logic that applies to Atomic D6 characters: If the Feat is relevant to the Concept of the Domain, they may apply their Concept Bonus to the roll.
 
-Domains can take actions in key areas:
+Domain Feats by Approximate Level
+---------------------------------------
+#### +0 Powerless (Failed / Scattered Band)
 
-### 1. Political Actions
-- Enact a Law (Change policies, taxation, criminal justice)
-- Suppress or Support a Faction (Control nobles, guilds, or rebels)
-- Stabilize the Realm (Quell unrest, inspire loyalty)
-- Espionage (Sabotage enemies, steal secrets)
+Feats are unreliable or impossible. The collective lacks organization and cannot act meaningfully at scale.
 
-### 2. Diplomatic Actions
-- Form or Break Alliances (Forge treaties, betray factions)
-- Negotiate Trade Deals (Improve economy, secure rare goods)
-- Influence Foreign Powers (Sway rivals, back rebels)
-- Declare War or Peace (Shift strategic focus)
+- Struggle to provide food and shelter.
+- Vulnerable to outside threats without coordination.
+- Cannot build or defend infrastructure reliably.
+- Survival depends on luck or outside aid.
 
-### 3. Economic Actions
-- Expand Industry & Trade (Create infrastructure, boost commerce)
-- Extract Resources (Mine, tax, harvest resources)
-- Invest in Projects (Build fortresses, establish academies)
-- Control Key Trade Hubs (Seize ports, set tariffs)
+#### +2 Village
 
-### 4. Military Actions
-- Raise or Disband Armies (Recruit or dissolve military forces)
-- Launch an Invasion (Seize new territory)
-- Defend a Territory (Fortify and prepare for war)
-- Train or Reform the Army (Improve strategy and discipline)
+Feats are simple, functional collective efforts. They work reliably in straightforward conditions but break down under large-scale stress.
 
-### 5. Cultural & Religious Actions
-- Promote or Suppress Religion (Expand or persecute faiths)
-- Patronize the Arts (Shape cultural identity)
-- Shape Education & Knowledge (Advance science, philosophy, or magic)
-- Control or Defy Prophecies (Manipulate myths and legends)
+- Feed and shelter a small population.
+- Defend against bandits or wild beasts.
+- Build basic fortifications (palisades, watchtowers).
+- Craft weapons and tools for survival.
+- Organize hunting, farming, or herding at subsistence levels.
 
----
-## Example Domain Sheet
+#### +4 City-State
+
+Feats are established and dependable. They represent an organized society capable of coordinating people and resources.
+
+- Maintain trade routes and regional roads.
+- Field professional militias or small armies.
+- Establish marketplaces and cultural centers.
+- Build ships, mines, or workshops at scale.
+- Withstand sieges or regional disasters.
+
+#### +6 Kingdom
+
+Feats are extraordinary at the scale of nations. They push beyond ordinary limits and display creativity, versatility, and control.
+
+- Wage wars across borders.
+- Establish cities, universities, and guilds.
+- Shape culture, laws, and religious movements.
+- Build wonders of the world (cathedrals, castles, colossal statues).
+- Develop bureaucracies to manage large populations.
+
+#### +9 Empire
+
+Feats are mythic acts of mastery at the civilizational scale. They bend probability and momentum in favor of an entire people.
+
+- Conquer and integrate diverse cultures.
+- Control trade and communication across continents.
+- Build vast navies or armies with near-limitless reach.
+- Shape religions or ideologies to unify millions.
+- Construct early megastructures (Great Walls, sprawling aqueduct systems).
+
+#### +14 Planet
+
+Feats are world-shaping acts. They alter environments, ecosystems, and societies permanently.
+
+- Terraform regions to suit needs.
+- Mobilize billions for planetary projects.
+- Establish orbital defenses and interplanetary reach.
+- Harness planetary-scale energy sources (fusion grids, massive reactors).
+- Build structures visible from space (orbital elevators, supercities).
+
+#### +20 Interstellar
+
+Feats extend across solar systems. They overwhelm barriers that would stop any lesser collective.
+
+- Colonize multiple star systems.
+- Build fleets capable of interstellar dominance.
+- Harvest stars for energy (Dyson swarms).
+- Coordinate economies spanning light-years.
+- Rewrite stellar cartography through exploration and conquest.
+
+#### +26 Galactic
+
+Feats are reality-defining at the largest civilizational scale. They reshape existence for all under their control.
+
+- Dictate galactic trade, law, or culture.
+- Build megastructures around entire stars.
+- Re-engineer galactic phenomena (wormholes, black holes).
+- Manipulate entire species’ evolution across millennia.
+- Rewrite history or culture at a galactic scale.
+
+### Example Domain Sheet
 
 Just like Characters, domains get a sheet that lists their Aspects and Inventory, known as Holdings.
 
