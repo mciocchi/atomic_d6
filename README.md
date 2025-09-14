@@ -28,11 +28,15 @@ Rules at a Glance
 - This rewards partial relevance without giving the full weight of Concept.
 
 ## Small Bonuses
-+.1 = a pip. Player can turn a 3 into a 4, granting a greater range of success on one die.
++.1 = a pip that allows a player to turn a 3 into a 4, granting a greater range of success on one die.
 
-If players ever have +.3 pips, it is converted to a full dice (+1)
+If players ever have +.3 pips, it is converted to a Bonus of a full dice (+1)
 
 If players have a Bonus of a dice and a pip, it is written +1.1
+
+The GM can grant Small Bonuses in situations to represent minor advantages.
+
+For instance: a blade freshly sharpened by an expert blacksmith might grant +.2 to attacks.
 
 ## Passive Bonus (Trivial Successes)
 - To reduce unnecessary rolling, the GM may ask you to convert your Half Bonus into automatic successes.
@@ -107,9 +111,6 @@ Wise, with keen senses, but physically frail.
 ### Unyielding Will
 Kaelion refuses to falter, pushing through pain, exhaustion, and even magical influence. His sheer determination grants him resistance against mind-affecting effects and allows him to keep fighting even when gravely wounded. However, his unwillingness to retreat, stubbornness in diplomacy, and disregard for limits can lead to unnecessary risks, conflicts, or self-destruction. His allies may rely on him too much, and his refusal to yield may cost him dearly when caution is called for.
 
-### Guilt
-Kaelion blames himself for failing to recognize the coup that saw his family killed and himself thrust into exile. He struggles to trust people and sometimes second guesses his actions.
-
 ### Loyal to his younger Sister
 The last surviving member of his family.
 
@@ -143,6 +144,8 @@ Aspects
 Aspects are parts of a Character Concept. If the Aspect ceases to be true, or if the Character Concept no longer has it, it is removed from their sheet.
 
 An Aspect can provide Bonuses in some situations and Maluses in others.
+
+Characters are allowed no more than three Aspects at creation time, but the GM may add additional Aspects to them later on.
 
 Stamina
 --------
@@ -245,7 +248,7 @@ In these cases, the GM may rule that the character receives a Bonus of half thei
 
 ### Minimum Defensive Bonus
 
-Characters are granted a Half-Bonus at minimum when defending.
+Characters are granted a one-third-Bonus at minimum when defending.
 
 ### Feat Dice
 
@@ -310,6 +313,20 @@ Common Defensive Feats:
 GMs assign an appropriate Feat Level to the chosen defense and apply it to the attacker’s calculation.
 
 ---
+
+### Adding Feats to the Character Sheet
+
+Characters in Atomic D6 are allowed to attempt any Feat, not just those written down on their character sheet.
+
+The Feat list is meant as a quick reference for the GM and the players, so that they don't have to keep pausing the game to make rulings to ascertain how many dice to roll.
+
+For instance: After fighting bandits, Kaelion captures one alive, and he wants to question the prisoner to determine the location of their hideout.
+
+The GM rules that this is a new Feat called "Interrogation" and grants him a Half Bonus under the rationale that a Prince would have prior experience questioning subordinates and sorting out truth from lies.
+
+Kaelion adds Interrogation to his list of Feats, with a Half Bonus. This way he doesn't have to wait for a GM ruling every time he uses this Feat in the future.
+
+There is no limit on the number of Feats that can be added to the Character Sheet this way.
 
 Example Feats by Approximate Character Level
 ----------------------------------------------------
@@ -907,40 +924,58 @@ After that, players will need to work with the GM to determine their starting le
 
 # Blank Character Sheet
 ```
-{Name} ({Level of Character Concept})
-========
-Stamina:    Wounds:
-[ ]         ♡
-[ ]         ♡
-[ ]         ♡
+{{ Name }} ({{ Concept Bonus }})
+========================================
+
+| Stamina: | Wounds ------------------------------------------------------------ |
+|:--------:|:--------------------------------------------------------------------|
+|   [ ]    | ♡                                                                   |
+|   [ ]    | ♡                                                                   |
+|   [ ]    | ♡                                                                   |
+|   ---    | 💀                                                                  |
 
 Feats
---------
-Block: ..... {Formula for Block}
-Conceal: ... {Formula for Conceal}
-Dodge: ..... {Formula for Dodge}
-Endure: .... {Formula for Endure}
-Notice: .... {Formula for Notice}
-Parry: ..... {Formula for Parry}
-Resolve: ... {Formula for Resolve}
+----------------------------------------
 
-{Add additional Feats here as needed}
+| Feat:       | Bonus: | Relevant Aspect: -------------------------------------- |
+|-------------|:-------|---------------------------------------------------------|
+| Notice      |        |                                                         |
+| Resolve     |        |                                                         |
+| Endure      |        |                                                         |
+| Parry       |        |                                                         |
+| Block       |        |                                                         |
+| Conceal     |        |                                                         |
+| Dodge       |        |                                                         |
+| Interrogate |        |                                                         |
+| Shoot       |        |                                                         |
+| Melee       |        |                                                         |
+|             |        |                                                         |
+|             |        |                                                         |
+|             |        |                                                         |
 
-{Concept} ({Level of Character Concept})
---------
-{Description of Character Concept}
+{{ Character Concept }} ({{ Concept Bonus }})
+----------------------------------------
 
-{Aspect} ({Level of Aspect})
---------
-{Description of Aspect}
+### {{ Aspect 1 }}
 
-{Add additional Aspects here as needed}
+{{ Description of Aspect 1 }}
+
+### {{ Aspect 2 }}
+
+{{ Description of Aspect 1 }}
+
+### {{ Aspect 3 }}
+
+{{ Description of Aspect 1 }}
 
 Inventory
---------
-- {Description and Quantity of Item}
+-----------------------------------------
 
-{Add additional items here as needed}
+##### {{ Item 1 }}
+##### {{ Item 2 }}
+##### {{ Item 3 }}
+
+---
 
 ```
 
@@ -948,11 +983,32 @@ Inventory
 
 # Blank Domain Sheet
 ```
-# {Name} ({Level of Domain Concept})
-## Concept:
-## Holdings:
-## Goals & Challenges:
-## Factions & Power Struggles:
+{{ Name }} ({{ Concept Bonus }})
+=========================================
+{{ Concept }}
+-----------------------------------------
+
+### {{ Aspect 1 }}
+
+{{ Description of Aspect 1 }}
+
+### {{ Aspect 2 }}
+
+{{ Description of Aspect 2 }}
+
+### {{ Aspect 3 }}
+
+{{ Description of Aspect 3 }}
+
+Holdings
+-----------------------------------------
+
+#### {{ Holding 1 }}
+#### {{ Holding 2 }}
+#### {{ Holding 3 }}
+
+---
+
 ```
 # Example Concepts
 ## **Mortal Concepts**
