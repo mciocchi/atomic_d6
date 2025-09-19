@@ -77,6 +77,51 @@ There are only three numbers that characters need to remember:
 | Not related and subject to a Malus           | 1/3 Concept Bonus rounded Down |
 
 
+## Magic
+
+### Spellcasting Aspects
+Characters require at least one Spellcasting Aspect in order to cast spells.
+
+Every Spellcasting Aspect must be tied to a school of magic, which defines the limits of their abilities.
+
+- A school of magic may come from the Domain of a Divine Patron (such as a God or Goddess) or from the study of a magical discipline (such as Pyromancy, Necromancy, or Illusion).
+
+### Casting a Spell
+1. Declare Intent: The player announces that their character is attempting to cast a spell.
+2. Describe the Spell: The player describes the effect in narrative terms.
+3. GM Sets Difficulty: The GM determines the base difficulty for the spell.
+   - Players are encouraged to keep a book of frequently used spells with their base difficulty written down.
+   - The GM may modify the base difficulty depending upon situational Aspects or special defenses (e.g., target armor, magical wards).
+4. Roll Feat Dice + Atomic D6:
+   - Roll as if casting were a Feat, applying the Spellcasting Aspect.
+   - The Atomic D6 may generate special consequences.
+   - Passive scores may not be used when casting spells: players must roll every time.
+
+### Outcomes
+- Success: The spell is cast as intended.
+- Failure: The spell fizzles and does not manifest.
+- Boon (Atomic D6): The spell is unexpectedly more powerful or produces a beneficial side effect.
+  - Spells that are unexpectedly more powerful may also be dangerous to the player and their allies!
+- Bane (Atomic D6): The caster takes a hit from magical strain, regardless of success or failure. This may represent backlash, fatigue, or psychic stress.
+
+### Eldritch Burden:
+
+Characters may concentrate to maintain a conjured magical effect for longer than a Beat.
+
+Concentrating in this way requires characters to channel powerful eldritch energies with visible effects. For instance: a pyromancer straining to maintain a spell might sprout magical flames from their eyes that grow higher depending on how much strain they have incurred.
+
+### Death by Magical Strain
+
+If characters die by Magical Strain, powerful Eldritch energies are released. For instance: a pyromancer might explode in a violent fireball.
+
+### Paradox
+Magic is bound by the rules of the world. Characters who attempt to repeatedly bend or break those rules strain the fabric of reality itself.
+- Such transgressions cause Paradox, making subsequent castings of the same world-breaking spell increasingly difficult.
+- The GM escalates the difficulty each time a Paradox-causing spell is attempted.
+- Paradox represents reality “pushing back” against the caster, and can have narrative as well as mechanical consequences.
+
+---
+
 Example Character Sheet
 ===============================
 ```
