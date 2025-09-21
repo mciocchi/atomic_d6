@@ -705,7 +705,8 @@ These Aspects change how people react to the character. They might grant Bonuses
 
 By treating Domains as living, evolving entities, these Aspects help shape how characters interact with the world and how the world reacts to them.
 
-## Domain Levels
+Progression of Domains
+--------------------------
 A Domain's Level represents the scope of its influence.
 
 | Modifier | Scope of Power | Examples                                      |
