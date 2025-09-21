@@ -15,67 +15,111 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 Rules at a Glance
 ========================
 
-## Concept Bonus & Feats
-- Roll a number of Atomic Dice (`[0,0,0,1,1,2]`) equal to your Concept Bonus when attempting a Feat that directly relates to one of your Aspects.
-- Aspects define where your Concept applies. If the Feat matches an Aspect, you roll your full Concept Bonus.
+## Character Concept
+Character Concept is a special kind of Aspect that encapsulates the core of their persona.
+
+Concept is always accompanied by a number in parenthesis called Concept Bonus, which indicates the scope of the Character's power.
+
+## Feat Dice
+Characters roll a number of Dice equal to their Concept Bonus if attempting a Feat that directly relates to their Aspects.
+
+| Feat Dice Result: | Description:  |
+|-------------------|---------------|
+| 1-3               | Failure       |
+| 4-5               | Success       |
+| 6                 | Two successes |
+
+## Atomic D6
+
+| Atomic D6 Result: | Description:                 |
+|-------------------|------------------------------|
+| 1-2               | Bane: a negative story beat. |
+| 3-4               | Neutral                      |
+| 5-6               | Boon: a positive story beat. |
+
+The Atomic D6 is rolled whenever characters attempt a Feat. It represents narrative circumstances outside of their control that are independent of the success or failure of the Feat.
 
 ## Aspects Expand Concept Bonus
-- Each Aspect is a narrative hook that allows you to apply your Concept Bonus to a Feat.
-- Example: “Swordsman” lets you use Concept dice on combat checks when wielding a Sword, “Diplomacy” lets you use them in negotiations.
+Aspects describe a Character and expand the scope of situations where they can apply their Concept Bonus.
+
+Example: “Swordsman” lets a Character apply Concept Bonus on combat Feats with a Sword. “Diplomacy” lets a Character apply them in negotiations.
 
 ## Half Bonus (Tangential Feats)
-- If the Feat is only tangentially related to your Concept, roll Half Bonus dice (Concept ÷ 2, rounded up).
-- This rewards partial relevance without giving the full weight of Concept.
+If the Feat is only tangentially related to a Character's Aspect, they may roll Concept / 2, rounded up.
 
-## Small Bonuses
-+.1 = a pip that allows a player to turn a 3 into a 4, granting a greater range of success on one die.
+## Maluses
+An Aspect that hinders a character is called a Malus.
 
-If players ever have +.3 pips, it is converted to a Bonus of a full dice (+1)
+Characters subject to a Malus receive only a Half Bonus to Aspects that are affected by the Malus.
 
-If players have a Bonus of a dice and a pip, it is written +1.1
+If the Feat that they are attempting is already tangental and also subject to a Malus, their Bonus is further reduced to 1/3.
 
-The GM can grant Small Bonuses in situations to represent minor advantages.
+For instance: Kaelion's sword arm is slashed in combat with a Brigand. He receives a minor wound. This wound is an Aspect that grants him a Malus to Swordsmanship and anything else that requires the use of that arm.
 
-For instance: a blade freshly sharpened by an expert blacksmith might grant +.2 to attacks.
+## Small Bonuses and Maluses
+The GM can grant Small Bonuses to represent minor advantages.
 
-## Passive Bonus (Trivial Successes)
-- To reduce unnecessary rolling, the GM may ask you to convert your Half Bonus into automatic successes.
-- Example: Concept 4 / 2 rounded up = 2 automatic successes without rolling (Passive Bonus).
+Granting players "a pip" allows them to turn a 3 into a 4, turning a failure into a success in certain situations.
 
-## Defensive Floor
-- To prevent near-automatic failure, all characters have a minimum Defensive Feat value:
-  - Floor = Concept ÷ 3 (rounded down).
-- This floor is applied when a character is forced to use a defense that does not connect to any Aspect.
+A pip can be represented as ".1." For instance, the GM might grant a player with an Aspect Bonus of 3 a Bonus of two pips to represent an expertly sharpened blade, bringing their Swordsmanship Aspect Bonus up to 3.2 when wielding that blade.
+
+If players ever have +.3 pips, they are converted to a Bonus of a full dice (+1**
+
+## Passive Bonus
+To reduce unnecessary rolling, the GM may ask players to convert their Aspect Bonus into an average number of automatic successes.
+
+For example: a Concept Bonus of 4 / 2 rounded up = 2 automatic successes without rolling.
+
+Passive Bonus is also used to determine how difficult it is to hit a character when they are defending.
+
+## Floor for Defensive Feats
+To prevent automatic failure, all characters have a floor for Defensive Feats.
+
+Defensive Floor = Concept / 3 rounded down.
+
+This floor is applied when a character is forced to use a Defensive Feat that does not relate to any of their Aspects.
 
 ## Contests
-- Active vs Active: both sides roll their dice; higher number of successes wins.
-- Active vs Passive: one side rolls; the other uses their Passive Bonus
-- Passive vs Passive: compare Passive Bonuses; higher total wins.
+There are three ways to resolve Feats that involve Characters directly opposing one another:
+
+**Active vs Active:** both sides roll their dice; higher number of successes wins.
+
+**Active vs Passive:** one side rolls; the other uses their Passive Bonus.
+
+**Passive vs Passive:** compare Passive Bonuses; higher total wins.
+
+The GM may choose from these methods to determine how Feats are resolved.
 
 ## Group Feats
-- If the majority of characters succeed, the group succeeds.
-- Group Contests work the same way, with one exception:
-- If a group is too large to roll for each character individually:
-  - the GM may calculate the Average Bonus for each side
-  - Exactly one roll may be made per group using the Average Bonus.
-  - GM can also decide to make the Average Bonus Passive to avoid rolling
-  - GM can add or subtract a Bonus that scales to account for differences in group size:
-    - A small group may receive +2 for Stealth, and -2 in combat against a larger group.
-    - If the groups are vastly outmatched, GM can declare an automatic success or failure
+When two or more characters work together to perform a feat, if the majority succeed, the group succeeds.
+
+To calculate the Passive Bonus for a group, use the average Passive Bonus of all members.
+
+The GM has the option to add or subtract a Bonus that scales to account for differences in group size:
+- A small group may receive +2 for Stealth, and -2 in combat against a larger group.
+- If the groups are vastly outmatched in size, the GM can declare an automatic success or failure
+
+## Domain Feats
+At a certain point, calculating Group Feats begins to become unwieldy, and something more is needed.
+
+Domains represent large groups that perform Feats as a single unit.
+
+Domains have a Concept and Aspects, and they function almost like Characters, but on a much grander scale.
+
+The section on [Domains](#Domains) has more information.
 
 ## Feat Bonuses Summarized:
 
-There are only three numbers that characters need to remember:
+These rules of Atomic D6 may seem overwhelming at first, but there are only three numbers that characters actually need to remember:
 
-| Feat relationship to Character Concept       | Calculation                    |
-|----------------------------------------------|--------------------------------|
-| Directly related                             | Full Concept Bonus             |
-| Directly related but also subject to a Malus | 1/2 Concept Bonus rounded up   |
-| Tangentally related                          | 1/2 Concept Bonus rounded up   |
-| Tangentally related and subject to a Malus   | 1/3 Concept Bonus rounded down |
-| Not related                                  | 1/3 Concept Bonus rounded Down |
-| Not related and subject to a Malus           | 1/3 Concept Bonus rounded Down |
-
+| Feat relationship to Aspect:                 | Calculation (rounded):    |
+|----------------------------------------------|---------------------------|
+| Directly related                             | Full Concept Bonus        |
+| Directly related but also subject to a Malus | 1/2 Concept Bonus rounded |
+| Tangentally related                          | 1/2 Concept Bonus rounded |
+| Tangentally related and subject to a Malus   | 1/3 Concept Bonus rounded |
+| Not related                                  | 1/3 Concept Bonus rounded |
+| Not related and subject to a Malus           | 1/3 Concept Bonus rounded |
 
 ## Magic
 
