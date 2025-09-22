@@ -684,6 +684,44 @@ Flashbacks are not time travel. They can add additional past events, but they ca
 
 ---
 
+Mounts and Vehicles
+==========================
+
+Mounts and Vehicles in Atomic D6 are treated much the same way as characters.
+
+Characters may control a Mount or Vehicle with greater or less ability, depending upon their piloting skill.
+
+If the mount or vehicle has a mind of its own (for instance, a horse, or a spaceship with an AI computer) it is considered a full-fledged character, and it may resist the pilot or decide to ignore their commands and do something else.
+
+The character sheet for a mount or vehicle is nearly identical to a Player's character sheet, with the exception that vehicles have fuel instead of stamina, and they refuel instead of eating.
+
+Damage to vehicles is still expressed via wounds. In this case, Minor Wounds represent cosmetic damage, and Major Wounds represent damage to critical systems.
+
+Fuel is usually not lost when a vehicle takes a hit in the same way that characters lose stamina when they're hit. Rather, fuel is expended by movement, and performing piloting Feats.
+
+Mounts and vehicles that are "alive" do not require a pilot to operate on their own, but when doing so, their ability to attempt Feats may be limited.
+
+Instead of medical care, vehicles must be repaired. The difficulty of the repair job is determined by the severity of the damage, the level of the mechanic, and how technologically advanced the vehicle is.
+
+---
+
+Cybernetics
+===============
+
+Cybernetics are Aspects that are a part of a character's body, and they extend what characters can do.
+
+Just like any other body part, cybernetics can be disabled by wounds.
+
+Repairing a cybernetic implant is a complicated process requiring a Feat of "Cybernetics" performed by a skilled Cybernetician. Electronics experts and medical professionals without training in Cybernetics may attempt to heal an implant, but they receive a Half Bonus because this Feat is tangental to their area of expertise.
+
+Just like any other Feats, Cybernetics consume Stamina, but they also require additional resources that vary depending upon the nature of the augmentation.
+
+Some implants require an external power source. Others require fuel or ammunition. These resources are required for characters to keep their implants functioning.
+
+It is assumed that players are recharging and refueling their cybernetics while eating and drinking. If characters are ever without these resources, they may regain Stamina, but their implants stop functioning.
+
+---
+
 # Playing Multiple Characters
 
 With GM permission, a player may control more than one character simultaneously, such as a wizard and their fighter bodyguard.
