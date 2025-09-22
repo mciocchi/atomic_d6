@@ -246,44 +246,102 @@ If the character has no more Stamina at the time they take damage, they receive 
 
 Wounds
 -------
-Wounds represent damage to a character which can be either physical or mental.
+"It's just a flesh wound." - _Monty Python and the Holy Grail_
 
-When characters take damage and they have no more Stamina to spend, they are required to take a Wound.
+Wounds are Maluses that represent mental or physical damage to a character.
 
-#### Light Wounds
-Scratches, grazes, and bruises.
+When characters take damage, they have to spend a point of Stamina, otherwise they are required to take a Wound.
 
-#### Medium Wounds
-Lacerations, sprains, dislocations, second degree burns, concussions, mild psychological problems.
+Most heroes can sustain two Minor Wounds and one Major Wound. After that, if they get hit again, they begin to die.
 
-#### Heavy Wounds
-Broken bones, amputations, infections, third degree burns, arterial bleeding, brain damage, semi-permanent psychological damage.
+#### Minor Wounds
+
+Mild inconveniences that cause pain, distraction, and social issues. Recoverable within a matter of days. For instance:
+
+- scratches
+- grazes
+- bruises
+- first degree burns
+- the shakes
+- anxiety
+- self-doubt
+
+#### Major Wounds
+
+Major Wounds are serious injuries which may have permanent consequences. They require specialized treatment, and even then, recovery may take weeks or months.
+
+Some examples of Major Wounds are:
+- Lacerations
+- Sprains
+- dislocations
+- second and third degree burns
+- concussions
+- brain damage
+- permanent psychological problems.
+- broken bones
+- amputations
+- arterial bleeding
+
+Characters may annotate their wound with the phrase (in treatment) after they have received aid. After the period of treatment is over, depending upon the quality of care that they received, Major Wounds can eventually be downgraded to a Minor Wound and heal naturally.
+
+Even after healing, Major wounds can leave behind conditions that linger on. After the wound has healed, those conditions are added to a character's list of Aspects.
+
+#### Conditions
+
+Conditions can include:
+- Knocked prone
+- Unconscious
+- Illness
+- Starvation
+- Thirst
+- Poisoning
+- Weakness
+- Magical Curses
+- Paralysis
+- Amputation
+
+These are added to Character's lists of Aspects while they are in effect.
+
+#### Getting knocked out of the fight
+
+Suffering the Death of a character or a permanent debilitating injury is not fun, but without consequences, player choices become meaningless.
+
+Players should not be forced to play a character that they consider "unplayable."
+
+In this case, they should work with the GM to roll a new character and cycle them into the Narrative. If their character was injured, they might be able to return after taking some downtime receiving treatment.
 
 #### Eating and Drinking
-Characters can recover Stamina naturally by taking 30 minutes of light activity to eat and drink.
 
-The difficulty of recovering Stamina in this way is usually 1, but lower quality rations and rest make it harder. When resting, players must roll once per point of stamina that they are attempting to recover.
+Once every five hours, characters can recover Stamina naturally by taking 30 minutes of light activity to eat and drink.
+
+Recovering Stamina in this way is a Feat with a difficulty of 1, but low quality rations make recovery more difficult.
+
+When eating and drinking, players may roll once per point of stamina that they are attempting to recover.
+
+It is not recommended for GMs to allow players to add their Concept Bonus to Feats of healing and Stamina recovery.
 
 #### Sleeping
 Wounds have a chance to heal naturally after characters have slept for eight hours.
 
-Upon waking, characters roll once per Wound in order to determine if they have healed.
+Recovering from a Minor Wound by sleeping is a Feat with a difficulty of 2.
 
-Depending upon the severity of the wound and the quality of the character's sleep, they can be easier or harder to heal.
+Upon waking, characters may roll once per Wound in order to determine if they have healed.
 
 Certain species like robots do not eat, sleep, or drink, but they do require maintenance, and they have their own rules around stamina recovery.
 
 Death
 ------
+"It is not death a man should fear, but rather, never beginning to live" - *Marcus Aurelius*
+
 When a character takes damage and all of their Stamina and Wounds have already been consumed, they begin to die, and they may choose how to spend their last breaths:
 
 #### Inspiring last words
 
-You are mortally wounded, but your death need not be in vain. You use your last burst of energy to utter rousing last words which grant all allies within hearing distance a Boon which they may use however they wish within the next ten minutes.
+You are mortally wounded, but your death need not be in vain. You use your last breaths to utter rousing last words which grant all allies within hearing distance a Bonus that they may use within the next Sequence.
 
 #### Adrenaline
 
-You take your last breaths and adrenaline keeps you functioning and grants you a Boon to use however you want. In addition, you take an extra turn right at this moment. At the end of that turn, you die, regardless of any healing you receive.
+You take your last breaths and adrenaline keeps you functioning and grants you a Bonus to use however you want. In addition, you take an extra turn right at this moment. At the end of that turn, you die, regardless of any healing you receive.
 
 #### Critical Condition
 
@@ -291,9 +349,9 @@ You become incapacitated and focus all your energy on staying alive. Roll D6 at 
 
 | D6:  | Result:                                                                      |
 |------|------------------------------------------------------------------------------|
-| 6:   | Against all odds, you regain a point of Stamina and return to consciousness. |
-| 4-5: | Survive for another turn.                                                    |
 | 1-3: | Slip into the abyss and die.                                                 |
+| 4-5: | Survive for another turn.                                                    |
+| 6:   | Against all odds, you regain a point of Stamina and return to consciousness. |
 
 If characters receive prompt medical attention, they may receive Bonuses to these rolls.
 
