@@ -365,6 +365,10 @@ In Atomic D6, Mental Wounds are considered to be just as deadly as physical ones
 
 Character Progression
 -------------------------
+A character's Concept Bonus represents the scope and scale of their power.
+
+When players learn through experience or training, the GM can award them a permanent +1 to their Concept Bonus.
+
 | Character Concept Level: | Aspect Bonus: |
 |--------------------------|---------------|
 | Untrained                | +0            |
@@ -372,9 +376,10 @@ Character Progression
 | Journeyman               | +4            |
 | Master                   | +6            |
 | Olympian                 | +9            |
-| Demigod                  | +10           |
-| Lesser Deity             | +19           |
-| Elder Deity              | +25           |
+|--------------------------|---------------|
+| Demigod                  | +14           |
+| Lesser Deity             | +20           |
+| Elder Deity              | +26           |
 
 ---
 
@@ -722,52 +727,6 @@ It is assumed that players are recharging and refueling their cybernetics while 
 
 ---
 
-# Playing Multiple Characters
-
-With GM permission, a player may control more than one character simultaneously, such as a wizard and their fighter bodyguard.
-
-## **Rules for Multiple Characters:**
-
-- **Distinct Roles:** Each character should have a unique function in the party to prevent redundancy.
-- **Balanced Spotlight:** The GM should ensure that a single player does not dominate the game, allowing all players equal engagement.
-- **Action Economy:** When controlling multiple characters, a player must manage their actions fairly, ensuring each character follows initiative order appropriately.
-- **Character Cohesion:** If playing multiple characters, they should have a reason to work together, whether through bonds, employment, or shared goals.
-- **GM Discretion:** The GM may impose limits, such as preventing players from running more than two characters at once or restricting additional characters to support roles.
-
-This rule allows for more flexible storytelling and party compositions, ensuring each player can contribute to the game in a meaningful way.
-
----
-
-## **Playing an Entire Group**
-In some cases, a single player may control an entire group of characters, such as a mercenary squad, a noble and their retainers, or a wizard and their summoned creatures.
-
-### **Rules for Controlling a Group:**
-- **Group Identity:** The characters should function as a **cohesive unit**, with shared goals and a logical reason to act together.
-- **Streamlined Actions:** To keep gameplay smooth, the player should resolve group actions efficiently, such as rolling for multiple characters simultaneously when appropriate.
-- **Tactical Limitations:** The GM may enforce rules on how many actions a player can take per round to avoid overwhelming the turn structure.
-- **Narrative Balance:** The GM should ensure that a group-controlled player does not overshadow other players.
-- **Resource Management:** Group-controlled players must track **individual stamina, health, and abilities** separately to maintain balance.
-
-This system allows for more diverse storytelling opportunities, especially in campaigns where lone heroes with loyal followers play a central role.
-
----
-
-## **Playing an Entire Domain**
-Players may occasionally gain control over a domain that might be as small as a village or as large as a galaxy. These have their own rules, summarized under the section on [Domain Level Play](#Domain-Level-Play)
-## **Solo Play**
-In some cases, a player may wish to take on the role of both the **player and the GM**, running an entire game by themselves. This allows for personalized storytelling, experimentation, and world-building.
-
-### **Rules for Solo Play:**
-- **Structured Improvisation:** Since the player is also the GM, they should establish loose guidelines and tools (random tables, oracle decks, or AI-assisted prompts) to generate unexpected challenges.
-- **Self-Limiting Mechanics:** To maintain balance, the player should follow standard rules for action economy, combat, and skill checks without favoring their character.
-- **Journaling & Logs:** Keeping a session journal helps track progress, world changes, and character development.
-- **Randomization & Uncertainty:** Using dice rolls or external resources (such as solo RPG engines) can prevent predictable outcomes and keep the game engaging.
-- **Multiple Perspectives:** The player may control different factions, switching viewpoints to create organic conflict and dynamic storytelling.
-
-Solo play provides a way for players to explore narratives at their own pace, experiment with world-building, and refine gameplay mechanics without needing a traditional group setup.
-
----
-
 Domains
 ==========
 Overview
@@ -1108,6 +1067,52 @@ After that, players will need to work with the GM to determine their starting le
 
 ---
 
+# Playing Multiple Characters
+
+With GM permission, a player may control more than one character simultaneously, such as a wizard and their fighter bodyguard.
+
+## **Rules for Multiple Characters:**
+
+- **Distinct Roles:** Each character should have a unique function in the party to prevent redundancy.
+- **Balanced Spotlight:** The GM should ensure that a single player does not dominate the game, allowing all players equal engagement.
+- **Action Economy:** When controlling multiple characters, a player must manage their actions fairly, ensuring each character follows initiative order appropriately.
+- **Character Cohesion:** If playing multiple characters, they should have a reason to work together, whether through bonds, employment, or shared goals.
+- **GM Discretion:** The GM may impose limits, such as preventing players from running more than two characters at once or restricting additional characters to support roles.
+
+This rule allows for more flexible storytelling and party compositions, ensuring each player can contribute to the game in a meaningful way.
+
+---
+
+## **Playing an Entire Group**
+In some cases, a single player may control an entire group of characters, such as a mercenary squad, a noble and their retainers, or a wizard and their summoned creatures.
+
+### **Rules for Controlling a Group:**
+- **Group Identity:** The characters should function as a **cohesive unit**, with shared goals and a logical reason to act together.
+- **Streamlined Actions:** To keep gameplay smooth, the player should resolve group actions efficiently, such as rolling for multiple characters simultaneously when appropriate.
+- **Tactical Limitations:** The GM may enforce rules on how many actions a player can take per round to avoid overwhelming the turn structure.
+- **Narrative Balance:** The GM should ensure that a group-controlled player does not overshadow other players.
+- **Resource Management:** Group-controlled players must track **individual stamina, health, and abilities** separately to maintain balance.
+
+This system allows for more diverse storytelling opportunities, especially in campaigns where lone heroes with loyal followers play a central role.
+
+---
+
+## **Playing an Entire Domain**
+Players may occasionally gain control over a domain that might be as small as a village or as large as a galaxy. These have their own rules, summarized under the section on [Domain Level Play](#Domain-Level-Play)
+## **Solo Play**
+In some cases, a player may wish to take on the role of both the **player and the GM**, running an entire game by themselves. This allows for personalized storytelling, experimentation, and world-building.
+
+### **Rules for Solo Play:**
+- **Structured Improvisation:** Since the player is also the GM, they should establish loose guidelines and tools (random tables, oracle decks, or AI-assisted prompts) to generate unexpected challenges.
+- **Self-Limiting Mechanics:** To maintain balance, the player should follow standard rules for action economy, combat, and skill checks without favoring their character.
+- **Journaling & Logs:** Keeping a session journal helps track progress, world changes, and character development.
+- **Randomization & Uncertainty:** Using dice rolls or external resources (such as solo RPG engines) can prevent predictable outcomes and keep the game engaging.
+- **Multiple Perspectives:** The player may control different factions, switching viewpoints to create organic conflict and dynamic storytelling.
+
+Solo play provides a way for players to explore narratives at their own pace, experiment with world-building, and refine gameplay mechanics without needing a traditional group setup.
+
+---
+
 # Blank Character Sheet
 ```
 {{ Name }} ({{ Concept Bonus }})
@@ -1171,6 +1176,7 @@ Inventory
 ```
 {{ Name }} ({{ Concept Bonus }})
 =========================================
+
 {{ Concept }}
 -----------------------------------------
 
@@ -1185,6 +1191,12 @@ Inventory
 ### {{ Aspect 3 }}
 
 {{ Description of Aspect 3 }}
+
+Prominent Members
+-----------------------------------------
+#### {{ Member 1 }}
+#### {{ Member 2 }}
+#### {{ Member 3 }}
 
 Holdings
 -----------------------------------------
