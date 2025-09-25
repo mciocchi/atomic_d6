@@ -480,10 +480,10 @@ Kaelion adds Interrogation to his list of Feats, with a Half Bonus. This way he 
 
 There is no limit on the number of Feats that can be added to the Character Sheet this way.
 
-Example Feats by Approximate Character Level
+Example Feats by Successes Required
 ----------------------------------------------------
 
-### Untrained (1 Success)
+### Untrained (0 Successes)
 
 Feats are unreliable tricks. They reflect clumsy attempts at technique, often failing under pressure and offering little advantage.
 
@@ -500,7 +500,7 @@ For example:
 - Struggle with complex mechanical or digital systems.
 - Fail to optimize or improve existing technologies.
 
-### Apprentice (2 Successes)
+### Apprentice (1 Success)
 
 Feats are simple, functional skills. They cover basic techniques that work reliably in straightforward situations, but break down when challenged.
 
@@ -518,7 +518,7 @@ For example:
 - Assemble small machines or gadgets with basic functionality.
 - Troubleshoot and optimize low-level code and hardware.
 
-### Journeyman (3 Successes)
+### Journeyman (2 Successes)
 
 Feats are established, dependable abilities. They represent solid training and refined practice, effective in most conditions and adaptable in use.
 
@@ -537,7 +537,7 @@ For example:
 - Reverse-engineer technology to improve efficiency.
 - Design and construct advanced robotic or cybernetic enhancements.
 
-### Master (4 Successes)
+### Master (3 Successes)
 
 Feats are extraordinary displays of control. They push beyond ordinary limits, combining precision, creativity, and versatility to redefine what’s possible.
 
@@ -558,7 +558,7 @@ For example:
 - Develop fully automated industrial systems.
 - Integrate organic and synthetic components seamlessly.
 
-### Olympian (7 Successes)
+### Olympian (5 Successes)
 
 Feats are mythic acts of mastery. They bend probability, momentum, and circumstance in your favor, often producing results that defy logic.
 
@@ -579,7 +579,7 @@ For example:
 - Design smart cities that autonomously regulate themselves.
 
 
-### Demigod (10 Successes)
+### Demigod (7 Successes)
 
 Feats are world-shaping powers. They turn battles, collapse systems, or alter entire environments. Each use has sweeping impact.
 
@@ -599,7 +599,7 @@ For example:
 - Develop self-replicating nanotechnology.
 - Engineer machines capable of independent innovation and adaptation.
 
-### Lesser Deity (14 Successes)
+### Lesser Deity (10 Successes)
 
 Feats are cosmic-scale dominions. They extend across vast distances and dimensions, overwhelming barriers that would stop any lesser technique.
 
@@ -623,7 +623,7 @@ For example:
 - Hack into a national power grid and completely disable it
 - Control global weather patterns with magic rituals
 
-### Elder Deity (18 Successes)
+### Elder Deity (13 Successes)
 
 Feats are reality-defining truths. They no longer operate as techniques but as principles — universal laws that bend existence to your will.
 
@@ -731,11 +731,11 @@ Domains
 ==========
 Overview
 ----------
-At higher levels of play, characters might gain control over Domains—kingdoms, factions, corporations, or empires. This system allows players to engage in large-scale politics, warfare, economics, and diplomacy while preserving Atomic D6's streamlined mechanics.
+At higher levels of play, characters might gain control over Domains: kingdoms, factions, corporations, or empires. This system allows players to engage in large-scale politics, warfare, economics, and diplomacy while preserving Atomic D6's streamlined mechanics.
 
-Each Domain has a Level (0-10), Aspects, and Holdings that define its strengths and weaknesses. Domain actions are taken in Domain Turns, which typically represent one season (3 months), one month, or one cycle depending on the setting.
+Much like Characters, each Domain has a Concept, Aspects, and Holdings that define its strengths and weaknesses. Domain Feats occur in Domain Turns, which typically represent at least one Sequence, and could possibly span months or even years.
 
-Domain Feats are useful in order to determine how large events unfold in the background of the game, and between sequences. For instance: to determine whether an invasion succeeds, the attacker and defender can roll a single opposed check.
+Domain Feats are useful in order to determine how large events unfold in the background of the game, in between the player's actions. For instance: to determine whether an invasion succeeds, the attacker and defender can roll a single contest between Domain Feats.
 
 ---
 Gaining Control of a Domain
@@ -777,6 +777,7 @@ Characters may assume control over a Domain in various ways, depending on the ga
 Gaining control over a Domain often comes with challenges, including rival factions, internal instability, and external threats. Players must navigate these obstacles to maintain and expand their rule.
 
 ---
+
 Regents, Ministers, and Managers
 --------------------------------------
 Leaders that wish to go out on adventures must leave someone in charge of their Domain. It goes without saying that this requires a great deal of trust.
@@ -806,39 +807,41 @@ By treating Domains as living, evolving entities, these Aspects help shape how c
 
 Progression of Domains
 --------------------------
-A Domain's Level represents the scope of its influence.
+A Domain's Concept Bonus represents the scope of its political, social, and cultural influence.
 
-| Modifier | Scope of Power | Examples                                      |
-|----------|----------------|-----------------------------------------------|
-| +0       | Powerless      | A failed kingdom, outlawed cult, exiled noble |
-| +2       | Local          | A village, minor guild, small mercenary band  |
-| +4       | Province       | A large city or province                      |
-| +6       | Kingdom        | A nation, a large faith, a military order     |
-| +9       | Empire         | A realm controlling multiple nations          |
-|----------|----------------|-----------------------------------------------|
-| +14      | Planetary      | A planetary empire, a world religion          |
-| +20      | Interstellar   | An interstellar republic, a galactic megacorp |
-| +26      | Galactic       | A civilization spanning multiple galaxies     |
+| Bonus | Scope of Power | Examples                                                               |
+|-------|----------------|------------------------------------------------------------------------|
+| +0    | Powerless      | Scattered unaffiliated individuals, a failed kingdom, or outlawed cult |
+| +2    | Village        | A locality, minor guild, or small mercenary band                       |
+| +4    | Province       | A large city or province, a city-state                                 |
+| +6    | Kingdom        | A nation, a large faith, a military order                              |
+| +9    | Empire         | A realm controlling multiple nations                                   |
+|-------|----------------|------------------------------------------------------------------------|
+| +14   | Planet         | A planetary empire, a world religion                                   |
+| +20   | Interstellar   | An interstellar republic, a galactic megacorp                          |
+| +26   | Galactic       | A civilization spanning multiple galaxies                              |
 
 Domain Turns
 --------------
-Domain Turns happen in-between Sequences, when characters have downtime.
+Domain Turns happen in-between Sequences of player actions:
 
-1. Players declare Domain Feats.
-2. GM sets difficulty
-3. Players roll Feat Dice Domain + Atomic D6 for the entire Domain.
-4. Outcomes are resolved, GM calls for Players to roleplay scenes if necessary.
-5. GM Rolls to determine random Domain Events
+1. Players issue orders to regents, ministers and managers and narrate what their characters are planning to do while orders are being carried out.
+2. Optionally, the GM may narrate additional scenes that spotlight player actions and choices during the Domain Turn
+3. GM sets difficulty for Domain Feats and determines which Bonuses apply. This difficulty can be influenced by player actions and choices.
+4. One of the players rolls Domain Feat Die, and the Atomic D6
+5. The GM narrates the outcome at a high level and determines how many Character and Domain resources were consumed
 
 Domain Feats vs. Individual Feats
 ---------------------------------------
-In Atomic D6, characters can issue orders to the other members of their organization. Giving orders is a feat of communication in and of itself. After the regent, minister, or manager of the domain receives the orders, they (usually) execute them to the best of their ability.
+Domain Feats require characters to issue orders to the members of their organization. Giving orders is not always easy; it can be a feat of communication and diplomacy in and of itself.
 
-When the orders get passed down, the underlings of the Domain execute them. This second Feat is called a Domain Feat. In order to determine the success or failure of a Domain Feat, the players or DM use the same logic that applies to Atomic D6 characters: If the Feat is relevant to the Concept of the Domain, they may apply their Concept Bonus to the roll.
+After the regent, minister, or manager of the domain receives the orders, they (usually) execute them to the best of their ability. They pass orders to their subordinates, and the Domain Feat is executed.
 
-Domain Feats by Approximate Level
----------------------------------------
-#### +0 Powerless (Failed / Scattered Band)
+Domain Feats are resolved in the same manner as Character Feats, by looking at Domain Aspects to determine relevant Bonuses and Maluses and rolling Feat Die accordingly.
+
+Example Domain Feats by Successes Required
+-------------------------------------------------
+#### Powerless (0 Successes)
 
 Feats are unreliable or impossible. The collective lacks organization and cannot act meaningfully at scale.
 
@@ -847,17 +850,17 @@ Feats are unreliable or impossible. The collective lacks organization and cannot
 - Cannot build or defend infrastructure reliably.
 - Survival depends on luck or outside aid.
 
-#### +2 Village
+#### Village (1 Success)
 
 Feats are simple, functional collective efforts. They work reliably in straightforward conditions but break down under large-scale stress.
 
 - Feed and shelter a small population.
 - Defend against bandits or wild beasts.
 - Build basic fortifications (palisades, watchtowers).
-- Craft weapons and tools for survival.
+- Craft simple weapons and tools for survival.
 - Organize hunting, farming, or herding at subsistence levels.
 
-#### +4 City-State
+#### Province (2 Successes)
 
 Feats are established and dependable. They represent an organized society capable of coordinating people and resources.
 
@@ -867,7 +870,7 @@ Feats are established and dependable. They represent an organized society capabl
 - Build ships, mines, or workshops at scale.
 - Withstand sieges or regional disasters.
 
-#### +6 Kingdom
+#### Kingdom (3 Successes)
 
 Feats are extraordinary at the scale of nations. They push beyond ordinary limits and display creativity, versatility, and control.
 
@@ -877,7 +880,7 @@ Feats are extraordinary at the scale of nations. They push beyond ordinary limit
 - Build wonders of the world (cathedrals, castles, colossal statues).
 - Develop bureaucracies to manage large populations.
 
-#### +9 Empire
+#### Empire (5 Successes)
 
 Feats are mythic acts of mastery at the civilizational scale. They bend probability and momentum in favor of an entire people.
 
@@ -887,7 +890,7 @@ Feats are mythic acts of mastery at the civilizational scale. They bend probabil
 - Shape religions or ideologies to unify millions.
 - Construct early megastructures (Great Walls, sprawling aqueduct systems).
 
-#### +14 Planet
+#### Planet (7 Successes)
 
 Feats are world-shaping acts. They alter environments, ecosystems, and societies permanently.
 
@@ -897,7 +900,7 @@ Feats are world-shaping acts. They alter environments, ecosystems, and societies
 - Harness planetary-scale energy sources (fusion grids, massive reactors).
 - Build structures visible from space (orbital elevators, supercities).
 
-#### +20 Interstellar
+#### Interstellar (10 Successes)
 
 Feats extend across solar systems. They overwhelm barriers that would stop any lesser collective.
 
@@ -907,7 +910,7 @@ Feats extend across solar systems. They overwhelm barriers that would stop any l
 - Coordinate economies spanning light-years.
 - Rewrite stellar cartography through exploration and conquest.
 
-#### +26 Galactic
+#### Galactic (13 Successes)
 
 Feats are reality-defining at the largest civilizational scale. They reshape existence for all under their control.
 
@@ -917,102 +920,44 @@ Feats are reality-defining at the largest civilizational scale. They reshape exi
 - Manipulate entire species’ evolution across millennia.
 - Rewrite history or culture at a galactic scale.
 
-### Example Domain Sheet
+Example Domain Sheet
+------------------------
 
 Just like Characters, domains get a sheet that lists their Aspects and Inventory, known as Holdings.
 
 ```
-# Kingdom of Veyndor (4)
+Kingdom of Veyndor (4)
+=========================================
 
-## Type: Fallen Kingdom / Usurped Monarchy
+Fallen Kingdom / Usurped Monarchy
+-----------------------------------------
+Once a proud realm of honor and wisdom, Veyndor now suffers under tyranny and corruption after Lord Regent Malagar Thorne usurped the throne.
 
-## Current Ruler: Lord Regent Malagar Thorne (Usurper)
+### Once a Kingdom of Honor, Now Ruled by Shadows
+The old traditions of chivalry and wisdom are broken, replaced with fear and oppression.
 
-## Rightful Heir: Kaelion Veynor (Exiled)
+### The Silverwood Trees Whisper Forgotten Magic
+Ancient forests hold restless mystical energies and secrets tied to the Veynor bloodline.
 
-## "Once a Kingdom of Honor, Now Ruled by Shadows"
+### Resistance Brews in the Hidden Glades
+Loyalists gather in secrecy, rallying around the exiled heir Kaelion Veynor.
 
-Once renowned for its chivalry and wisdom, Veyndor has fallen under the grip of
-tyranny and corruption.
+Prominent Members
+-----------------------------------------
+#### Lord Regent Malagar Thorne (Usurper)
+#### Kaelion Veynor (Exiled Heir)
+#### The Eldenholde Council (Divided Nobles)
 
-## "The Silverwood Trees Whisper Forgotten Magic"
-
-The ancient forests of Veyndor are home to mystical energies and lost secrets.
-
-## "A Throne Stolen, A Prince Cursed"
-
-The rightful heir, Kaelion Veynor, was betrayed and exiled, his name now either
-a rallying cry or a curse.
-
-## "Resistance Brews in the Hidden Glades"
-
-Rebels loyal to the old dynasty gather in secrecy, awaiting the moment to
-strike against the usurper.
-
----
-
-## Holdings:
-
-### Eldenholde (Capital City)
-
-A once-prosperous fortress city, now heavily fortified under Malagar Thorne’s
-rule.
-
-### The Silverwood Forests
-
-Enchanted woodlands said to hold secrets of the Veynor bloodline and ancient
-magic.
-
-### The Fallen Citadel
-
-The ruins of Kaelion’s ancestral castle, burned during the usurpation.
-
-### The Veilspire Mountains
-
-A treacherous range that hides exiled nobles and rebel outposts.
-
----
-
-## Factions & Power Struggles:
-
-### Malagar’s Black Guard
-
-The elite enforcers of the usurper, known for their ruthless efficiency.
-
-### The Silver Veil
-
-A secret network of loyalists seeking to restore Kaelion to the throne.
-
-### The Guild of Twilight
-
-Mercenaries and spies who play both sides, profiting from the kingdom’s unrest.
-
-### The Eldenholde Council
-
-Nobles who once served the Veynors, now divided between loyalty and
-self-preservation.
-
----
-
-## Domain Challenges:
-
-### Oppressive Rule
-
-The people live under heavy taxation and constant surveillance.
-
-### Rebel Raids
-
-Skirmishes between loyalists and the usurper’s forces threaten stability.
-
-### Arcane Imbalance
-
-The ancient magics of the Silverwood grow restless, causing unpredictable
-effects.
-
-### Foreign Intrigue
-
-Neighboring kingdoms eye Veyndor’s weakened state, considering intervention or
-conquest.
+Holdings
+-----------------------------------------
+#### Eldenholde (Capital City)
+A fortress city turned into a bastion of Malagar’s rule.
+#### The Silverwood Forests
+Enchanted woodlands steeped in ancient magic.
+#### The Fallen Citadel
+Ruins of the ancestral Veynor stronghold, burned during the usurpation.
+#### The Veilspire Mountains
+Treacherous ranges hiding rebels and exiled nobles.
 
 ---
 
