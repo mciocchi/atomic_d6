@@ -1125,19 +1125,24 @@ Divine Concepts
 Glossary
 ===========
 
- +1 ........ Shorthand for a Bonus of 1D6
- +/- ....... Shorthand for Bonus or Malus
- -1 ........ Shorthand for a Malus of 1D6
- +.1 ....... a Bonus of one Pip
- -.1 ....... a Malus of one Pip
- Bane  ..... A negative narrative beat
- Boon: ..... A positive narrative beat
- Bonus: .... A positive effect that increases someone's chance to succeed on a roll.
- D6: ....... Six sided die.
- Domain .... A sociogeographical entity comprised of many characters that can be treated as one unit. e.g: A culture, the government of a country, a garrison, guild, or a corporation.
- Feat ...... An attempt by a character to do something, usually requiring Feat Dice to be rolled.
- GM ........ Game Master, the game's storyteller and referee.
- Malus ..... A negative effect that reduces a character's chance to succeed on a roll.
+| Term    | Description                                                                                                                                                                 |
+|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| +1      | Shorthand for a Bonus of 1D6                                                                                                                                                |
+| +/-     | Shorthand for Bonus or Malus                                                                                                                                                |
+| -1      | Shorthand for a Malus of 1D6                                                                                                                                                |
+| +.1     | A Bonus of one Pip                                                                                                                                                          |
+| -.1     | A Malus of one Pip                                                                                                                                                          |
+| Aspect  | A trait of a character that expands and describes their Concept                                                                                                             |
+| Bane    | A negative narrative beat                                                                                                                                                   |
+| Boon    | A positive narrative beat                                                                                                                                                   |
+| Bonus   | A positive effect that increases someone's chance to succeed on a roll                                                                                                      |
+| Concept | A special kind of Aspect that defines the core of a character                                                                                                               |
+| D6      | Six sided die                                                                                                                                                               |
+| Domain  | A sociogeographical entity comprised of many characters that can be treated as one unit (e.g., a culture, the government of a country, a garrison, guild, or a corporation) |
+| Feat    | An attempt by a character to do something, usually requiring Feat Dice to be rolled                                                                                         |
+| GM      | Game Master, the game's storyteller and referee                                                                                                                             |
+| Malus   | A negative effect that reduces a character's chance to succeed on a roll                                                                                                    |
+
 
 ---
 
