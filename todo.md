@@ -11,4 +11,5 @@
 # All quotes need to be italic
 # Section on Dynamic vs static character creation
 # section on Inventory is empty
-# Glossary is scrambled
+# Crafting, and it needs to be linked to tech. levels, which are gone now.
+# Rules for rolling more than 10 dice
