@@ -1052,7 +1052,7 @@ Tech. Levels of Civilizations
 
 ### T9 - Cosmic Engineering Age (Post-Singularity AI & Stellar Manipulation)
 
-- AI governs civilizations, making all decisions with perfect precision.
+- AI governs civilizations, guiding all decisions with perfect precision.
 - Civilizations control planetary systems, altering orbits and gravity.
 - Nanotechnology and self-replicating machines expand autonomously.
 
@@ -1104,7 +1104,7 @@ Sometimes it can be difficult for the GM to imagine what might possibly cause di
 #### 3. Time War (Manipulation of Causality & Multiverses)
 
 - Preservers want a stable, linear timeline.
-- Revisionists rewrite history over and over for an optimized outcome.
+- Revisionists rewrite history for an optimized outcome.
 - Anarchists create infinite branching realities.
 
 #### 4. The Energy War (Battles Over Universal Entropy & Star Harvesting)

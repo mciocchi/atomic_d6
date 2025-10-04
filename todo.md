@@ -21,3 +21,5 @@
 ## Tug of War clocks
 ## Racing Clocks
 # Interpreting the Atomic D6 in context with Feat Die
+# finish Technology section
+# "Rules at a Glance" section overlaps with "Understanding the Atomic D6 Character Sheet"
