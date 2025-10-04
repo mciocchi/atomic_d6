@@ -15,13 +15,36 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 Rules at a Glance
 ========================
 
-## Character Concept
-Character Concept is a special kind of Aspect that encapsulates the core of their persona.
+Aspects
+--------
 
-Concept is always accompanied by a number in parenthesis called Concept Bonus, which indicates the scope of the Character's power.
+Characters in Atomic D6 have a list of points that describe them. These points are called Aspects.
 
-## Feat Dice
-Characters roll a number of Dice equal to their Concept Bonus if attempting a Feat that directly relates to their Aspects.
+Aspects allow characters to apply their Concept Bonus to Feats that they are attempting.
+
+If an Aspect ceases to be true, or if the Character Concept no longer has it, it is removed from their sheet.
+
+An Aspect can provide Bonuses in some situations and Maluses in others. For instance: a slashed arm might grant a character a Malus on any actions using that limb, but it might grant them a Bonus when negotiating the price of a healing potion with a friendly shopkeeper.
+
+In addition to their Concept, characters are allowed no more than three Aspects at creation time, but they may gain additional Aspects throughout the course of the Narrative.
+
+Character Concept
+---------------------
+
+Character Concept is a special kind of Aspect that encapsulates the core of a character's persona.
+
+Concept is always accompanied by a number in parenthesis called Concept Bonus, which indicates the scope and scale of a Character's power.
+
+Feat Die
+----------
+
+Characters roll a number of Feat Die equal to their Concept Bonus when attempting a Feat that directly benefits from one of their Aspects.
+
+For example: “Swordsman” allows a Character to apply their Concept Bonus to all combat Feats with a Sword.
+
+At the highest levels of Atomic D6, characters may receive Bonuses of +10 or higher. It is not recommended for players to roll more than 10 Feat Die at a time. In these situations, characters should convert die to a flat modifier.
+
+For instance: a character with +13 would roll 10 Feat Die, and add +3
 
 | Feat Dice Result: | Description:  |
 |-------------------|---------------|
@@ -29,90 +52,10 @@ Characters roll a number of Dice equal to their Concept Bonus if attempting a Fe
 | 4-5               | Success       |
 | 6                 | Two successes |
 
-## Atomic D6
+Feat Bonuses Summarized:
+------------------------------
 
-| Atomic D6 Result: | Description:                 |
-|-------------------|------------------------------|
-| 1-2               | Bane: a negative story beat. |
-| 3-4               | Neutral                      |
-| 5-6               | Boon: a positive story beat. |
-
-The Atomic D6 is rolled whenever characters attempt a Feat. It represents narrative circumstances outside of their control that are independent of the success or failure of the Feat.
-
-## Aspects Expand Concept Bonus
-Aspects describe a Character and expand the scope of situations where they can apply their Concept Bonus.
-
-Example: “Swordsman” lets a Character apply Concept Bonus on combat Feats with a Sword. “Diplomacy” lets a Character apply them in negotiations.
-
-## Half Bonus (Tangential Feats)
-If the Feat is only tangentially related to a Character's Aspect, they may roll Concept / 2, rounded up.
-
-## Maluses
-An Aspect that hinders a character is called a Malus.
-
-Characters subject to a Malus receive only a Half Bonus to Aspects that are affected by the Malus.
-
-If the Feat that they are attempting is already tangental and also subject to a Malus, their Bonus is further reduced to 1/3.
-
-For instance: Kaelion's sword arm is slashed in combat with a Brigand. He receives a minor wound. This wound is an Aspect that grants him a Malus to Swordsmanship and anything else that requires the use of that arm.
-
-## Small Bonuses and Maluses
-The GM can grant Small Bonuses to represent minor advantages such as a freshly sharpened blade.
-
-Granting players "a pip" (.1) allows them to turn a single dice into a higher number, which could be enough to turn failure into success in certain situations.
-
-For instance, with +.1 a player could turn a 3 into a 4. With +.2 they could turn a 2 into a 4.
-
-Players cannot have +.3 or higher. In these cases, each group of three pips is converted into a full dice (+1)
-
-For instance: Kaelion has accumulated a bunch of minor bonuses to Swordsmanship equivalent to +.4. He converts them to full dice, and on his character sheet he writes +1.1
-
-## Passive Bonus
-To reduce unnecessary rolling, the GM may ask players to convert their Aspect Bonus into an average number of automatic successes.
-
-For example: a Concept Bonus of 4 / 2 rounded up = 2 automatic successes without rolling.
-
-Passive Bonus is also used to determine how difficult it is to hit a character when they are defending.
-
-## Floor for Defensive Feats
-To prevent automatic failure, all characters have a floor for Defensive Feats.
-
-Defensive Floor = Concept / 3 rounded down.
-
-This floor is applied when a character is forced to use a Defensive Feat that does not relate to any of their Aspects.
-
-## Contests
-There are three ways to resolve Feats that involve Characters directly opposing one another:
-
-**Active vs Active:** both sides roll their dice; higher number of successes wins.
-
-**Active vs Passive:** one side rolls; the other uses their Passive Bonus.
-
-**Passive vs Passive:** compare Passive Bonuses; higher total wins.
-
-The GM may choose from these methods to determine how Feats are resolved.
-
-## Group Feats
-When two or more characters work together to perform a feat, if the majority succeed, the group succeeds.
-
-To calculate the Passive Bonus for a group, use the average Passive Bonus of all members.
-
-The GM has the option to add or subtract a Bonus that scales to account for differences in group size:
-- A small group may receive +2 for Stealth, and -2 in combat against a larger group.
-- If the groups are vastly outmatched in size, the GM can declare an automatic success or failure
-
-## Domain Feats
-At a certain point, calculating Group Feats begins to become unwieldy, and something more is needed.
-
-Domains represent large groups that perform Feats as a single unit.
-
-Domains have a Concept and Aspects, and they function almost like Characters, but on a much grander scale.
-
-The section on [Domains](#Domains) has more information.
-
-## Feat Bonuses Summarized:
-
-These rules of Atomic D6 may seem overwhelming at first, but there are only three numbers that characters actually need to remember:
+The rules to resolve Feats in Atomic D6 may seem overwhelming at first, but there are only three numbers that characters actually need to remember:
 
 | Feat relationship to Aspect:                 | Calculation (rounded): |
 |----------------------------------------------|------------------------|
@@ -123,27 +66,143 @@ These rules of Atomic D6 may seem overwhelming at first, but there are only thre
 | Not related                                  | 1/3 Concept Bonus      |
 | Not related and subject to a Malus           | 1/3 Concept Bonus      |
 
-## Magic
+Atomic D6
+-----------
+
+The Atomic D6 is rolled whenever characters attempt a Feat. It represents narrative circumstances outside of their control that are independent of the success or failure of the Feat.
+
+| Atomic D6 Result: | Description:                 |
+|-------------------|------------------------------|
+| 1-2               | Bane: a negative story beat. |
+| 3-4               | Neutral                      |
+| 5-6               | Boon: a positive story beat. |
+
+Half Bonus (Tangential Feats)
+------------------------------------
+
+If a character attempts a Feat that is only tangentially related to their Aspects, they may receive only a Half Bonus.
+
+```
+Half Bonus = round( Concept Bonus / 2)
+```
+
+Maluses
+---------
+
+An Aspect that hinders a character is called a Malus.
+
+Characters subject to a Malus receive only a Half Bonus to Aspects that are affected by the Malus.
+
+If the Feat that they are attempting is already tangental and also subject to a Malus, their Bonus is further reduced to 1/3, rounded.
+
+For instance: because of his slashed arm, Kaelion receives a Malus to Swordsmanship, and he only gets a 1/2 Bonus to it until his arm heals.
+
+Small Bonuses and Maluses
+-------------------------------
+
+The GM can grant Small Bonuses to represent minor advantages such as a freshly sharpened blade.
+
+Granting players "a pip" (.1) allows them to turn a single dice into a higher number, which could be enough to turn failure into success in certain situations.
+
+For instance, with +.1 a player could turn a 3 into a 4. With +.2 they could turn a 2 into a 4.
+
+Players cannot have +.3 or higher. In these cases, each group of .3 is converted into a full dice (+1)
+
+For instance: Kaelion has accumulated a bunch of minor bonuses to Swordsmanship equivalent to +.4. He converts them to full dice, and on his character sheet he writes +1.1
+
+Passive Bonus
+----------------
+
+To reduce unnecessary rolling, the GM may ask players to convert their Aspect Bonus into an average number of automatic successes.
+
+```
+Passive Concept Bonus = round( Concept Bonus / 2 )
+```
+
+For example: a Concept Bonus of 4 / 2 rounded up = 2 automatic successes without rolling.
+
+Passive Bonus is also used to determine how difficult it is to hit a character when they are defending.
+
+Passive Bonus can also be used by the GM to resolve contests without the player's knowledge.
+
+For instance: Kaelion walks down the King's Road, past some brigands hiding behind trees, waiting in ambush. The GM doesn't want to give away the situation, so instead of asking Kaelion to roll Notice, he can roll a Feat of Stealth for the Brigands and compare their result to Kaelion's Passive Bonus to Notice them.
+
+Floor for Defensive Feats
+-------------------------------
+
+To prevent automatic failure, all characters have a floor for Defensive Feats in particular.
+
+```
+Defensive Floor = round( Concept Bonus / 3 )
+```
+
+This floor is applied when a character is forced to use a Defensive Feat that does not benefit from any of their Aspects.
+
+Contests
+----------
+
+There are three ways to resolve Feats that involve Characters, Groups, or Domains directly opposing one another:
+
+**Active vs Active:** both sides roll their dice; higher number of successes wins.
+
+**Active vs Passive:** one side rolls; the other uses their Passive Bonus.
+
+**Passive vs Passive:** compare Passive Bonuses; higher total wins.
+
+The GM may choose from these methods to determine how Feats are resolved.
+
+Group Feats
+--------------
+
+When two or more characters work together to perform a feat, if the majority succeed, the group succeeds.
+
+To calculate the Passive Bonus for a group, use the average Passive Bonus of all members.
+
+The GM has the option to add or subtract a Bonus that scales to account for differences in difficulty caused by group size:
+- A small group may receive +2 for Stealth, and -2 in combat against a larger group.
+- If the groups are vastly outmatched in size, the GM can declare an automatic success or failure
+
+Domain Feats
+---------------
+
+At a certain size, resolving Group Feats begins to become unwieldy, and something more is needed.
+
+Domains represent large groups that work together to perform Feats as a single unit.
+
+Domains have a Concept and Aspects, and they function almost like Characters, but on a much grander scale.
+
+The section on [Domains](#Domains) has more information.
+
+Feats of Magic
+------------------
 
 ### Spellcasting Aspects
+
 Characters require at least one Spellcasting Aspect in order to cast spells.
 
-Every Spellcasting Aspect must be tied to a school of magic, which defines the limits of their abilities.
+Every Spellcasting Aspect must be tied to a school of magic, which defines the limits of a Character's abilities.
 
-- A school of magic may come from the Domain of a Divine Patron (such as a God or Goddess) or from the study of a magical discipline (such as Pyromancy, Necromancy, or Illusion).
+Spellcasting Aspects may be granted by:
+- the Domain of a Divine Patron (such as a God or Goddess)
+- the academic study of a magical discipline (such as Pyromancy, Necromancy, or Illusion).
+- inborn capabilities, accidents, or mutations
+- Cybernetic enhancements
 
 ### Casting a Spell
+
 1. Declare Intent: The player announces that their character is attempting to cast a spell.
 2. Describe the Spell: The player describes the effect in narrative terms.
 3. GM Sets Difficulty: The GM determines the base difficulty for the spell.
-   - Players are encouraged to keep a book of frequently used spells with their base difficulty written down.
-   - The GM may modify the base difficulty depending upon situational Aspects or special defenses (e.g., target armor, magical wards).
+   - Players are encouraged to build a grimoire of frequently used spells with their base difficulties written down.
+   - The GM may modify the base difficulty depending upon situational Aspects (e.g: target armor, magical wards, trying to be stealthy).
+   - The GM can reward players for writing down spells by granting Small Bonuses for practice and preparedness
 4. Roll Feat Dice + Atomic D6:
-   - Roll as if casting were a Feat, applying the Spellcasting Aspect.
+   - Roll as if casting were a Feat, applying the Spellcasting Aspect and any other Bonuses.
    - The Atomic D6 may generate special consequences.
    - Passive scores may not be used when casting spells: players must roll every time.
 
-### Outcomes
+### Spellcasting Outcomes
+
 - Success: The spell is cast as intended.
 - Failure: The spell fizzles and does not manifest.
 - Boon (Atomic D6): The spell is unexpectedly more powerful or produces a beneficial side effect.
@@ -152,19 +211,23 @@ Every Spellcasting Aspect must be tied to a school of magic, which defines the l
 
 ### Eldritch Burden:
 
-Characters may concentrate to maintain a conjured magical effect for longer than a Beat.
+Characters may concentrate to maintain one single conjured magical effect for extended periods of time.
 
-Concentrating in this way requires characters to channel powerful eldritch energies with visible effects. For instance: a pyromancer straining to maintain a spell might sprout magical flames from their eyes that grow higher depending on how much strain they have incurred.
+Channeling powerful eldritch energies in this way causes visible effects. For instance: a pyromancer concentrating to maintain a spell might sprout magical flames from their eyes that grow higher depending on the power of the spell.
+
+As long as a character is concentrating in this way, they cannot rest and recover Stamina or Wounds.
 
 ### Death by Magical Strain
 
 If characters die by Magical Strain, powerful Eldritch energies are released. For instance: a pyromancer might explode in a violent fireball.
 
 ### Paradox
-Magic is bound by the rules of the world. Characters who attempt to repeatedly bend or break those rules strain the fabric of reality itself.
-- Such transgressions cause Paradox, making subsequent castings of the same world-breaking spell increasingly difficult.
-- The GM escalates the difficulty each time a Paradox-causing spell is attempted.
-- Paradox represents reality “pushing back” against the caster, and can have narrative as well as mechanical consequences.
+
+Magic is bound by the rules of the world. Characters who attempt to repeatedly bend or break those rules begin to strain the fabric of reality itself.
+
+Bending the rules of reality in this way can cause Paradox, which makes subsequent castings of the same world-breaking spell increasingly difficult.
+
+Paradox represents reality “pushing back” against the caster, and can have narrative as well as mechanical consequences.
 
 ---
 
@@ -226,18 +289,6 @@ Inventory
 
 Understanding Parts of the Atomic D6 Character Sheet
 ======================================================================
-Concept
---------
-A character's Concept is a single line that describes them, followed by a number in parentheses. The number is the Character's Concept Bonus, which represents their level of ability.
-
-Aspects
---------
-Aspects are parts of a Character Concept. If the Aspect ceases to be true, or if the Character Concept no longer has it, it is removed from their sheet.
-
-An Aspect can provide Bonuses in some situations and Maluses in others.
-
-Characters are allowed no more than three Aspects at creation time, but the GM may add additional Aspects to them later on.
-
 Stamina
 --------
 When a character takes damage, they lose Stamina. Consuming Stamina in this way represents a character getting the wind knocked out of them, or expending their energy to take evasive action.
@@ -366,12 +417,11 @@ In Atomic D6, Mental Wounds are considered to be just as deadly as physical ones
 ---
 
 Character Progression
--------------------------
+--------------------------
+
+### Concept Bonus
+
 A character's Concept Bonus represents the scope and scale of their power.
-
-When players learn through experience or training, the GM can award them an improvement to their Concept Bonus.
-
-This improvement is usually +1, but it could be as small as a single pip, or much larger, depending on the discretion of the GM.
 
 | Description: | Concept Bonus: |
 |--------------|----------------|
@@ -386,6 +436,68 @@ This improvement is usually +1, but it could be as small as a single pip, or muc
 | Elder Deity  | +26            |
 
 ---
+
+### Concept Bonus Advancement
+
+When players learn, either through experience, or training, the GM can award them one or more advancements to their Concept Bonus.
+
+For each advancement granted by the GM, it is recommended that the party should roll once for the entire group so that all characters improve at the same pace.
+
+#### Small Advancement:
+
+| D6: | Improvement to Concept Bonus |
+|-----|------------------------------|
+| 1-3 | +0                           |
+| 4-5 | +.1                          |
+| 6   | +.2                          |
+
+#### Large Advancement:
+
+| D6: | Improvement to Concept Bonus |
+|-----|------------------------------|
+| 1-3 | +0                           |
+| 4-5 | +1                           |
+| 6   | +2                           |
+
+---
+
+Wealth
+------
+
+### Wealth Levels for Individuals
+
+Individual coins are never tracked in Atomic D6. When Characters gain or lose a significant amount of Wealth, the GM can award them an [Advancement](#Concept-Bonus-Advancement) to determine how much their Wealth Level increases or decreases.
+
+| Bonus | Wealth Level                              | Examples of What Can Be Afforded                                                                                           |
+|-------|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| +0    | Penniless                                 | Food scraps, patched clothes, makeshift shelter, improvised weapons.                                                       |
+| +2    | Working-Class                             | Rent a room at an inn, buy travel gear, maintain a horse, or replace simple weapons.                                       |
+| +4    | Professional / Tradesperson               | Own a small home or workshop, employ a few workers, purchase fine arms or armor.                                           |
+| +6    | Noble / Merchant Lord                     | Own estates, ships, caravans, or businesses; employ guards; fund small expeditions.                                        |
+| +9    | Magnate / Ruler of Fortune                | Maintain multiple estates, private armies, trade fleets, magical research, or political campaigns.                         |
+|-------|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| +14   | Planetary Tycoon / Corporate Sovereign    | Control banks, megacities, or world-spanning industries; finance wars or planetary terraforming.                           |
+| +20   | Interstellar Mogul                        | Build fleets, colonize worlds, monopolize stellar trade, or purchase entire moons.                                         |
+| +26   | Galactic Financier / Post-Scarcity Entity | Buy star systems, fund galactic wars, create artificial planets, or rewrite entire markets through divine or cosmic means. |
+
+### Buying goods and services from a different Tech. Level
+
+When buying items that belong to a different tech level, the price is modified accordingly.
+
+These prices are approximate, and subject to change. In general, prices are not discounted more than -4 because lower TL items can be scrapped for raw materials.
+
+| Character TL - Item TL: | Approximate Price Difference: |
+|-------------------------|-------------------------------|
+| -2                      | -4                            |
+| -1                      | -2                            |
+| 0                       | 0                             |
+| 1                       | 2                             |
+| 2                       | 4                             |
+| >2                      | N/A (cannot be bought)        |
+
+#### Antiquities
+
+One notable exception to this rule is certain lower TL items that are considered "antiquities." Antiquities appreciate in value over time and can fetch exorbitant prices from collectors.
 
 Feats (Continued)
 ------
@@ -405,8 +517,6 @@ Common Defensive Feats:
 - Something else (be creative, add it to your Character Sheet)
 
 After a character chooses their defensive Feat, they work with the GM to determine whether it receives a Bonus or Malus from their Aspects.
-
-
 
 ---
 
@@ -751,7 +861,10 @@ By treating Domains as living, evolving entities, these Aspects help shape how c
 
 Progression of Domains
 --------------------------
+
 A Domain's Concept Bonus represents the scope of its political, social, and cultural influence.
+
+Just like when Characters advance, when a Domain expands or contracts, the GM may call for a roll of one or more [Advancements](#Concept-Bonus-Advancement) to determine whether its Concept Bonus changes.
 
 | Bonus | Scope of Power | Examples                                                               |
 |-------|----------------|------------------------------------------------------------------------|
@@ -764,6 +877,34 @@ A Domain's Concept Bonus represents the scope of its political, social, and cult
 | +14   | Planet         | A planetary empire, a world religion                                   |
 | +20   | Interstellar   | An interstellar republic, a galactic megacorp                          |
 | +26   | Galactic       | A civilization spanning multiple galaxies                              |
+
+### Levels of Wealth for Domains
+
+Wealth for Domains works differently from the way wealth works for Characters because Domains accumulate shared resources that are held in common.
+
+It is generally assumed that Domains can afford goods and services equivalent to their Concept Bonus.
+
+For instance: a province can afford to field a garrison of troops and build city walls. A village can afford to construct a modest guild hall. An Empire can afford multiple majestic fleets of ships.
+
+A Domain's Wealth Level is based on its Concept Bonus and it increases or decreases via [Advancement](#Concept-Bonus-Advancement) when the Domain gains or loses wealth. Just like Characters, Domains only track significant changes in Wealth. Individual coins are not counted.
+
+For instance: the Concept Bonus of an Empire is usually +9, but an impoverished Empire run by a corrupt leader that bankrupted their coffers may receive -2 to their Wealth Level, bringing it down to +7. When making financial decisions, leaders of such an Empire receive only +7 instead of the full +9.
+
+A leader of a Domain may not extract personal wealth from their Domain's treasury without consequences.
+
+| Bonus: | Domain Wealth Level | Examples of What Can Be Bought or Maintained                                                                                        |
+|--------|---------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| +0     | Powerless           | Scavenged goods, bartered favors, meager supplies, basic shelter, hand-forged tools, sustenance-level food.                         |
+| +2     | Village             | Modest guild hall, palisade defenses, civilian militia, farming equipment, community storage, livestock herds.                      |
+| +4     | Province            | Stone fortifications, market districts, trade caravans, blacksmith forges, garrisoned troops, public works projects.                |
+| +6     | Kingdom             | Castles, temples, universities, city walls, national army or navy, minting currency, sponsoring magical research.                   |
+| +9     | Empire              | Grand fleets, monumental architecture, standing professional armies, transcontinental trade routes, imperial palaces.               |
+|--------|---------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| +14    | Planet              | Planetary defense grids, orbital stations, terraforming infrastructure, global communication networks, megacities.                  |
+| +20    | Interstellar        | Starfleets, interstellar colonies, Dyson swarm projects, AI governance systems, translight trade networks.                          |
+| +26    | Galactic            | Galaxy-spanning megastructures, pan-galactic armadas, stellar re-engineering, multi-species civilizations, temporal infrastructure. |
+
+---
 
 Domain Turns
 --------------
@@ -796,7 +937,7 @@ Feats are unreliable or impossible. The collective lacks organization and cannot
 
 #### Village (1 Success)
 
-Feats are simple, functional collective efforts. They work reliably in straightforward conditions but break down under large-scale stress.
+    Feats are simple, functional collective efforts. They work reliably in straightforward conditions but break down under large-scale stress.
 
 - Feed and shelter a small population.
 - Defend against bandits or wild beasts.
@@ -918,11 +1059,9 @@ All items in Atomic D6 can be crafted
 Any item in Atomic D6 can be crafted. The difficulty of a crafting feat depends on several factors:
 - Aspect Bonus of the craftsman
 - Tech. Level (TL) of the craftsman
-- Tech. Level and quality of the craftsman's tools
-- Tech. Level of the item
-- Complexity of the item
-- Technical skill
-- Tech distance: is the Feat a lost art?
+- TL and quality of the craftsman's tools
+- TL of the item being crafted
+- Intrinsic complexity of the item being crafted
 
 Technology is Cultural
 ---------------------------
@@ -933,7 +1072,7 @@ Different societies can have members from different TLs and cultures simultaneou
 
 TL represents the advancement of tools, knowledge, and infrastructure available to a craftsman.
 
-Different worlds may develop along different paths, with TLs. For instance: a civilization might enter modernity on a world where fossil fuels don't exist.
+Different worlds may develop along different paths with TLs. For instance: a civilization might enter modernity on a world where fossil fuels don't exist.
 
 GMs are encouraged to tweak or reinterpret TLs depending on their campaign setting.
 
