@@ -435,8 +435,6 @@ A character's Concept Bonus represents the scope and scale of their power.
 | Lesser Deity | +20            |
 | Elder Deity  | +26            |
 
----
-
 ### Concept Bonus Advancement
 
 When players learn, either through experience, or training, the GM can award them one or more advancements to their Concept Bonus.
@@ -497,7 +495,7 @@ These prices are approximate, and subject to change. In general, prices are not 
 
 #### Antiquities
 
-One notable exception to this rule is certain lower TL items that are considered "antiquities." Antiquities appreciate in value over time and can fetch exorbitant prices from collectors.
+One notable exception to this rule is certain rare lower TL items that are considered "antiquities." Antiquities appreciate in value over time and can fetch exorbitant prices from collectors.
 
 Feats (Continued)
 ------
