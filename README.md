@@ -272,17 +272,18 @@ The last surviving member of his family.
 
 Inventory
 ----------------------------------------
-- Enchanted Longsword, Moonshade
+#### Wealth Level: 2
+#### Enchanted Longsword, Moonshade
     Grants +1 in low-light conditions
 
-- Reinforced Leather Armor
+#### Reinforced Leather Armor
     Provides moderate protection without sacrificing mobility.
 
-- Journal filled with sketches of his kingdom’s history and cryptic notes.
-- A medallion belonging to his sister, imbued with faint protective magic.
-- Small pouch of herbs for treating minor wounds.
-- Rations
-- Water
+#### Journal filled with sketches of his kingdom’s history and cryptic notes.
+#### A medallion belonging to his sister, imbued with faint protective magic.
+#### Small pouch of herbs for treating minor wounds.
+#### Rations
+#### Water
 ```
 
 ---
@@ -1033,6 +1034,7 @@ Prominent Members
 
 Holdings
 -----------------------------------------
+#### Wealth Level: 3
 #### Eldenholde (Capital City)
 A fortress city turned into a bastion of Malagar’s rule.
 #### The Silverwood Forests
@@ -1391,10 +1393,10 @@ Feats
 
 Inventory
 -----------------------------------------
-
-##### {{ Item 1 }}
-##### {{ Item 2 }}
-##### {{ Item 3 }}
+#### Wealth Level: 0
+#### {{ Item 1 }}
+#### {{ Item 2 }}
+#### {{ Item 3 }}
 
 ---
 
@@ -1432,7 +1434,7 @@ Prominent Members
 
 Holdings
 -----------------------------------------
-
+#### Wealth Level: 0
 #### {{ Holding 1 }}
 #### {{ Holding 2 }}
 #### {{ Holding 3 }}
