@@ -26,12 +26,20 @@ If an Aspect ceases to be true, or if the Character Concept no longer has it, it
 
 An Aspect can provide Bonuses in some situations and Maluses in others. For instance: a slashed arm might grant a character a Malus on any actions using that limb, but it might grant them a Bonus when negotiating the price of a healing potion with a friendly shopkeeper.
 
-In addition to their Concept, characters are allowed no more than three Aspects at creation time, but they may gain additional Aspects throughout the course of the Narrative.
+Characters should not be allowed more than five Aspects at creation time, but they may gain additional Aspects throughout the course of the Narrative.
+
+### Species
+
+In some settings, the GM can allow players to choose their Species. For game balance, players must work with the GM to make sure that their chosen Species has at least one significant Malus for each Bonus that it receives.
+
+### Fighting Style
+
+It is recommended that each character should choose at least one specific combat related Aspect, and not more than two, which describes how they fight.
 
 Character Concept
 ---------------------
 
-Character Concept is a special kind of Aspect that encapsulates the core of a character's persona.
+Character Concept encapsulates the core of a character's persona and determines which Aspects a character is allowed to choose.
 
 Concept is always accompanied by a number in parenthesis called Concept Bonus, which indicates the scope and scale of a Character's power.
 

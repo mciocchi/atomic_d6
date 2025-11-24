@@ -42,3 +42,6 @@ Table also might need to explain Active vs. Passive Bonuses
 # Example Character Sheet needs to be brought in line with the format of Blank Character Sheet
 # Consider moving Feats (Continued) to the other Feats section
 # Should magic require items that need to be found in the world?
+# Homebrewing guide
+# What happens when characters can create effects that last longer than a sequence and regain all mana?
+# We need a section on character creation
