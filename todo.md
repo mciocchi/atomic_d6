@@ -1,9 +1,10 @@
+# How is Tech. Level recorded on Char / Domain sheet?
+# Define "hit"
 # Subdomains
 # Difficulty Ladder
 # Crafting Costs
 # Dynamic vs. Static Character Creation
 # Eliminate mentions of "Aspect Bonus." It's "Concept Bonus."
-# How should Wealth be represented on Character and Domain sheets?
 # Example of Play
 # Table of Contents
 # Magnet Links

@@ -182,29 +182,42 @@ Domains have a Concept and Aspects, and they function almost like Characters, bu
 The section on [Domains](#Domains) has more information.
 
 Feats of Magic
-------------------
+-----------------
 
 ### Spellcasting Aspects
 
 Characters require at least one Spellcasting Aspect in order to cast spells.
 
-Every Spellcasting Aspect must be tied to a school of magic, which defines the limits of a Character's abilities.
+Every Spellcasting Aspect must be tied to a school of magic, which defines the limits of a character's abilities.
 
 Spellcasting Aspects may be granted by:
+
 - the Domain of a Divine Patron (such as a God or Goddess)
-- the academic study of a magical discipline (such as Pyromancy, Necromancy, or Illusion).
+- the academic study of a magical discipline (such as Pyromancy, Necromancy, or Illusion)
 - inborn capabilities, accidents, or mutations
-- Cybernetic enhancements
+- cybernetic enhancements
+- something else (be creative)
+
+### Mana And Magical Strain
+
+Characters with at least one Spellcasting Aspect have a mana pool. Mana represents how much magical strain a character can safely absorb during a Sequence. By default, each spellcaster has 3 mana at the start of each Sequence.
+
+Some say that Mana is subject to the whims of the gods. It only refreshes when a new Sequence begins. It is not restored by eating, drinking, sleeping, or the passage of in-world time.
+
+Magical strain may represent backlash, fatigue, and psychic stress caused by magic as it bends the fabric of reality.
 
 ### Casting a Spell
 
 1. Declare Intent: The player announces that their character is attempting to cast a spell.
 2. Describe the Spell: The player describes the effect in narrative terms.
 3. GM Sets Difficulty: The GM determines the base difficulty for the spell.
+
    - Players are encouraged to build a grimoire of frequently used spells with their base difficulties written down.
-   - The GM may modify the base difficulty depending upon situational Aspects (e.g: target armor, magical wards, trying to be stealthy).
-   - The GM can reward players for writing down spells by granting Small Bonuses for practice and preparedness
+   - The GM may modify the base difficulty depending upon situational Aspects (for example: target armor, magical wards, trying to be stealthy).
+   - The GM should reward players for writing down spells by granting Small Bonuses for preparedness.
+
 4. Roll Feat Dice + Atomic D6:
+
    - Roll as if casting were a Feat, applying the Spellcasting Aspect and any other Bonuses.
    - The Atomic D6 may generate special consequences.
    - Passive scores may not be used when casting spells: players must roll every time.
@@ -213,29 +226,35 @@ Spellcasting Aspects may be granted by:
 
 - Success: The spell is cast as intended.
 - Failure: The spell fizzles and does not manifest.
-- Boon (Atomic D6): The spell is unexpectedly more powerful or produces a beneficial side effect.
+- Boon:
+  - The spell might be unexpectedly more powerful or produce an unexpected beneficial effect.
   - Spells that are unexpectedly more powerful may also be dangerous to the player and their allies!
-- Bane (Atomic D6): The caster takes a hit from magical strain, regardless of success or failure. This may represent backlash, fatigue, or psychic stress.
+- Bane:
+  - The caster takes a hit from magical strain, and loses 1 Mana and 1 Stamina, regardless of the success or failure of the spell.
+  - Just like any other hit, if the character has no Stamina remaining, they suffer 1 Wound instead.
+  - The spell may have unexpected negative effects.
 
-### Eldritch Burden:
+### Eldritch Burden
 
-Characters may concentrate to maintain one single conjured magical effect for extended periods of time.
+Characters may maintain one single conjured magical effect for extended periods of time.
 
 Channeling powerful eldritch energies in this way causes visible effects. For instance: a pyromancer concentrating to maintain a spell might sprout magical flames from their eyes that grow higher depending on the power of the spell.
 
 As long as a character is concentrating in this way, they cannot rest and recover Stamina or Wounds.
 
+They may cast additional spells as long as they do not maintain effects over an extended period of time.
+
 ### Death by Magical Strain
 
-If characters die by Magical Strain, powerful Eldritch energies are released. For instance: a pyromancer might explode in a violent fireball.
+When a character dies as a result of magical strain, powerful eldritch energies are released. The exact kind of eldritch energies varies depending upon the type of spell being cast, but the results are unpredictable and spectacular. For instance: a pyromancer might explode in a violent fireball.
 
 ### Paradox
 
 Magic is bound by the rules of the world. Characters who attempt to repeatedly bend or break those rules begin to strain the fabric of reality itself.
 
-Bending the rules of reality in this way can cause Paradox, which makes subsequent castings of the same world-breaking spell increasingly difficult.
+On rare occasions, bending the rules of reality in this way can cause Paradox, which makes subsequent castings of the same world-breaking spell increasingly difficult.
 
-Paradox represents reality “pushing back” against the caster, and can have narrative as well as mechanical consequences.
+Some say that Paradox is caused by gods that wish to punish mortals for breaking the rules of the reality that they constructed. Others claim it is caused by reality itself pushing back against the caster. In any case, it can have narrative as well as mechanical consequences.
 
 ---
 
@@ -245,53 +264,61 @@ Example Character Sheet
 Kaelion Veynor (4)
 ========================================
 
-Stamina:    Wounds:
-----------------------------------------
-[ ]           Minor ♡    Slashed arm
-[ ]           Minor ♡
-[ ]           Major ♡
-              Death 💀
+| Stamina: | Mana: | Wounds: ------------------------------------------------- |
+|:--------:|:-----:|:----------------------------------------------------------|
+|   [ ]    |  ( )  | ♡                                                         |
+|   [ ]    |  ( )  | ♡                                                         |
+|   [ ]    |  ( )  | ♡                                                         |
+|   ---    |  ---  | 💀                                                        |
 
 Feats
--------
-Swordsmanship: 4 (Swordsman)
-Dodge: ....... 4 (Swordsman)
-Parry: ....... 4 (Swordsman)
-Endure: ...... 2 (Swordsman - Elf)
-Resolve: ..... 4 (Unyielding Will)
-Notice: ...... 4 (Elf)
-Conceal: ..... 0
-Block: ....... 0
+----------------------------------------
+
+| Feat:         | Bonus: | Relevant Aspect: ------------------------------------ |
+|:--------------|:-------|:------------------------------------------------------|
+| Swordsmanship | 4      | Swordsman                                             |
+| Dodge         | 4      | Swordsman                                             |
+| Parry         | 4      | Swordsman                                             |
+| Endure        | 2      | Swordsman - Elf                                       |
+| Resolve       | 4      | Unyielding Will                                       |
+| Notice        | 4      | Elf                                                   |
+| Conceal       | 1      |                                                       |
+| Block         | 1      |                                                       |
+| Interrogate   | 0      |                                                       |
+| Shoot         | 0      |                                                       |
+|               |        |                                                       |
+|               |        |                                                       |
+|               |        |                                                       |
 
 Cursed Prince Seeking Redemption (4)
 ----------------------------------------
-Exiled heir to a once-prosperous kingdom, forced to wander after a betrayal by his closest ally.
 
 ### Elf
-Wise, with keen senses, but physically frail.
+
+Wise, with keen senses, but physically frailer than humans.
 
 ### Unyielding Will
-Kaelion refuses to falter, pushing through pain, exhaustion, and even magical influence. His sheer determination grants him resistance against mind-affecting effects and allows him to keep fighting even when gravely wounded. However, his unwillingness to retreat, stubbornness in diplomacy, and disregard for limits can lead to unnecessary risks, conflicts, or self-destruction. His allies may rely on him too much, and his refusal to yield may cost him dearly when caution is called for.
 
-### Loyal to his younger Sister
-The last surviving member of his family.
+Kaelion refuses to give up. His determination gives him resistance against mind-altering effects, but he tends to come off as stubborn in diplomatic situations.
 
 ### Swordsman
 
-Inventory
-----------------------------------------
-#### Wealth Level: 2
-#### Enchanted Longsword, Moonshade
-    Grants +1 in low-light conditions
+Part of Kaelion's education as a Prince involved combatives lessons with some of the best swordsmen of the realm.
 
+Inventory
+-----------------------------------------
+#### Wealth Level: 2 (Working-Class)
+#### Enchanted Longsword, Moonshade
+    Glows and grants +1 in low-light conditions.
 #### Reinforced Leather Armor
     Provides moderate protection without sacrificing mobility.
-
 #### Journal filled with sketches of his kingdom’s history and cryptic notes.
 #### A medallion belonging to his sister, imbued with faint protective magic.
 #### Small pouch of herbs for treating minor wounds.
 #### Rations
 #### Water
+
+---
 ```
 
 ---
@@ -1358,31 +1385,31 @@ Blank Character Sheet
 {{ Name }} ({{ Concept Bonus }})
 ========================================
 
-| Stamina: | Wounds ------------------------------------------------------------ |
-|:--------:|:--------------------------------------------------------------------|
-|   [ ]    | ♡                                                                   |
-|   [ ]    | ♡                                                                   |
-|   [ ]    | ♡                                                                   |
-|   ---    | 💀                                                                  |
+| Stamina: | Mana: | Wounds: ------------------------------------------------- |
+|:--------:|:-----:|:----------------------------------------------------------|
+|   [ ]    |  ( )  | ♡                                                         |
+|   [ ]    |  ( )  | ♡                                                         |
+|   [ ]    |  ( )  | ♡                                                         |
+|   ---    |  ---  | 💀                                                        |
 
 Feats
 ----------------------------------------
 
-| Feat:       | Bonus: | Relevant Aspect: -------------------------------------- |
-|-------------|:-------|---------------------------------------------------------|
-| Notice      |        |                                                         |
-| Resolve     |        |                                                         |
-| Endure      |        |                                                         |
-| Parry       |        |                                                         |
-| Block       |        |                                                         |
-| Conceal     |        |                                                         |
-| Dodge       |        |                                                         |
-| Interrogate |        |                                                         |
-| Shoot       |        |                                                         |
-| Melee       |        |                                                         |
-|             |        |                                                         |
-|             |        |                                                         |
-|             |        |                                                         |
+| Feat:       | Bonus: | Relevant Aspect: ------------------------------------ |
+|:------------|:-------|:------------------------------------------------------|
+| Notice      |        |                                                       |
+| Resolve     |        |                                                       |
+| Endure      |        |                                                       |
+| Parry       |        |                                                       |
+| Block       |        |                                                       |
+| Conceal     |        |                                                       |
+| Dodge       |        |                                                       |
+| Interrogate |        |                                                       |
+| Shoot       |        |                                                       |
+| Melee       |        |                                                       |
+|             |        |                                                       |
+|             |        |                                                       |
+|             |        |                                                       |
 
 {{ Character Concept }} ({{ Concept Bonus }})
 ----------------------------------------
