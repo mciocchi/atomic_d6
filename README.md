@@ -15,10 +15,17 @@ Atomic D6 takes its inspiration from too many sources and individuals to name, i
 Rules at a Glance
 ========================
 
+Character Concept
+---------------------
+
+Character Concept encapsulates the core of a character's persona and determines which Aspects they're allowed to choose.
+
+Concept is always accompanied by a number in parenthesis called Concept Bonus, which indicates the scope and scale of a Character's power.
+
 Aspects
 --------
 
-Characters in Atomic D6 have a list of points that describe them. These points are called Aspects.
+Characters in Atomic D6 have a list of points that describe them that are called Aspects.
 
 Aspects allow characters to apply their Concept Bonus to Feats that they are attempting.
 
@@ -26,7 +33,7 @@ If an Aspect ceases to be true, or if the Character Concept no longer has it, it
 
 An Aspect can provide Bonuses in some situations and Maluses in others. For instance: a slashed arm might grant a character a Malus on any actions using that limb, but it might grant them a Bonus when negotiating the price of a healing potion with a friendly shopkeeper.
 
-Characters should not be allowed more than five Aspects at creation time, but they may gain additional Aspects throughout the course of the Narrative.
+It is recommended that GMs limit Characters to five Aspects or fewer at creation time, but they may gain more throughout the course of the Narrative.
 
 ### Species
 
@@ -36,12 +43,15 @@ In some settings, the GM can allow players to choose their Species. For game bal
 
 It is recommended that each character should choose at least one specific combat related Aspect, and not more than two, which describes how they fight.
 
-Character Concept
----------------------
+### Jack of all trades, master of none
 
-Character Concept encapsulates the core of a character's persona and determines which Aspects a character is allowed to choose.
+The GM is expected to make sure that Aspects are specific enough that they do not apply too many different Feats. The GM has the right to knock Aspects like this down to a Half Concept Bonus if they're too broad.
 
-Concept is always accompanied by a number in parenthesis called Concept Bonus, which indicates the scope and scale of a Character's power.
+In game terms, this represents characters dabbling across a broad group of Feats without developing mastery of any of them.
+
+### Additional Requirements
+
+Different tables may come to a consensus regarding what kind and how many Aspects are allowed. It is recommended that players generate characters together, at the same time, in order to make sure they're thematically and mechanically aligned.
 
 Feat Die
 ----------
@@ -283,7 +293,7 @@ Feats
 | Resolve       | 4      | Unyielding Will                                       |
 | Notice        | 4      | Elf                                                   |
 | Conceal       | 1      |                                                       |
-| Block         | 1      |                                                       |
+| Block         | 2      | Swordsman (1/2 Bonus, tangental)                      |
 | Interrogate   | 0      |                                                       |
 | Shoot         | 0      |                                                       |
 |               |        |                                                       |
