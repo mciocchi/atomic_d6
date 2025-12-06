@@ -64,6 +64,8 @@ At the highest levels of Atomic D6, characters may receive Bonuses of +10 or hig
 
 For instance: a character with +13 would roll 10 Feat Die, and add +3
 
+Characters always roll at least 1 Feat Die, even when their Maluses end up being greater than all of their Bonuses.
+
 | Feat Dice Result: | Description:  |
 |-------------------|---------------|
 | 1-3               | Failure       |
@@ -266,10 +268,74 @@ On rare occasions, bending the rules of reality in this way can cause Paradox, w
 
 Some say that Paradox is caused by gods that wish to punish mortals for breaking the rules of the reality that they constructed. Others claim it is caused by reality itself pushing back against the caster. In any case, it can have narrative as well as mechanical consequences.
 
+Resisting a Spell
+---------------------
+
+When a spell targets a resisting character, treat their defenses as an extra layer of difficulty rather than a separate roll.
+
+```
+Spell Resistance = Base Spell Difficulty + Target’s Defensive Feat (Can be Passive or Active)
+```
+
+- The defender gets to choose which defensive Feat to use, as long as it's appropriate
+  - Physical targeting: Passive Dodge, Passive Block, Passive Endure, or similar
+  - Mental or sensory effects: Passive Resolve, or similar.
+  - If the spell is a physical attack, armor needs
+  - If the target lacks a relevant Aspect for that defense, use the standard Defensive Floor in place of their full Concept Bonus.
+
+The caster rolls spellcasting as a normal Feat, applying their Spellcasting Aspect and other Bonuses. They must meet or beat the total Spell Resistance for the spell to fully take hold.
+
+#### Example: Illusory Chains
+
+A spellcaster with Illusion Bonus 3 casts an Apprentice‑level illusion to conjure chains that bind a thug’s arms and legs.
+- Base spell difficulty (Apprentice effect): 2 successes.
+- Thug’s Passive Dodge 1 adds +1 success.
+- Total Spell Resistance: 3 successes required.
+
+If the caster rolls 3 or more successes, the thug is fully immobilized by the illusion.
+
+#### Spell Effects as Temporary Aspects
+
+Spell effects such as chains, webs, or shackles are treated as a negative Aspect affecting the target (for example, “Entangled by Illusory Chains”).
+
+- The Condition lasts while:
+  - The caster maintains it as an ongoing conjured effect (subject to the existing concentration rules and Eldritch Burden), or
+  - Any fixed, agreed‑upon duration expires (for non‑maintained effects).
+  - While the Condition is active, the target is restricted according to the spell’s description.
+
+#### Attempting to Break Free Each Turn
+
+A character affected by a spell in combat may attempt to break free once each Beat as an Active Feat.
+
+- Choose a Feat that matches the nature of the spell:
+  - Physical bindings (chains, webs, snares):
+    - Endure, Melee, or a custom Feat such as Break Free / Athletics.
+  - Illusory / mental bindings (pure mind tricks, fear, phantasms):
+    - Resolve or a similar mental defense Feat.
+  - Projectiles and conjured melee attacks
+    - Dodge or Block
+- Apply Aspects normally; tangential Aspects grant Half Bonus, Maluses reduce effectiveness as usual.
+
+##### Escape Difficulty
+
+Set the difficulty to escape as:
+
+```
+Escape Difficulty = Original Spell Difficulty + Caster’s Passive Spellcasting Bonus
+```
+
+- Original Spell Difficulty is the same number the GM used when the spell was cast (for example, 2 for an Apprentice‑level effect).
+- The caster’s Passive Spellcasting Bonus is their spellcasting Concept Bonus converted to a Passive Bonus (round Concept Bonus ÷ 2, as with other Passive scores).
+
+The bound character rolls once per turn. Meeting or beating the Escape Difficulty fully ends the Condition.
+
 ---
 
-Example Character Sheet
+Example Character Sheets
 ===============================
+
+## Kaelion Veynor
+
 ```
 Kaelion Veynor (4)
 ========================================
