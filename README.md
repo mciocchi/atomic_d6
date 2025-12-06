@@ -1288,7 +1288,7 @@ In both situations, characters receive a Malus to crafting the item.
 Tech. Levels of Civilizations
 ------------------------------------
 
-### T0 - Stone Age (Prehistoric Survivalists)
+### TL 0 - Stone Age (Prehistoric Survivalists)
 
 - Power is measured in physical prowess, survival skills, and oral traditions.
 - Civilizations rely entirely on stone tools, fire, and simple hunting/gathering techniques.
@@ -1296,7 +1296,7 @@ Tech. Levels of Civilizations
 
 ---
 
-### T1 - Bronze Age (City States & Basic Metallurgy)
+### TL 1 - Bronze Age (City States & Basic Metallurgy)
 
 - Early nautical cultures begin to utilize wind power to cross oceans.
 - The discovery of bronze leads to stronger weapons and armor.
@@ -1305,7 +1305,7 @@ Tech. Levels of Civilizations
 
 ---
 
-### T2 - Classical Age (Empires, Philosophy, and Organized Warfare)
+### TL 2 - Classical Age (Empires, Philosophy, and Organized Warfare)
 
 - Iron tools are now widespread, and Steel becomes available in limited quantities.
 - Theories of the natural world begin challenging traditional worldviews.
@@ -1314,17 +1314,17 @@ Tech. Levels of Civilizations
 
 ---
 
-### T3 - Early Industrial Age (Steam & Mass Production)
+### TL 3 - Early Industrial Age (Steam & Mass Production)
 
 - Steam and hydro power reshape society and drive mass production.
 - Mass production of Gunpowder changes the way wars are fought.
 - Theories of evolution, physics, and chemistry replace magical thinking.
 - Railroads, mechanized agriculture, and large-scale factories dominate economies.
-- Early mechanical computers and telegraphs begin revolutionizing communication.
+- Early mechanical calculators and telegraphs begin revolutionizing communication.
 
 ---
 
-### T4 - Late Industrial Age
+### TL 4 - Late Industrial Age
 
 - Electricity, petroleum, and internal combustion engines bring power to individual consumers.
 - Assembly lines make consumer goods widely available.
@@ -1334,7 +1334,7 @@ Tech. Levels of Civilizations
 
 ---
 
-### T5 - Atomic Age
+### TL 5 - Atomic Age
 
 - Nuclear power creates abundant energy but threatens the environment.
 - Weapons of Mass Destruction raise the possibility of world destruction.
@@ -1344,7 +1344,7 @@ Tech. Levels of Civilizations
 
 ---
 
-### T6 - Information Age (Cybernetics, AI, and Fusion Power)
+### TL 6 - Information Age (Cybernetics, AI, and Fusion Power)
 
 - Fusion power makes energy plentiful, cheap, and clean.
 - AI surpasses human intelligence in many fields.
@@ -1354,7 +1354,7 @@ Tech. Levels of Civilizations
 
 ---
 
-### T7 - Planetary Space Age (Early Colonization & Terraforming)
+### TL 7 - Planetary Space Age (Early Colonization & Terraforming)
 
 - Civilizations become multi-planetary but lack faster-than-light travel.
 - Quantum Networking allows faster-than-light communication over vast distances.
@@ -1363,7 +1363,7 @@ Tech. Levels of Civilizations
 
 ---
 
-### T8 - Interstellar Age (faster-than-light Travel & Megastructures)
+### TL 8 - Interstellar Age (faster-than-light Travel & Megastructures)
 
 - Faster-than-light travel enables galactic expansion.
 - Faster-than-light travel makes construction of artificial planets and massive space stations possible.
@@ -1372,15 +1372,15 @@ Tech. Levels of Civilizations
 
 ---
 
-### T9 - Cosmic Engineering Age (Post-Singularity AI & Stellar Manipulation)
+### TL 9 - Cosmic Engineering Age (Post-Singularity AI & Stellar Manipulation)
 
 - AI governs civilizations, guiding all decisions with perfect precision.
 - Civilizations control planetary systems, altering orbits and gravity.
-- Nanotechnology and self-replicating machines expand autonomously.
+- Nanotechnology and self-replicating machines expand artificial ecosystems autonomously.
 
 ---
 
-### T10 - Universal Age (Reality Manipulation & Cosmic Dominion)
+### TL 10 - Universal Age (Reality Manipulation & Cosmic Dominion)
 
 - Beings create and destroy galaxies at will.
 - The laws of physics become tools for civilizations to shape as they desire.
