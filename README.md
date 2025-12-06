@@ -64,6 +64,8 @@ At the highest levels of Atomic D6, characters may receive Bonuses of +10 or hig
 
 For instance: a character with +13 would roll 10 Feat Die, and add +3
 
+Characters always roll at least 1 Feat Die, even when their Maluses end up being greater than all of their Bonuses.
+
 | Feat Dice Result: | Description:  |
 |-------------------|---------------|
 | 1-3               | Failure       |
@@ -232,17 +234,78 @@ Magical strain may represent backlash, fatigue, and psychic stress caused by mag
    - The Atomic D6 may generate special consequences.
    - Passive scores may not be used when casting spells: players must roll every time.
 
+#### Calculating Spell Difficulty
+
+When setting the difficulty for a spell (step 3), the GM uses the following formula:
+
+```
+Spell Difficulty = Paradox +
+                   Duration +
+                   Resistance Interval +
+                   Targets/Area +
+                   Resistance Difficulty +
+                   Range +
+                   Magnitude -
+                   Preparation Time -
+                   Number of Casters
+                   Capped at 26, Floored at 0
+```
+
+The final result is capped at a maximum of 26 successes and floored at a minimum of 0 successes.
+
+##### Paradox
+
+Paradox is the first and most important variable for the GM to ascertain. It represents how "reality breaking" (read: game breaking) the spell is. The GM should assess how much the spell violates the world's natural laws or game balance. Paradox can change over time; even the same spell can change in difficulty if the circumstances of its casting are different, or if it is cast repeatedly. See the [Paradox](#Paradox) section for more information.
+
+##### Duration
+
+Duration uses in-game time, not narrative time. The GM must consider the actual in-world duration when determining difficulty. For instance: if a scene is 1000 years, the GM should make that spell much more difficult than a spell lasting a scene that is 5 minutes. The duration steps (Beat, Scene, Sequence, Act, Narrative, Permanent) are defined in the [Time](#Time) section.
+
+##### Resistance Interval
+
+Resistance Interval defaults to one step lower than Duration. For instance: if the duration lasts one Scene, the resistance interval will be one Beat. If the duration is one Beat, the resistance interval will be one Moment. The Resistance Interval represents how often targets can attempt to resist the spell's effects. See the [Resisting a Spell](#Resisting-a-Spell) section for more information.
+
+##### Targets/Area
+
+This variable accounts for the number of targets or the size of the area affected by the spell. Spells that affect multiple targets or larger areas are more difficult than spells affecting a single target or small area.
+
+##### Resistance Difficulty
+
+This usuallly defaults to the total difficulty of the spell, and represents how difficult it is for targets to resist its effects. Spells that are harder to resist (such as mind control or binding effects) add more to the difficulty than spells that are easier to resist.
+
+##### Range
+
+Range represents the distance from the caster to the target or the area of effect. Spells cast at greater distances are more difficult than spells cast at close range.
+
+##### Magnitude
+
+Magnitude represents the raw power or intensity of the spell's effect. More powerful effects reduce the spell's difficulty (this variable is subtracted from the total). The GM should consider the scale of the effect when determining Magnitude.
+
+##### Preparation Time
+
+Preparation Time represents the time spent preparing the spell before casting. Spells that are prepared over a longer period are easier to cast (this variable is subtracted from the total). Rituals and ceremonies that take hours or days reduce the spell's difficulty.
+
+##### Number of Casters
+
+When multiple casters work together to cast a spell, the difficulty is reduced (this variable is subtracted from the total). Each additional caster beyond the first reduces the difficulty, representing the shared burden of channeling magical energy.
+
 ### Spellcasting Outcomes
 
 - Success: The spell is cast as intended.
 - Failure: The spell fizzles and does not manifest.
 - Boon:
   - The spell might be unexpectedly more powerful or produce an unexpected beneficial effect.
+  - The spell's duration may be unexpectedly extended (GM's discretion, typically one step longer: Beat becomes Scene, Scene becomes Sequence, etc.).
+  - The spell may be unexpectedly harder to resist.
   - Spells that are unexpectedly more powerful may also be dangerous to the player and their allies!
 - Bane:
   - The caster takes a hit from magical strain, and loses 1 Mana and 1 Stamina, regardless of the success or failure of the spell.
   - Just like any other hit, if the character has no Stamina remaining, they suffer 1 Wound instead.
   - The spell may have unexpected negative effects.
+  - The spell's duration may be unexpectedly shortened (GM's discretion, typically one step shorter: Scene becomes Beat, Sequence becomes Scene, etc.), or the spell may fail to take hold at all.
+  - The spell may be unexpectedly easier to resist.
+- Neutral:
+  - The spell has no additional effects.
 
 ### Eldritch Burden
 
@@ -256,7 +319,7 @@ They may cast additional spells as long as they do not maintain effects over an 
 
 ### Death by Magical Strain
 
-When a character dies as a result of magical strain, powerful eldritch energies are released. The exact kind of eldritch energies varies depending upon the type of spell being cast, but the results are unpredictable and spectacular. For instance: a pyromancer might explode in a violent fireball.
+When a character dies as a result of magical strain, powerful eldritch energies are released. The exact kind of eldritch energies varies depending upon the type of spell being cast, but the results can be unpredictable and spectacular. For instance: a pyromancer might explode in a violent fireball.
 
 ### Paradox
 
@@ -266,10 +329,94 @@ On rare occasions, bending the rules of reality in this way can cause Paradox, w
 
 Some say that Paradox is caused by gods that wish to punish mortals for breaking the rules of the reality that they constructed. Others claim it is caused by reality itself pushing back against the caster. In any case, it can have narrative as well as mechanical consequences.
 
+Resisting a Spell
+---------------------
+
+When a spell targets a resisting character, treat their defenses as an extra layer of difficulty rather than a separate roll.
+
+```
+Spell Resistance = Base Spell Difficulty + Target’s Defensive Feat (Can be Passive or Active)
+```
+
+- The defender gets to choose which defensive Feat to use, as long as it's appropriate
+  - Physical targeting: Passive Dodge, Passive Block, Passive Endure, or similar
+  - Mental or sensory effects: Passive Resolve, or similar.
+  - If the spell is a physical attack, armor may provide additional protection (see Armor and Spell Resistance below)
+  - If the target lacks a relevant Aspect for that defense, use the standard Defensive Floor in place of their full Concept Bonus.
+
+The caster rolls spellcasting as a normal Feat, applying their Spellcasting Aspect and other Bonuses. They must meet or beat the total Spell Resistance for the spell to fully take hold.
+
+#### Example: Illusory Chains
+
+A spellcaster with Illusion Bonus 3 casts an Apprentice‑level illusion to conjure chains that bind a thug’s arms and legs.
+- Base spell difficulty (Apprentice effect): 2 successes.
+- Thug’s Passive Dodge 1 adds +1 success.
+- Total Spell Resistance: 3 successes required.
+
+If the caster rolls 3 or more successes, the thug is fully immobilized by the illusion.
+
+#### Spell Effects as Temporary Aspects
+
+Spell effects such as chains, webs, or shackles are treated as a negative Aspect affecting the target (for example, “Entangled by Illusory Chains”).
+
+- The Condition lasts while:
+  - The caster maintains it as an ongoing conjured effect (subject to the existing concentration rules and Eldritch Burden), or
+  - Any fixed, agreed‑upon duration expires (for non‑maintained effects).
+  - While the Condition is active, the target is restricted according to the spell’s description.
+
+#### Attempting to Break Free
+
+Characters may attempt to resist a spell when it is first cast. After that, they get additional chances to shake off any lingering effects, depending on its Resistance Interval.
+
+- Choose a Feat that matches the nature of the spell:
+  - Physical bindings (chains, webs, snares):
+    - Endure, Melee, or a custom Feat such as Break Free / Wrestling / Athletics.
+  - Illusory / mental bindings (pure mind tricks, fear, phantasms):
+    - Resolve, Illusion, or a similar mental defense Feat.
+  - Projectiles and conjured melee attacks
+    - Dodge or Block
+  - Counterspell
+    - The target can attempt to cast a spell to help them break free
+- Apply Aspects normally; tangential Aspects grant Half Bonus, Maluses reduce effectiveness as usual.
+
+The difficulty of escaping the spell effect is equivalent to the number of successes the caster rolled to cast it.
+
+Some Bonuses and Maluses can be applied to account for circumstances, Boons, and Banes.
+
+#### Armor and Spell Resistance
+
+Armor provides protection against certain types of physical spell effects. When calculating Spell Resistance against physical spells, armor Bonus is added to the Defensive Feat Bonus.
+
+```
+Spell Resistance = Target's Defensive Feat + Armor Bonus (if applicable)
+```
+
+Armor provides protection against physical spell effects that would be blocked or mitigated by protective gear:
+
+- Physical projectile spells (ice bolts, force missiles, stone projectiles)
+- Conjured weapon attacks (magical swords, spears, arrows)
+- Force-based attacks that create physical impact
+
+**When Armor Does Not Apply to Spell Resistance:**
+
+Armor provides limited or no protection against:
+
+- Drowning
+- Suffocation
+- Fire spells (fire can cook someone alive inside armor, providing minimal protection at best)
+- Energy-based attacks that bypass physical barriers (lightning, plasma)
+- Mental or sensory effects (illusions, mind control, fear)
+- Spells that target internal systems (poison gas, life drain)
+
+The GM determines whether armor applies to a specific spell based on the spell's description and the nature of its effects. When in doubt, consider whether the spell creates a physical effect that armor would realistically protect against.
+
 ---
 
-Example Character Sheet
+Example Character Sheets
 ===============================
+
+## Kaelion Veynor
+
 ```
 Kaelion Veynor (4)
 ========================================
@@ -329,6 +476,78 @@ Inventory
 #### Water
 
 ---
+```
+
+## Varo Thesk
+
+```
+Varo Thesk ( +2 )
+========================================
+
+| Stamina: | Mana: | Wounds: ------------------------------------------------- |
+| :------: | :---: | :-------------------------------------------------------- |
+|    [ ]   |  ( )  | ♡                                                         |
+|    [ ]   |  ( )  | ♡                                                         |
+|    [ ]   |  ( )  | ♡                                                         |
+|    ---   |  ---  | 💀                                                        |
+
+## Feats
+
+| Feat:       | Bonus: | Relevant Aspect: ------------------------------------- |
+|:------------|:-------|:-------------------------------------------------------|
+| Notice      | +2     | Illusiomancer of the Veiled Lantern School             |
+| Resolve     | +2     | Illusiomancer of the Veiled Lantern School             |
+| Endure      | +0     |                                                        |
+| Parry       | +0     |                                                        |
+| Block       | +0     |                                                        |
+| Conceal     | +0     |                                                        |
+| Dodge       | +0     |                                                        |
+| Interrogate | +0     |                                                        |
+| Shoot       | +0     |                                                        |
+| Melee       | +0     |                                                        |
+| Spellcraft  | +2     | Illusiomancer of the Veiled Lantern School             |
+| History     | +2     | Historian of the Realm                                 |
+| Gambling    | +2     | Card Sharp                                             |
+|             |        |                                                        |
+
+## Apprentice Illusionist and Professional Cheat ( +2 )
+
+### Illusiomancer of the Veiled Lantern School
+
+Varo is trained to weave subtle deceptions — flickers, phantoms, misdirected attention, and sensory distortions.
+
+### Magical Craftsman
+
+Varo has a knack for crafting magical items.
+
+### Historian of the Realm
+
+Varo is a prodigious scholar, with a voluminous knowledge of past events.
+
+### Card Sharp
+
+His favorite pastime is stacking decks, conjuring false tells, or masking his true hand with illusions.
+
+## Inventory
+
+#### Wealth Level: 2
+
+#### Commoner's Clothes
+
+#### Simple bone or wooden focus stick
+
+#### Pouch of mundane playing cards
+
+#### Loose-fitting robe with deep sleeves
+
+#### Provisions
+    - 2 lb. Salted Pork
+    - 1 lb. Hardtack
+    - 1 Loaf of fresh bread
+    - 1 Water Skin (1 Gallon)
+
+---
+
 ```
 
 ---
@@ -562,6 +781,242 @@ Common Defensive Feats:
 
 After a character chooses their defensive Feat, they work with the GM to determine whether it receives a Bonus or Malus from their Aspects.
 
+If the character is wearing armor, the armor's Bonus is added to the Active Defensive Feat Bonus, and then the total is converted to Passive Bonus. Note that heavy armor may impose Maluses on certain Defensive Feats (especially Dodge). See the [Armor](#Armor) section for details.
+
+### Armor
+
+Armor provides protection by making characters harder to hit. Armor Bonus is added to Active Defensive Feats, and then the total is converted to Passive Bonus using the standard formula.
+
+#### Armor as Bonus
+
+Armor provides a Bonus that is added to a character's Active Defensive Feat Bonus. The total (Active Defensive Feat Bonus + Armor Bonus) is then converted to Passive Bonus using the standard formula:
+
+```
+Passive Bonus = round((Active Defensive Feat Bonus + Armor Bonus) / 2)
+```
+
+Armor's Bonus always applies to physical attacks in addition to any Defensive Feat chosen, except in situations where armor can be bypassed (see Situations Where Armor Does Not Apply).
+
+#### Armor Types
+
+Armor is typically categorized as light, medium, or heavy:
+
+- **Light Armor**: Leather, padded cloth, Kevlar vest
+  - Typical Bonus: +1
+- **Medium Armor**: Chainmail, scale mail, ballistic vest
+  - Typical Bonus: +2
+- **Heavy Armor**: Full plate, heavy powered armor, full body armor
+  - Typical Bonus: +3
+
+The GM may adjust armor Bonus values based on setting, tech level, or magical enhancement.
+
+#### Heavy Armor Maluses
+
+Heavy armor provides excellent protection but imposes restrictions on movement and agility:
+
+- **Dodge Malus**: Heavy armor imposes a Malus on Dodge Feats (GM discretion, typically -1 or -2)
+- **Speed and Agility Malus**: Heavy armor imposes a Malus on Feats requiring speed or agility (sprinting, acrobatics, parkour, etc.)
+- **Swimming Difficulty**: Heavy armor makes swimming very difficult or impossible (GM may require Feats or declare automatic failure)
+
+#### Situations Where Armor Does Not Apply
+
+Armor may not provide protection in certain circumstances:
+
+- **Unaware Targets**: When attacking an unaware or helpless target, armor may not apply if the attacker can target vulnerable spots (e.g., stabbing between armor plates, garroting, targeting gaps in protection)
+- **GM Discretion**: The GM determines when armor doesn't apply based on the situation, target awareness, and attack method
+- **Examples**: Sneak attacks on sleeping targets, precision strikes on armor gaps, attacks on restrained/helpless targets where armor can be bypassed
+
+#### Modern and Science Fiction Armor
+
+Modern and science fiction protective gear functions the same way as traditional armor:
+
+- **Modern Armor**: Kevlar, ballistic vests, and similar modern protective gear function as armor with Bonus
+  - Examples: Kevlar vest (+1), Ballistic vest (+2), Full body armor (+3)
+  - Follows same rules as traditional armor (Bonus added to Defensive Feats, heavy armor Maluses, situations where armor doesn't apply, etc.)
+- **Ballistic Shields**: Portable shields (riot shields, ballistic shields) provide armor protection when actively used
+  - May be treated as Block Defensive Feat + Armor Bonus
+  - Can be used to protect others (GM discretion)
+  - When not actively held/used, does not provide protection
+  - Examples: Riot shield (+1), Ballistic shield (+2)
+- **Tech Level Considerations**: Higher tech levels may provide better armor protection or specialized armor types
+  - Energy shields, reactive armor, nanoweave, etc. (GM determines Bonus based on tech level)
+  - Sci-fi armor may have special properties (energy resistance, environmental protection, etc.)
+
+#### Powered Armor
+
+Powered armor systems (power suits, exoskeletons, mech suits, battle frames) are treated as vehicles, not standard armor. See the [Mounts and Vehicles](#Mounts-and-Vehicles) section for details.
+
+- **Powered Armor as Vehicle**: Powered armor requires fuel or power source, ammunition for integrated weapons (if applicable), and maintenance like vehicles
+- **Armor Function**: When powered and operational, powered armor provides armor Bonus like any other armor
+  - Typically provides +3 Bonus or higher (GM discretion based on tech level)
+- **Integration with Vehicle Rules**: Follows the same rules as Mounts and Vehicles:
+  - Uses fuel instead of stamina
+  - Refuels instead of eating
+  - Has its own character sheet (optional, for complex systems)
+  - Damage expressed as Wounds (Minor = cosmetic, Major = critical systems)
+- **When Unpowered**: If powered armor loses power or fuel:
+  - May still provide some protection (reduced Bonus, GM discretion)
+  - Imposes heavy Maluses on movement and agility (may be immobile)
+  - Cannot use integrated systems or weapons
+
+#### Vehicle Armor
+
+Vehicle armor functions identically to character armor:
+
+- **Same Rules as Character Armor**: Vehicle armor uses the same Bonus system
+- **Armor Bonus**: Vehicles with armor gain Bonus to defense against attacks
+- **Armor Types**: Vehicles can have light, medium, or heavy armor (or modern equivalents)
+  - Examples: Light vehicle armor (+1), Reinforced plating (+2), Heavy armor (+3)
+- **Integration**: Vehicle armor Bonus is added to vehicle Defensive Feats (if vehicles can use Defensive Feats), then converted to Passive Bonus
+- **Tech Level**: Higher tech vehicles may have advanced armor (energy shields, reactive plating, etc.)
+- **Maintenance**: Vehicle armor can be damaged and requires repairs (like other vehicle systems)
+
+#### Examples: Armor in Action
+
+**Example 1: Light Armor with Defensive Feat**
+
+Kaelion (Concept Bonus +4, Swordsman Aspect) wears light leather armor (+1 Bonus) and uses Dodge to avoid an attack.
+
+- Active Dodge Bonus: +4 (from Swordsman Aspect)
+- Armor Bonus: +1
+- Total Active Bonus: +5
+- Passive Bonus: round(5 / 2) = 3 successes
+
+The attacker must roll 3 or more successes to hit Kaelion.
+
+**Example 2: Heavy Armor with Defensive Feat**
+
+A knight in full plate armor (+3 Bonus) with Concept Bonus +6 and a "Knight of the Realm" Aspect that applies to Block attempts to block an attack.
+
+- Active Block Bonus: +6 (from Knight Aspect)
+- Armor Bonus: +3
+- Total Active Bonus: +9
+- Passive Bonus: round(9 / 2) = 5 successes
+
+The attacker must roll 5 or more successes to hit. However, if the knight tried to Dodge instead, they would receive a Malus (typically -1 or -2) due to the heavy armor.
+
+**Example 3: Armor Against Physical Spell**
+
+A guard in chainmail (+2 Bonus) with Concept Bonus +2 and no relevant defensive Aspects is targeted by an ice bolt spell.
+
+- Base spell difficulty: 2 successes (Apprentice-level)
+- Active Block Bonus: +0 (no relevant Aspect, uses Defensive Floor)
+- Defensive Floor: round(2 / 3) = 1
+- Armor Bonus: +2
+- Total Active Bonus: 1 + 2 = 3
+- Passive Block Bonus: round(3 / 2) = 2 successes
+- Total Spell Resistance: 2 (base) + 2 (defense) = 4 successes required
+
+The spellcaster must roll 4 or more successes for the ice bolt to hit the guard.
+
+**Example 4: Armor Bypassed**
+
+An assassin sneaks up on a sleeping knight in full plate armor. The assassin targets the gap between the helmet and gorget with a garrote.
+
+- The GM rules that armor does not apply because:
+  - The target is unaware and helpless
+  - The attack targets a vulnerable spot between armor plates
+  - The attack method (garroting) bypasses armor protection
+
+The attack proceeds without the armor Bonus.
+
+**Example 5: Fire Spell vs Armor**
+
+A pyromancer casts a fireball at a warrior in full plate armor (+3 Bonus).
+
+- The GM rules that armor provides minimal or no protection against fire
+- Fire can cook someone alive inside armor, so the armor Bonus does not apply to Spell Resistance
+- The warrior's Spell Resistance is calculated using only their Defensive Feat (likely Passive Dodge or Block)
+- The fireball's heat may even make the armor a liability (GM discretion)
+
+---
+
+#### Counterspell
+
+Spellcasters may use spells as Defensive Feats, replacing traditional defensive options such as Dodge, Block, or Parry for that beat. The spell must make narrative sense as a defensive measure. For example: a Conjurer might summon a floating shield to block a physical attack, a Pyromancer might use his control over flames to deflect an incoming fireball, or an Abjurer might weave a barrier of pure force magic around himself.
+
+**Requirements:**
+
+- The caster must have at least one Spellcasting Aspect tied to a school of magic
+- The spell must be cast from within the caster's school of magic (same restrictions as normal spellcasting)
+- The spell's narrative description must make sense as a defensive measure against the incoming attack
+- The caster uses Counterspell instead of other Defensive Feats (Dodge, Block, Parry, etc.) for that beat
+
+**Mechanics:**
+
+When using a spell as a Defensive Feat, the caster makes a single spellcasting roll that must satisfy two conditions simultaneously:
+
+1. **Defensive Contest**: The spellcasting roll must produce MORE successes than the attacker's roll (Active vs Active contest)
+2. **Spell Success**: The spellcasting roll must meet or exceed the spell's difficulty
+
+This is an Active Feat: Passive Bonus cannot be used when casting spells as Defensive Feats, consistent with normal spellcasting rules. The caster must roll every time.
+
+If the spellcasting roll beats the attacker's roll but fails to meet the spell's difficulty, the defense fails because the spell fails to manifest. If the spellcasting roll meets the spell's difficulty but doesn't beat the attacker's roll, the spell manifests but the defense fails (the attack hits). Both conditions must be met for the spell to successfully defend.
+
+**Spell vs Spell:**
+
+When defending against an incoming spell with a counterspell, the resolution works as follows:
+
+- The counterspeller's spellcasting roll is compared directly to the attacking spellcaster's roll (Active vs Active contest)
+- The counterspeller must roll number of successes greater than or equal to the attacking spellcaster
+- The counterspell must also meet its own difficulty to manifest, as determined by the GM
+
+**Armor and Counterspell:**
+
+When using a counterspell against a physical attack, Armor Bonus does not apply to the spellcasting roll, but it may be added on top of it, after the GM determines whether the counterspell has manifested successfully. The GM determines whether armor applies based on the nature of the attack and the failed spell.
+
+**Mana and Eldritch Burden:**
+
+Normal spellcasting rules apply when using spells as Defensive Feats:
+
+- If they roll a Bane, the caster takes a hit from magical strain, losing 1 Mana and 1 Stamina (or 1 Wound if no Stamina remains)
+- In addition, the Atomic D6 may generate special consequences (Boon, Bane, or Neutral) that affect the spell or the defense
+- If the spell is maintained as an ongoing effect, Eldritch Burden rules apply
+
+**Examples:**
+
+**Example 1: Conjurer vs Physical Attack**
+
+A Conjurer (Conjuration Bonus +4) is attacked by a raging barbarian wielding an axe. The Conjurer chooses to use Counterspell, summoning a floating magical shield to block the attack.
+
+- The Conjurer describes the spell: "I conjure a floating iron shield in front of me"
+- GM sets spell difficulty: 2 successes (Apprentice-level conjuration, Beat duration, close range)
+- Barbarian rolls attack: 3 successes
+- Conjurer rolls spellcasting (including Atomic D6): 5 successes and a Bane
+
+Result: The Conjurer's roll (5) beats the barbarian's roll (3) AND meets the spell difficulty (2). The shield successfully manifests and blocks the attack. The Conjurer loses 1 Mana and 1 Stamina from magical strain due to the Bane. The GM may rule that the Bane generates additional consequences.
+
+**Example 2: Pyromancer vs Fireball**
+
+A Pyromancer (Pyromancy Bonus +5) is targeted by an enemy spellcaster's fireball. The Pyromancer chooses to use Counterspell to try to usurp control of the incoming spell and deflect it.
+
+- The Pyromancer describes the spell: "I try to redirect the fireball away from me."
+- GM sets spell difficulty: 3 successes (Journeyman-level pyromancy, Beat duration, close range)
+- Attacking spellcaster rolls: 4 successes
+- Pyromancer rolls spellcasting: 6 successes and a Boon
+
+Result: The Pyromancer's roll (6) beats the attacking spellcaster's roll (4) AND meets the spell difficulty (3). The fireball is successfully deflected.
+
+**Example 3: Failed Defense, Successful Spell**
+
+An Abjurer (Abjuration Bonus +3) attempts to block a sword strike with a protective barrier.
+
+- GM sets spell difficulty: 2 successes
+- Attacker rolls: 5 successes
+- Abjurer rolls spellcasting: 4 successes and a Bane
+
+Result: The Abjurer's roll (4) meets the spell difficulty (2), so the barrier manifests. However, the roll (4) does not beat the attacker's roll (5), so the defense fails. The barrier appears but the sword strike still hits. The Abjurer loses 1 Mana and 1 Stamina from magical strain.
+
+**Example 4: Successful Defense, Failed Spell**
+
+A Transmuter (Transmutation Bonus +3) attempts to turn their skin into stone to block an attack.
+
+- GM sets spell difficulty: 4 successes
+- Attacker rolls: 2 successes
+- Transmuter rolls spellcasting: 3 successes, Neutral Atomic D6
+
+Result: The Transmuter's roll (3) beats the attacker's roll (2), however, the roll (3) does not meet the spell difficulty (4), so the spell fails to manifest and the Transmuter takes a hit from the attack.
+
 ---
 
 ### Adding Feats to the Character Sheet
@@ -766,14 +1221,14 @@ Time
 ======
 | **D8:** | **Description:** | **Equivalent to:**                                                                    |
 |---------|------------------|---------------------------------------------------------------------------------------|
-| 1       | Permanent        | Forever, in perpetuity.                                                               |
-| 2       | Narrative        | A full campaign, typically spanning one to five Acts.                                 |
-| 3       | Act              | A major chapter of a campaign, consisting of a group of Sequences.                    |
-| 4       | Sequence         | A collection of scenes, usually about one game Session.                               |
-| 5       | Scene            | A single continuous unit of action, typically lasting for several Beats.              |
-| 6       | Beat             | A single turn within turn-based play, a part of a Scene.                              |
-| 7       | Moment           | A brief but significant point in time within a Beat, often influencing its direction. |
-| 8       | Instant          | An event that happens immediately.                                                    |
+| 1       | Instant          | An event that happens immediately.                                                    |
+| 2       | Moment           | A brief but significant point in time within a Beat, often influencing its direction. |
+| 3       | Beat             | A single turn within turn-based play, a part of a Scene.                              |
+| 4       | Scene            | A single continuous unit of action, typically lasting for several Beats.              |
+| 5       | Sequence         | A collection of scenes, usually about one game Session.                               |
+| 6       | Act              | A major chapter of a Narrative, consisting of a group of Sequences.                   |
+| 7       | Narrative        | A full campaign, typically spanning one to five Acts.                                 |
+| 8       | Permanent        | Forever, in perpetuity.                                                               |
 
 Flashbacks
 ------------
@@ -819,9 +1274,9 @@ Repairing a cybernetic implant is a complicated process requiring a Feat of "Cyb
 
 Just like any other Feats, Cybernetics consume Stamina, but they also require additional resources that vary depending upon the nature of the augmentation.
 
-Some implants require an external power source. Others require fuel or ammunition. These resources are required for characters to keep their implants functioning.
+If the implant grants the character spellcasting abilities, it consumes Mana. In addition, some implants require an external power source. Others require fuel or ammunition. These resources are required for characters to keep their implants functioning.
 
-It is assumed that players are recharging and refueling their cybernetics while eating and drinking. If characters are ever without these resources, they may regain Stamina, but their implants stop functioning.
+It is assumed that players are recharging and refueling their cybernetics while eating and drinking. If characters lack the special resources needed to power their implants, they may regain Stamina, but their implants stop functioning.
 
 ---
 
@@ -1150,7 +1605,7 @@ In both situations, characters receive a Malus to crafting the item.
 Tech. Levels of Civilizations
 ------------------------------------
 
-### T0 - Stone Age (Prehistoric Survivalists)
+### TL 0 - Stone Age (Prehistoric Survivalists)
 
 - Power is measured in physical prowess, survival skills, and oral traditions.
 - Civilizations rely entirely on stone tools, fire, and simple hunting/gathering techniques.
@@ -1158,7 +1613,7 @@ Tech. Levels of Civilizations
 
 ---
 
-### T1 - Bronze Age (City States & Basic Metallurgy)
+### TL 1 - Bronze Age (City States & Basic Metallurgy)
 
 - Early nautical cultures begin to utilize wind power to cross oceans.
 - The discovery of bronze leads to stronger weapons and armor.
@@ -1167,7 +1622,7 @@ Tech. Levels of Civilizations
 
 ---
 
-### T2 - Classical Age (Empires, Philosophy, and Organized Warfare)
+### TL 2 - Classical Age (Empires, Philosophy, and Organized Warfare)
 
 - Iron tools are now widespread, and Steel becomes available in limited quantities.
 - Theories of the natural world begin challenging traditional worldviews.
@@ -1176,17 +1631,17 @@ Tech. Levels of Civilizations
 
 ---
 
-### T3 - Early Industrial Age (Steam & Mass Production)
+### TL 3 - Early Industrial Age (Steam & Mass Production)
 
 - Steam and hydro power reshape society and drive mass production.
 - Mass production of Gunpowder changes the way wars are fought.
 - Theories of evolution, physics, and chemistry replace magical thinking.
 - Railroads, mechanized agriculture, and large-scale factories dominate economies.
-- Early mechanical computers and telegraphs begin revolutionizing communication.
+- Early mechanical calculators and telegraphs begin revolutionizing communication.
 
 ---
 
-### T4 - Late Industrial Age
+### TL 4 - Late Industrial Age
 
 - Electricity, petroleum, and internal combustion engines bring power to individual consumers.
 - Assembly lines make consumer goods widely available.
@@ -1196,7 +1651,7 @@ Tech. Levels of Civilizations
 
 ---
 
-### T5 - Atomic Age
+### TL 5 - Atomic Age
 
 - Nuclear power creates abundant energy but threatens the environment.
 - Weapons of Mass Destruction raise the possibility of world destruction.
@@ -1206,7 +1661,7 @@ Tech. Levels of Civilizations
 
 ---
 
-### T6 - Information Age (Cybernetics, AI, and Fusion Power)
+### TL 6 - Information Age (Cybernetics, AI, and Fusion Power)
 
 - Fusion power makes energy plentiful, cheap, and clean.
 - AI surpasses human intelligence in many fields.
@@ -1216,7 +1671,7 @@ Tech. Levels of Civilizations
 
 ---
 
-### T7 - Planetary Space Age (Early Colonization & Terraforming)
+### TL 7 - Planetary Space Age (Early Colonization & Terraforming)
 
 - Civilizations become multi-planetary but lack faster-than-light travel.
 - Quantum Networking allows faster-than-light communication over vast distances.
@@ -1225,7 +1680,7 @@ Tech. Levels of Civilizations
 
 ---
 
-### T8 - Interstellar Age (faster-than-light Travel & Megastructures)
+### TL 8 - Interstellar Age (faster-than-light Travel & Megastructures)
 
 - Faster-than-light travel enables galactic expansion.
 - Faster-than-light travel makes construction of artificial planets and massive space stations possible.
@@ -1234,15 +1689,15 @@ Tech. Levels of Civilizations
 
 ---
 
-### T9 - Cosmic Engineering Age (Post-Singularity AI & Stellar Manipulation)
+### TL 9 - Cosmic Engineering Age (Post-Singularity AI & Stellar Manipulation)
 
 - AI governs civilizations, guiding all decisions with perfect precision.
 - Civilizations control planetary systems, altering orbits and gravity.
-- Nanotechnology and self-replicating machines expand autonomously.
+- Nanotechnology and self-replicating machines expand artificial ecosystems autonomously.
 
 ---
 
-### T10 - Universal Age (Reality Manipulation & Cosmic Dominion)
+### TL 10 - Universal Age (Reality Manipulation & Cosmic Dominion)
 
 - Beings create and destroy galaxies at will.
 - The laws of physics become tools for civilizations to shape as they desire.
