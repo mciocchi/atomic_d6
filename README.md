@@ -397,6 +397,78 @@ Inventory
 ---
 ```
 
+## Varo Thesk
+
+```
+Varo Thesk ( +2 )
+========================================
+
+| Stamina: | Mana: | Wounds: ------------------------------------------------- |
+| :------: | :---: | :-------------------------------------------------------- |
+|    [ ]   |  ( )  | ♡                                                         |
+|    [ ]   |  ( )  | ♡                                                         |
+|    [ ]   |  ( )  | ♡                                                         |
+|    ---   |  ---  | 💀                                                        |
+
+## Feats
+
+| Feat:       | Bonus: | Relevant Aspect: ------------------------------------- |
+|:------------|:-------|:-------------------------------------------------------|
+| Notice      | +2     | Illusiomancer of the Veiled Lantern School             |
+| Resolve     | +2     | Illusiomancer of the Veiled Lantern School             |
+| Endure      | +0     |                                                        |
+| Parry       | +0     |                                                        |
+| Block       | +0     |                                                        |
+| Conceal     | +0     |                                                        |
+| Dodge       | +0     |                                                        |
+| Interrogate | +0     |                                                        |
+| Shoot       | +0     |                                                        |
+| Melee       | +0     |                                                        |
+| Spellcraft  | +2     | Illusiomancer of the Veiled Lantern School             |
+| History     | +2     | Historian of the Realm                                 |
+| Gambling    | +2     | Card Sharp                                             |
+|             |        |                                                        |
+
+## Apprentice Illusionist and Professional Cheat ( +2 )
+
+### Illusiomancer of the Veiled Lantern School
+
+Varo is trained to weave subtle deceptions — flickers, phantoms, misdirected attention, and sensory distortions.
+
+### Magical Craftsman
+
+Varo has a knack for crafting magical items.
+
+### Historian of the Realm
+
+Varo is a prodigious scholar, with a voluminous knowledge of past events.
+
+### Card Sharp
+
+His favorite pastime is stacking decks, conjuring false tells, or masking his true hand with illusions.
+
+## Inventory
+
+#### Wealth Level: 2
+
+#### Commoner's Clothes
+
+#### Simple bone or wooden focus stick
+
+#### Pouch of mundane playing cards
+
+#### Loose-fitting robe with deep sleeves
+
+#### Provisions
+    - 2 lb. Salted Pork
+    - 1 lb. Hardtack
+    - 1 Loaf of fresh bread
+    - 1 Water Skin (1 Gallon)
+
+---
+
+```
+
 ---
 
 Understanding Parts of the Atomic D6 Character Sheet
