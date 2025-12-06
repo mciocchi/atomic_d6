@@ -957,9 +957,9 @@ Repairing a cybernetic implant is a complicated process requiring a Feat of "Cyb
 
 Just like any other Feats, Cybernetics consume Stamina, but they also require additional resources that vary depending upon the nature of the augmentation.
 
-Some implants require an external power source. Others require fuel or ammunition. These resources are required for characters to keep their implants functioning.
+If the implant grants the character spellcasting abilities, it consumes Mana. In addition, some implants require an external power source. Others require fuel or ammunition. These resources are required for characters to keep their implants functioning.
 
-It is assumed that players are recharging and refueling their cybernetics while eating and drinking. If characters are ever without these resources, they may regain Stamina, but their implants stop functioning.
+It is assumed that players are recharging and refueling their cybernetics while eating and drinking. If characters lack the special resources needed to power their implants, they may regain Stamina, but their implants stop functioning.
 
 ---
 
