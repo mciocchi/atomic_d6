@@ -264,7 +264,7 @@ They may cast additional spells as long as they do not maintain effects over an 
 
 ### Death by Magical Strain
 
-When a character dies as a result of magical strain, powerful eldritch energies are released. The exact kind of eldritch energies varies depending upon the type of spell being cast, but the results are unpredictable and spectacular. For instance: a pyromancer might explode in a violent fireball.
+When a character dies as a result of magical strain, powerful eldritch energies are released. The exact kind of eldritch energies varies depending upon the type of spell being cast, but the results can be unpredictable and spectacular. For instance: a pyromancer might explode in a violent fireball.
 
 ### Paradox
 
@@ -1058,14 +1058,14 @@ Time
 ======
 | **D8:** | **Description:** | **Equivalent to:**                                                                    |
 |---------|------------------|---------------------------------------------------------------------------------------|
-| 1       | Permanent        | Forever, in perpetuity.                                                               |
-| 2       | Narrative        | A full campaign, typically spanning one to five Acts.                                 |
-| 3       | Act              | A major chapter of a campaign, consisting of a group of Sequences.                    |
-| 4       | Sequence         | A collection of scenes, usually about one game Session.                               |
-| 5       | Scene            | A single continuous unit of action, typically lasting for several Beats.              |
-| 6       | Beat             | A single turn within turn-based play, a part of a Scene.                              |
-| 7       | Moment           | A brief but significant point in time within a Beat, often influencing its direction. |
-| 8       | Instant          | An event that happens immediately.                                                    |
+| 1       | Instant          | An event that happens immediately.                                                    |
+| 2       | Moment           | A brief but significant point in time within a Beat, often influencing its direction. |
+| 3       | Beat             | A single turn within turn-based play, a part of a Scene.                              |
+| 4       | Scene            | A single continuous unit of action, typically lasting for several Beats.              |
+| 5       | Sequence         | A collection of scenes, usually about one game Session.                               |
+| 6       | Act              | A major chapter of a Narrative, consisting of a group of Sequences.                   |
+| 7       | Narrative        | A full campaign, typically spanning one to five Acts.                                 |
+| 8       | Permanent        | Forever, in perpetuity.                                                               |
 
 Flashbacks
 ------------
