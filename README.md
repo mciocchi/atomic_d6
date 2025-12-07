@@ -240,11 +240,17 @@ Magical strain may represent backlash, fatigue, and psychic stress caused by mag
 - Failure: The spell fizzles and does not manifest.
 - Boon:
   - The spell might be unexpectedly more powerful or produce an unexpected beneficial effect.
+  - The spell's duration may be unexpectedly extended (GM's discretion, typically one step longer: Beat becomes Scene, Scene becomes Sequence, etc.).
+  - The spell may be unexpectedly harder to resist.
   - Spells that are unexpectedly more powerful may also be dangerous to the player and their allies!
 - Bane:
   - The caster takes a hit from magical strain, and loses 1 Mana and 1 Stamina, regardless of the success or failure of the spell.
   - Just like any other hit, if the character has no Stamina remaining, they suffer 1 Wound instead.
   - The spell may have unexpected negative effects.
+  - The spell's duration may be unexpectedly shortened (GM's discretion, typically one step shorter: Scene becomes Beat, Sequence becomes Scene, etc.), or the spell may fail to take hold at all.
+  - The spell may be unexpectedly easier to resist.
+- Neutral:
+  - The spell has no additional effects.
 
 ### Eldritch Burden
 
