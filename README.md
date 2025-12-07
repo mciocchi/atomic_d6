@@ -286,7 +286,7 @@ Spell Resistance = Base Spell Difficulty + Target’s Defensive Feat (Can be Pas
 - The defender gets to choose which defensive Feat to use, as long as it's appropriate
   - Physical targeting: Passive Dodge, Passive Block, Passive Endure, or similar
   - Mental or sensory effects: Passive Resolve, or similar.
-  - If the spell is a physical attack, armor needs
+  - If the spell is a physical attack, armor may provide additional protection (see Armor and Spell Resistance below)
   - If the target lacks a relevant Aspect for that defense, use the standard Defensive Floor in place of their full Concept Bonus.
 
 The caster rolls spellcasting as a normal Feat, applying their Spellcasting Aspect and other Bonuses. They must meet or beat the total Spell Resistance for the spell to fully take hold.
@@ -705,6 +705,154 @@ Common Defensive Feats:
 - Something else (be creative, add it to your Character Sheet)
 
 After a character chooses their defensive Feat, they work with the GM to determine whether it receives a Bonus or Malus from their Aspects.
+
+If the character is wearing armor, the armor's Bonus is added to the Active Defensive Feat Bonus, and then the total is converted to Passive Bonus. Note that heavy armor may impose Maluses on certain Defensive Feats (especially Dodge). See the [Armor](#Armor) section for details.
+
+### Armor
+
+Armor provides protection by making characters harder to hit. Armor Bonus is added to Active Defensive Feats, and then the total is converted to Passive Bonus using the standard formula.
+
+#### Armor as Bonus
+
+Armor provides a Bonus that is added to a character's Active Defensive Feat Bonus. The total (Active Defensive Feat Bonus + Armor Bonus) is then converted to Passive Bonus using the standard formula:
+
+```
+Passive Bonus = round((Active Defensive Feat Bonus + Armor Bonus) / 2)
+```
+
+Armor's Bonus always applies to physical attacks in addition to any Defensive Feat chosen, except in situations where armor can be bypassed (see Situations Where Armor Does Not Apply).
+
+#### Armor Types
+
+Armor is typically categorized as light, medium, or heavy:
+
+- **Light Armor**: Leather, padded cloth, Kevlar vest
+  - Typical Bonus: +1
+- **Medium Armor**: Chainmail, scale mail, ballistic vest
+  - Typical Bonus: +2
+- **Heavy Armor**: Full plate, heavy powered armor, full body armor
+  - Typical Bonus: +3
+
+The GM may adjust armor Bonus values based on setting, tech level, or magical enhancement.
+
+#### Heavy Armor Maluses
+
+Heavy armor provides excellent protection but imposes restrictions on movement and agility:
+
+- **Dodge Malus**: Heavy armor imposes a Malus on Dodge Feats (GM discretion, typically -1 or -2)
+- **Speed and Agility Malus**: Heavy armor imposes a Malus on Feats requiring speed or agility (sprinting, acrobatics, parkour, etc.)
+- **Swimming Difficulty**: Heavy armor makes swimming very difficult or impossible (GM may require Feats or declare automatic failure)
+
+#### Situations Where Armor Does Not Apply
+
+Armor may not provide protection in certain circumstances:
+
+- **Unaware Targets**: When attacking an unaware or helpless target, armor may not apply if the attacker can target vulnerable spots (e.g., stabbing between armor plates, garroting, targeting gaps in protection)
+- **GM Discretion**: The GM determines when armor doesn't apply based on the situation, target awareness, and attack method
+- **Examples**: Sneak attacks on sleeping targets, precision strikes on armor gaps, attacks on restrained/helpless targets where armor can be bypassed
+
+#### Modern and Science Fiction Armor
+
+Modern and science fiction protective gear functions the same way as traditional armor:
+
+- **Modern Armor**: Kevlar, ballistic vests, and similar modern protective gear function as armor with Bonus
+  - Examples: Kevlar vest (+1), Ballistic vest (+2), Full body armor (+3)
+  - Follows same rules as traditional armor (Bonus added to Defensive Feats, heavy armor Maluses, situations where armor doesn't apply, etc.)
+- **Ballistic Shields**: Portable shields (riot shields, ballistic shields) provide armor protection when actively used
+  - May be treated as Block Defensive Feat + Armor Bonus
+  - Can be used to protect others (GM discretion)
+  - When not actively held/used, does not provide protection
+  - Examples: Riot shield (+1), Ballistic shield (+2)
+- **Tech Level Considerations**: Higher tech levels may provide better armor protection or specialized armor types
+  - Energy shields, reactive armor, nanoweave, etc. (GM determines Bonus based on tech level)
+  - Sci-fi armor may have special properties (energy resistance, environmental protection, etc.)
+
+#### Powered Armor
+
+Powered armor systems (power suits, exoskeletons, mech suits, battle frames) are treated as vehicles, not standard armor. See the [Mounts and Vehicles](#Mounts-and-Vehicles) section for details.
+
+- **Powered Armor as Vehicle**: Powered armor requires fuel or power source, ammunition for integrated weapons (if applicable), and maintenance like vehicles
+- **Armor Function**: When powered and operational, powered armor provides armor Bonus like any other armor
+  - Typically provides +3 Bonus or higher (GM discretion based on tech level)
+- **Integration with Vehicle Rules**: Follows the same rules as Mounts and Vehicles:
+  - Uses fuel instead of stamina
+  - Refuels instead of eating
+  - Has its own character sheet (optional, for complex systems)
+  - Damage expressed as Wounds (Minor = cosmetic, Major = critical systems)
+- **When Unpowered**: If powered armor loses power or fuel:
+  - May still provide some protection (reduced Bonus, GM discretion)
+  - Imposes heavy Maluses on movement and agility (may be immobile)
+  - Cannot use integrated systems or weapons
+
+#### Vehicle Armor
+
+Vehicle armor functions identically to character armor:
+
+- **Same Rules as Character Armor**: Vehicle armor uses the same Bonus system
+- **Armor Bonus**: Vehicles with armor gain Bonus to defense against attacks
+- **Armor Types**: Vehicles can have light, medium, or heavy armor (or modern equivalents)
+  - Examples: Light vehicle armor (+1), Reinforced plating (+2), Heavy armor (+3)
+- **Integration**: Vehicle armor Bonus is added to vehicle Defensive Feats (if vehicles can use Defensive Feats), then converted to Passive Bonus
+- **Tech Level**: Higher tech vehicles may have advanced armor (energy shields, reactive plating, etc.)
+- **Maintenance**: Vehicle armor can be damaged and requires repairs (like other vehicle systems)
+
+#### Examples: Armor in Action
+
+**Example 1: Light Armor with Defensive Feat**
+
+Kaelion (Concept Bonus +4, Swordsman Aspect) wears light leather armor (+1 Bonus) and uses Dodge to avoid an attack.
+
+- Active Dodge Bonus: +4 (from Swordsman Aspect)
+- Armor Bonus: +1
+- Total Active Bonus: +5
+- Passive Bonus: round(5 / 2) = 3 successes
+
+The attacker must roll 3 or more successes to hit Kaelion.
+
+**Example 2: Heavy Armor with Defensive Feat**
+
+A knight in full plate armor (+3 Bonus) with Concept Bonus +6 and a "Knight of the Realm" Aspect that applies to Block attempts to block an attack.
+
+- Active Block Bonus: +6 (from Knight Aspect)
+- Armor Bonus: +3
+- Total Active Bonus: +9
+- Passive Bonus: round(9 / 2) = 5 successes
+
+The attacker must roll 5 or more successes to hit. However, if the knight tried to Dodge instead, they would receive a Malus (typically -1 or -2) due to the heavy armor.
+
+**Example 3: Armor Against Physical Spell**
+
+A guard in chainmail (+2 Bonus) with Concept Bonus +2 and no relevant defensive Aspects is targeted by an ice bolt spell.
+
+- Base spell difficulty: 2 successes (Apprentice-level)
+- Active Block Bonus: +0 (no relevant Aspect, uses Defensive Floor)
+- Defensive Floor: round(2 / 3) = 1
+- Armor Bonus: +2
+- Total Active Bonus: 1 + 2 = 3
+- Passive Block Bonus: round(3 / 2) = 2 successes
+- Total Spell Resistance: 2 (base) + 2 (defense) = 4 successes required
+
+The spellcaster must roll 4 or more successes for the ice bolt to hit the guard.
+
+**Example 4: Armor Bypassed**
+
+An assassin sneaks up on a sleeping knight in full plate armor. The assassin targets the gap between the helmet and gorget with a garrote.
+
+- The GM rules that armor does not apply because:
+  - The target is unaware and helpless
+  - The attack targets a vulnerable spot between armor plates
+  - The attack method (garroting) bypasses armor protection
+
+The attack proceeds without the armor Bonus.
+
+**Example 5: Fire Spell vs Armor**
+
+A pyromancer casts a fireball at a warrior in full plate armor (+3 Bonus).
+
+- The GM rules that armor provides minimal or no protection against fire
+- Fire can cook someone alive inside armor, so the armor Bonus does not apply to Spell Resistance
+- The warrior's Spell Resistance is calculated using only their Defensive Feat (likely Passive Dodge or Block)
+- The fireball's heat may even make the armor a liability (GM discretion)
 
 ---
 
