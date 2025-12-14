@@ -234,6 +234,61 @@ Magical strain may represent backlash, fatigue, and psychic stress caused by mag
    - The Atomic D6 may generate special consequences.
    - Passive scores may not be used when casting spells: players must roll every time.
 
+#### Calculating Spell Difficulty
+
+When setting the difficulty for a spell (step 3), the GM uses the following formula:
+
+```
+Spell Difficulty = Paradox +
+                   Duration +
+                   Resistance Interval +
+                   Targets/Area +
+                   Resistance Difficulty +
+                   Range +
+                   Magnitude -
+                   Preparation Time -
+                   Number of Casters
+                   Capped at 26, Floored at 0
+```
+
+The final result is capped at a maximum of 26 successes and floored at a minimum of 0 successes.
+
+##### Paradox
+
+Paradox is the first and most important variable for the GM to ascertain. It represents how "reality breaking" (read: game breaking) the spell is. The GM should assess how much the spell violates the world's natural laws or game balance. Paradox can change over time; even the same spell can change in difficulty if the circumstances of its casting are different, or if it is cast repeatedly. See the [Paradox](#Paradox) section for more information.
+
+##### Duration
+
+Duration uses in-game time, not narrative time. The GM must consider the actual in-world duration when determining difficulty. For instance: if a scene is 1000 years, the GM should make that spell much more difficult than a spell lasting a scene that is 5 minutes. The duration steps (Beat, Scene, Sequence, Act, Narrative, Permanent) are defined in the [Time](#Time) section.
+
+##### Resistance Interval
+
+Resistance Interval defaults to one step lower than Duration. For instance: if the duration lasts one Scene, the resistance interval will be one Beat. If the duration is one Beat, the resistance interval will be one Moment. The Resistance Interval represents how often targets can attempt to resist the spell's effects. See the [Resisting a Spell](#Resisting-a-Spell) section for more information.
+
+##### Targets/Area
+
+This variable accounts for the number of targets or the size of the area affected by the spell. Spells that affect multiple targets or larger areas are more difficult than spells affecting a single target or small area.
+
+##### Resistance Difficulty
+
+This usuallly defaults to the total difficulty of the spell, and represents how difficult it is for targets to resist its effects. Spells that are harder to resist (such as mind control or binding effects) add more to the difficulty than spells that are easier to resist.
+
+##### Range
+
+Range represents the distance from the caster to the target or the area of effect. Spells cast at greater distances are more difficult than spells cast at close range.
+
+##### Magnitude
+
+Magnitude represents the raw power or intensity of the spell's effect. More powerful effects reduce the spell's difficulty (this variable is subtracted from the total). The GM should consider the scale of the effect when determining Magnitude.
+
+##### Preparation Time
+
+Preparation Time represents the time spent preparing the spell before casting. Spells that are prepared over a longer period are easier to cast (this variable is subtracted from the total). Rituals and ceremonies that take hours or days reduce the spell's difficulty.
+
+##### Number of Casters
+
+When multiple casters work together to cast a spell, the difficulty is reduced (this variable is subtracted from the total). Each additional caster beyond the first reduces the difficulty, representing the shared burden of channeling magical energy.
+
 ### Spellcasting Outcomes
 
 - Success: The spell is cast as intended.
@@ -309,31 +364,51 @@ Spell effects such as chains, webs, or shackles are treated as a negative Aspect
   - Any fixed, agreed‑upon duration expires (for non‑maintained effects).
   - While the Condition is active, the target is restricted according to the spell’s description.
 
-#### Attempting to Break Free Each Turn
+#### Attempting to Break Free
 
-A character affected by a spell in combat may attempt to break free once each Beat as an Active Feat.
+Characters may attempt to resist a spell when it is first cast. After that, they get additional chances to shake off any lingering effects, depending on its Resistance Interval.
 
 - Choose a Feat that matches the nature of the spell:
   - Physical bindings (chains, webs, snares):
-    - Endure, Melee, or a custom Feat such as Break Free / Athletics.
+    - Endure, Melee, or a custom Feat such as Break Free / Wrestling / Athletics.
   - Illusory / mental bindings (pure mind tricks, fear, phantasms):
-    - Resolve or a similar mental defense Feat.
+    - Resolve, Illusion, or a similar mental defense Feat.
   - Projectiles and conjured melee attacks
     - Dodge or Block
+  - Counterspell
+    - The target can attempt to cast a spell to help them break free
 - Apply Aspects normally; tangential Aspects grant Half Bonus, Maluses reduce effectiveness as usual.
 
-##### Escape Difficulty
+The difficulty of escaping the spell effect is equivalent to the number of successes the caster rolled to cast it.
 
-Set the difficulty to escape as:
+Some Bonuses and Maluses can be applied to account for circumstances, Boons, and Banes.
+
+#### Armor and Spell Resistance
+
+Armor provides protection against certain types of physical spell effects. When calculating Spell Resistance against physical spells, armor Bonus is added to the Defensive Feat Bonus.
 
 ```
-Escape Difficulty = Original Spell Difficulty + Caster’s Passive Spellcasting Bonus
+Spell Resistance = Target's Defensive Feat + Armor Bonus (if applicable)
 ```
 
-- Original Spell Difficulty is the same number the GM used when the spell was cast (for example, 2 for an Apprentice‑level effect).
-- The caster’s Passive Spellcasting Bonus is their spellcasting Concept Bonus converted to a Passive Bonus (round Concept Bonus ÷ 2, as with other Passive scores).
+Armor provides protection against physical spell effects that would be blocked or mitigated by protective gear:
 
-The bound character rolls once per turn. Meeting or beating the Escape Difficulty fully ends the Condition.
+- Physical projectile spells (ice bolts, force missiles, stone projectiles)
+- Conjured weapon attacks (magical swords, spears, arrows)
+- Force-based attacks that create physical impact
+
+**When Armor Does Not Apply to Spell Resistance:**
+
+Armor provides limited or no protection against:
+
+- Drowning
+- Suffocation
+- Fire spells (fire can cook someone alive inside armor, providing minimal protection at best)
+- Energy-based attacks that bypass physical barriers (lightning, plasma)
+- Mental or sensory effects (illusions, mind control, fear)
+- Spells that target internal systems (poison gas, life drain)
+
+The GM determines whether armor applies to a specific spell based on the spell's description and the nature of its effects. When in doubt, consider whether the spell creates a physical effect that armor would realistically protect against.
 
 ---
 
@@ -853,6 +928,94 @@ A pyromancer casts a fireball at a warrior in full plate armor (+3 Bonus).
 - Fire can cook someone alive inside armor, so the armor Bonus does not apply to Spell Resistance
 - The warrior's Spell Resistance is calculated using only their Defensive Feat (likely Passive Dodge or Block)
 - The fireball's heat may even make the armor a liability (GM discretion)
+
+---
+
+#### Counterspell
+
+Spellcasters may use spells as Defensive Feats, replacing traditional defensive options such as Dodge, Block, or Parry for that beat. The spell must make narrative sense as a defensive measure. For example: a Conjurer might summon a floating shield to block a physical attack, a Pyromancer might use his control over flames to deflect an incoming fireball, or an Abjurer might weave a barrier of pure force magic around himself.
+
+**Requirements:**
+
+- The caster must have at least one Spellcasting Aspect tied to a school of magic
+- The spell must be cast from within the caster's school of magic (same restrictions as normal spellcasting)
+- The spell's narrative description must make sense as a defensive measure against the incoming attack
+- The caster uses Counterspell instead of other Defensive Feats (Dodge, Block, Parry, etc.) for that beat
+
+**Mechanics:**
+
+When using a spell as a Defensive Feat, the caster makes a single spellcasting roll that must satisfy two conditions simultaneously:
+
+1. **Defensive Contest**: The spellcasting roll must produce MORE successes than the attacker's roll (Active vs Active contest)
+2. **Spell Success**: The spellcasting roll must meet or exceed the spell's difficulty
+
+This is an Active Feat: Passive Bonus cannot be used when casting spells as Defensive Feats, consistent with normal spellcasting rules. The caster must roll every time.
+
+If the spellcasting roll beats the attacker's roll but fails to meet the spell's difficulty, the defense fails because the spell fails to manifest. If the spellcasting roll meets the spell's difficulty but doesn't beat the attacker's roll, the spell manifests but the defense fails (the attack hits). Both conditions must be met for the spell to successfully defend.
+
+**Spell vs Spell:**
+
+When defending against an incoming spell with a counterspell, the resolution works as follows:
+
+- The counterspeller's spellcasting roll is compared directly to the attacking spellcaster's roll (Active vs Active contest)
+- The counterspeller must roll number of successes greater than or equal to the attacking spellcaster
+- The counterspell must also meet its own difficulty to manifest, as determined by the GM
+
+**Armor and Counterspell:**
+
+When using a counterspell against a physical attack, Armor Bonus does not apply to the spellcasting roll, but it may be added on top of it, after the GM determines whether the counterspell has manifested successfully. The GM determines whether armor applies based on the nature of the attack and the failed spell.
+
+**Mana and Eldritch Burden:**
+
+Normal spellcasting rules apply when using spells as Defensive Feats:
+
+- If they roll a Bane, the caster takes a hit from magical strain, losing 1 Mana and 1 Stamina (or 1 Wound if no Stamina remains)
+- In addition, the Atomic D6 may generate special consequences (Boon, Bane, or Neutral) that affect the spell or the defense
+- If the spell is maintained as an ongoing effect, Eldritch Burden rules apply
+
+**Examples:**
+
+**Example 1: Conjurer vs Physical Attack**
+
+A Conjurer (Conjuration Bonus +4) is attacked by a raging barbarian wielding an axe. The Conjurer chooses to use Counterspell, summoning a floating magical shield to block the attack.
+
+- The Conjurer describes the spell: "I conjure a floating iron shield in front of me"
+- GM sets spell difficulty: 2 successes (Apprentice-level conjuration, Beat duration, close range)
+- Barbarian rolls attack: 3 successes
+- Conjurer rolls spellcasting (including Atomic D6): 5 successes and a Bane
+
+Result: The Conjurer's roll (5) beats the barbarian's roll (3) AND meets the spell difficulty (2). The shield successfully manifests and blocks the attack. The Conjurer loses 1 Mana and 1 Stamina from magical strain due to the Bane. The GM may rule that the Bane generates additional consequences.
+
+**Example 2: Pyromancer vs Fireball**
+
+A Pyromancer (Pyromancy Bonus +5) is targeted by an enemy spellcaster's fireball. The Pyromancer chooses to use Counterspell to try to usurp control of the incoming spell and deflect it.
+
+- The Pyromancer describes the spell: "I try to redirect the fireball away from me."
+- GM sets spell difficulty: 3 successes (Journeyman-level pyromancy, Beat duration, close range)
+- Attacking spellcaster rolls: 4 successes
+- Pyromancer rolls spellcasting: 6 successes and a Boon
+
+Result: The Pyromancer's roll (6) beats the attacking spellcaster's roll (4) AND meets the spell difficulty (3). The fireball is successfully deflected.
+
+**Example 3: Failed Defense, Successful Spell**
+
+An Abjurer (Abjuration Bonus +3) attempts to block a sword strike with a protective barrier.
+
+- GM sets spell difficulty: 2 successes
+- Attacker rolls: 5 successes
+- Abjurer rolls spellcasting: 4 successes and a Bane
+
+Result: The Abjurer's roll (4) meets the spell difficulty (2), so the barrier manifests. However, the roll (4) does not beat the attacker's roll (5), so the defense fails. The barrier appears but the sword strike still hits. The Abjurer loses 1 Mana and 1 Stamina from magical strain.
+
+**Example 4: Successful Defense, Failed Spell**
+
+A Transmuter (Transmutation Bonus +3) attempts to turn their skin into stone to block an attack.
+
+- GM sets spell difficulty: 4 successes
+- Attacker rolls: 2 successes
+- Transmuter rolls spellcasting: 3 successes, Neutral Atomic D6
+
+Result: The Transmuter's roll (3) beats the attacker's roll (2), however, the roll (3) does not meet the spell difficulty (4), so the spell fails to manifest and the Transmuter takes a hit from the attack.
 
 ---
 
