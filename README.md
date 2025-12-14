@@ -103,7 +103,7 @@ Half Bonus (Tangential Feats)
 If a character attempts a Feat that is only tangentially related to their Aspects, they may receive only a Half Bonus.
 
 ```
-Half Bonus = round( Concept Bonus / 2)
+Half Bonus = round up( Concept Bonus / 2)
 ```
 
 Maluses
@@ -113,7 +113,7 @@ An Aspect that hinders a character is called a Malus.
 
 Characters subject to a Malus receive only a Half Bonus to Aspects that are affected by the Malus.
 
-If the Feat that they are attempting is already tangental and also subject to a Malus, their Bonus is further reduced to 1/3, rounded.
+If the Feat that they are attempting is already tangental and also subject to a Malus, their Bonus is further reduced to 1/3, rounded up.
 
 For instance: because of his slashed arm, Kaelion receives a Malus to Swordsmanship, and he only gets a 1/2 Bonus to it until his arm heals.
 
@@ -136,10 +136,10 @@ Passive Bonus
 To reduce unnecessary rolling, the GM may ask players to convert their Aspect Bonus into an average number of automatic successes.
 
 ```
-Passive Concept Bonus = round( Concept Bonus / 2 )
+Passive Concept Bonus = round up( Concept Bonus / 2 )
 ```
 
-For example: a Concept Bonus of 4 / 2 rounded up = 2 automatic successes without rolling.
+For example: a Concept Bonus of 4 / 2 = 2 automatic successes without rolling.
 
 Passive Bonus is also used to determine how difficult it is to hit a character when they are defending.
 
@@ -153,7 +153,7 @@ Floor for Defensive Feats
 To prevent automatic failure, all characters have a floor for Defensive Feats in particular.
 
 ```
-Defensive Floor = round( Concept Bonus / 3 )
+Defensive Floor = round up( Concept Bonus / 3 )
 ```
 
 This floor is applied when a character is forced to use a Defensive Feat that does not benefit from any of their Aspects.
@@ -792,7 +792,7 @@ Armor provides protection by making characters harder to hit. Armor Bonus is add
 Armor provides a Bonus that is added to a character's Active Defensive Feat Bonus. The total (Active Defensive Feat Bonus + Armor Bonus) is then converted to Passive Bonus using the standard formula:
 
 ```
-Passive Bonus = round((Active Defensive Feat Bonus + Armor Bonus) / 2)
+Passive Bonus = round up((Active Defensive Feat Bonus + Armor Bonus) / 2)
 ```
 
 Armor's Bonus always applies to physical attacks in addition to any Defensive Feat chosen, except in situations where armor can be bypassed (see Situations Where Armor Does Not Apply).
@@ -880,7 +880,7 @@ Kaelion (Concept Bonus +4, Swordsman Aspect) wears light leather armor (+1 Bonus
 - Active Dodge Bonus: +4 (from Swordsman Aspect)
 - Armor Bonus: +1
 - Total Active Bonus: +5
-- Passive Bonus: round(5 / 2) = 3 successes
+- Passive Bonus: round up(5 / 2) = 3 successes
 
 The attacker must roll 3 or more successes to hit Kaelion.
 
@@ -891,7 +891,7 @@ A knight in full plate armor (+3 Bonus) with Concept Bonus +6 and a "Knight of t
 - Active Block Bonus: +6 (from Knight Aspect)
 - Armor Bonus: +3
 - Total Active Bonus: +9
-- Passive Bonus: round(9 / 2) = 5 successes
+- Passive Bonus: round up(9 / 2) = 5 successes
 
 The attacker must roll 5 or more successes to hit. However, if the knight tried to Dodge instead, they would receive a Malus (typically -1 or -2) due to the heavy armor.
 
@@ -901,10 +901,10 @@ A guard in chainmail (+2 Bonus) with Concept Bonus +2 and no relevant defensive 
 
 - Base spell difficulty: 2 successes (Apprentice-level)
 - Active Block Bonus: +0 (no relevant Aspect, uses Defensive Floor)
-- Defensive Floor: round(2 / 3) = 1
+- Defensive Floor: round up(2 / 3) = 1
 - Armor Bonus: +2
 - Total Active Bonus: 1 + 2 = 3
-- Passive Block Bonus: round(3 / 2) = 2 successes
+- Passive Block Bonus: round up(3 / 2) = 2 successes
 - Total Spell Resistance: 2 (base) + 2 (defense) = 4 successes required
 
 The spellcaster must roll 4 or more successes for the ice bolt to hit the guard.
@@ -1987,12 +1987,13 @@ Glossary
 | Bane    | A negative narrative beat                                                                                                                                                   |
 | Boon    | A positive narrative beat                                                                                                                                                   |
 | Bonus   | A positive effect that increases someone's chance to succeed on a roll                                                                                                      |
-| Concept | A special kind of Aspect that defines the core of a character                                                                                                               |
+| Concept | A one-line statement that defines the core of a character and decides which Aspects they're allowed to have.                                                                |
 | D6      | Six sided die                                                                                                                                                               |
 | Domain  | A sociogeographical entity comprised of many characters that can be treated as one unit (e.g., a culture, the government of a country, a garrison, guild, or a corporation) |
 | Feat    | An attempt by a character to do something, usually requiring Feat Dice to be rolled                                                                                         |
 | GM      | Game Master, the game's storyteller and referee                                                                                                                             |
 | Malus   | A negative effect that reduces a character's chance to succeed on a roll                                                                                                    |
+| Round   | In the context of Atomic D6, round numbers are always rounded up.                                                                                                           |
 
 
 ---
