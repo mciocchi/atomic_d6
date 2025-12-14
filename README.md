@@ -335,16 +335,25 @@ Resisting a Spell
 When a spell targets a resisting character, treat their defenses as an extra layer of difficulty rather than a separate roll.
 
 ```
-Spell Resistance = Base Spell Difficulty + Target’s Defensive Feat (Can be Passive or Active)
+Active Spell Resistance = Target’s Defensive Feat + Armor Bonus if applicable
 ```
 
-- The defender gets to choose which defensive Feat to use, as long as it's appropriate
-  - Physical targeting: Passive Dodge, Passive Block, Passive Endure, or similar
-  - Mental or sensory effects: Passive Resolve, or similar.
-  - If the spell is a physical attack, armor may provide additional protection (see Armor and Spell Resistance below)
-  - If the target lacks a relevant Aspect for that defense, use the standard Defensive Floor in place of their full Concept Bonus.
+As is the case with other Feats, Spell Resistance can be made Passive by dividing by two, and rounding up:
 
-The caster rolls spellcasting as a normal Feat, applying their Spellcasting Aspect and other Bonuses. They must meet or beat the total Spell Resistance for the spell to fully take hold.
+```
+Passive Spell Resistance = round up(Target’s Defensive Feat + Armor Bonus if applicable / 2)
+```
+
+- The defender gets to choose which Defensive Feat to use, as long as it's appropriate
+  - Physical targeting: Dodge, Block, Endure, or similar
+  - Mental or sensory effects: Passive Resolve, or similar.
+  - Counterspell, if the defender can conjure a magical effect to defend themselves
+  - If the spell is a physical attack, armor may provide additional protection
+  - If the target lacks a relevant Aspect for that defense, use the standard Defensive Floor in place of their full Concept Bonus. See [#Floor for Defensive Feats](Floor for Defensive Feats)
+
+The caster rolls spellcasting as a normal Feat, applying their Spellcasting Aspect and other Bonuses. They must beat the target's Spell Resistance for the spell to fully take hold.
+
+In the case of a "tie," where the attacker and defender roll the same number of successes, the defender is unharmed. In addition, the GM may rule that ties are a special case. For instance: the defender and attacker may end up locked together in a struggle.
 
 #### Example: Illusory Chains
 
@@ -385,28 +394,22 @@ Some Bonuses and Maluses can be applied to account for circumstances, Boons, and
 
 #### Armor and Spell Resistance
 
-Armor provides protection against certain types of physical spell effects. When calculating Spell Resistance against physical spells, armor Bonus is added to the Defensive Feat Bonus.
+Armor provides protection against certain types of physical spell effects. When calculating Spell Resistance against physical spells, armor Bonus is added to the Defensive Feat Bonus. See [#Resisting a Spell](Resisting a Spell** for details.
 
-```
-Spell Resistance = Target's Defensive Feat + Armor Bonus (if applicable)
-```
-
-Armor provides protection against physical spell effects that would be blocked or mitigated by protective gear:
+**Armor can protect against:**
 
 - Physical projectile spells (ice bolts, force missiles, stone projectiles)
 - Conjured weapon attacks (magical swords, spears, arrows)
 - Force-based attacks that create physical impact
 
-**When Armor Does Not Apply to Spell Resistance:**
-
-Armor provides limited or no protection against:
+**Armor provides limited or no protection against:**
 
 - Drowning
 - Suffocation
 - Fire spells (fire can cook someone alive inside armor, providing minimal protection at best)
 - Energy-based attacks that bypass physical barriers (lightning, plasma)
 - Mental or sensory effects (illusions, mind control, fear)
-- Spells that target internal systems (poison gas, life drain)
+- Spells that directly target internal organs (poison gas, diseases, life drain)
 
 The GM determines whether armor applies to a specific spell based on the spell's description and the nature of its effects. When in doubt, consider whether the spell creates a physical effect that armor would realistically protect against.
 
