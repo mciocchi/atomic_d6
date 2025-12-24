@@ -77,14 +77,14 @@ Feat Bonuses Summarized:
 
 The rules to resolve Feats in Atomic D6 may seem overwhelming at first, but there are only three numbers that characters actually need to remember:
 
-| Feat relationship to Aspect:                 | Calculation (rounded): |
-|----------------------------------------------|------------------------|
-| Directly related                             | Full Concept Bonus     |
-| Directly related but also subject to a Malus | 1/2 Concept Bonus      |
-| Tangentially related                         | 1/2 Concept Bonus      |
-| Tangentially related and subject to a Malus  | 1/3 Concept Bonus      |
-| Not related                                  | 1/3 Concept Bonus      |
-| Not related and subject to a Malus           | 1/3 Concept Bonus      |
+| Feat relationship to Aspect:                 | Calculation (rounded up): |
+|----------------------------------------------|---------------------------|
+| Directly related                             | Full Concept Bonus        |
+| Directly related but also subject to a Malus | 1/2 Concept Bonus         |
+| Tangentially related                         | 1/2 Concept Bonus         |
+| Tangentially related and subject to a Malus  | 1/3 Concept Bonus         |
+| Not related                                  | 1/3 Concept Bonus         |
+| Not related and subject to a Malus           | 1/3 Concept Bonus         |
 
 Atomic D6
 -----------
@@ -110,10 +110,6 @@ Maluses
 ---------
 
 An Aspect that hinders a character is called a Malus.
-
-Characters subject to a Malus receive only a Half Bonus to Aspects that are affected by the Malus.
-
-If the Feat that they are attempting is already tangental and also subject to a Malus, their Bonus is further reduced to 1/3, rounded up.
 
 For instance: because of his slashed arm, Kaelion receives a Malus to Swordsmanship, and he only gets a 1/2 Bonus to it until his arm heals.
 
@@ -353,7 +349,7 @@ Passive Spell Resistance = round up(Target’s Defensive Feat + Armor Bonus if a
 
 The caster rolls spellcasting as a normal Feat, applying their Spellcasting Aspect and other Bonuses. They must beat the target's Spell Resistance for the spell to fully take hold.
 
-In the case of a "tie," where the attacker and defender roll the same number of successes, the defender is unharmed. In addition, the GM may rule that ties are a special case. For instance: the defender and attacker may end up locked together in a struggle.
+In the case of a "tie," where the attacker and defender roll the same number of successes, the defender is unharmed. In addition, the GM may rule that ties are a special case. For instance: 
 
 #### Example: Illusory Chains
 
@@ -805,11 +801,11 @@ Armor's Bonus always applies to physical attacks in addition to any Defensive Fe
 Armor is typically categorized as light, medium, or heavy:
 
 - **Light Armor**: Leather, padded cloth, Kevlar vest
-  - Typical Bonus: +1
+  - Typical Bonus: +.1
 - **Medium Armor**: Chainmail, scale mail, ballistic vest
-  - Typical Bonus: +2
+  - Typical Bonus: +.2
 - **Heavy Armor**: Full plate, heavy powered armor, full body armor
-  - Typical Bonus: +3
+  - Typical Bonus: +1
 
 The GM may adjust armor Bonus values based on setting, tech level, or magical enhancement.
 
@@ -834,13 +830,13 @@ Armor may not provide protection in certain circumstances:
 Modern and science fiction protective gear functions the same way as traditional armor:
 
 - **Modern Armor**: Kevlar, ballistic vests, and similar modern protective gear function as armor with Bonus
-  - Examples: Kevlar vest (+1), Ballistic vest (+2), Full body armor (+3)
+  - Examples: Kevlar vest, Ballistic vest, Full body armor
   - Follows same rules as traditional armor (Bonus added to Defensive Feats, heavy armor Maluses, situations where armor doesn't apply, etc.)
 - **Ballistic Shields**: Portable shields (riot shields, ballistic shields) provide armor protection when actively used
   - May be treated as Block Defensive Feat + Armor Bonus
   - Can be used to protect others (GM discretion)
   - When not actively held/used, does not provide protection
-  - Examples: Riot shield (+1), Ballistic shield (+2)
+  - Examples: Riot shield, Ballistic shield
 - **Tech Level Considerations**: Higher tech levels may provide better armor protection or specialized armor types
   - Energy shields, reactive armor, nanoweave, etc. (GM determines Bonus based on tech level)
   - Sci-fi armor may have special properties (energy resistance, environmental protection, etc.)
@@ -2030,5 +2026,6 @@ We will prefer open-ended rules that can be extended by players and the communit
 ## Scalability
 
 We will prefer rules that can handle a wide range of power levels and situations consistently, which will help keep things simple.
-
 ---
+
+<!-- CHANGELOG: Updated Passive Feat formula to 0.75 + (pips/0.33); replaced all /2 Passive variants; added Cinematic Mode optional rule. -->
