@@ -126,22 +126,93 @@ Players cannot have +.3 or higher. In these cases, each group of .3 is converted
 
 For instance: Kaelion has accumulated a bunch of minor bonuses to Swordsmanship equivalent to +.4. He converts them to full dice, and on his character sheet he writes +1.1
 
-Passive Bonus
-----------------
 
-To reduce unnecessary rolling, the GM may ask players to convert their Aspect Bonus into an average number of automatic successes.
+## Passive Feats
+
+Atomic D6 is designed to be fast and interactive. In most situations, players should roll actively—because rolling is fun, suspenseful, and central to the game’s pacing.  
+However, certain situations require outcomes to be resolved without alerting players or breaking immersion. For these cases, use Passive Feats.
+
+Passive Feats represent a character’s *average performance* when they are unaware, inactive, or unable to roll.
+
+---
+
+### Formula
 
 ```
-Passive Concept Bonus = round up( Concept Bonus / 2 )
+Situational Bonuses and Maluses = Equipment, High Ground, Buffs, Curses, Wounds, etc.
+Feat Bonus = Base Character Ability + Situational Bonuses - Situational Maluses
+Passive Feat Bonus = ceil((Feat Bonus × 0.66) + (Pips × 0.33))
 ```
 
-For example: a Concept Bonus of 4 / 2 = 2 automatic successes without rolling.
+Players are encouraged to record both Base Character Ability and Situational Bonuses or Maluses directly on their list of Feats.
+This makes it easy for the GM to resolve hidden contests quickly and fairly without stopping play.
 
-Passive Bonus is also used to determine how difficult it is to hit a character when they are defending.
+---
 
-Passive Bonus can also be used by the GM to resolve contests without the player's knowledge.
+### Design Note: Passive Feats Are Not Recommended
 
-For instance: Kaelion walks down the King's Road, past some brigands hiding behind trees, waiting in ambush. The GM doesn't want to give away the situation, so instead of asking Kaelion to roll Notice, he can roll a Feat of Stealth for the Brigands and compare their result to Kaelion's Passive Bonus to Notice them.
+Passive Feats exist for edge cases only. Whenever possible, let players roll actively.
+Active rolling increases excitement, narrative agency, and fairness. Passive results are averages, not true contests.
+They should be used sparingly, to preserve the thrill of uncertainty.
+
+---
+
+### When to Use Passive Feats
+
+Use Passive Feats only when a character cannot act or roll—for example:
+
+| Situation                            | Example                                                                                                                                   |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Unaware detection                | Determining whether an unaware hero notices a hidden enemy.                                                                               |
+| Hidden observation               | Determining whether a concealed character is spotted by a target.                                                                         |
+| Unconscious or inanimate defense | Calculating the defense of a sleeping guard, unconscious hero, or reinforced door.                                                        |
+| Passive environmental hazards    | Resolving feats against purely passive dangers—like jumping across a lava pit, wading through toxic sludge, or braving extreme radiation. |
+| Automated or systemic effects    | Determining how long an unattended turret, alarm system, or security field resists interference.                                          |
+| Background resolution            | When resolving unseen NPC actions, traps, or environmental effects that would otherwise reveal hidden information.                        |
+
+---
+
+### Explanation
+
+The formula converts a character’s Feat Bonus into a statistical average of what they would achieve on an Active roll:
+
+- ×0.66 – approximates the true mean success rate of Atomic D6 dice (each die averages ≈0.67 successes).
+- ×0.33 per pip – ensures fractional bonuses retain meaning.
+- ceil() – rounds up partial values to maintain fairness, since passive outcomes lack random variance.
+
+This makes Passive Feats slightly conservative but consistent across all difficulty levels.
+
+---
+
+### Example
+
+Kaelion the Elf has:
+- Base Notice +4
+- +1 from his *Elven Senses* Aspect
+- -1 due to a *Lingering Concussion*
+- +.1 from his enchanted monocle (Pip Bonus)
+
+```
+Feat Bonus = 4 + 1 - 1 = 4
+Passive Feat Bonus = ceil((4 × 0.66) + (0.1 × 0.33))
+Passive Feat Bonus = ceil(2.64 + 0.033)
+Passive Feat Bonus = ceil(2.67)
+Passive Feat Bonus = 3
+```
+
+Kaelion’s Passive Notice is 3 successes.
+If brigands try to ambush him, the GM compares their Stealth roll to this score without warning the player.
+
+---
+
+### Summary
+
+- Passive Feats should not replace active rolling.
+- They are required for hidden, environmental, or unconscious events.
+- They maintain statistical parity with Active Feats.
+- They keep the story flowing when the players cannot roll.
+
+---
 
 Floor for Defensive Feats
 -------------------------------
@@ -159,11 +230,11 @@ Contests
 
 There are three ways to resolve Feats that involve Characters, Groups, or Domains directly opposing one another:
 
-**Active vs Active:** both sides roll their dice; higher number of successes wins.
+Active vs Active: both sides roll their dice; higher number of successes wins.
 
-**Active vs Passive:** one side rolls; the other uses their Passive Bonus.
+Active vs Passive: one side rolls; the other uses their Passive Bonus.
 
-**Passive vs Passive:** compare Passive Bonuses; higher total wins.
+Passive vs Passive: compare Passive Bonuses; higher total wins.
 
 The GM may choose from these methods to determine how Feats are resolved.
 
@@ -390,15 +461,15 @@ Some Bonuses and Maluses can be applied to account for circumstances, Boons, and
 
 #### Armor and Spell Resistance
 
-Armor provides protection against certain types of physical spell effects. When calculating Spell Resistance against physical spells, armor Bonus is added to the Defensive Feat Bonus. See [#Resisting a Spell](Resisting a Spell** for details.
+Armor provides protection against certain types of physical spell effects. When calculating Spell Resistance against physical spells, armor Bonus is added to the Defensive Feat Bonus. See [#Resisting a Spell](Resisting a Spell for details.
 
-**Armor can protect against:**
+Armor can protect against:
 
 - Physical projectile spells (ice bolts, force missiles, stone projectiles)
 - Conjured weapon attacks (magical swords, spears, arrows)
 - Force-based attacks that create physical impact
 
-**Armor provides limited or no protection against:**
+Armor provides limited or no protection against:
 
 - Drowning
 - Suffocation
@@ -800,11 +871,11 @@ Armor's Bonus always applies to physical attacks in addition to any Defensive Fe
 
 Armor is typically categorized as light, medium, or heavy:
 
-- **Light Armor**: Leather, padded cloth, Kevlar vest
+- Light Armor: Leather, padded cloth, Kevlar vest
   - Typical Bonus: +.1
-- **Medium Armor**: Chainmail, scale mail, ballistic vest
+- Medium Armor: Chainmail, scale mail, ballistic vest
   - Typical Bonus: +.2
-- **Heavy Armor**: Full plate, heavy powered armor, full body armor
+- Heavy Armor: Full plate, heavy powered armor, full body armor
   - Typical Bonus: +1
 
 The GM may adjust armor Bonus values based on setting, tech level, or magical enhancement.
@@ -813,31 +884,31 @@ The GM may adjust armor Bonus values based on setting, tech level, or magical en
 
 Heavy armor provides excellent protection but imposes restrictions on movement and agility:
 
-- **Dodge Malus**: Heavy armor imposes a Malus on Dodge Feats (GM discretion, typically -1 or -2)
-- **Speed and Agility Malus**: Heavy armor imposes a Malus on Feats requiring speed or agility (sprinting, acrobatics, parkour, etc.)
-- **Swimming Difficulty**: Heavy armor makes swimming very difficult or impossible (GM may require Feats or declare automatic failure)
+- Dodge Malus: Heavy armor imposes a Malus on Dodge Feats (GM discretion, typically -1 or -2)
+- Speed and Agility Malus: Heavy armor imposes a Malus on Feats requiring speed or agility (sprinting, acrobatics, parkour, etc.)
+- Swimming Difficulty: Heavy armor makes swimming very difficult or impossible (GM may require Feats or declare automatic failure)
 
 #### Situations Where Armor Does Not Apply
 
 Armor may not provide protection in certain circumstances:
 
-- **Unaware Targets**: When attacking an unaware or helpless target, armor may not apply if the attacker can target vulnerable spots (e.g., stabbing between armor plates, garroting, targeting gaps in protection)
-- **GM Discretion**: The GM determines when armor doesn't apply based on the situation, target awareness, and attack method
-- **Examples**: Sneak attacks on sleeping targets, precision strikes on armor gaps, attacks on restrained/helpless targets where armor can be bypassed
+- Unaware Targets: When attacking an unaware or helpless target, armor may not apply if the attacker can target vulnerable spots (e.g., stabbing between armor plates, garroting, targeting gaps in protection)
+- GM Discretion: The GM determines when armor doesn't apply based on the situation, target awareness, and attack method
+- Examples: Sneak attacks on sleeping targets, precision strikes on armor gaps, attacks on restrained/helpless targets where armor can be bypassed
 
 #### Modern and Science Fiction Armor
 
 Modern and science fiction protective gear functions the same way as traditional armor:
 
-- **Modern Armor**: Kevlar, ballistic vests, and similar modern protective gear function as armor with Bonus
+- Modern Armor: Kevlar, ballistic vests, and similar modern protective gear function as armor with Bonus
   - Examples: Kevlar vest, Ballistic vest, Full body armor
   - Follows same rules as traditional armor (Bonus added to Defensive Feats, heavy armor Maluses, situations where armor doesn't apply, etc.)
-- **Ballistic Shields**: Portable shields (riot shields, ballistic shields) provide armor protection when actively used
+- Ballistic Shields: Portable shields (riot shields, ballistic shields) provide armor protection when actively used
   - May be treated as Block Defensive Feat + Armor Bonus
   - Can be used to protect others (GM discretion)
   - When not actively held/used, does not provide protection
   - Examples: Riot shield, Ballistic shield
-- **Tech Level Considerations**: Higher tech levels may provide better armor protection or specialized armor types
+- Tech Level Considerations: Higher tech levels may provide better armor protection or specialized armor types
   - Energy shields, reactive armor, nanoweave, etc. (GM determines Bonus based on tech level)
   - Sci-fi armor may have special properties (energy resistance, environmental protection, etc.)
 
@@ -845,15 +916,15 @@ Modern and science fiction protective gear functions the same way as traditional
 
 Powered armor systems (power suits, exoskeletons, mech suits, battle frames) are treated as vehicles, not standard armor. See the [Mounts and Vehicles](#Mounts-and-Vehicles) section for details.
 
-- **Powered Armor as Vehicle**: Powered armor requires fuel or power source, ammunition for integrated weapons (if applicable), and maintenance like vehicles
-- **Armor Function**: When powered and operational, powered armor provides armor Bonus like any other armor
+- Powered Armor as Vehicle: Powered armor requires fuel or power source, ammunition for integrated weapons (if applicable), and maintenance like vehicles
+- Armor Function: When powered and operational, powered armor provides armor Bonus like any other armor
   - Typically provides +3 Bonus or higher (GM discretion based on tech level)
-- **Integration with Vehicle Rules**: Follows the same rules as Mounts and Vehicles:
+- Integration with Vehicle Rules: Follows the same rules as Mounts and Vehicles:
   - Uses fuel instead of stamina
   - Refuels instead of eating
   - Has its own character sheet (optional, for complex systems)
   - Damage expressed as Wounds (Minor = cosmetic, Major = critical systems)
-- **When Unpowered**: If powered armor loses power or fuel:
+- When Unpowered: If powered armor loses power or fuel:
   - May still provide some protection (reduced Bonus, GM discretion)
   - Imposes heavy Maluses on movement and agility (may be immobile)
   - Cannot use integrated systems or weapons
@@ -862,17 +933,17 @@ Powered armor systems (power suits, exoskeletons, mech suits, battle frames) are
 
 Vehicle armor functions identically to character armor:
 
-- **Same Rules as Character Armor**: Vehicle armor uses the same Bonus system
-- **Armor Bonus**: Vehicles with armor gain Bonus to defense against attacks
-- **Armor Types**: Vehicles can have light, medium, or heavy armor (or modern equivalents)
+- Same Rules as Character Armor: Vehicle armor uses the same Bonus system
+- Armor Bonus: Vehicles with armor gain Bonus to defense against attacks
+- Armor Types: Vehicles can have light, medium, or heavy armor (or modern equivalents)
   - Examples: Light vehicle armor (+1), Reinforced plating (+2), Heavy armor (+3)
-- **Integration**: Vehicle armor Bonus is added to vehicle Defensive Feats (if vehicles can use Defensive Feats), then converted to Passive Bonus
-- **Tech Level**: Higher tech vehicles may have advanced armor (energy shields, reactive plating, etc.)
-- **Maintenance**: Vehicle armor can be damaged and requires repairs (like other vehicle systems)
+- Integration: Vehicle armor Bonus is added to vehicle Defensive Feats (if vehicles can use Defensive Feats), then converted to Passive Bonus
+- Tech Level: Higher tech vehicles may have advanced armor (energy shields, reactive plating, etc.)
+- Maintenance: Vehicle armor can be damaged and requires repairs (like other vehicle systems)
 
 #### Examples: Armor in Action
 
-**Example 1: Light Armor with Defensive Feat**
+Example 1: Light Armor with Defensive Feat
 
 Kaelion (Concept Bonus +4, Swordsman Aspect) wears light leather armor (+1 Bonus) and uses Dodge to avoid an attack.
 
@@ -883,7 +954,7 @@ Kaelion (Concept Bonus +4, Swordsman Aspect) wears light leather armor (+1 Bonus
 
 The attacker must roll 3 or more successes to hit Kaelion.
 
-**Example 2: Heavy Armor with Defensive Feat**
+Example 2: Heavy Armor with Defensive Feat
 
 A knight in full plate armor (+3 Bonus) with Concept Bonus +6 and a "Knight of the Realm" Aspect that applies to Block attempts to block an attack.
 
@@ -894,7 +965,7 @@ A knight in full plate armor (+3 Bonus) with Concept Bonus +6 and a "Knight of t
 
 The attacker must roll 5 or more successes to hit. However, if the knight tried to Dodge instead, they would receive a Malus (typically -1 or -2) due to the heavy armor.
 
-**Example 3: Armor Against Physical Spell**
+Example 3: Armor Against Physical Spell
 
 A guard in chainmail (+2 Bonus) with Concept Bonus +2 and no relevant defensive Aspects is targeted by an ice bolt spell.
 
@@ -908,7 +979,7 @@ A guard in chainmail (+2 Bonus) with Concept Bonus +2 and no relevant defensive 
 
 The spellcaster must roll 4 or more successes for the ice bolt to hit the guard.
 
-**Example 4: Armor Bypassed**
+Example 4: Armor Bypassed
 
 An assassin sneaks up on a sleeping knight in full plate armor. The assassin targets the gap between the helmet and gorget with a garrote.
 
@@ -919,7 +990,7 @@ An assassin sneaks up on a sleeping knight in full plate armor. The assassin tar
 
 The attack proceeds without the armor Bonus.
 
-**Example 5: Fire Spell vs Armor**
+Example 5: Fire Spell vs Armor
 
 A pyromancer casts a fireball at a warrior in full plate armor (+3 Bonus).
 
@@ -934,25 +1005,25 @@ A pyromancer casts a fireball at a warrior in full plate armor (+3 Bonus).
 
 Spellcasters may use spells as Defensive Feats, replacing traditional defensive options such as Dodge, Block, or Parry for that beat. The spell must make narrative sense as a defensive measure. For example: a Conjurer might summon a floating shield to block a physical attack, a Pyromancer might use his control over flames to deflect an incoming fireball, or an Abjurer might weave a barrier of pure force magic around himself.
 
-**Requirements:**
+Requirements:
 
 - The caster must have at least one Spellcasting Aspect tied to a school of magic
 - The spell must be cast from within the caster's school of magic (same restrictions as normal spellcasting)
 - The spell's narrative description must make sense as a defensive measure against the incoming attack
 - The caster uses Counterspell instead of other Defensive Feats (Dodge, Block, Parry, etc.) for that beat
 
-**Mechanics:**
+Mechanics:
 
 When using a spell as a Defensive Feat, the caster makes a single spellcasting roll that must satisfy two conditions simultaneously:
 
-1. **Defensive Contest**: The spellcasting roll must produce MORE successes than the attacker's roll (Active vs Active contest)
-2. **Spell Success**: The spellcasting roll must meet or exceed the spell's difficulty
+1. Defensive Contest: The spellcasting roll must produce MORE successes than the attacker's roll (Active vs Active contest)
+2. Spell Success: The spellcasting roll must meet or exceed the spell's difficulty
 
 This is an Active Feat: Passive Bonus cannot be used when casting spells as Defensive Feats, consistent with normal spellcasting rules. The caster must roll every time.
 
 If the spellcasting roll beats the attacker's roll but fails to meet the spell's difficulty, the defense fails because the spell fails to manifest. If the spellcasting roll meets the spell's difficulty but doesn't beat the attacker's roll, the spell manifests but the defense fails (the attack hits). Both conditions must be met for the spell to successfully defend.
 
-**Spell vs Spell:**
+Spell vs Spell:
 
 When defending against an incoming spell with a counterspell, the resolution works as follows:
 
@@ -960,11 +1031,11 @@ When defending against an incoming spell with a counterspell, the resolution wor
 - The counterspeller must roll number of successes greater than or equal to the attacking spellcaster
 - The counterspell must also meet its own difficulty to manifest, as determined by the GM
 
-**Armor and Counterspell:**
+Armor and Counterspell:
 
 When using a counterspell against a physical attack, Armor Bonus does not apply to the spellcasting roll, but it may be added on top of it, after the GM determines whether the counterspell has manifested successfully. The GM determines whether armor applies based on the nature of the attack and the failed spell.
 
-**Mana and Eldritch Burden:**
+Mana and Eldritch Burden:
 
 Normal spellcasting rules apply when using spells as Defensive Feats:
 
@@ -972,9 +1043,9 @@ Normal spellcasting rules apply when using spells as Defensive Feats:
 - In addition, the Atomic D6 may generate special consequences (Boon, Bane, or Neutral) that affect the spell or the defense
 - If the spell is maintained as an ongoing effect, Eldritch Burden rules apply
 
-**Examples:**
+Examples:
 
-**Example 1: Conjurer vs Physical Attack**
+Example 1: Conjurer vs Physical Attack
 
 A Conjurer (Conjuration Bonus +4) is attacked by a raging barbarian wielding an axe. The Conjurer chooses to use Counterspell, summoning a floating magical shield to block the attack.
 
@@ -985,7 +1056,7 @@ A Conjurer (Conjuration Bonus +4) is attacked by a raging barbarian wielding an 
 
 Result: The Conjurer's roll (5) beats the barbarian's roll (3) AND meets the spell difficulty (2). The shield successfully manifests and blocks the attack. The Conjurer loses 1 Mana and 1 Stamina from magical strain due to the Bane. The GM may rule that the Bane generates additional consequences.
 
-**Example 2: Pyromancer vs Fireball**
+Example 2: Pyromancer vs Fireball
 
 A Pyromancer (Pyromancy Bonus +5) is targeted by an enemy spellcaster's fireball. The Pyromancer chooses to use Counterspell to try to usurp control of the incoming spell and deflect it.
 
@@ -996,7 +1067,7 @@ A Pyromancer (Pyromancy Bonus +5) is targeted by an enemy spellcaster's fireball
 
 Result: The Pyromancer's roll (6) beats the attacking spellcaster's roll (4) AND meets the spell difficulty (3). The fireball is successfully deflected.
 
-**Example 3: Failed Defense, Successful Spell**
+Example 3: Failed Defense, Successful Spell
 
 An Abjurer (Abjuration Bonus +3) attempts to block a sword strike with a protective barrier.
 
@@ -1006,7 +1077,7 @@ An Abjurer (Abjuration Bonus +3) attempts to block a sword strike with a protect
 
 Result: The Abjurer's roll (4) meets the spell difficulty (2), so the barrier manifests. However, the roll (4) does not beat the attacker's roll (5), so the defense fails. The barrier appears but the sword strike still hits. The Abjurer loses 1 Mana and 1 Stamina from magical strain.
 
-**Example 4: Successful Defense, Failed Spell**
+Example 4: Successful Defense, Failed Spell
 
 A Transmuter (Transmutation Bonus +3) attempts to turn their skin into stone to block an attack.
 
@@ -1210,7 +1281,7 @@ A Note on Differing Movement Speeds
 -----------------------------------------
 If all parties are roughly the same speed, the GM is encouraged to make the Zones larger. For instance, during a chase between two motorcycles, the GM might make zones that take up an entire city block so that all characters can still move roughly one zone per [Beat](#Time).
 
-**If characters are traveling at significantly different speeds,** the GM can draw smaller zones inside the larger ones. For instance: if a character suddenly dismounts their motorcycle during the chase, the GM can quickly delineate some smaller zones inside of the larger ones.
+If characters are traveling at significantly different speeds, the GM can draw smaller zones inside the larger ones. For instance: if a character suddenly dismounts their motorcycle during the chase, the GM can quickly delineate some smaller zones inside of the larger ones.
 
 If the GM finds themselves having to draw too large or too small, they can feel free to run the action using two different maps at different scales.
 
