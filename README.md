@@ -2099,4 +2099,3 @@ We will prefer open-ended rules that can be extended by players and the communit
 We will prefer rules that can handle a wide range of power levels and situations consistently, which will help keep things simple.
 ---
 
-<!-- CHANGELOG: Updated Passive Feat formula to 0.75 + (pips/0.33); replaced all /2 Passive variants; added Cinematic Mode optional rule. -->
