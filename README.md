@@ -56,9 +56,11 @@ Different tables may come to a consensus regarding what kind and how many Aspect
 Feat Die
 ----------
 
-Characters roll a number of Feat Die equal to their Concept Bonus when attempting a Feat that directly benefits from one of their Aspects.
+A "Feat" is anything a player attempts to do that is difficult enough that there is a significant chance of failure.
 
-For example: “Swordsman” allows a Character to apply their Concept Bonus to all combat Feats with a Sword.
+Characters roll a number of Feat Die equal to their [Concept Bonus](#Concept Bonus) when attempting a Feat that directly benefits from one of their Aspects.
+
+For example: “Swordsman” allows a Character to apply their [Concept Bonus](#Concept Bonus) to all combat Feats with a Sword.
 
 At the highest levels of Atomic D6, characters may receive Bonuses of +10 or higher. It is not recommended for players to roll more than 10 Feat Die at a time. In these situations, characters should convert die to a flat modifier.
 
@@ -72,19 +74,17 @@ Characters always roll at least 1 Feat Die, even when their Maluses end up being
 | 4-5               | Success       |
 | 6                 | Two successes |
 
-Feat Bonuses Summarized:
-------------------------------
 
 The rules to resolve Feats in Atomic D6 may seem overwhelming at first, but there are only three numbers that characters actually need to remember:
 
-| Feat relationship to Aspect:                 | Calculation (rounded up): |
-|----------------------------------------------|---------------------------|
-| Directly related                             | Full Concept Bonus        |
-| Directly related but also subject to a Malus | 1/2 Concept Bonus         |
-| Tangentially related                         | 1/2 Concept Bonus         |
-| Tangentially related and subject to a Malus  | 1/3 Concept Bonus         |
-| Not related                                  | 1/3 Concept Bonus         |
-| Not related and subject to a Malus           | 1/3 Concept Bonus         |
+| Feat relationship to Aspect:                 | Calculation (rounded): |
+|----------------------------------------------|------------------------|
+| Directly related                             | Full Concept Bonus     |
+| Directly related but also subject to a Malus | 1/2 Concept Bonus      |
+| Tangentially related                         | 1/2 Concept Bonus      |
+| Tangentially related and subject to a Malus  | 1/3 Concept Bonus      |
+| Not related                                  | 1/3 Concept Bonus      |
+| Not related and subject to a Malus           | 1/3 Concept Bonus      |
 
 Atomic D6
 -----------
@@ -103,7 +103,7 @@ Half Bonus (Tangential Feats)
 If a character attempts a Feat that is only tangentially related to their Aspects, they may receive only a Half Bonus.
 
 ```
-Half Bonus = round up( Concept Bonus / 2)
+Half Bonus = round( Concept Bonus / 2)
 ```
 
 Maluses
@@ -126,65 +126,49 @@ Players cannot have +.3 or higher. In these cases, each group of .3 is converted
 
 For instance: Kaelion has accumulated a bunch of minor bonuses to Swordsmanship equivalent to +.4. He converts them to full dice, and on his character sheet he writes +1.1
 
+Passive Bonuses
+----------------
 
-## Passive Feats
+To reduce unnecessary rolling, the GM may resolve some Feats using a character’s Passive Bonus instead of asking for an active roll.
 
-Atomic D6 is designed to be fast and interactive. In most situations, players should roll actively—because rolling is fun, suspenseful, and central to the game’s pacing.  
-However, certain situations require outcomes to be resolved without alerting players or breaking immersion. For these cases, use Passive Feats.
+Passive Bonuses are intended as a convenience tool, but if using a Passive Bonus would slow the game, feel awkward, or reduce tension, the GM can simply have the player roll as normal.
 
-Passive Feats represent a character’s *average performance* when they are unaware, inactive, or unable to roll.
+### Calculating Passive Bonus
 
----
+When converting dice into a Passive Bonus:
 
-### Formula
+- Grant 2 automatic successes for every 3 dice.
+- If any dice remain, grant +1 additional success.
 
-```
-Situational Bonuses and Maluses = Equipment, High Ground, Buffs, Curses, Wounds, etc.
-Feat Bonus = Base Character Ability + Situational Bonuses - Situational Maluses
-Passive Feat Bonus = ceil((Feat Bonus × 0.66) + (Pips × 0.33))
-```
+This conversion reflects the average outcome of rolling dice in Atomic D6, without requiring fractions, decimals, or table lookups.
 
-Players are encouraged to record both Base Character Ability and Situational Bonuses or Maluses directly on their list of Feats.
-This makes it easy for the GM to resolve hidden contests quickly and fairly without stopping play.
+Examples:
+- 1–2 dice → 1 success  
+- 3 dice → 2 successes  
+- 4–5 dice → 3 successes  
+- 6 dice → 4 successes  
+- 9 dice → 6 successes  
 
----
+### When to Use Passive Bonuses
 
-### Design Note: Passive Feats Are Not Recommended
+Passive Bonuses are commonly used for:
+- Determining Feats for unconscious or unaware characters (with the option of an Malus for being unaware)
+- Defensive Feats for objects
+- Contests where rolling would add no meaningful drama
+- Situations where the players are unaware of the fact that someone or something is attempting a Feat against them
+- One character hiding from another character
+- Whether an unaware player character notices something that they haven't seen yet
+- Whether an unaware player character is noticed by something that hasn't seen them yet
+- Situations where the GM wants to resolve many checks quickly
+- Hidden checks, where the GM does not want to prompt a player roll
 
-Passive Feats exist for edge cases only. Whenever possible, let players roll actively.
-Active rolling increases excitement, narrative agency, and fairness. Passive results are averages, not true contests.
-They should be used sparingly, to preserve the thrill of uncertainty.
+### Rolling Is Always Allowed
 
----
-
-### When to Use Passive Feats
-
-Use Passive Feats only when a character cannot act or roll—for example:
-
-| Situation                            | Example                                                                                                                                   |
-|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| Unaware detection                | Determining whether an unaware hero notices a hidden enemy.                                                                               |
-| Hidden observation               | Determining whether a concealed character is spotted by a target.                                                                         |
-| Unconscious or inanimate defense | Calculating the defense of a sleeping guard, unconscious hero, or reinforced door.                                                        |
-| Passive environmental hazards    | Resolving feats against purely passive dangers—like jumping across a lava pit, wading through toxic sludge, or braving extreme radiation. |
-| Automated or systemic effects    | Determining how long an unattended turret, alarm system, or security field resists interference.                                          |
-| Background resolution            | When resolving unseen NPC actions, traps, or environmental effects that would otherwise reveal hidden information.                        |
+If a Passive Bonus would create confusion, reveal information unintentionally, or undermine tension, the GM may ignore Passive Bonuses entirely and resolve the Feat with an active roll
 
 ---
 
-### Explanation
-
-The formula converts a character’s Feat Bonus into a statistical average of what they would achieve on an Active roll:
-
-- ×0.66 – approximates the true mean success rate of Atomic D6 dice (each die averages ≈0.67 successes).
-- ×0.33 per pip – ensures fractional bonuses retain meaning.
-- ceil() – rounds up partial values to maintain fairness, since passive outcomes lack random variance.
-
-This makes Passive Feats slightly conservative but consistent across all difficulty levels.
-
----
-
-### Example
+### Example Kaelion calculates his Passive Feat Bonus:
 
 Kaelion the Elf has:
 - Base Notice +4
@@ -193,26 +177,15 @@ Kaelion the Elf has:
 - +.1 from his enchanted monocle (Pip Bonus)
 
 ```
-Feat Bonus = 4 + 1 - 1 = 4
-Passive Feat Bonus = ceil((4 × 0.66) + (0.1 × 0.33))
-Passive Feat Bonus = ceil(2.64 + 0.033)
-Passive Feat Bonus = ceil(2.67)
-Passive Feat Bonus = 3
+Kaelion's Active Feat Bonus = 4 + 1 - 1 + .1 = 4.1
+
+Passive Feat Bonus = 3 (two successes for every three dice, +1 if there's a remainder of 1 or more)
 ```
 
-Kaelion’s Passive Notice is 3 successes.
-If brigands try to ambush him, the GM compares their Stealth roll to this score without warning the player.
+If brigands try to ambush him, the GM compares their Stealth roll to Kaelion's Passive Notice without warning him.
 
----
+As always, the GM may rule that characters incur additional Maluses due to being ambushed unaware.
 
-### Summary
-
-- Passive Feats should not replace active rolling.
-- They are required for hidden, environmental, or unconscious events.
-- They maintain statistical parity with Active Feats.
-- They keep the story flowing when the players cannot roll.
-
----
 
 Floor for Defensive Feats
 -------------------------------
@@ -220,7 +193,7 @@ Floor for Defensive Feats
 To prevent automatic failure, all characters have a floor for Defensive Feats in particular.
 
 ```
-Defensive Floor = round up( Concept Bonus / 3 )
+Defensive Floor = round( Concept Bonus / 3 )
 ```
 
 This floor is applied when a character is forced to use a Defensive Feat that does not benefit from any of their Aspects.
@@ -405,22 +378,18 @@ When a spell targets a resisting character, treat their defenses as an extra lay
 Active Spell Resistance = Target’s Defensive Feat + Armor Bonus if applicable
 ```
 
-As is the case with other Feats, Spell Resistance can be made Passive by dividing by two, and rounding up:
-
-```
-Passive Spell Resistance = round up(Target’s Defensive Feat + Armor Bonus if applicable / 2)
-```
+As is the case with other Feats, Spell Resistance can be made Passive (see the section on Passive Feats above.)
 
 - The defender gets to choose which Defensive Feat to use, as long as it's appropriate
   - Physical targeting: Dodge, Block, Endure, or similar
   - Mental or sensory effects: Passive Resolve, or similar.
   - Counterspell, if the defender can conjure a magical effect to defend themselves
-  - If the spell is a physical attack, armor may provide additional protection
+  - If the spell is a physical attack, the defender may add their armor bonus to their Defensive Feat
   - If the target lacks a relevant Aspect for that defense, use the standard Defensive Floor in place of their full Concept Bonus. See [#Floor for Defensive Feats](Floor for Defensive Feats)
 
 The caster rolls spellcasting as a normal Feat, applying their Spellcasting Aspect and other Bonuses. They must beat the target's Spell Resistance for the spell to fully take hold.
 
-In the case of a "tie," where the attacker and defender roll the same number of successes, the defender is unharmed. In addition, the GM may rule that ties are a special case. For instance: 
+In the case of a "tie," where the attacker and defender roll the same number of successes, the defender is unharmed. In addition, the GM may rule that ties are a special case. For instance: the attacker and defender may become locked together in melee.
 
 #### Example: Illusory Chains
 
@@ -460,7 +429,6 @@ The difficulty of escaping the spell effect is equivalent to the number of succe
 Some Bonuses and Maluses can be applied to account for circumstances, Boons, and Banes.
 
 #### Armor and Spell Resistance
-
 Armor provides protection against certain types of physical spell effects. When calculating Spell Resistance against physical spells, armor Bonus is added to the Defensive Feat Bonus. See [#Resisting a Spell](Resisting a Spell for details.
 
 Armor can protect against:
@@ -859,13 +827,9 @@ Armor provides protection by making characters harder to hit. Armor Bonus is add
 
 #### Armor as Bonus
 
-Armor provides a Bonus that is added to a character's Active Defensive Feat Bonus. The total (Active Defensive Feat Bonus + Armor Bonus) is then converted to Passive Bonus using the standard formula:
+Armor provides a Bonus that is added to a character's Active Defensive Feat Bonus when defending against physical attacks.
 
-```
-Passive Bonus = round up((Active Defensive Feat Bonus + Armor Bonus) / 2)
-```
-
-Armor's Bonus always applies to physical attacks in addition to any Defensive Feat chosen, except in situations where armor can be bypassed (see Situations Where Armor Does Not Apply).
+Armor's Bonus always applies when defending against physical attacks except in situations where armor can be bypassed (see Situations Where Armor Does Not Apply).
 
 #### Armor Types
 
@@ -945,36 +909,25 @@ Vehicle armor functions identically to character armor:
 
 Example 1: Light Armor with Defensive Feat
 
-Kaelion (Concept Bonus +4, Swordsman Aspect) wears light leather armor (+1 Bonus) and uses Dodge to avoid an attack.
+Kaelion (Concept Bonus +4, Swordsman Aspect) wears light leather armor (+.1 Bonus) and uses Dodge to avoid an attack.
 
 - Active Dodge Bonus: +4 (from Swordsman Aspect)
-- Armor Bonus: +1
-- Total Active Bonus: +5
-- Passive Bonus: round up(5 / 2) = 3 successes
+- Armor Bonus: +.1
+- Total Active Bonus: +4.1
+- Passive Bonus: round(5 *.66) = 3 successes
 
 The attacker must roll 3 or more successes to hit Kaelion.
 
-Example 2: Heavy Armor with Defensive Feat
-
-A knight in full plate armor (+3 Bonus) with Concept Bonus +6 and a "Knight of the Realm" Aspect that applies to Block attempts to block an attack.
-
-- Active Block Bonus: +6 (from Knight Aspect)
-- Armor Bonus: +3
-- Total Active Bonus: +9
-- Passive Bonus: round up(9 / 2) = 5 successes
-
-The attacker must roll 5 or more successes to hit. However, if the knight tried to Dodge instead, they would receive a Malus (typically -1 or -2) due to the heavy armor.
-
-Example 3: Armor Against Physical Spell
+Example 2: Armor Against Physical Spell
 
 A guard in chainmail (+2 Bonus) with Concept Bonus +2 and no relevant defensive Aspects is targeted by an ice bolt spell.
 
 - Base spell difficulty: 2 successes (Apprentice-level)
 - Active Block Bonus: +0 (no relevant Aspect, uses Defensive Floor)
-- Defensive Floor: round up(2 / 3) = 1
+- Defensive Floor: round(2 / 3) = 1
 - Armor Bonus: +2
 - Total Active Bonus: 1 + 2 = 3
-- Passive Block Bonus: round up(3 / 2) = 2 successes
+- Passive Block Bonus: round(3 / 2) = 2 successes
 - Total Spell Resistance: 2 (base) + 2 (defense) = 4 successes required
 
 The spellcaster must roll 4 or more successes for the ice bolt to hit the guard.
