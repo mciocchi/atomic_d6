@@ -535,21 +535,21 @@ Kaelion Veynor (4)
 Feats
 ----------------------------------------
 
-| Feat:         | Bonus: | Relevant Aspect: ------------------------------------ |
-|:--------------|:-------|:------------------------------------------------------|
-| Swordsmanship | 4      | Swordsman                                             |
-| Dodge         | 4      | Swordsman                                             |
-| Parry         | 4      | Swordsman                                             |
-| Endure        | 2      | Swordsman - Elf                                       |
-| Resolve       | 4      | Unyielding Will                                       |
-| Notice        | 4      | Elf                                                   |
-| Conceal       | 1      |                                                       |
-| Block         | 2      | Swordsman (1/2 Bonus, tangental)                      |
-| Interrogate   | 0      |                                                       |
-| Shoot         | 0      |                                                       |
-|               |        |                                                       |
-|               |        |                                                       |
-|               |        |                                                       |
+| Feat:         | Bonus: | Relevant Aspect: ---------------------------------- |
+|:--------------|:-------|:----------------------------------------------------|
+| Swordsmanship | 4      | Swordsman                                           |
+| Dodge         | 4      | Swordsman                                           |
+| Parry         | 4      | Swordsman                                           |
+| Endure        | 2      | Swordsman - Elf                                     |
+| Resolve       | 4      | Unyielding Will                                     |
+| Notice        | 4      | Elf                                                 |
+| Conceal       | 1      |                                                     |
+| Block         | 2      | Swordsman (1/2 Bonus, tangental)                    |
+| Interrogate   | 0      |                                                     |
+| Shoot         | 0      |                                                     |
+|               |        |                                                     |
+|               |        |                                                     |
+|               |        |                                                     |
 
 Cursed Prince Seeking Redemption (4)
 ----------------------------------------
@@ -597,24 +597,25 @@ Varo Thesk ( +2 )
 
 ## Feats
 
-| Feat:       | Bonus: | Relevant Aspect: ------------------------------------- |
-|:------------|:-------|:-------------------------------------------------------|
-| Notice      | +2     | Illusiomancer of the Veiled Lantern School             |
-| Resolve     | +2     | Illusiomancer of the Veiled Lantern School             |
-| Endure      | +0     |                                                        |
-| Parry       | +0     |                                                        |
-| Block       | +0     |                                                        |
-| Conceal     | +0     |                                                        |
-| Dodge       | +0     |                                                        |
-| Interrogate | +0     |                                                        |
-| Shoot       | +0     |                                                        |
-| Melee       | +0     |                                                        |
-| Spellcraft  | +2     | Illusiomancer of the Veiled Lantern School             |
-| History     | +2     | Historian of the Realm                                 |
-| Gambling    | +2     | Card Sharp                                             |
-|             |        |                                                        |
+| Feat:       | Bonus: | Relevant Aspect: ----------------------------------- |
+|:------------|:-------|:-----------------------------------------------------|
+| Notice      | +2     | Illusiomancer of the Veiled Lantern School           |
+| Resolve     | +2     | Illusiomancer of the Veiled Lantern School           |
+| Endure      | +0     |                                                      |
+| Parry       | +0     |                                                      |
+| Block       | +0     |                                                      |
+| Conceal     | +0     |                                                      |
+| Dodge       | +0     |                                                      |
+| Interrogate | +0     |                                                      |
+| Shoot       | +0     |                                                      |
+| Melee       | +0     |                                                      |
+| Spellcraft  | +2     | Illusiomancer of the Veiled Lantern School           |
+| History     | +2     | Historian of the Realm                               |
+| Gambling    | +2     | Card Sharp                                           |
+|             |        |                                                      |
 
-## Apprentice Illusionist and Professional Cheat ( +2 )
+Apprentice Illusionist and Professional Cheat ( +2 )
+----------------------------------------------------
 
 ### Illusiomancer of the Veiled Lantern School
 
