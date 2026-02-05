@@ -3,7 +3,7 @@ Atomic D6
 Licensing
 --------------------------------------------------------------------------------
 
-© 2025. Atomic D6 is openly licensed by Matt Ciocchi under [CC BY-SA 4.0 (Creative Commons Attribution ShareAlike 4.0 International)](https://creativecommons.org/licenses/by-sa/4.0/)
+© 2026. Atomic D6 is openly licensed by Matt Ciocchi under [CC BY-SA 4.0 (Creative Commons Attribution ShareAlike 4.0 International)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Acknowledgements
 --------------------------------------------------------------------------------
