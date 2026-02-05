@@ -1,37 +1,41 @@
 Atomic D6
-============
+================================================================================
 Licensing
------------
+--------------------------------------------------------------------------------
 
-© 2025. Atomic D6 is openly licensed by Matt Ciocchi under [CC BY-SA 4.0 (Creative Commons Attribution ShareAlike 4.0 International)](https://creativecommons.org/licenses/by-sa/4.0/)
+© 2026. Atomic D6 is openly licensed by Matt Ciocchi under [CC BY-SA 4.0 (Creative Commons Attribution ShareAlike 4.0 International)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Acknowledgements
--------------------
+--------------------------------------------------------------------------------
 
 Atomic D6 takes its inspiration from too many sources and individuals to name, including, but not limited to: FATE Condensed, FUDGE 10th Anniversary Edition, EZD6, Mini Six, Deathbringer, Kingdom, Microscope, and Atomic D20.
 
 ---
 
 Rules at a Glance
-========================
+================================================================================
 
 Character Concept
----------------------
+--------------------------------------------------------------------------------
 
 Character Concept encapsulates the core of a character's persona and determines which Aspects they're allowed to choose.
 
 Concept is always accompanied by a number in parenthesis called Concept Bonus, which indicates the scope and scale of a Character's power.
 
+Concept Bonus is only applied to a Feat if the Character has an Aspect related to the thing they're attempting to do.
+
 Aspects
---------
+--------------------------------------------------------------------------------
 
 Characters in Atomic D6 have a list of points that describe them that are called Aspects.
 
 Aspects allow characters to apply their Concept Bonus to Feats that they are attempting.
 
+Aspects must remain consistent with Character Concept: if it doesn't fit, the GM can ask players to pick a new one. For instance: the GM can rule that spellcasting is restricted to certain specialized Character Concepts.
+
 If an Aspect ceases to be true, or if the Character Concept no longer has it, it is removed from their sheet.
 
-An Aspect can provide Bonuses in some situations and Maluses in others. For instance: a slashed arm might grant a character a Malus on any actions using that limb, but it might grant them a Bonus when negotiating the price of a healing potion with a friendly shopkeeper.
+An Aspect can provide Bonuses in some situations and Maluses in others: a slashed arm might grant a character a Malus on any actions using that limb, but it might grant them a Bonus when negotiating the price of a healing potion with a friendly shopkeeper.
 
 It is recommended that GMs limit Characters to five Aspects or fewer at creation time, but they may gain more throughout the course of the Narrative.
 
@@ -54,7 +58,7 @@ In game terms, this represents characters dabbling across a broad group of Feats
 Different tables may come to a consensus regarding what kind and how many Aspects are allowed. It is recommended that players generate characters together, at the same time, in order to make sure they're thematically and mechanically aligned.
 
 Feat Die
-----------
+--------------------------------------------------------------------------------
 
 Characters roll a number of Feat Die equal to their Concept Bonus when attempting a Feat that directly benefits from one of their Aspects.
 
@@ -66,14 +70,14 @@ For instance: a character with +13 would roll 10 Feat Die, and add +3
 
 Characters always roll at least 1 Feat Die, even when their Maluses end up being greater than all of their Bonuses.
 
-| Feat Dice Result: | Description:  |
-|-------------------|---------------|
-| 1-3               | Failure       |
-| 4-5               | Success       |
-| 6                 | Two successes |
+| Feat Dice Result: | Successes: |
+|-------------------|------------|
+| 1-3               | 0          |
+| 4-5               | 1          |
+| 6                 | 2          |
 
 Feat Bonuses Summarized:
-------------------------------
+--------------------------------------------------------------------------------
 
 The rules to resolve Feats in Atomic D6 may seem overwhelming at first, but there are only three numbers that characters actually need to remember:
 
@@ -87,7 +91,7 @@ The rules to resolve Feats in Atomic D6 may seem overwhelming at first, but ther
 | Not related and subject to a Malus           | 1/3 Concept Bonus      |
 
 Atomic D6
------------
+--------------------------------------------------------------------------------
 
 The Atomic D6 is rolled whenever characters attempt a Feat. It represents narrative circumstances outside of their control that are independent of the success or failure of the Feat.
 
@@ -98,7 +102,7 @@ The Atomic D6 is rolled whenever characters attempt a Feat. It represents narrat
 | 5-6               | Boon: a positive story beat. |
 
 Half Bonus (Tangential Feats)
-------------------------------------
+--------------------------------------------------------------------------------
 
 If a character attempts a Feat that is only tangentially related to their Aspects, they may receive only a Half Bonus.
 
@@ -107,7 +111,7 @@ Half Bonus = round( Concept Bonus / 2)
 ```
 
 Maluses
----------
+--------------------------------------------------------------------------------
 
 An Aspect that hinders a character is called a Malus.
 
@@ -118,7 +122,7 @@ If the Feat that they are attempting is already tangental and also subject to a 
 For instance: because of his slashed arm, Kaelion receives a Malus to Swordsmanship, and he only gets a 1/2 Bonus to it until his arm heals.
 
 Small Bonuses and Maluses
--------------------------------
+--------------------------------------------------------------------------------
 
 The GM can grant Small Bonuses to represent minor advantages such as a freshly sharpened blade.
 
@@ -130,64 +134,37 @@ Players cannot have +.3 or higher. In these cases, each group of .3 is converted
 
 For instance: Kaelion has accumulated a bunch of minor bonuses to Swordsmanship equivalent to +.4. He converts them to full dice, and on his character sheet he writes +1.1
 
+The double-success provided by rolling a 6 is not granted when making a 6 in this way. Only a single Success is granted in this case.
+
 Passive Bonus
-----------------
+--------------------------------------------------------------------------------
 
-To reduce unnecessary rolling, the GM may ask players to convert their Aspect Bonus into an average number of automatic successes (Guaranteed Successes).
+Passive Bonuses are used to resolve situations where the defender can't or shouldn't roll a Feat.
 
-Passive Bonus is also used to determine how difficult it is to hit a character when they are defending.
+Such situations may include:
+- Unconscious characters
+- Unaware characters
+- inanimate objects
+- any situation where rolling is happening too frequently, and one constant passive score is more convenient
 
-Passive Bonus can also be used by the GM to resolve contests without the player's knowledge.
+For instance: Kaelion walks down the King's Road, past some brigands hiding behind trees, waiting in ambush.
 
-For instance: Kaelion walks down the King's Road, past some brigands hiding behind trees, waiting in ambush. The GM doesn't want to give away the situation, so instead of asking Kaelion to roll Notice, he can roll a Feat of Stealth for the Brigands and compare their result to Kaelion's Passive Bonus to Notice them.
+The GM doesn't want to give away the situation, so instead of asking Kaelion to roll Notice, the GM can roll a Group Feat of Stealth for the Brigands and compare their result to Kaelion's Passive Bonus to Notice them.
 
-### Pips and passive conversion
+Passive Bonuses are optional and situational. Some GMs may choose not to use them.
 
-Active bonuses can be a mix of dice (D) and pips (P). When you need a Passive Bonus, convert everything to pips first so you can add it cleanly using a lowest common denominator.
-
-Core equivalences:
+In the case that they are unconscious or unaware, the GM may apply a Malus to a character's Passive Bonuses to represent their inability to defend themselves.
 
 ```
-3 Pips are worth one Dice:
-3P = 1D
+To calculate a Passive Bonus, first convert Dice to Pips:
+P = D * 3 + Additional Pip Bonuses
 
-6 Pips guarantee one Success:
-6P = 1S
+Then convert Pips to Passive Bonus:
+PB = round(P / 5)
 ```
-
-Total Pips:
-```
-Total Pips = (Dice * 3) + Pips
-```
-
-Passive Bonus (PB):
-```
-PB (in Guaranteed Successes) = round(Total Pips / 6)
-```
-
-How to do math on dice:
-
-- Convert everything to pips (P) to get a lowest common denominator.
-- Do all addition/subtraction in pips.
-- Round intermediate results to the nearest pip (no half-pips).
-
-How to convert Active Bonuses into Passive Bonuses (PB):
-
-- After you have Total Pips, convert to PB by rounding to the nearest Guaranteed Success.
-- PB = round(Total Pips / 6)
-
-Quick shortcut (concept-only):
-
-If the only thing contributing is Concept Bonus (no other dice/pips), the GM may use this fast approximation:
-
-Passive Concept Bonus = round( Concept Bonus / 2 )
-
-For example: a Concept Bonus of 4 / 2 rounded up = 2 automatic successes without rolling.
-
-Use the pip method whenever any other modifiers (pips, conditions, gear, situational bonuses) are involved.
 
 Floor for Defensive Feats
--------------------------------
+--------------------------------------------------------------------------------
 
 To prevent automatic failure, all characters have a floor for Defensive Feats in particular.
 
@@ -198,7 +175,7 @@ Defensive Floor = round( Concept Bonus / 3 )
 This floor is applied when a character is forced to use a Defensive Feat that does not benefit from any of their Aspects.
 
 Contests
-----------
+--------------------------------------------------------------------------------
 
 There are three ways to resolve Feats that involve Characters, Groups, or Domains directly opposing one another:
 
@@ -211,18 +188,16 @@ There are three ways to resolve Feats that involve Characters, Groups, or Domain
 The GM may choose from these methods to determine how Feats are resolved.
 
 Group Feats
---------------
+--------------------------------------------------------------------------------
 
-When two or more characters work together to perform a feat, if the majority succeed, the group succeeds.
-
-To calculate the Passive Bonus for a group, use the average Passive Bonus of all members.
+When two or more characters work together to perform a feat, if the majority succeed, the group succeeds. This rule can be used with either Active or Passive Feats.
 
 The GM has the option to add or subtract a Bonus that scales to account for differences in difficulty caused by group size:
 - A small group may receive +2 for Stealth, and -2 in combat against a larger group.
 - If the groups are vastly outmatched in size, the GM can declare an automatic success or failure
 
 Domain Feats
----------------
+--------------------------------------------------------------------------------
 
 At a certain size, resolving Group Feats begins to become unwieldy, and something more is needed.
 
@@ -233,7 +208,7 @@ Domains have a Concept and Aspects, and they function almost like Characters, bu
 The section on [Domains](#Domains) has more information.
 
 Feats of Magic
------------------
+--------------------------------------------------------------------------------
 
 ### Spellcasting Aspects
 
@@ -369,7 +344,7 @@ On rare occasions, bending the rules of reality in this way can cause Paradox, w
 Some say that Paradox is caused by gods that wish to punish mortals for breaking the rules of the reality that they constructed. Others claim it is caused by reality itself pushing back against the caster. In any case, it can have narrative as well as mechanical consequences.
 
 Resisting a Spell
----------------------
+--------------------------------------------------------------------------------
 
 When a spell targets a resisting character, treat their defenses as an extra layer of difficulty rather than a separate roll.
 
@@ -517,13 +492,13 @@ The caster rolls and gets a Boon. The GM rules that the fire shield unexpectedly
 ---
 
 Example Character Sheets
-===============================
+================================================================================
 
 ## Kaelion Veynor
 
 ```
 Kaelion Veynor (4)
-========================================
+================================================================================
 
 | Stamina: | Mana: | Wounds: ------------------------------------------------- |
 |:--------:|:-----:|:----------------------------------------------------------|
@@ -533,7 +508,7 @@ Kaelion Veynor (4)
 |   ---    |  ---  | 💀                                                        |
 
 Feats
-----------------------------------------
+--------------------------------------------------------------------------------
 
 | Feat:         | Bonus: | Relevant Aspect: ---------------------------------- |
 |:--------------|:-------|:----------------------------------------------------|
@@ -552,7 +527,7 @@ Feats
 |               |        |                                                     |
 
 Cursed Prince Seeking Redemption (4)
-----------------------------------------
+--------------------------------------------------------------------------------
 
 ### Elf
 
@@ -567,7 +542,7 @@ Kaelion refuses to give up. His determination gives him resistance against mind-
 Part of Kaelion's education as a Prince involved combatives lessons with some of the best swordsmen of the realm.
 
 Inventory
------------------------------------------
+--------------------------------------------------------------------------------
 #### Wealth Level: 2 (Working-Class)
 #### Enchanted Longsword, Moonshade
     Glows and grants +1 in low-light conditions.
@@ -586,7 +561,7 @@ Inventory
 
 ```
 Varo Thesk ( +2 )
-========================================
+================================================================================
 
 | Stamina: | Mana: | Wounds: ------------------------------------------------- |
 | :------: | :---: | :-------------------------------------------------------- |
@@ -615,7 +590,7 @@ Varo Thesk ( +2 )
 |             |        |                                                      |
 
 Apprentice Illusionist and Professional Cheat ( +2 )
-----------------------------------------------------
+--------------------------------------------------------------------------------
 
 ### Illusiomancer of the Veiled Lantern School
 
@@ -658,9 +633,9 @@ His favorite pastime is stacking decks, conjuring false tells, or masking his tr
 ---
 
 Understanding Parts of the Atomic D6 Character Sheet
-======================================================================
+================================================================================
 Stamina
---------
+--------------------------------------------------------------------------------
 When a character takes damage, they lose Stamina. Consuming Stamina in this way represents a character getting the wind knocked out of them, or expending their energy to take evasive action.
 
 At the GM's discretion, some actions like sprinting or concentrating for a long period of time are particularly taxing and may also consume Stamina.
@@ -668,7 +643,7 @@ At the GM's discretion, some actions like sprinting or concentrating for a long 
 If the character has no more Stamina at the time they take damage, they receive a Wound.
 
 Wounds
--------
+--------------------------------------------------------------------------------
 "It's just a flesh wound." - _Monty Python and the Holy Grail_
 
 Wounds are Maluses that represent mental or physical damage to a character.
@@ -753,7 +728,7 @@ Upon waking, characters may roll once per Wound in order to determine if they ha
 Certain species like robots do not eat, sleep, or drink, but they do require maintenance, and they have their own rules around stamina recovery.
 
 Death
-------
+--------------------------------------------------------------------------------
 "It is not death a man should fear, but rather, never beginning to live" - *Marcus Aurelius*
 
 When a character takes damage and all of their Stamina and Wounds have already been consumed, they begin to die, and they may choose how to spend their last breaths:
@@ -787,7 +762,7 @@ In Atomic D6, Mental Wounds are considered to be just as deadly as physical ones
 ---
 
 Character Progression
---------------------------
+--------------------------------------------------------------------------------
 
 ### Concept Bonus
 
@@ -830,7 +805,7 @@ For each advancement granted by the GM, it is recommended that the party should 
 ---
 
 Wealth
-------
+--------------------------------------------------------------------------------
 
 ### Wealth Levels for Individuals
 
@@ -868,7 +843,7 @@ These prices are approximate, and subject to change. In general, prices are not 
 One notable exception to this rule is certain rare lower TL items that are considered "antiquities." Antiquities appreciate in value over time and can fetch exorbitant prices from collectors.
 
 Feats (Continued)
-------
+--------------------------------------------------------------------------------
 
 ### Defensive Feats
 
@@ -1139,7 +1114,7 @@ Kaelion adds Interrogation to his list of Feats, with a Half Bonus. This way he 
 There is no limit on the number of Feats that can be added to the Character Sheet this way.
 
 Example Feats by Successes Required
-----------------------------------------------------
+--------------------------------------------------------------------------------
 
 ### Untrained (0 Successes)
 
@@ -1300,10 +1275,10 @@ For example:
 ---
 
 Inventory
------------
+--------------------------------------------------------------------------------
 
 Zone Movement
-==================
+================================================================================
 Zones are arbitrary divisions of the map defined as the distance most characters can cover by moving for one [Beat](#Time).
 
 If they do nothing else besides move, characters may move two Zones in one [Beat](#Time).
@@ -1313,7 +1288,7 @@ Characters with magical or technological augmentation may move faster or slower.
 If the GM is using maps, it is expected that they divide them into Zones, or otherwise enforce Zone Movement when applicable.
 
 A Note on Differing Movement Speeds
------------------------------------------
+--------------------------------------------------------------------------------
 If all parties are roughly the same speed, the GM is encouraged to make the Zones larger. For instance, during a chase between two motorcycles, the GM might make zones that take up an entire city block so that all characters can still move roughly one zone per [Beat](#Time).
 
 **If characters are traveling at significantly different speeds,** the GM can draw smaller zones inside the larger ones. For instance: if a character suddenly dismounts their motorcycle during the chase, the GM can quickly delineate some smaller zones inside of the larger ones.
@@ -1323,7 +1298,7 @@ If the GM finds themselves having to draw too large or too small, they can feel 
 ---
 
 Time
-======
+================================================================================
 | **D8:** | **Description:** | **Equivalent to:**                                                                    |
 |---------|------------------|---------------------------------------------------------------------------------------|
 | 1       | Instant          | An event that happens immediately.                                                    |
@@ -1336,7 +1311,7 @@ Time
 | 8       | Permanent        | Forever, in perpetuity.                                                               |
 
 Flashbacks
-------------
+--------------------------------------------------------------------------------
 GMs may give out Flashbacks to players that they may use later.
 
 At any time, characters may choose to spend a Flashback in order to remember a scene that happened in the past. They might remember that they packed certain equipment or planned ahead for a specific contingency that they're facing.
@@ -1348,7 +1323,7 @@ Flashbacks are not time travel. They can add additional past events, but they ca
 ---
 
 Mounts and Vehicles
-==========================
+================================================================================
 
 Mounts and Vehicles in Atomic D6 are treated much the same way as characters.
 
@@ -1369,7 +1344,7 @@ Instead of medical care, vehicles must be repaired. The difficulty of the repair
 ---
 
 Cybernetics
-===============
+================================================================================
 
 Cybernetics are Aspects that are a part of a character's body, and they extend what characters can do.
 
@@ -1386,9 +1361,9 @@ It is assumed that players are recharging and refueling their cybernetics while 
 ---
 
 Domains
-==========
+================================================================================
 Overview
-----------
+--------------------------------------------------------------------------------
 At higher levels of play, characters might gain control over Domains: kingdoms, factions, corporations, or empires. This system allows players to engage in large-scale politics, warfare, economics, and diplomacy while preserving Atomic D6's streamlined mechanics.
 
 Much like Characters, each Domain has a Concept, Aspects, and Holdings that define its strengths and weaknesses. Domain Feats occur in Domain Turns, which typically represent at least one Sequence, and could possibly span months or even years.
@@ -1397,7 +1372,7 @@ Domain Feats are useful in order to determine how large events unfold in the bac
 
 ---
 Gaining Control of a Domain
---------------------------------
+--------------------------------------------------------------------------------
 Characters may assume control over a Domain in various ways, depending on the game's narrative and setting. Here are some common paths to Domain leadership:
 
 ### 1. Inheritance & Bloodlines
@@ -1437,7 +1412,7 @@ Gaining control over a Domain often comes with challenges, including rival facti
 ---
 
 Regents, Ministers, and Managers
---------------------------------------
+--------------------------------------------------------------------------------
 Leaders that wish to go out on adventures must leave someone in charge of their Domain. It goes without saying that this requires a great deal of trust.
 
 During each Domain Turn, leaders may issue standing orders to their Ministers, who will (usually) execute them to the best of their ability.
@@ -1445,7 +1420,7 @@ During each Domain Turn, leaders may issue standing orders to their Ministers, w
 If leaders are out of communication, their Ministers will follow standing orders and do their best to react to situations as they arise.
 
 Gaining Aspects from Domains
----------------------------------
+--------------------------------------------------------------------------------
 When a character is part of a Domain (such as a Faction, Kingdom, or Guild), they can gain an Aspect that represents their role, rank, and influence within that Domain.
 
 These Aspects change how people react to the character. They might grant Bonuses or Maluses in relevant situations, and they might allow characters access to new resources.
@@ -1464,7 +1439,7 @@ These Aspects change how people react to the character. They might grant Bonuses
 By treating Domains as living, evolving entities, these Aspects help shape how characters interact with the world and how the world reacts to them.
 
 Progression of Domains
---------------------------
+--------------------------------------------------------------------------------
 
 A Domain's Concept Bonus represents the scope of its political, social, and cultural influence.
 
@@ -1511,7 +1486,7 @@ A leader of a Domain may not extract personal wealth from their Domain's treasur
 ---
 
 Domain Turns
---------------
+--------------------------------------------------------------------------------
 Domain Turns happen in-between Sequences of player actions:
 
 1. Players issue orders to regents, ministers and managers and narrate what their characters are planning to do while orders are being carried out.
@@ -1521,7 +1496,7 @@ Domain Turns happen in-between Sequences of player actions:
 5. The GM narrates the outcome at a high level and determines how many Character and Domain resources were consumed
 
 Domain Feats vs. Individual Feats
----------------------------------------
+--------------------------------------------------------------------------------
 Domain Feats require characters to issue orders to the members of their organization. Giving orders is not always easy; it can be a feat of communication and diplomacy in and of itself.
 
 After the regent, minister, or manager of the domain receives the orders, they (usually) execute them to the best of their ability. They pass orders to their subordinates, and the Domain Feat is executed.
@@ -1529,7 +1504,7 @@ After the regent, minister, or manager of the domain receives the orders, they (
 Domain Feats are resolved in the same manner as Character Feats, by looking at Domain Aspects to determine relevant Bonuses and Maluses and rolling Feat Die accordingly.
 
 Example Domain Feats by Successes Required
--------------------------------------------------
+--------------------------------------------------------------------------------
 #### Powerless (0 Successes)
 
 Feats are unreliable or impossible. The collective lacks organization and cannot act meaningfully at scale.
@@ -1610,16 +1585,16 @@ Feats are reality-defining at the largest civilizational scale. They reshape exi
 - Rewrite history or culture at a galactic scale.
 
 Example Domain Sheet
-------------------------
+--------------------------------------------------------------------------------
 
 Just like Characters, domains get a sheet that lists their Aspects and Inventory, known as Holdings.
 
 ```
 Kingdom of Veyndor (4)
-=========================================
+================================================================================
 
 Fallen Kingdom / Usurped Monarchy
------------------------------------------
+--------------------------------------------------------------------------------
 Once a proud realm of honor and wisdom, Veyndor now suffers under tyranny and corruption after Lord Regent Malagar Thorne usurped the throne.
 
 ### Once a Kingdom of Honor, Now Ruled by Shadows
@@ -1632,13 +1607,13 @@ Ancient forests hold restless mystical energies and secrets tied to the Veynor b
 Loyalists gather in secrecy, rallying around the exiled heir Kaelion Veynor.
 
 Prominent Members
------------------------------------------
+--------------------------------------------------------------------------------
 #### Lord Regent Malagar Thorne (Usurper)
 #### Kaelion Veynor (Exiled Heir)
 #### The Eldenholde Council (Divided Nobles)
 
 Holdings
------------------------------------------
+--------------------------------------------------------------------------------
 #### Wealth Level: 3
 #### Eldenholde (Capital City)
 A fortress city turned into a bastion of Malagar’s rule.
@@ -1656,10 +1631,10 @@ Treacherous ranges hiding rebels and exiled nobles.
 ---
 
 Crafting and Technology
-==============================
+================================================================================
 
 All items in Atomic D6 can be crafted
-----------------------------------------------
+--------------------------------------------------------------------------------
 
 Any item in Atomic D6 can be crafted. The difficulty of a crafting feat depends on several factors:
 - Aspect Bonus of the craftsman
@@ -1669,7 +1644,7 @@ Any item in Atomic D6 can be crafted. The difficulty of a crafting feat depends 
 - Intrinsic complexity of the item being crafted
 
 Technology is Cultural
----------------------------
+--------------------------------------------------------------------------------
 
 Technology level is a cultural shorthand rather than a universal law.
 
@@ -1682,14 +1657,14 @@ Different worlds may develop along different paths with TLs. For instance: a civ
 GMs are encouraged to tweak or reinterpret TLs depending on their campaign setting.
 
 Crafting Costs
-------------------
+--------------------------------------------------------------------------------
 
 - Man hours
 - Components
 - Beats
 
 Large Projects
-------------------
+--------------------------------------------------------------------------------
 
 - Example: Castles, Starships, Dyson Spheres
 - Can require multiple Domain Feats to craft
@@ -1698,7 +1673,7 @@ Large Projects
 - Each Feat requires a roll of the Atomic D6
 
 Technological Distance Makes Crafting Harder
--------------------------------------------------------
+--------------------------------------------------------------------------------
 
 Some items are so distant from the craftsman's TL that they are difficult to make.
 
@@ -1708,7 +1683,7 @@ In both situations, characters receive a Malus to crafting the item.
 
 
 Tech. Levels of Civilizations
-------------------------------------
+--------------------------------------------------------------------------------
 
 ### TL 0 - Stone Age (Prehistoric Survivalists)
 
@@ -1866,14 +1841,14 @@ Sometimes it can be difficult for the GM to imagine what might possibly cause di
 ---
 
 Worldbuilding Through High-Level Play
-=================================================
+================================================================================
 
 In Atomic D6, the campaign world is not static: it is a Narrative, just like the events unfolding in play. Instead of starting with a pre-built setting, players can create the world dynamically by taking on the roles of divine beings, primordial forces, or legendary founders. Through Domain Level Play, they may shape history, establish civilizations, and define the world's fundamental laws, all while telling an evolving story.
 
 ---
 
 Playing as an Elder Deity
------------------------------
+--------------------------------------------------------------------------------
 
 _"That is not dead which can eternal lie... and with strange aeons even death may die."_ - H.P. Lovecraft
 
@@ -1906,7 +1881,7 @@ Atomic Elements cannot be removed from the game once they are introduced, howeve
 ---
 
 Game Setting
---------------
+--------------------------------------------------------------------------------
 
 When they reach a consensus, or a predetermined number of Primordial Aeons, the Elder Deities may decide to begin the next phase of the game.
 
@@ -1917,12 +1892,12 @@ After that, players will need to work with the GM to determine their starting Co
 ---
 
 Playing as Multiple Characters
-========================================
+================================================================================
 
 With GM permission, a player may control more than one character simultaneously, such as a wizard and their fighter bodyguard.
 
 Rules for Multiple Characters:
------------------------------------
+--------------------------------------------------------------------------------
 
 - Distinct Roles: Each character should have a unique function in the party to prevent redundancy.
 - Balanced Spotlight: The GM should ensure that a single player does not dominate the game, allowing all players equal engagement.
@@ -1935,7 +1910,7 @@ This rule allows for more flexible storytelling and party compositions, ensuring
 ---
 
 Solo Play
------------
+--------------------------------------------------------------------------------
 
 In some cases, a player may wish to take on the role of both the player and the GM, running an entire game by themselves. This allows for personalized storytelling, experimentation, and world-building.
 
@@ -1949,11 +1924,11 @@ Solo play provides a way for players to explore narratives at their own pace, ex
 ---
 
 Blank Character Sheet
-============================
+================================================================================
 
 ```
 {{ Name }} ({{ Concept Bonus }})
-========================================
+================================================================================
 
 | Stamina: | Mana: | Wounds: ------------------------------------------------- |
 |:--------:|:-----:|:----------------------------------------------------------|
@@ -1963,7 +1938,7 @@ Blank Character Sheet
 |   ---    |  ---  | 💀                                                        |
 
 Feats
-----------------------------------------
+--------------------------------------------------------------------------------
 
 | Feat:       | Bonus: | Relevant Aspect: ------------------------------------ |
 |:------------|:-------|:------------------------------------------------------|
@@ -1982,7 +1957,7 @@ Feats
 |             |        |                                                       |
 
 {{ Character Concept }} ({{ Concept Bonus }})
-----------------------------------------
+--------------------------------------------------------------------------------
 
 ### {{ Aspect 1 }}
 
@@ -1997,7 +1972,7 @@ Feats
 {{ Description of Aspect 1 }}
 
 Inventory
------------------------------------------
+--------------------------------------------------------------------------------
 #### Wealth Level: 0
 #### {{ Item 1 }}
 #### {{ Item 2 }}
@@ -2010,14 +1985,14 @@ Inventory
 ---
 
 Blank Domain Sheet
-========================
+================================================================================
 
 ```
 {{ Name }} ({{ Concept Bonus }})
-=========================================
+================================================================================
 
 {{ Concept }}
------------------------------------------
+--------------------------------------------------------------------------------
 
 ### {{ Aspect 1 }}
 
@@ -2032,13 +2007,13 @@ Blank Domain Sheet
 {{ Description of Aspect 3 }}
 
 Prominent Members
------------------------------------------
+--------------------------------------------------------------------------------
 #### {{ Member 1 }}
 #### {{ Member 2 }}
 #### {{ Member 3 }}
 
 Holdings
------------------------------------------
+--------------------------------------------------------------------------------
 #### Wealth Level: 0
 #### {{ Holding 1 }}
 #### {{ Holding 2 }}
@@ -2048,10 +2023,10 @@ Holdings
 
 ```
 Example Concepts
-=====================
+================================================================================
 
 Mortal Concepts
-------------------
+--------------------------------------------------------------------------------
 
 | D6 | 1                 | 2                      | 3                       | 4                  | 5             | 6               |
 |----|-------------------|------------------------|-------------------------|--------------------|---------------|-----------------|
@@ -2065,7 +2040,7 @@ Mortal Concepts
 ---
 
 Divine Concepts
-------------------
+--------------------------------------------------------------------------------
 
 | D6 | 1                           | 2                              | 3                                        | 4                                    | 5                              | 6                                     |
 |----|-----------------------------|--------------------------------|------------------------------------------|--------------------------------------|--------------------------------|---------------------------------------|
@@ -2079,7 +2054,7 @@ Divine Concepts
 ---
 
 Glossary
-===========
+================================================================================
 
 | Term    | Description                                                                                                                                                                 |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2092,7 +2067,7 @@ Glossary
 | Bane    | A negative narrative beat                                                                                                                                                   |
 | Boon    | A positive narrative beat                                                                                                                                                   |
 | Bonus   | A positive effect that increases someone's chance to succeed on a roll                                                                                                      |
-| Concept | A special kind of Aspect that defines the core of a character                                                                                                               |
+| Concept | A one line description of the core of a character                                                                                                                           |
 | D6      | Six sided die                                                                                                                                                               |
 | Domain  | A sociogeographical entity comprised of many characters that can be treated as one unit (e.g., a culture, the government of a country, a garrison, guild, or a corporation) |
 | Feat    | An attempt by a character to do something, usually requiring Feat Dice to be rolled                                                                                         |
@@ -2103,7 +2078,7 @@ Glossary
 ---
 
 Why is this game called Atomic D6?
-=============================================
+================================================================================
 
 The Atom is the smallest stable unit found in nature, but despite its small size, the Atom contains a great deal of potential energy, and it can be combined into many different forms. [The Five Mutually Reenforcing Design Principles of Atomic D6](#The-Five-Mutually-Reenforcing-Design-Principles-of-Atomic-D6) seek to embody those qualities.
 
