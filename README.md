@@ -56,11 +56,9 @@ Different tables may come to a consensus regarding what kind and how many Aspect
 Feat Die
 ----------
 
-A "Feat" is anything a player attempts to do that is difficult enough that there is a significant chance of failure.
+Characters roll a number of Feat Die equal to their Concept Bonus when attempting a Feat that directly benefits from one of their Aspects.
 
-Characters roll a number of Feat Die equal to their [Concept Bonus](#Concept Bonus) when attempting a Feat that directly benefits from one of their Aspects.
-
-For example: “Swordsman” allows a Character to apply their [Concept Bonus](#Concept Bonus) to all combat Feats with a Sword.
+For example: “Swordsman” allows a Character to apply their Concept Bonus to all combat Feats with a Sword.
 
 At the highest levels of Atomic D6, characters may receive Bonuses of +10 or higher. It is not recommended for players to roll more than 10 Feat Die at a time. In these situations, characters should convert die to a flat modifier.
 
@@ -74,6 +72,8 @@ Characters always roll at least 1 Feat Die, even when their Maluses end up being
 | 4-5               | Success       |
 | 6                 | Two successes |
 
+Feat Bonuses Summarized:
+------------------------------
 
 The rules to resolve Feats in Atomic D6 may seem overwhelming at first, but there are only three numbers that characters actually need to remember:
 
@@ -111,6 +111,10 @@ Maluses
 
 An Aspect that hinders a character is called a Malus.
 
+Characters subject to a Malus receive only a Half Bonus to Aspects that are affected by the Malus.
+
+If the Feat that they are attempting is already tangental and also subject to a Malus, their Bonus is further reduced to 1/3, rounded.
+
 For instance: because of his slashed arm, Kaelion receives a Malus to Swordsmanship, and he only gets a 1/2 Bonus to it until his arm heals.
 
 Small Bonuses and Maluses
@@ -126,66 +130,61 @@ Players cannot have +.3 or higher. In these cases, each group of .3 is converted
 
 For instance: Kaelion has accumulated a bunch of minor bonuses to Swordsmanship equivalent to +.4. He converts them to full dice, and on his character sheet he writes +1.1
 
-Passive Bonuses
+Passive Bonus
 ----------------
 
-To reduce unnecessary rolling, the GM may resolve some Feats using a character’s Passive Bonus instead of asking for an active roll.
+To reduce unnecessary rolling, the GM may ask players to convert their Aspect Bonus into an average number of automatic successes (Guaranteed Successes).
 
-Passive Bonuses are intended as a convenience tool, but if using a Passive Bonus would slow the game, feel awkward, or reduce tension, the GM can simply have the player roll as normal.
+Passive Bonus is also used to determine how difficult it is to hit a character when they are defending.
 
-### Calculating Passive Bonus
+Passive Bonus can also be used by the GM to resolve contests without the player's knowledge.
 
-When converting dice into a Passive Bonus:
+For instance: Kaelion walks down the King's Road, past some brigands hiding behind trees, waiting in ambush. The GM doesn't want to give away the situation, so instead of asking Kaelion to roll Notice, he can roll a Feat of Stealth for the Brigands and compare their result to Kaelion's Passive Bonus to Notice them.
 
-- Grant 2 automatic successes for every 3 dice.
-- If any dice remain, grant +1 additional success.
+### Pips and passive conversion
 
-This conversion reflects the average outcome of rolling dice in Atomic D6, without requiring fractions, decimals, or table lookups.
+Active bonuses can be a mix of dice (D) and pips (P). When you need a Passive Bonus, convert everything to pips first so you can add it cleanly using a lowest common denominator.
 
-Examples:
-- 1–2 dice → 1 success  
-- 3 dice → 2 successes  
-- 4–5 dice → 3 successes  
-- 6 dice → 4 successes  
-- 9 dice → 6 successes  
-
-### When to Use Passive Bonuses
-
-Passive Bonuses are commonly used for:
-- Determining Feats for unconscious or unaware characters (with the option of an Malus for being unaware)
-- Defensive Feats for objects
-- Contests where rolling would add no meaningful drama
-- Situations where the players are unaware of the fact that someone or something is attempting a Feat against them
-- One character hiding from another character
-- Whether an unaware player character notices something that they haven't seen yet
-- Whether an unaware player character is noticed by something that hasn't seen them yet
-- Situations where the GM wants to resolve many checks quickly
-- Hidden checks, where the GM does not want to prompt a player roll
-
-### Rolling Is Always Allowed
-
-If a Passive Bonus would create confusion, reveal information unintentionally, or undermine tension, the GM may ignore Passive Bonuses entirely and resolve the Feat with an active roll
-
----
-
-### Example Kaelion calculates his Passive Feat Bonus:
-
-Kaelion the Elf has:
-- Base Notice +4
-- +1 from his *Elven Senses* Aspect
-- -1 due to a *Lingering Concussion*
-- +.1 from his enchanted monocle (Pip Bonus)
+Core equivalences:
 
 ```
-Kaelion's Active Feat Bonus = 4 + 1 - 1 + .1 = 4.1
+3 Pips are worth one Dice:
+3P = 1D
 
-Passive Feat Bonus = 3 (two successes for every three dice, +1 if there's a remainder of 1 or more)
+6 Pips guarantee one Success:
+6P = 1S
 ```
 
-If brigands try to ambush him, the GM compares their Stealth roll to Kaelion's Passive Notice without warning him.
+Total Pips:
+```
+Total Pips = (Dice * 3) + Pips
+```
 
-As always, the GM may rule that characters incur additional Maluses due to being ambushed unaware.
+Passive Bonus (PB):
+```
+PB (in Guaranteed Successes) = round(Total Pips / 6)
+```
 
+How to do math on dice:
+
+- Convert everything to pips (P) to get a lowest common denominator.
+- Do all addition/subtraction in pips.
+- Round intermediate results to the nearest pip (no half-pips).
+
+How to convert Active Bonuses into Passive Bonuses (PB):
+
+- After you have Total Pips, convert to PB by rounding to the nearest Guaranteed Success.
+- PB = round(Total Pips / 6)
+
+Quick shortcut (concept-only):
+
+If the only thing contributing is Concept Bonus (no other dice/pips), the GM may use this fast approximation:
+
+Passive Concept Bonus = round( Concept Bonus / 2 )
+
+For example: a Concept Bonus of 4 / 2 rounded up = 2 automatic successes without rolling.
+
+Use the pip method whenever any other modifiers (pips, conditions, gear, situational bonuses) are involved.
 
 Floor for Defensive Feats
 -------------------------------
@@ -203,11 +202,11 @@ Contests
 
 There are three ways to resolve Feats that involve Characters, Groups, or Domains directly opposing one another:
 
-Active vs Active: both sides roll their dice; higher number of successes wins.
+**Active vs Active:** both sides roll their dice; higher number of successes wins.
 
-Active vs Passive: one side rolls; the other uses their Passive Bonus.
+**Active vs Passive:** one side rolls; the other uses their Passive Bonus.
 
-Passive vs Passive: compare Passive Bonuses; higher total wins.
+**Passive vs Passive:** compare Passive Bonuses; higher total wins.
 
 The GM may choose from these methods to determine how Feats are resolved.
 
@@ -293,39 +292,39 @@ Spell Difficulty = Paradox +
 
 The final result is capped at a maximum of 26 successes and floored at a minimum of 0 successes.
 
-##### Paradox
+Paradox
 
 Paradox is the first and most important variable for the GM to ascertain. It represents how "reality breaking" (read: game breaking) the spell is. The GM should assess how much the spell violates the world's natural laws or game balance. Paradox can change over time; even the same spell can change in difficulty if the circumstances of its casting are different, or if it is cast repeatedly. See the [Paradox](#Paradox) section for more information.
 
-##### Duration
+Duration
 
 Duration uses in-game time, not narrative time. The GM must consider the actual in-world duration when determining difficulty. For instance: if a scene is 1000 years, the GM should make that spell much more difficult than a spell lasting a scene that is 5 minutes. The duration steps (Beat, Scene, Sequence, Act, Narrative, Permanent) are defined in the [Time](#Time) section.
 
-##### Resistance Interval
+Resistance Interval
 
-Resistance Interval defaults to one step lower than Duration. For instance: if the duration lasts one Scene, the resistance interval will be one Beat. If the duration is one Beat, the resistance interval will be one Moment. The Resistance Interval represents how often targets can attempt to resist the spell's effects. See the [Resisting a Spell](#Resisting-a-Spell) section for more information.
+Resistance Interval defaults to one step lower than Duration. For instance: if the duration is one Scene, the resistance interval will be one Beat. If the duration is one Beat, the resistance interval will be one Moment. The Resistance Interval represents how often targets can attempt to resist the spell's effects. See the [Resisting a Spell](#Resisting-a-Spell) section for more information.
 
-##### Targets/Area
+Targets/Area
 
 This variable accounts for the number of targets or the size of the area affected by the spell. Spells that affect multiple targets or larger areas are more difficult than spells affecting a single target or small area.
 
-##### Resistance Difficulty
+Resistance Difficulty
 
 This usuallly defaults to the total difficulty of the spell, and represents how difficult it is for targets to resist its effects. Spells that are harder to resist (such as mind control or binding effects) add more to the difficulty than spells that are easier to resist.
 
-##### Range
+Range
 
 Range represents the distance from the caster to the target or the area of effect. Spells cast at greater distances are more difficult than spells cast at close range.
 
-##### Magnitude
+Magnitude
 
 Magnitude represents the raw power or intensity of the spell's effect. More powerful effects reduce the spell's difficulty (this variable is subtracted from the total). The GM should consider the scale of the effect when determining Magnitude.
 
-##### Preparation Time
+Preparation Time
 
 Preparation Time represents the time spent preparing the spell before casting. Spells that are prepared over a longer period are easier to cast (this variable is subtracted from the total). Rituals and ceremonies that take hours or days reduce the spell's difficulty.
 
-##### Number of Casters
+Number of Casters
 
 When multiple casters work together to cast a spell, the difficulty is reduced (this variable is subtracted from the total). Each additional caster beyond the first reduces the difficulty, representing the shared burden of channeling magical energy.
 
@@ -375,21 +374,16 @@ Resisting a Spell
 When a spell targets a resisting character, treat their defenses as an extra layer of difficulty rather than a separate roll.
 
 ```
-Active Spell Resistance = Target’s Defensive Feat + Armor Bonus if applicable
+Spell Resistance = Base Spell Difficulty + Target’s Defensive Feat (Can be Passive or Active)
 ```
 
-As is the case with other Feats, Spell Resistance can be made Passive (see the section on Passive Feats above.)
-
-- The defender gets to choose which Defensive Feat to use, as long as it's appropriate
-  - Physical targeting: Dodge, Block, Endure, or similar
+- The defender gets to choose which defensive Feat to use, as long as it's appropriate
+  - Physical targeting: Passive Dodge, Passive Block, Passive Endure, or similar
   - Mental or sensory effects: Passive Resolve, or similar.
-  - Counterspell, if the defender can conjure a magical effect to defend themselves
-  - If the spell is a physical attack, the defender may add their armor bonus to their Defensive Feat
-  - If the target lacks a relevant Aspect for that defense, use the standard Defensive Floor in place of their full Concept Bonus. See [#Floor for Defensive Feats](Floor for Defensive Feats)
+  - If the spell is a physical attack, armor may provide additional protection (see Armor and Spell Resistance below)
+  - If the target lacks a relevant Aspect for that defense, use the standard Defensive Floor in place of their full Concept Bonus.
 
-The caster rolls spellcasting as a normal Feat, applying their Spellcasting Aspect and other Bonuses. They must beat the target's Spell Resistance for the spell to fully take hold.
-
-In the case of a "tie," where the attacker and defender roll the same number of successes, the defender is unharmed. In addition, the GM may rule that ties are a special case. For instance: the attacker and defender may become locked together in melee.
+The caster rolls spellcasting as a normal Feat, applying their Spellcasting Aspect and other Bonuses. They must meet or beat the total Spell Resistance for the spell to fully take hold.
 
 #### Example: Illusory Chains
 
@@ -409,44 +403,116 @@ Spell effects such as chains, webs, or shackles are treated as a negative Aspect
   - Any fixed, agreed‑upon duration expires (for non‑maintained effects).
   - While the Condition is active, the target is restricted according to the spell’s description.
 
-#### Attempting to Break Free
+#### Attempting to Break Free Each Turn
 
-Characters may attempt to resist a spell when it is first cast. After that, they get additional chances to shake off any lingering effects, depending on its Resistance Interval.
+A character affected by a spell in combat may attempt to break free at the end of each of their turns (Beats) as an Active Feat. This is separate from the initial resistance roll when the spell is cast.
 
 - Choose a Feat that matches the nature of the spell:
   - Physical bindings (chains, webs, snares):
-    - Endure, Melee, or a custom Feat such as Break Free / Wrestling / Athletics.
+    - Endure, Melee, or a custom Feat such as Break Free / Athletics.
   - Illusory / mental bindings (pure mind tricks, fear, phantasms):
-    - Resolve, Illusion, or a similar mental defense Feat.
+    - Resolve or a similar mental defense Feat.
   - Projectiles and conjured melee attacks
     - Dodge or Block
-  - Counterspell
-    - The target can attempt to cast a spell to help them break free
 - Apply Aspects normally; tangential Aspects grant Half Bonus, Maluses reduce effectiveness as usual.
 
-The difficulty of escaping the spell effect is equivalent to the number of successes the caster rolled to cast it.
+##### Escape Difficulty
 
-Some Bonuses and Maluses can be applied to account for circumstances, Boons, and Banes.
+Set the difficulty to escape as:
+
+```
+Escape Difficulty = Original Spell Difficulty + Caster's Passive Spellcasting Bonus
+```
+
+- Original Spell Difficulty is the same number the GM used when the spell was cast (for example, 2 for an Apprentice‑level effect).
+- The caster's Passive Spellcasting Bonus is their spellcasting Concept Bonus converted to a Passive Bonus (round Concept Bonus ÷ 2, as with other Passive scores).
+
+The bound character rolls once per turn at the end of their Beat. Meeting or beating the Escape Difficulty fully ends the Condition.
 
 #### Armor and Spell Resistance
-Armor provides protection against certain types of physical spell effects. When calculating Spell Resistance against physical spells, armor Bonus is added to the Defensive Feat Bonus. See [#Resisting a Spell](Resisting a Spell for details.
 
-Armor can protect against:
+Armor provides protection against certain types of physical spell effects. When calculating Spell Resistance against physical spells, armor Bonus is added to the Active Defensive Feat Bonus, and then the total is converted to Passive Bonus using the standard formula.
+
+```
+Spell Resistance = Base Spell Difficulty + Target's Defensive Feat (with Armor Bonus if applicable)
+```
+
+**When Armor Applies to Spell Resistance:**
+
+Armor provides protection against physical spell effects that would be blocked or mitigated by protective gear:
 
 - Physical projectile spells (ice bolts, force missiles, stone projectiles)
 - Conjured weapon attacks (magical swords, spears, arrows)
 - Force-based attacks that create physical impact
 
+**When Armor Does Not Apply to Spell Resistance:**
+
 Armor provides limited or no protection against:
 
-- Drowning
-- Suffocation
 - Fire spells (fire can cook someone alive inside armor, providing minimal protection at best)
-- Energy-based attacks that bypass physical barriers (lightning, plasma)
+- Energy-based attacks that bypass physical barriers (lightning, pure energy)
 - Mental or sensory effects (illusions, mind control, fear)
-- Spells that directly target internal organs (poison gas, diseases, life drain)
+- Spells that target internal systems (poison, disease, life drain)
 
 The GM determines whether armor applies to a specific spell based on the spell's description and the nature of its effects. When in doubt, consider whether the spell creates a physical effect that armor would realistically protect against.
+
+### Spell Duration
+
+When casting a spell, the caster declares the intended duration of the effect. The duration affects the spell's difficulty, with longer durations requiring more power to maintain.
+
+#### Out-of-Combat Spell Resistance
+
+When a spell is cast outside of combat, the target's opportunities to resist depend on the spell's duration:
+
+- **Maintained Spells (Eldritch Burden)**: The target may attempt to break free when dramatically appropriate or when the spell effect is challenged. The GM determines when such opportunities arise based on the narrative.
+
+- **Fixed-Duration Spells**: The target gets a resistance roll at natural breakpoints in the spell's duration:
+  - Beat duration: At the end of each Beat (if combat begins)
+  - Scene duration: At the end of the Scene
+  - Sequence duration: At the end of the Sequence
+  - Act duration: At the end of the Act
+  - Narrative duration: At the end of the Narrative
+  - Permanent duration: Only at the initial casting; no further resistance rolls unless the spell is dispelled or broken by other means
+
+The Escape Difficulty for out-of-combat resistance uses the same formula as combat resistance:
+
+```
+Escape Difficulty = Original Spell Difficulty + Caster's Passive Spellcasting Bonus
+```
+
+Note: The Original Spell Difficulty includes the duration modifier that was applied when the spell was cast.
+
+#### Examples: Spell Duration in Practice
+
+**Example 1: Apprentice Mind Control (Fleeting Effect)**
+
+Varo, an Apprentice Illusionist (Concept Bonus +2), attempts to charm a guard during a social encounter. He wants the effect to last for a Scene so he can pass through the gatehouse.
+
+- Base spell difficulty (Apprentice-level mind control): 2 successes
+- Duration: Scene (+1 modifier for Apprentice)
+- Total Spell Difficulty: 3 successes required
+
+Varo rolls his spellcasting Feat and gets 3 successes. The guard is charmed for the Scene. At the end of the Scene, the guard may attempt to break free using Resolve against the Escape Difficulty (3 + Varo's Passive Spellcasting Bonus of 1 = 4 successes).
+
+**Example 2: Elder Deity Permanent Enchantment**
+
+An Elder Deity (Concept Bonus +26) wishes to create a permanent curse that binds a mortal's soul to a specific location for all eternity.
+
+- Base spell difficulty (Elder Deity-level curse): 13 successes
+- Duration: Permanent (+0 modifier for Elder Deity)
+- Total Spell Difficulty: 13 successes required
+
+The Elder Deity rolls and succeeds. The curse is permanent. The mortal may only resist at the initial casting; once the spell takes hold, it cannot be broken through normal resistance rolls. Only powerful dispelling magic or divine intervention could end the effect.
+
+**Example 3: Master-Level Spell with Boon**
+
+A Master Pyromancer (Concept Bonus +6) casts a fire shield with Beat duration to protect themselves in combat.
+
+- Base spell difficulty (Master-level protection): 3 successes
+- Duration: Beat (+0 modifier for Master)
+- Total Spell Difficulty: 3 successes required
+
+The caster rolls and gets a Boon. The GM rules that the fire shield unexpectedly lasts for the entire Scene instead of just one Beat, giving the pyromancer extended protection.
 
 ---
 
@@ -827,20 +893,24 @@ Armor provides protection by making characters harder to hit. Armor Bonus is add
 
 #### Armor as Bonus
 
-Armor provides a Bonus that is added to a character's Active Defensive Feat Bonus when defending against physical attacks.
+Armor provides a Bonus that is added to a character's Active Defensive Feat Bonus. The total (Active Defensive Feat Bonus + Armor Bonus) is then converted to Passive Bonus using the standard formula:
 
-Armor's Bonus always applies when defending against physical attacks except in situations where armor can be bypassed (see Situations Where Armor Does Not Apply).
+```
+Passive Bonus = round((Active Defensive Feat Bonus + Armor Bonus) / 2)
+```
+
+Armor's Bonus always applies to physical attacks in addition to any Defensive Feat chosen, except in situations where armor can be bypassed (see Situations Where Armor Does Not Apply).
 
 #### Armor Types
 
 Armor is typically categorized as light, medium, or heavy:
 
-- Light Armor: Leather, padded cloth, Kevlar vest
-  - Typical Bonus: +.1
-- Medium Armor: Chainmail, scale mail, ballistic vest
-  - Typical Bonus: +.2
-- Heavy Armor: Full plate, heavy powered armor, full body armor
+- **Light Armor**: Leather, padded cloth, Kevlar vest
   - Typical Bonus: +1
+- **Medium Armor**: Chainmail, scale mail, ballistic vest
+  - Typical Bonus: +2
+- **Heavy Armor**: Full plate, heavy powered armor, full body armor
+  - Typical Bonus: +3
 
 The GM may adjust armor Bonus values based on setting, tech level, or magical enhancement.
 
@@ -848,31 +918,31 @@ The GM may adjust armor Bonus values based on setting, tech level, or magical en
 
 Heavy armor provides excellent protection but imposes restrictions on movement and agility:
 
-- Dodge Malus: Heavy armor imposes a Malus on Dodge Feats (GM discretion, typically -1 or -2)
-- Speed and Agility Malus: Heavy armor imposes a Malus on Feats requiring speed or agility (sprinting, acrobatics, parkour, etc.)
-- Swimming Difficulty: Heavy armor makes swimming very difficult or impossible (GM may require Feats or declare automatic failure)
+- **Dodge Malus**: Heavy armor imposes a Malus on Dodge Feats (GM discretion, typically -1 or -2)
+- **Speed and Agility Malus**: Heavy armor imposes a Malus on Feats requiring speed or agility (sprinting, acrobatics, parkour, etc.)
+- **Swimming Difficulty**: Heavy armor makes swimming very difficult or impossible (GM may require Feats or declare automatic failure)
 
 #### Situations Where Armor Does Not Apply
 
 Armor may not provide protection in certain circumstances:
 
-- Unaware Targets: When attacking an unaware or helpless target, armor may not apply if the attacker can target vulnerable spots (e.g., stabbing between armor plates, garroting, targeting gaps in protection)
-- GM Discretion: The GM determines when armor doesn't apply based on the situation, target awareness, and attack method
-- Examples: Sneak attacks on sleeping targets, precision strikes on armor gaps, attacks on restrained/helpless targets where armor can be bypassed
+- **Unaware Targets**: When attacking an unaware or helpless target, armor may not apply if the attacker can target vulnerable spots (e.g., stabbing between armor plates, garroting, targeting gaps in protection)
+- **GM Discretion**: The GM determines when armor doesn't apply based on the situation, target awareness, and attack method
+- **Examples**: Sneak attacks on sleeping targets, precision strikes on armor gaps, attacks on restrained/helpless targets where armor can be bypassed
 
 #### Modern and Science Fiction Armor
 
 Modern and science fiction protective gear functions the same way as traditional armor:
 
-- Modern Armor: Kevlar, ballistic vests, and similar modern protective gear function as armor with Bonus
-  - Examples: Kevlar vest, Ballistic vest, Full body armor
+- **Modern Armor**: Kevlar, ballistic vests, and similar modern protective gear function as armor with Bonus
+  - Examples: Kevlar vest (+1), Ballistic vest (+2), Full body armor (+3)
   - Follows same rules as traditional armor (Bonus added to Defensive Feats, heavy armor Maluses, situations where armor doesn't apply, etc.)
-- Ballistic Shields: Portable shields (riot shields, ballistic shields) provide armor protection when actively used
+- **Ballistic Shields**: Portable shields (riot shields, ballistic shields) provide armor protection when actively used
   - May be treated as Block Defensive Feat + Armor Bonus
   - Can be used to protect others (GM discretion)
   - When not actively held/used, does not provide protection
-  - Examples: Riot shield, Ballistic shield
-- Tech Level Considerations: Higher tech levels may provide better armor protection or specialized armor types
+  - Examples: Riot shield (+1), Ballistic shield (+2)
+- **Tech Level Considerations**: Higher tech levels may provide better armor protection or specialized armor types
   - Energy shields, reactive armor, nanoweave, etc. (GM determines Bonus based on tech level)
   - Sci-fi armor may have special properties (energy resistance, environmental protection, etc.)
 
@@ -880,15 +950,15 @@ Modern and science fiction protective gear functions the same way as traditional
 
 Powered armor systems (power suits, exoskeletons, mech suits, battle frames) are treated as vehicles, not standard armor. See the [Mounts and Vehicles](#Mounts-and-Vehicles) section for details.
 
-- Powered Armor as Vehicle: Powered armor requires fuel or power source, ammunition for integrated weapons (if applicable), and maintenance like vehicles
-- Armor Function: When powered and operational, powered armor provides armor Bonus like any other armor
+- **Powered Armor as Vehicle**: Powered armor requires fuel or power source, ammunition for integrated weapons (if applicable), and maintenance like vehicles
+- **Armor Function**: When powered and operational, powered armor provides armor Bonus like any other armor
   - Typically provides +3 Bonus or higher (GM discretion based on tech level)
-- Integration with Vehicle Rules: Follows the same rules as Mounts and Vehicles:
+- **Integration with Vehicle Rules**: Follows the same rules as Mounts and Vehicles:
   - Uses fuel instead of stamina
   - Refuels instead of eating
   - Has its own character sheet (optional, for complex systems)
   - Damage expressed as Wounds (Minor = cosmetic, Major = critical systems)
-- When Unpowered: If powered armor loses power or fuel:
+- **When Unpowered**: If powered armor loses power or fuel:
   - May still provide some protection (reduced Bonus, GM discretion)
   - Imposes heavy Maluses on movement and agility (may be immobile)
   - Cannot use integrated systems or weapons
@@ -897,28 +967,39 @@ Powered armor systems (power suits, exoskeletons, mech suits, battle frames) are
 
 Vehicle armor functions identically to character armor:
 
-- Same Rules as Character Armor: Vehicle armor uses the same Bonus system
-- Armor Bonus: Vehicles with armor gain Bonus to defense against attacks
-- Armor Types: Vehicles can have light, medium, or heavy armor (or modern equivalents)
+- **Same Rules as Character Armor**: Vehicle armor uses the same Bonus system
+- **Armor Bonus**: Vehicles with armor gain Bonus to defense against attacks
+- **Armor Types**: Vehicles can have light, medium, or heavy armor (or modern equivalents)
   - Examples: Light vehicle armor (+1), Reinforced plating (+2), Heavy armor (+3)
-- Integration: Vehicle armor Bonus is added to vehicle Defensive Feats (if vehicles can use Defensive Feats), then converted to Passive Bonus
-- Tech Level: Higher tech vehicles may have advanced armor (energy shields, reactive plating, etc.)
-- Maintenance: Vehicle armor can be damaged and requires repairs (like other vehicle systems)
+- **Integration**: Vehicle armor Bonus is added to vehicle Defensive Feats (if vehicles can use Defensive Feats), then converted to Passive Bonus
+- **Tech Level**: Higher tech vehicles may have advanced armor (energy shields, reactive plating, etc.)
+- **Maintenance**: Vehicle armor can be damaged and requires repairs (like other vehicle systems)
 
 #### Examples: Armor in Action
 
-Example 1: Light Armor with Defensive Feat
+**Example 1: Light Armor with Defensive Feat**
 
-Kaelion (Concept Bonus +4, Swordsman Aspect) wears light leather armor (+.1 Bonus) and uses Dodge to avoid an attack.
+Kaelion (Concept Bonus +4, Swordsman Aspect) wears light leather armor (+1 Bonus) and uses Dodge to avoid an attack.
 
 - Active Dodge Bonus: +4 (from Swordsman Aspect)
-- Armor Bonus: +.1
-- Total Active Bonus: +4.1
-- Passive Bonus: round(5 *.66) = 3 successes
+- Armor Bonus: +1
+- Total Active Bonus: +5
+- Passive Bonus: round(5 / 2) = 3 successes
 
 The attacker must roll 3 or more successes to hit Kaelion.
 
-Example 2: Armor Against Physical Spell
+**Example 2: Heavy Armor with Defensive Feat**
+
+A knight in full plate armor (+3 Bonus) with Concept Bonus +6 and a "Knight of the Realm" Aspect that applies to Block attempts to block an attack.
+
+- Active Block Bonus: +6 (from Knight Aspect)
+- Armor Bonus: +3
+- Total Active Bonus: +9
+- Passive Bonus: round(9 / 2) = 5 successes
+
+The attacker must roll 5 or more successes to hit. However, if the knight tried to Dodge instead, they would receive a Malus (typically -1 or -2) due to the heavy armor.
+
+**Example 3: Armor Against Physical Spell**
 
 A guard in chainmail (+2 Bonus) with Concept Bonus +2 and no relevant defensive Aspects is targeted by an ice bolt spell.
 
@@ -932,7 +1013,7 @@ A guard in chainmail (+2 Bonus) with Concept Bonus +2 and no relevant defensive 
 
 The spellcaster must roll 4 or more successes for the ice bolt to hit the guard.
 
-Example 4: Armor Bypassed
+**Example 4: Armor Bypassed**
 
 An assassin sneaks up on a sleeping knight in full plate armor. The assassin targets the gap between the helmet and gorget with a garrote.
 
@@ -943,7 +1024,7 @@ An assassin sneaks up on a sleeping knight in full plate armor. The assassin tar
 
 The attack proceeds without the armor Bonus.
 
-Example 5: Fire Spell vs Armor
+**Example 5: Fire Spell vs Armor**
 
 A pyromancer casts a fireball at a warrior in full plate armor (+3 Bonus).
 
@@ -1234,7 +1315,7 @@ A Note on Differing Movement Speeds
 -----------------------------------------
 If all parties are roughly the same speed, the GM is encouraged to make the Zones larger. For instance, during a chase between two motorcycles, the GM might make zones that take up an entire city block so that all characters can still move roughly one zone per [Beat](#Time).
 
-If characters are traveling at significantly different speeds, the GM can draw smaller zones inside the larger ones. For instance: if a character suddenly dismounts their motorcycle during the chase, the GM can quickly delineate some smaller zones inside of the larger ones.
+**If characters are traveling at significantly different speeds,** the GM can draw smaller zones inside the larger ones. For instance: if a character suddenly dismounts their motorcycle during the chase, the GM can quickly delineate some smaller zones inside of the larger ones.
 
 If the GM finds themselves having to draw too large or too small, they can feel free to run the action using two different maps at different scales.
 
@@ -2010,13 +2091,12 @@ Glossary
 | Bane    | A negative narrative beat                                                                                                                                                   |
 | Boon    | A positive narrative beat                                                                                                                                                   |
 | Bonus   | A positive effect that increases someone's chance to succeed on a roll                                                                                                      |
-| Concept | A one-line statement that defines the core of a character and decides which Aspects they're allowed to have.                                                                |
+| Concept | A special kind of Aspect that defines the core of a character                                                                                                               |
 | D6      | Six sided die                                                                                                                                                               |
 | Domain  | A sociogeographical entity comprised of many characters that can be treated as one unit (e.g., a culture, the government of a country, a garrison, guild, or a corporation) |
 | Feat    | An attempt by a character to do something, usually requiring Feat Dice to be rolled                                                                                         |
 | GM      | Game Master, the game's storyteller and referee                                                                                                                             |
 | Malus   | A negative effect that reduces a character's chance to succeed on a roll                                                                                                    |
-| Round   | In the context of Atomic D6, round numbers are always rounded up.                                                                                                           |
 
 
 ---
@@ -2050,5 +2130,5 @@ We will prefer open-ended rules that can be extended by players and the communit
 ## Scalability
 
 We will prefer rules that can handle a wide range of power levels and situations consistently, which will help keep things simple.
----
 
+---
