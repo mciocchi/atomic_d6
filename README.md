@@ -22,6 +22,8 @@ Character Concept encapsulates the core of a character's persona and determines 
 
 Concept is always accompanied by a number in parenthesis called Concept Bonus, which indicates the scope and scale of a Character's power.
 
+Concept Bonus is only applied to a Feat if the Character has an Aspect related to the thing they're attempting to do.
+
 Aspects
 --------------------------------------------------------------------------------
 
@@ -29,7 +31,7 @@ Characters in Atomic D6 have a list of points that describe them that are called
 
 Aspects allow characters to apply their Concept Bonus to Feats that they are attempting.
 
-Aspects must remain consistent with Character Concept: if it doesn't fit, the GM can ask players to pick a new one. For instance: spellcasting can be restricted to certain specialized Character Concepts.
+Aspects must remain consistent with Character Concept: if it doesn't fit, the GM can ask players to pick a new one. For instance: the GM can rule that spellcasting is restricted to certain specialized Character Concepts.
 
 If an Aspect ceases to be true, or if the Character Concept no longer has it, it is removed from their sheet.
 
@@ -68,11 +70,11 @@ For instance: a character with +13 would roll 10 Feat Die, and add +3
 
 Characters always roll at least 1 Feat Die, even when their Maluses end up being greater than all of their Bonuses.
 
-| Feat Dice Result: | Description:  |
-|-------------------|---------------|
-| 1-3               | Failure       |
-| 4-5               | Success       |
-| 6                 | Two successes |
+| Feat Dice Result: | Successes: |
+|-------------------|------------|
+| 1-3               | 0          |
+| 4-5               | 1          |
+| 6                 | 2          |
 
 Feat Bonuses Summarized:
 --------------------------------------------------------------------------------
@@ -131,6 +133,8 @@ For instance, with +.1 a player could turn a 3 into a 4. With +.2 they could tur
 Players cannot have +.3 or higher. In these cases, each group of .3 is converted into a full dice (+1)
 
 For instance: Kaelion has accumulated a bunch of minor bonuses to Swordsmanship equivalent to +.4. He converts them to full dice, and on his character sheet he writes +1.1
+
+The double-success provided by rolling a 6 is not granted when making a 6 in this way. Only a single Success is granted in this case.
 
 Passive Bonus
 --------------------------------------------------------------------------------
@@ -2094,7 +2098,7 @@ Glossary
 | Bane    | A negative narrative beat                                                                                                                                                   |
 | Boon    | A positive narrative beat                                                                                                                                                   |
 | Bonus   | A positive effect that increases someone's chance to succeed on a roll                                                                                                      |
-| Concept | A special kind of Aspect that defines the core of a character                                                                                                               |
+| Concept | A one line description of the core of a character                                                                                                                           |
 | D6      | Six sided die                                                                                                                                                               |
 | Domain  | A sociogeographical entity comprised of many characters that can be treated as one unit (e.g., a culture, the government of a country, a garrison, guild, or a corporation) |
 | Feat    | An attempt by a character to do something, usually requiring Feat Dice to be rolled                                                                                         |
