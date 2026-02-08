@@ -139,58 +139,27 @@ The double-success provided by rolling a 6 is not granted when making a 6 in thi
 Passive Bonus
 --------------------------------------------------------------------------------
 
-To reduce unnecessary rolling, the GM may ask players to convert their Aspect Bonus into an average number of automatic successes (Guaranteed Successes).
+Passive Bonuses are used to resolve situations where the defender can't or shouldn't roll a Feat.
 
-Passive Bonus is also used to determine how difficult it is to hit a character when they are defending.
+Such situations may include:
+- Unconscious characters
+- Unaware characters
+- inanimate objects
+- any situation where rolling is happening too frequently, and one constant passive score is more convenient
 
-Passive Bonus can also be used by the GM to resolve contests without the player's knowledge.
+For instance: Kaelion walks down the King's Road, past some brigands hiding behind trees, waiting in ambush.
 
-For instance: Kaelion walks down the King's Road, past some brigands hiding behind trees, waiting in ambush. The GM doesn't want to give away the situation, so instead of asking Kaelion to roll Notice, he can roll a Feat of Stealth for the Brigands and compare their result to Kaelion's Passive Bonus to Notice them.
+The GM doesn't want to give away the situation, so instead of asking Kaelion to roll Notice, the GM can roll a Group Feat of Stealth for the Brigands and compare their result to Kaelion's Passive Bonus to Notice them.
 
-### Pips and passive conversion
-
-Active bonuses can be a mix of dice (D) and pips (P). When you need a Passive Bonus, convert everything to pips first so you can add it cleanly using a lowest common denominator.
-
-Core equivalences:
+Passive Bonuses are optional and situational. Some GMs may choose not to use them.
 
 ```
-3 Pips are worth one Dice:
-3P = 1D
+To calculate a Passive Bonus, first convert Dice to Pips:
+P = D * 3 + Additional Pip Bonuses
 
-6 Pips guarantee one Success:
-6P = 1S
+Then convert Pips to Passive Bonus:
+PB = round(P / 5)
 ```
-
-Total Pips:
-```
-Total Pips = (Dice * 3) + Pips
-```
-
-Passive Bonus (PB):
-```
-PB (in Guaranteed Successes) = round(Total Pips / 6)
-```
-
-How to do math on dice:
-
-- Convert everything to pips (P) to get a lowest common denominator.
-- Do all addition/subtraction in pips.
-- Round intermediate results to the nearest pip (no half-pips).
-
-How to convert Active Bonuses into Passive Bonuses (PB):
-
-- After you have Total Pips, convert to PB by rounding to the nearest Guaranteed Success.
-- PB = round(Total Pips / 6)
-
-Quick shortcut (concept-only):
-
-If the only thing contributing is Concept Bonus (no other dice/pips), the GM may use this fast approximation:
-
-Passive Concept Bonus = round( Concept Bonus / 2 )
-
-For example: a Concept Bonus of 4 / 2 rounded up = 2 automatic successes without rolling.
-
-Use the pip method whenever any other modifiers (pips, conditions, gear, situational bonuses) are involved.
 
 Floor for Defensive Feats
 --------------------------------------------------------------------------------
@@ -221,7 +190,7 @@ Group Feats
 
 When two or more characters work together to perform a feat, if the majority succeed, the group succeeds.
 
-To calculate the Passive Bonus for a group, use the average Passive Bonus of all members.
+Group Passive Bonuses are usually not needed, but the same rule can be applied to Passive Feats.
 
 The GM has the option to add or subtract a Bonus that scales to account for differences in difficulty caused by group size:
 - A small group may receive +2 for Stealth, and -2 in combat against a larger group.
