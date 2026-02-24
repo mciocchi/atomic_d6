@@ -43,10 +43,6 @@ It is recommended that GMs limit Characters to five Aspects or fewer at creation
 
 In some settings, the GM can allow players to choose their Species. For game balance, players must work with the GM to make sure that their chosen Species has at least one significant Malus for each Bonus that it receives.
 
-### Fighting Style
-
-It is recommended that each character should choose at least one specific combat related Aspect, and not more than two, which describes how they fight.
-
 ### Jack of all trades, master of none
 
 The GM is expected to make sure that Aspects are specific enough that they do not apply too many different Feats. The GM has the right to knock Aspects like this down to a Half Concept Bonus if they're too broad.
@@ -349,7 +345,7 @@ Resisting a Spell
 When a spell targets a resisting character, treat their defenses as an extra layer of difficulty rather than a separate roll.
 
 ```
-Spell Resistance = Base Spell Difficulty + Target’s Defensive Feat (Can be Passive or Active)
+Spell Resistance = Target’s Defensive Feat (Can be Passive or Active, depending on the situation) + Target's Armor (if applicable)
 ```
 
 - The defender gets to choose which defensive Feat to use, as long as it's appropriate
@@ -424,8 +420,8 @@ Armor provides protection against physical spell effects that would be blocked o
 
 Armor provides limited or no protection against:
 
-- Fire spells (fire can cook someone alive inside armor, providing minimal protection at best)
-- Energy-based attacks that bypass physical barriers (lightning, pure energy)
+- Spells consisting of only Fire. (fire can cook someone alive inside armor, providing minimal protection at best)
+- Energy-based attacks that bypass physical barriers (lightning, plasma)
 - Mental or sensory effects (illusions, mind control, fear)
 - Spells that target internal systems (poison, disease, life drain)
 
@@ -770,15 +766,33 @@ A character's Concept Bonus represents the scope and scale of their power.
 
 | Description: | Concept Bonus: |
 |--------------|----------------|
-| Untrained    | +0             |
-| Apprentice   | +2             |
-| Journeyman   | +4             |
-| Master       | +6             |
-| Olympian     | +9             |
+| Untrained    | 1+0            |
+| Apprentice   | 1+2            |
+| Journeyman   | 1+4            |
+| Master       | 1+6            |
+| Olympian     | 1+9            |
 |--------------|----------------|
-| Demigod      | +14            |
-| Lesser Deity | +20            |
-| Elder Deity  | +26            |
+| Demigod      | 1+14           |
+| Lesser Deity | 1+20           |
+| Elder Deity  | 1+26           |
+
+### Feat Difficulty
+
+TODO: This needs to be calculated in successes.
+
+| Description:  | Concept Bonus: | Trivial | Very Easy | Easy | Even | Hard | Very Hard | Nearly Impossible |
+|---------------|----------------|---------|-----------|------|------|------|-----------|-------------------|
+| Failure Rate: | ---            | 5%      | 32%       | 41%  | 50%  | 59%  | 68%       | 95%               |
+|---------------|----------------|---------|-----------|------|------|------|-----------|-------------------|
+| Untrained     | 1+0            | 0       | 0         | 1    | 1    | 1    | 2         | 3                 |
+| Apprentice    | 1+2            | 0       | 1         | 1    | 2    | 3    | 3         | 5                 |
+| Journeyman    | 1+4            | 0       | 1         | 2    | 3    | 4    | 5         | 6                 |
+| Master        | 1+6            | 1       | 3         | 4    | 5    | 6    | 7         | 9                 |
+| Olympian      | 1+9            | 2       | 5         | 6    | 7    | 8    | 9         | 12                |
+|---------------|----------------|---------|-----------|------|------|------|-----------|-------------------|
+| Demigod       | 1+14           | 6       | 9         | 10   | 11   | 12   | 13        | 16                |
+| Lesser Deity  | 1+20           | 12      | 15        | 16   | 17   | 18   | 19        | 22                |
+| Elder Deity   | 1+26           | 18      | 21        | 22   | 23   | 24   | 25        | 28                |
 
 ### Concept Bonus Advancement
 
@@ -1274,9 +1288,34 @@ For example:
 
 ---
 
-Inventory
+Example Feat Difficulty Simplified
 --------------------------------------------------------------------------------
 
+| Skill Level: | Successes Required: | Feat Difficulty Description:                                         |
+|--------------|---------------------|----------------------------------------------------------------------|
+| Untrained    | 0                   | Everyday task that can be performed by most people without effort.   |
+| Apprentice   | 1                   | A clear, useful effect: does the obvious thing.                      |
+| Journeyman   | 2                   | Powerful magic; solves a hard problem decisively.                    |
+| Master       | 3                   | Masterwork magic; solves multiple problems at once.                  |
+| Olympian     | 5                   | A legendary effect: bends the scene around your intent.              |
+|--------------|---------------------|----------------------------------------------------------------------|
+| Demigod      | 7                   | Cataclysmic magic; changes the course of an encounter or conflict.   |
+| Lesser Deity | 10                  | A world-scale effect: changes cities, nations, or ecosystems.        |
+| Elder Deity  | 13                  | A cosmic-scale effect: rewrites the rules of reality in your domain. |
+    
+In addition to granting characters Bonuses or Maluses, the GM can adjust Feat difficulty to account for changing conditions:
+
+| Description:                                  | GM Difficulty Adjustment (Successes Required): |
+|-----------------------------------------------|------------------------------------------------|
+| Advantageous conditions                       | -1                                             |
+| ---                                           | +0                                             |
+| Adverse conditions, moderate time constraints | +1                                             |
+
+---
+
+Inventory
+--------------------------------------------------------------------------------
+    
 Zone Movement
 ================================================================================
 Zones are arbitrary divisions of the map defined as the distance most characters can cover by moving for one [Beat](#Time).
