@@ -345,12 +345,13 @@ Resisting a Spell
 When a spell targets a resisting character, treat their defenses as an extra layer of difficulty rather than a separate roll.
 
 ```
-Spell Resistance = Target’s Defensive Feat (Can be Passive or Active, depending on the situation) + Target's Armor (if applicable)
+Spell Resistance = Target’s Defensive Feat (Can be Passive or Active, depending on the situation)
+                   + Target's Armor (if applicable)
 ```
 
 - The defender gets to choose which defensive Feat to use, as long as it's appropriate
-  - Physical targeting: Passive Dodge, Passive Block, Passive Endure, or similar
-  - Mental or sensory effects: Passive Resolve, or similar.
+  - Physical targeting: Dodge, Block, Endure, Cover, or similar
+  - Mental or sensory effects: Resolve, or similar.
   - If the spell is a physical attack, armor may provide additional protection (see Armor and Spell Resistance below)
   - If the target lacks a relevant Aspect for that defense, use the standard Defensive Floor in place of their full Concept Bonus.
 
@@ -360,10 +361,9 @@ The caster rolls spellcasting as a normal Feat, applying their Spellcasting Aspe
 
 A spellcaster with Illusion Bonus 3 casts an Apprentice‑level illusion to conjure chains that bind a thug’s arms and legs.
 - Base spell difficulty (Apprentice effect): 2 successes.
-- Thug’s Passive Dodge 1 adds +1 success.
-- Total Spell Resistance: 3 successes required.
-
-If the caster rolls 3 or more successes, the thug is fully immobilized by the illusion.
+- Thug rolls Dodge and receives 3 successes.
+- The spellcaster must roll 2 or higher for the spell to be cast successfully
+- The spell still misses unless the caster beats the defender by rolling 3 or higher
 
 #### Spell Effects as Temporary Aspects
 
@@ -371,8 +371,8 @@ Spell effects such as chains, webs, or shackles are treated as a negative Aspect
 
 - The Condition lasts while:
   - The caster maintains it as an ongoing conjured effect (subject to the existing concentration rules and Eldritch Burden), or
-  - Any fixed, agreed‑upon duration expires (for non‑maintained effects).
-  - While the Condition is active, the target is restricted according to the spell’s description.
+  - Any fixed, agreed-upon duration expires (for non-maintained effects).
+  - While the Condition is active, the target has an Malus restricting them according to the spell’s description.
 
 #### Attempting to Break Free Each Turn
 
@@ -380,11 +380,11 @@ A character affected by a spell in combat may attempt to break free at the end o
 
 - Choose a Feat that matches the nature of the spell:
   - Physical bindings (chains, webs, snares):
-    - Endure, Melee, or a custom Feat such as Break Free / Athletics.
+    - Endure, Melee, or a custom Feat such as Athletics.
   - Illusory / mental bindings (pure mind tricks, fear, phantasms):
-    - Resolve or a similar mental defense Feat.
+    - Resolve, or a similar mental defense Feat.
   - Projectiles and conjured melee attacks
-    - Dodge or Block
+    - Dodge, Block, Cover
 - Apply Aspects normally; tangential Aspects grant Half Bonus, Maluses reduce effectiveness as usual.
 
 ##### Escape Difficulty
@@ -764,35 +764,17 @@ Character Progression
 
 A character's Concept Bonus represents the scope and scale of their power.
 
-| Description: | Concept Bonus: |
-|--------------|----------------|
-| Untrained    | 1+0            |
-| Apprentice   | 1+2            |
-| Journeyman   | 1+4            |
-| Master       | 1+6            |
-| Olympian     | 1+9            |
-|--------------|----------------|
-| Demigod      | 1+14           |
-| Lesser Deity | 1+20           |
-| Elder Deity  | 1+26           |
-
-### Feat Difficulty
-
-TODO: This needs to be calculated in successes.
-
-| Description:  | Concept Bonus: | Trivial | Very Easy | Easy | Even | Hard | Very Hard | Nearly Impossible |
-|---------------|----------------|---------|-----------|------|------|------|-----------|-------------------|
-| Failure Rate: | ---            | 5%      | 32%       | 41%  | 50%  | 59%  | 68%       | 95%               |
-|---------------|----------------|---------|-----------|------|------|------|-----------|-------------------|
-| Untrained     | 1+0            | 0       | 0         | 1    | 1    | 1    | 2         | 3                 |
-| Apprentice    | 1+2            | 0       | 1         | 1    | 2    | 3    | 3         | 5                 |
-| Journeyman    | 1+4            | 0       | 1         | 2    | 3    | 4    | 5         | 6                 |
-| Master        | 1+6            | 1       | 3         | 4    | 5    | 6    | 7         | 9                 |
-| Olympian      | 1+9            | 2       | 5         | 6    | 7    | 8    | 9         | 12                |
-|---------------|----------------|---------|-----------|------|------|------|-----------|-------------------|
-| Demigod       | 1+14           | 6       | 9         | 10   | 11   | 12   | 13        | 16                |
-| Lesser Deity  | 1+20           | 12      | 15        | 16   | 17   | 18   | 19        | 22                |
-| Elder Deity   | 1+26           | 18      | 21        | 22   | 23   | 24   | 25        | 28                |
+| Description: | Concept Bonus (Die Rolled + Additional Bonus): |
+|--------------|------------------------------------------------|
+| Untrained    | 1                                              |
+| Apprentice   | 3                                              |
+| Journeyman   | 5                                              |
+| Master       | 7                                              |
+| Olympian     | 10                                             |
+|--------------|------------------------------------------------|
+| Demigod      | 10+4                                           |
+| Lesser Deity | 10+10                                          |
+| Elder Deity  | 10+16                                          |
 
 ### Concept Bonus Advancement
 
@@ -827,15 +809,15 @@ Individual coins are never tracked in Atomic D6. When Characters gain or lose a 
 
 | Bonus | Wealth Level                              | Examples of What Can Be Afforded                                                                                           |
 |-------|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| +0    | Penniless                                 | Food scraps, patched clothes, makeshift shelter, improvised weapons.                                                       |
-| +2    | Working-Class                             | Rent a room at an inn, buy travel gear, maintain a horse, or replace simple weapons.                                       |
-| +4    | Professional / Tradesperson               | Own a small home or workshop, employ a few workers, purchase fine arms or armor.                                           |
-| +6    | Noble / Merchant Lord                     | Own estates, ships, caravans, or businesses; employ guards; fund small expeditions.                                        |
-| +9    | Magnate / Ruler of Fortune                | Maintain multiple estates, private armies, trade fleets, magical research, or political campaigns.                         |
+| 1     | Penniless                                 | Food scraps, patched clothes, makeshift shelter, improvised weapons.                                                       |
+| 3     | Working-Class                             | Rent a room at an inn, buy travel gear, maintain a horse, or replace simple weapons.                                       |
+| 5     | Professional / Tradesperson               | Own a small home or workshop, employ a few workers, purchase fine arms or armor.                                           |
+| 7     | Noble / Merchant Lord                     | Own estates, ships, caravans, or businesses; employ guards; fund small expeditions.                                        |
+| 10    | Magnate / Ruler of Fortune                | Maintain multiple estates, private armies, trade fleets, magical research, or political campaigns.                         |
 |-------|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| +14   | Planetary Tycoon / Corporate Sovereign    | Control banks, megacities, or world-spanning industries; finance wars or planetary terraforming.                           |
-| +20   | Interstellar Mogul                        | Build fleets, colonize worlds, monopolize stellar trade, or purchase entire moons.                                         |
-| +26   | Galactic Financier / Post-Scarcity Entity | Buy star systems, fund galactic wars, create artificial planets, or rewrite entire markets through divine or cosmic means. |
+| 10+4  | Planetary Tycoon / Corporate Sovereign    | Control banks, megacities, or world-spanning industries; finance wars or planetary terraforming.                           |
+| 10+10 | Interstellar Mogul                        | Build fleets, colonize worlds, monopolize stellar trade, or purchase entire moons.                                         |
+| 10+16 | Galactic Financier / Post-Scarcity Entity | Buy star systems, fund galactic wars, create artificial planets, or rewrite entire markets through divine or cosmic means. |
 
 ### Buying goods and services from a different Tech. Level
 
@@ -1127,10 +1109,37 @@ Kaelion adds Interrogation to his list of Feats, with a Half Bonus. This way he 
 
 There is no limit on the number of Feats that can be added to the Character Sheet this way.
 
-Example Feats by Successes Required
+Example Feat Difficulty
 --------------------------------------------------------------------------------
 
-### Untrained (0 Successes)
+| Skill Level: | Successes Required: | Feat Difficulty Description:                                         |
+|--------------|---------------------|----------------------------------------------------------------------|
+| Untrained    | 1                   | Everyday task that can be performed by most people without effort.   |
+| Apprentice   | 2                   | A clear, useful effect: does the obvious thing.                      |
+| Journeyman   | 4                   | Powerful magic; solves a hard problem decisively.                    |
+| Master       | 5                   | Masterwork magic; solves multiple problems at once.                  |
+| Olympian     | 7                   | A legendary effect: bends the scene around your intent.              |
+|--------------|---------------------|----------------------------------------------------------------------|
+| Demigod      | 11                  | Cataclysmic magic; changes the course of an encounter or conflict.   |
+| Lesser Deity | 17                  | A world-scale effect: changes cities, nations, or ecosystems.        |
+| Elder Deity  | 23                  | A cosmic-scale effect: rewrites the rules of reality in your domain. |
+    
+In addition to granting characters Bonuses or Maluses, the GM can adjust Feat difficulty to account for changing conditions:
+
+| Description:                                  | GM Difficulty Adjustment (Successes Required): |
+|-----------------------------------------------|------------------------------------------------|
+| Perfect setup                                 | -2                                             |
+| Advantageous conditions                       | -1                                             |
+| ---                                           | +0                                             |
+| Adverse conditions, moderate time constraints | +1                                             |
+| Worst case scenario, brutal time constraints  | +2                                             |
+
+---
+
+Example Feats in Depth
+--------------------------------------------------------------------------------
+
+### Untrained (1 Successes)
 
 Feats are unreliable tricks. They reflect clumsy attempts at technique, often failing under pressure and offering little advantage.
 
@@ -1147,7 +1156,7 @@ For example:
 - Struggle with complex mechanical or digital systems.
 - Fail to optimize or improve existing technologies.
 
-### Apprentice (1 Success)
+### Apprentice (2 Success)
 
 Feats are simple, functional skills. They cover basic techniques that work reliably in straightforward situations, but break down when challenged.
 
@@ -1164,8 +1173,9 @@ For example:
 - Write simple programs, repair minor mechanical issues.
 - Assemble small machines or gadgets with basic functionality.
 - Troubleshoot and optimize low-level code and hardware.
+- Conjure Illusory chains to bind a single target
 
-### Journeyman (2 Successes)
+### Journeyman (4 Successes)
 
 Feats are established, dependable abilities. They represent solid training and refined practice, effective in most conditions and adaptable in use.
 
@@ -1184,7 +1194,7 @@ For example:
 - Reverse-engineer technology to improve efficiency.
 - Design and construct advanced robotic or cybernetic enhancements.
 
-### Master (3 Successes)
+### Master (5 Successes)
 
 Feats are extraordinary displays of control. They push beyond ordinary limits, combining precision, creativity, and versatility to redefine what’s possible.
 
@@ -1198,14 +1208,12 @@ For example:
 - Absorb and redirect lightning strikes.
 - Generate electromagnetic fields to repel or attract metallic objects.
 - Control localized weather patterns to summon storms.
-- Control entire electrical grids and energy sources.
-- Blackout or restore power to cities at will.
-- Generate controlled plasma fields from raw electricity.
+- Generate controlled plasma fields
 - Design intelligent AI, create life-supporting habitats.
 - Develop fully automated industrial systems.
 - Integrate organic and synthetic components seamlessly.
 
-### Olympian (5 Successes)
+### Olympian (7 Successes)
 
 Feats are mythic acts of mastery. They bend probability, momentum, and circumstance in your favor, often producing results that defy logic.
 
@@ -1214,19 +1222,17 @@ For example:
 - Deflect bullets with a sword or energy blade.
 - Intuitively predict opponents’ strikes before they happen.
 - Handle any melee weapon with perfect control and mastery.
-- Deflect incoming missiles with your own shots.
 - Fire while moving acrobatically without loss of precision.
 - Loose arrows or bullets that ricochet off surfaces to strike hidden foes.
 - Pin opponents to walls with a single well-placed shot.
 - Control entire electrical grids and energy sources.
 - Blackout or restore power to cities at will.
-- Generate controlled plasma fields from raw electricity.
 - Code software that predicts human behavior perfectly.
 - Construct self-repairing structures and adaptive machines.
 - Design smart cities that autonomously regulate themselves.
 
 
-### Demigod (7 Successes)
+### Demigod (11 Successes)
 
 Feats are world-shaping powers. They turn battles, collapse systems, or alter entire environments. Each use has sweeping impact.
 
@@ -1246,7 +1252,7 @@ For example:
 - Develop self-replicating nanotechnology.
 - Engineer machines capable of independent innovation and adaptation.
 
-### Lesser Deity (10 Successes)
+### Lesser Deity (17 Successes)
 
 Feats are cosmic-scale dominions. They extend across vast distances and dimensions, overwhelming barriers that would stop any lesser technique.
 
@@ -1270,7 +1276,7 @@ For example:
 - Hack into a national power grid and completely disable it
 - Control global weather patterns with magic rituals
 
-### Elder Deity (13 Successes)
+### Elder Deity (23 Successes)
 
 Feats are reality-defining truths. They no longer operate as techniques but as principles — universal laws that bend existence to your will.
 
@@ -1285,31 +1291,6 @@ For example:
 - Transcend physical form, existing as pure electromagnetic force.
 - Forge entire universes as computational constructs.
 - Develop technology that masters control of both space and time on a galactic scale
-
----
-
-Example Feat Difficulty Simplified
---------------------------------------------------------------------------------
-
-| Skill Level: | Successes Required: | Feat Difficulty Description:                                         |
-|--------------|---------------------|----------------------------------------------------------------------|
-| Untrained    | 0                   | Everyday task that can be performed by most people without effort.   |
-| Apprentice   | 1                   | A clear, useful effect: does the obvious thing.                      |
-| Journeyman   | 2                   | Powerful magic; solves a hard problem decisively.                    |
-| Master       | 3                   | Masterwork magic; solves multiple problems at once.                  |
-| Olympian     | 5                   | A legendary effect: bends the scene around your intent.              |
-|--------------|---------------------|----------------------------------------------------------------------|
-| Demigod      | 7                   | Cataclysmic magic; changes the course of an encounter or conflict.   |
-| Lesser Deity | 10                  | A world-scale effect: changes cities, nations, or ecosystems.        |
-| Elder Deity  | 13                  | A cosmic-scale effect: rewrites the rules of reality in your domain. |
-    
-In addition to granting characters Bonuses or Maluses, the GM can adjust Feat difficulty to account for changing conditions:
-
-| Description:                                  | GM Difficulty Adjustment (Successes Required): |
-|-----------------------------------------------|------------------------------------------------|
-| Advantageous conditions                       | -1                                             |
-| ---                                           | +0                                             |
-| Adverse conditions, moderate time constraints | +1                                             |
 
 ---
 
