@@ -339,8 +339,7 @@ On rare occasions, bending the rules of reality in this way can cause Paradox, w
 
 Some say that Paradox is caused by gods that wish to punish mortals for breaking the rules of the reality that they constructed. Others claim it is caused by reality itself pushing back against the caster. In any case, it can have narrative as well as mechanical consequences.
 
-Resisting a Spell
---------------------------------------------------------------------------------
+### Resisting Spells
 
 When a spell targets a resisting character, treat their defenses as an extra layer of difficulty rather than a separate roll.
 
@@ -1116,7 +1115,7 @@ Example Feat Difficulty
 |--------------|---------------------|----------------------------------------------------------------------|
 | Untrained    | 1                   | Everyday task that can be performed by most people without effort.   |
 | Apprentice   | 2                   | A clear, useful effect: does the obvious thing.                      |
-| Journeyman   | 4                   | Powerful magic; solves a hard problem decisively.                    |
+| Journeyman   | 3                   | Powerful magic; solves a hard problem decisively.                    |
 | Master       | 5                   | Masterwork magic; solves multiple problems at once.                  |
 | Olympian     | 7                   | A legendary effect: bends the scene around your intent.              |
 |--------------|---------------------|----------------------------------------------------------------------|
